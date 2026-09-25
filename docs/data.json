@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T09:23:26.180189+00:00",
+  "generated_at": "2026-09-25T15:43:27.270583+00:00",
   "devops": [
     {
       "source": "HashiCorp Blog",
@@ -11,16 +11,37 @@
     {
       "source": "r/devops",
       "category": "Community",
-      "title": "How do you learn DevOps",
-      "link": "https://www.reddit.com/r/devops/comments/1wpr4q3/how_do_you_learn_devops/",
-      "published": "2026-09-25T08:46:51+00:00"
+      "title": "The digest is part of the rollback plan",
+      "link": "https://www.reddit.com/r/devops/comments/1wpzn9y/the_digest_is_part_of_the_rollback_plan/",
+      "published": "2026-09-25T15:40:53+00:00"
     },
     {
       "source": "r/devops",
       "category": "Community",
-      "title": "How do you check a release list against what is actually in the tag?",
-      "link": "https://www.reddit.com/r/devops/comments/1wpmoyl/how_do_you_check_a_release_list_against_what_is/",
-      "published": "2026-09-25T04:14:41+00:00"
+      "title": "How do I test if my website can handle a traffic spike?",
+      "link": "https://www.reddit.com/r/devops/comments/1wpufyt/how_do_i_test_if_my_website_can_handle_a_traffic/",
+      "published": "2026-09-25T12:00:09+00:00"
+    },
+    {
+      "source": "CNCF Blog",
+      "category": "Cloud Native",
+      "title": "Security Slam 2026 \u2013 Fall edition",
+      "link": "https://www.cncf.io/blog/2026/09/25/security-slam-2026-fall-edition/",
+      "published": "2026-09-25T11:00:00+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Mobile App DevOps",
+      "link": "https://www.reddit.com/r/devops/comments/1wps92p/mobile_app_devops/",
+      "published": "2026-09-25T09:57:51+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "How do you learn DevOps",
+      "link": "https://www.reddit.com/r/devops/comments/1wpr4q3/how_do_you_learn_devops/",
+      "published": "2026-09-25T08:46:51+00:00"
     },
     {
       "source": "Google Cloud Blog",
@@ -42,13 +63,6 @@
       "title": "Question about KernelModuleConfig",
       "link": "https://www.reddit.com/r/devops/comments/1wpdazb/question_about_kernelmoduleconfig/",
       "published": "2026-09-24T20:53:16+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Beste Embedded-Messe mit DevOps-Fokus im DACH-Raum?",
-      "link": "https://www.reddit.com/r/devops/comments/1wpbkcl/beste_embeddedmesse_mit_devopsfokus_im_dachraum/",
-      "published": "2026-09-24T19:45:05+00:00"
     },
     {
       "source": "Google Cloud Blog",
@@ -175,23 +189,25 @@
       "title": "Retirement: Support for .NET 8 and .NET 9 ends on November 10, 2026\u2014upgrade your apps to .NET 10",
       "link": "https://azure.microsoft.com/updates?id=572838",
       "published": "2026-09-23T16:46:49+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Should Devops debug business logic problems ?",
-      "link": "https://www.reddit.com/r/devops/comments/1wob57u/should_devops_debug_business_logic_problems/",
-      "published": "2026-09-23T16:40:58+00:00"
-    },
-    {
-      "source": "CNCF Blog",
-      "category": "Cloud Native",
-      "title": "Which hat am I wearing right now?",
-      "link": "https://www.cncf.io/blog/2026/09/23/which-hat-am-i-wearing-right-now/",
-      "published": "2026-09-23T14:47:15+00:00"
     }
   ],
   "devsecops": [
+    {
+      "source": "CISA KEV",
+      "category": "Actively Exploited",
+      "title": "CVE-2026-67279 \u2014 MikroTik RouterOS: Mikrotik RouterOS Improper Enforcement of Behavioral Workflow Vulnerability",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-67279",
+      "published": "2026-09-25T12:00:00+00:00",
+      "date_only": true
+    },
+    {
+      "source": "CISA KEV",
+      "category": "Actively Exploited",
+      "title": "CVE-2026-65660 \u2014 Microsoft SharePoint: Microsoft SharePoint Code Injection Vulnerability",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-65660",
+      "published": "2026-09-25T12:00:00+00:00",
+      "date_only": true
+    },
     {
       "source": "CISA KEV",
       "category": "Actively Exploited",
@@ -273,6 +289,34 @@
       "date_only": true
     },
     {
+      "source": "OpenSSF",
+      "category": "Supply Chain",
+      "title": "How Does IBM Turn Open Source Participation Into Enterprise and Career Value?",
+      "link": "https://openssf.org/blog/2026/09/25/how-does-ibm-turn-open-source-participation-into-enterprise-and-career-value/",
+      "published": "2026-09-25T14:38:45+00:00"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "The SOC Doesn't Need to Start Over with Every Alert",
+      "link": "https://thehackernews.com/2026/09/the-soc-doesnt-need-to-start-over-with.html",
+      "published": "2026-09-25T17:00:00+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Bitget Says Suspected North Korean Hackers Stole $351.6M After Backend Compromise",
+      "link": "https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html",
+      "published": "2026-09-25T16:05:55+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Roundcube Pre-Auth SQL Injection Flaw Actively Exploited in the Wild",
+      "link": "https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html",
+      "published": "2026-09-25T15:44:02+05:30"
+    },
+    {
       "source": "The Hacker News",
       "category": "Threats",
       "title": "Cloudflare Fixes Flaw That Let One Container Read Another Customer's Leftover Disk Data",
@@ -285,6 +329,13 @@
       "title": "WSO2 and Adobe Commerce Flaws Exploited in Attacks, Added to CISA KEV",
       "link": "https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html",
       "published": "2026-09-25T10:16:34+05:30"
+    },
+    {
+      "source": "Sysdig",
+      "category": "Cloud & Container",
+      "title": "AI adoption is a security survival metric",
+      "link": "https://webflow.sysdig.com/blog/ai-adoption-is-a-security-survival-metric",
+      "published": "2026-09-25T00:00:00+00:00"
     },
     {
       "source": "OpenSSF",
@@ -383,20 +434,6 @@
       "title": "MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key",
       "link": "https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html",
       "published": "2026-09-23T21:36:41+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI",
-      "link": "https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html",
-      "published": "2026-09-23T19:22:46+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Exploit Released for Unpatched Ubuntu Linux Flaw Enabling Host-Root Container Escape",
-      "link": "https://thehackernews.com/2026/09/exploit-released-for-unpatched-ubuntu.html",
-      "published": "2026-09-23T16:42:18+05:30"
     }
   ],
   "meetups": [],
