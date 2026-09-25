@@ -1,60 +1,45 @@
-# DevOps & Cloud Daily Digest
+# DevOps Daily Digest
 
-A self-updating dashboard of the latest DevOps and cloud news, rebuilt every
-day by GitHub Actions and published free via GitHub Pages.
+A dashboard that updates itself every day. It has three tabs:
+
+- **DevOps & Cloud:** news from AWS, Kubernetes, CNCF, HashiCorp, Docker, Azure, Google Cloud and r/devops.
+- **DevSecOps:** CVEs that CISA has recently confirmed attackers are exploiting, Kubernetes security advisories, supply-chain news (GitHub Security, OpenSSF), container and cloud security news (Aqua, Sysdig), AppSec (Snyk), and The Hacker News filtered to DevSecOps topics.
+- **Meetups:** upcoming NJ / NYC in-person and virtual events from the Meetup groups and calendars you choose.
+
+A GitHub Actions workflow rebuilds it every morning, and GitHub Pages serves it at
+`https://shailapps.github.io/devops-digest/`.
 
 ## How it works
 
-1. `fetch_devops_news.py` pulls RSS feeds from AWS, Kubernetes, CNCF,
-   HashiCorp, Docker, Azure, Google Cloud, and r/devops, dedupes items,
-   keeps only the last 48 hours, and writes `docs/index.html`.
-2. `.github/workflows/daily-digest.yml` runs that script every day at
-   12:00 UTC, then commits the updated `docs/index.html` back to the repo.
-3. GitHub Pages serves the `docs/` folder as a live website.
+1. `fetch_devops_news.py` reads the sources listed in `sources.py`. It writes the page to `docs/index.html` and the raw data to `docs/data.json`.
+2. `.github/workflows/daily-digest.yml` runs the script daily at 11:00 UTC (7 AM EDT / 6 AM EST) and commits the updated `docs/` folder.
+3. GitHub Pages serves `docs/` from the `main` branch.
 
-## Setup (one-time, ~5 minutes)
+It reads only published feeds: RSS, Atom, iCalendar and CISA's JSON file. It doesn't scrape HTML pages. Each request identifies itself with a User-Agent, has a timeout, and waits 1 second before hitting the same site again.
 
-1. **Create a new GitHub repo** (public or private — Pages works with both
-   on a paid plan; public repos get Pages for free).
-2. **Push these files** to the repo root, keeping the folder structure:
-   ```
-   your-repo/
-     fetch_devops_news.py
-     requirements.txt
-     .github/workflows/daily-digest.yml
-     docs/          (empty is fine, the workflow fills it in)
-   ```
-3. **Enable GitHub Pages:**
-   - Go to your repo → Settings → Pages
-   - Under "Build and deployment", set Source = "Deploy from a branch"
-   - Branch = `main`, folder = `/docs`
-   - Save
-4. **Run it once manually** to generate the first version:
-   - Go to the Actions tab → "Daily DevOps & Cloud Digest" → "Run workflow"
-5. After it finishes, your dashboard is live at:
-   `https://<your-username>.github.io/<your-repo>/`
+## Everyday use
 
-From then on it updates itself daily — no server, no maintenance.
+| Task | How |
+|---|---|
+| Check that every source works | `python fetch_devops_news.py --check` |
+| Build the page locally | `python fetch_devops_news.py`, then `open docs/index.html` |
+| Run it now on GitHub | Actions tab → Daily DevOps & Cloud Digest → Run workflow |
+| Change the schedule | Edit `cron` in the workflow file. The time is always UTC. |
 
-## Customizing
+## Adding meetups
 
-- **Change the schedule:** edit the `cron` line in
-  `.github/workflows/daily-digest.yml`. `"0 12 * * *"` = 12:00 UTC daily.
-  Cron times are always UTC in GitHub Actions — offset for Eastern time
-  (e.g. `"0 12 * * *"` = 8:00 AM EDT / 7:00 AM EST).
-- **Add or remove sources:** edit the `FEEDS` list at the top of
-  `fetch_devops_news.py`. Any RSS/Atom feed URL works.
-- **Change the lookback window:** `LOOKBACK_HOURS` in the same file
-  (default 48, so nothing is missed if a run is delayed).
-- **Add AI-written summaries instead of just headlines:** call the
-  Anthropic API from `render_html()` per item, storing the key as a
-  GitHub Actions secret (`ANTHROPIC_API_KEY`) rather than in code. Happy
-  to build that version out if you want it.
+Meetup doesn't offer a free search API, so you choose the groups to follow:
+
+1. On meetup.com, set the location to Edison, NJ with a 50-mile radius. Search for DevOps, Kubernetes, Cloud Native, AWS, DevSecOps, OWASP or Platform Engineering. Also try "online" events for virtual ones.
+2. Open a group. Copy the part of its URL that comes after `meetup.com/`, for example `meetup.com/some-devops-group/` → `some-devops-group`.
+3. Add it to `MEETUP_GROUPS` in `sources.py`.
+
+The script reads each group's public calendar at `meetup.com/<group>/events/ical/`. It labels each event **NJ / NYC** or **Virtual** based on its location and hides events elsewhere. To show those too, set `INCLUDE_OTHER_LOCATIONS = True`.
+
+Any other public `.ics` calendar, such as a Luma calendar, can go in `EXTRA_ICAL_FEEDS`.
 
 ## Notes
 
-- If a feed is temporarily down, the script skips it and lists it under
-  "feed(s) had issues" at the bottom of the page rather than failing the
-  whole run.
-- No secrets or API keys are required for this base version — it's pure
-  RSS aggregation, so it costs nothing to run.
+- If a source fails, the page shows it under "source(s) had issues" and the run carries on. Run `--check` to see every source's status at once.
+- Reddit sometimes blocks requests coming from GitHub Actions. If `r/devops` keeps failing, remove it or accept the gap.
+- No API keys or secrets are needed.
