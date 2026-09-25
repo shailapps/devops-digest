@@ -1,0 +1,404 @@
+{
+  "generated_at": "2026-09-25T09:18:55.586875+00:00",
+  "devops": [
+    {
+      "source": "HashiCorp Blog",
+      "category": "DevOps",
+      "title": "Secure AI agents with HashiCorp Boundary",
+      "link": "https://www.hashicorp.com/blog/secure-ai-agents-with-hashicorp-boundary",
+      "published": "2026-09-29T07:00:00+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "How do you learn DevOps",
+      "link": "https://www.reddit.com/r/devops/comments/1wpr4q3/how_do_you_learn_devops/",
+      "published": "2026-09-25T08:46:51+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "How do you check a release list against what is actually in the tag?",
+      "link": "https://www.reddit.com/r/devops/comments/1wpmoyl/how_do_you_check_a_release_list_against_what_is/",
+      "published": "2026-09-25T04:14:41+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Agent Factory recap: Agent harnesses, shifting left, and autonomous coding",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/agent-factory-recap-agent-harnesses-shifting-left-and-autonomous-coding/",
+      "published": "2026-09-24T23:00:00+00:00"
+    },
+    {
+      "source": "AWS Blog",
+      "category": "Cloud",
+      "title": "Introducing enhanced custom event buses in Amazon EventBridge for enterprise-scale event-driven applications",
+      "link": "https://aws.amazon.com/blogs/aws/introducing-enhanced-custom-event-buses-in-amazon-eventbridge-for-enterprise-scale-event-driven-applications/",
+      "published": "2026-09-24T20:58:46+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Question about KernelModuleConfig",
+      "link": "https://www.reddit.com/r/devops/comments/1wpdazb/question_about_kernelmoduleconfig/",
+      "published": "2026-09-24T20:53:16+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Beste Embedded-Messe mit DevOps-Fokus im DACH-Raum?",
+      "link": "https://www.reddit.com/r/devops/comments/1wpbkcl/beste_embeddedmesse_mit_devopsfokus_im_dachraum/",
+      "published": "2026-09-24T19:45:05+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Google is a Leader in the 2026 Gartner Magic Quadrant for Container Management",
+      "link": "https://cloud.google.com/blog/products/containers-kubernetes/2026-gartner-magic-quadrant-for-container-management/",
+      "published": "2026-09-24T19:00:00+00:00"
+    },
+    {
+      "source": "Azure Updates",
+      "category": "Cloud",
+      "title": "Retirement: Azure Communication Services (ACS) standalone services will be retired on September 30, 2028",
+      "link": "https://azure.microsoft.com/updates?id=557117",
+      "published": "2026-09-24T17:51:23+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Any of you use alternatives to GitLab when self-hosting is a requirement? (and general toolchain question)",
+      "link": "https://www.reddit.com/r/devops/comments/1wp8eyh/any_of_you_use_alternatives_to_gitlab_when/",
+      "published": "2026-09-24T17:46:08+00:00"
+    },
+    {
+      "source": "Docker Blog",
+      "category": "Cloud Native",
+      "title": "Manufacturing Trust for AI Agents | Docker\u2019s WeAreDevelopers Keynote",
+      "link": "https://www.docker.com/blog/manufacturing-trust-for-ai-agents-keynote/",
+      "published": "2026-09-24T17:15:00+00:00"
+    },
+    {
+      "source": "Azure Updates",
+      "category": "Cloud",
+      "title": "[Launched] Generally Available: Instant Access for VM restore points",
+      "link": "https://azure.microsoft.com/updates?id=572573",
+      "published": "2026-09-24T16:04:16+00:00"
+    },
+    {
+      "source": "Docker Blog",
+      "category": "Cloud Native",
+      "title": "From Dockerfile to Kit: the Docker Sandboxes Kit Specification",
+      "link": "https://www.docker.com/blog/docker-sandbox-kit-spec/",
+      "published": "2026-09-24T16:00:00+00:00"
+    },
+    {
+      "source": "Docker Blog",
+      "category": "Cloud Native",
+      "title": "Docker and CNCF partner on an open spec for agent permissions",
+      "link": "https://www.docker.com/blog/docker-sandbox-kit-spec-cncf/",
+      "published": "2026-09-24T16:00:00+00:00"
+    },
+    {
+      "source": "Docker Blog",
+      "category": "Cloud Native",
+      "title": "Introducing Cloud Sandboxes: Start on Your Laptop, Finish in the Cloud",
+      "link": "https://www.docker.com/blog/introducing-cloud-sandboxes-start-on-your-laptop-finish-in-the-cloud/",
+      "published": "2026-09-24T16:00:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Introducing GKE agentic migration for AI-assisted EKS-to-GKE migrations with built-in governance",
+      "link": "https://cloud.google.com/blog/products/containers-kubernetes/gke-agentic-migration/",
+      "published": "2026-09-24T16:00:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Scribd, Inc. classifies more than 400 million documents with Gemini batch inference on Gemini Enterprise",
+      "link": "https://cloud.google.com/blog/topics/customers/scribd-inc-classifies-millions-of-documents-on-gemini-enterprise/",
+      "published": "2026-09-24T16:00:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Power your agents: Gemini 3.8 Live with Live Avatar is now generally available",
+      "link": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-3-8-live-with-live-avatar-is-now-generally-available/",
+      "published": "2026-09-24T15:00:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "A new, no-compromises database architecture for the agentic era",
+      "link": "https://cloud.google.com/blog/products/databases/alloydbs-agentic-database-architecture/",
+      "published": "2026-09-24T14:30:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "How growing Latin American midsize businesses are building in the AI era",
+      "link": "https://cloud.google.com/blog/topics/customers/how-midsize-latam-companies-build-with-ai/",
+      "published": "2026-09-24T14:30:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "AlloyDB delivers PostgreSQL for agents: Real-time data at agent scale, with full workload isolation",
+      "link": "https://cloud.google.com/blog/products/databases/announcing-postgresql-for-agents-in-alloydb/",
+      "published": "2026-09-24T14:30:00+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "What is your approach to identifying areas for improvement to make impact at your company?",
+      "link": "https://www.reddit.com/r/devops/comments/1wp28x3/what_is_your_approach_to_identifying_areas_for/",
+      "published": "2026-09-24T13:53:01+00:00"
+    },
+    {
+      "source": "CNCF Blog",
+      "category": "Cloud Native",
+      "title": "Observability Day: Where the community comes together at KubeCon + CloudNativeCon North America 2026",
+      "link": "https://www.cncf.io/blog/2026/09/24/observability-day-where-the-community-comes-together-at-kubecon-cloudnativecon-north-america-2026/",
+      "published": "2026-09-24T12:22:50+00:00"
+    },
+    {
+      "source": "Azure Updates",
+      "category": "Cloud",
+      "title": "Retirement: Support for\u202fPowerShell 7.4 ends on\u202fNovember 10, 2026",
+      "link": "https://azure.microsoft.com/updates?id=572770",
+      "published": "2026-09-23T16:50:05+00:00"
+    },
+    {
+      "source": "Azure Updates",
+      "category": "Cloud",
+      "title": "Retirement: Support for .NET 8 and .NET 9 ends on November 10, 2026\u2014upgrade your apps to .NET 10",
+      "link": "https://azure.microsoft.com/updates?id=572838",
+      "published": "2026-09-23T16:46:49+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Should Devops debug business logic problems ?",
+      "link": "https://www.reddit.com/r/devops/comments/1wob57u/should_devops_debug_business_logic_problems/",
+      "published": "2026-09-23T16:40:58+00:00"
+    },
+    {
+      "source": "CNCF Blog",
+      "category": "Cloud Native",
+      "title": "Which hat am I wearing right now?",
+      "link": "https://www.cncf.io/blog/2026/09/23/which-hat-am-i-wearing-right-now/",
+      "published": "2026-09-23T14:47:15+00:00"
+    }
+  ],
+  "devsecops": [
+    {
+      "source": "CISA KEV",
+      "category": "Actively Exploited",
+      "title": "CVE-2026-5430 \u2014 WSO2 Multiple Products: WSO2 Multiple Products Path Traversal Vulnerability ",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-5430",
+      "published": "2026-09-24T12:00:00+00:00",
+      "date_only": true
+    },
+    {
+      "source": "CISA KEV",
+      "category": "Actively Exploited",
+      "title": "CVE-2026-71362 \u2014 Adobe Commerce and Magento : Adobe Commerce and Magento Incorrect Authorization Vulnerability ",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71362",
+      "published": "2026-09-24T12:00:00+00:00",
+      "date_only": true
+    },
+    {
+      "source": "CISA KEV",
+      "category": "Actively Exploited",
+      "title": "CVE-2026-93952 \u2014 Arista VeloCloud Orchestrator: Arista VeloCloud Orchestrator Improper Input Validation Vulnerability",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-93952",
+      "published": "2026-09-22T12:00:00+00:00",
+      "date_only": true
+    },
+    {
+      "source": "CISA KEV",
+      "category": "Actively Exploited",
+      "title": "CVE-2026-94127 \u2014 F5 BIG-IP APM: F5 BIG-IP APM Heap-based Buffer Overflow Vulnerability",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94127",
+      "published": "2026-09-22T12:00:00+00:00",
+      "date_only": true
+    },
+    {
+      "source": "CISA KEV",
+      "category": "Actively Exploited",
+      "title": "CVE-2026-93616 \u2014 Check Point Multiple Products: Check Point Multiple Products Path Traversal Vulnerability",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-93616",
+      "published": "2026-09-22T12:00:00+00:00",
+      "date_only": true
+    },
+    {
+      "source": "CISA KEV",
+      "category": "Actively Exploited",
+      "title": "CVE-2026-85102 \u2014 Check Point Multiple Products: Check Point Multiple Products Improper Certificate Validation Vulnerability",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85102",
+      "published": "2026-09-22T12:00:00+00:00",
+      "date_only": true
+    },
+    {
+      "source": "CISA KEV",
+      "category": "Actively Exploited",
+      "title": "CVE-2026-7273 \u2014 Zyxel GS1900 Series Switches: Zyxel GS1900 Series Switches Stack-Based Buffer Overflow Vulnerability",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-7273",
+      "published": "2026-09-21T12:00:00+00:00",
+      "date_only": true
+    },
+    {
+      "source": "CISA KEV",
+      "category": "Actively Exploited",
+      "title": "CVE-2025-39964 \u2014 Linux Kernel: Linux Kernel Race Condition Vulnerability",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2025-39964",
+      "published": "2026-09-18T12:00:00+00:00",
+      "date_only": true
+    },
+    {
+      "source": "CISA KEV",
+      "category": "Actively Exploited",
+      "title": "CVE-2026-53266 \u2014 Linux Kernel: Linux Kernel Out-of-Bounds Write Vulnerability",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-53266",
+      "published": "2026-09-18T12:00:00+00:00",
+      "date_only": true
+    },
+    {
+      "source": "CISA KEV",
+      "category": "Actively Exploited",
+      "title": "CVE-2025-39682 \u2014 Linux Kernel: Linux Kernel Improper Check for Unusual or Exceptional Conditions Vulnerability",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2025-39682",
+      "published": "2026-09-18T12:00:00+00:00",
+      "date_only": true
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Cloudflare Fixes Flaw That Let One Container Read Another Customer's Leftover Disk Data",
+      "link": "https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html",
+      "published": "2026-09-25T10:19:22+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "WSO2 and Adobe Commerce Flaws Exploited in Attacks, Added to CISA KEV",
+      "link": "https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html",
+      "published": "2026-09-25T10:16:34+05:30"
+    },
+    {
+      "source": "OpenSSF",
+      "category": "Supply Chain",
+      "title": "Inside the OpenSSF Summer Mentorship Showcase: How Emerging Developers Are Strengthening Supply Chain Security",
+      "link": "https://openssf.org/blog/2026/09/24/inside-the-openssf-summer-mentorship-showcase-how-emerging-developers-are-strengthening-supply-chain-security/",
+      "published": "2026-09-24T19:32:24+00:00"
+    },
+    {
+      "source": "GitHub Security Blog",
+      "category": "Supply Chain",
+      "title": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
+      "link": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/",
+      "published": "2026-09-24T18:26:12+00:00"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions",
+      "link": "https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html",
+      "published": "2026-09-24T23:40:18+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Hacked Ukrainian Sites Serve Fake Cloudflare ClickFix Lures for Psychedelic Stealer",
+      "link": "https://thehackernews.com/2026/09/hacked-ukrainian-sites-serve-fake.html",
+      "published": "2026-09-24T19:59:06+05:30"
+    },
+    {
+      "source": "Aqua Security",
+      "category": "Cloud & Container",
+      "title": "Fewer Findings, Faster Answers: How ActiveState and Trivy Turn a Scan Into a Verdict",
+      "link": "https://www.aquasec.com/blog/fewer-findings-faster-answers-how-activestate-and-trivy-turn-a-scan-into-a-verdict/",
+      "published": "2026-09-24T13:35:39+00:00"
+    },
+    {
+      "source": "Sysdig",
+      "category": "Cloud & Container",
+      "title": "Why are SBOMs failing to stop supply chain attacks?",
+      "link": "https://webflow.sysdig.com/blog/why-are-sboms-failing-to-stop-supply-chain-attacks",
+      "published": "2026-09-24T11:50:00+00:00"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Secrets Sprawl Is an Identity Problem That AI Just Made Impossible to Ignore",
+      "link": "https://thehackernews.com/2026/09/secrets-sprawl-is-identity-problem-that.html",
+      "published": "2026-09-24T16:30:00+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "TeamFiltration Campaign Compromises Seven Microsoft 365 Accounts Using Default Passwords",
+      "link": "https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html",
+      "published": "2026-09-24T12:02:03+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure",
+      "link": "https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html",
+      "published": "2026-09-24T11:06:18+05:30"
+    },
+    {
+      "source": "Snyk",
+      "category": "AppSec",
+      "title": "Your Vulnerability Backlog Is No Longer Technical Debt, It\u2019s an Attack Surface",
+      "link": "https://snyk.io/blog/vulnerability-backlog-attack-surface/",
+      "published": "2026-09-24T04:00:00+00:00"
+    },
+    {
+      "source": "OpenSSF",
+      "category": "Supply Chain",
+      "title": "Security Slam 2026 \u2013 Fall Edition",
+      "link": "https://openssf.org/blog/2026/09/23/security-slam-2026-fall-edition/",
+      "published": "2026-09-23T19:51:38+00:00"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry",
+      "link": "https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html",
+      "published": "2026-09-23T23:36:30+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You",
+      "link": "https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html",
+      "published": "2026-09-23T22:23:10+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key",
+      "link": "https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html",
+      "published": "2026-09-23T21:36:41+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI",
+      "link": "https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html",
+      "published": "2026-09-23T19:22:46+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Exploit Released for Unpatched Ubuntu Linux Flaw Enabling Host-Root Container Escape",
+      "link": "https://thehackernews.com/2026/09/exploit-released-for-unpatched-ubuntu.html",
+      "published": "2026-09-23T16:42:18+05:30"
+    }
+  ],
+  "meetups": [],
+  "errors": []
+}

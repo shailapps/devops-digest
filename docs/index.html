@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>DevOps Daily Digest</title>
+<style>
+  :root { --bg:#0d1117; --panel:#161b22; --border:#30363d; --text:#e6edf3; --muted:#8b949e; --accent:#58a6ff;
+          --local:#3fb950; --virtual:#a371f7; --other:#8b949e; }
+  * { box-sizing:border-box; }
+  body { margin:0; padding:2rem 1rem 4rem; background:var(--bg); color:var(--text);
+         font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif; }
+  .wrap { max-width:820px; margin:0 auto; }
+  header { margin-bottom:1.25rem; }
+  h1 { font-size:1.6rem; margin:0 0 .25rem; }
+  .subtitle { color:var(--muted); font-size:.9rem; }
+  input[name=tab] { display:none; }
+  .tabs { display:flex; gap:.4rem; flex-wrap:wrap; border-bottom:1px solid var(--border); margin-bottom:1.25rem; }
+  .tabs label { padding:.55rem .9rem; cursor:pointer; color:var(--muted); border-bottom:2px solid transparent; font-weight:500; }
+  .tabs label span { background:var(--panel); border:1px solid var(--border); border-radius:999px; padding:0 .45rem; font-size:.75rem; margin-left:.3rem; }
+  .panel { display:none; }
+  #t-news:checked ~ .tabs label[for=t-news], #t-devsec:checked ~ .tabs label[for=t-devsec],
+  #t-meetups:checked ~ .tabs label[for=t-meetups] { color:var(--text); border-bottom-color:var(--accent); }
+  #t-news:checked ~ #p-news, #t-devsec:checked ~ #p-devsec, #t-meetups:checked ~ #p-meetups { display:block; }
+  section { margin-bottom:2rem; }
+  h2 { font-size:1rem; text-transform:uppercase; letter-spacing:.05em; color:var(--accent);
+       border-bottom:1px solid var(--border); padding-bottom:.5rem; margin-bottom:.75rem; }
+  ul.items { list-style:none; margin:0; padding:0; }
+  li.item { background:var(--panel); border:1px solid var(--border); border-radius:8px; padding:.85rem 1rem; margin-bottom:.6rem; }
+  a.title { color:var(--text); text-decoration:none; font-weight:500; line-height:1.4; overflow-wrap:anywhere; }
+  a.title:hover { color:var(--accent); }
+  .meta { color:var(--muted); font-size:.8rem; margin-top:.35rem; }
+  .event { display:flex; gap:1rem; align-items:flex-start; }
+  .date { min-width:3.2rem; text-align:center; border:1px solid var(--border); border-radius:8px; padding:.3rem 0; line-height:1.1; }
+  .date .mon, .date .dow { display:block; font-size:.7rem; color:var(--muted); text-transform:uppercase; }
+  .date .day { display:block; font-size:1.3rem; font-weight:600; }
+  .badge { font-size:.7rem; font-weight:600; border-radius:4px; padding:.05rem .4rem; color:#0d1117; margin-right:.25rem; }
+  .badge.local { background:var(--local); } .badge.virtual { background:var(--virtual); } .badge.other { background:var(--other); }
+  .filters { display:flex; gap:1rem; margin-bottom:.9rem; color:var(--muted); font-size:.9rem; }
+  .filters:has(input[value=local]:checked) ~ ul li[data-where]:not([data-where=local]),
+  .filters:has(input[value=virtual]:checked) ~ ul li[data-where]:not([data-where=virtual]) { display:none; }
+  .errors { margin-top:2rem; color:var(--muted); font-size:.85rem; }
+  .empty { color:var(--muted); }
+  code { background:var(--panel); padding:0 .3rem; border-radius:4px; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <h1>DevOps Daily Digest</h1>
+      <div class="subtitle">Updated Sep 25, 2026 05:18 AM ET &middot; DevOps &amp; Cloud, DevSecOps, and upcoming meetups</div>
+    </header>
+    <input type="radio" name="tab" id="t-news" checked><input type="radio" name="tab" id="t-devsec" ><input type="radio" name="tab" id="t-meetups" >
+    <nav class="tabs"><label for="t-news">DevOps &amp; Cloud <span>27</span></label><label for="t-devsec">DevSecOps <span>28</span></label><label for="t-meetups">Meetups <span>0</span></label></nav>
+    <div class="panel" id="p-news"><section><h2>DevOps</h2><ul class="items">
+          <li class="item">
+            <a class="title" href="https://www.hashicorp.com/blog/secure-ai-agents-with-hashicorp-boundary" target="_blank" rel="noopener">Secure AI agents with HashiCorp Boundary</a>
+            <div class="meta"><span class="source">HashiCorp Blog</span> &middot; Sep 29, 03:00 AM ET</div>
+          </li></ul></section><section><h2>Cloud</h2><ul class="items">
+          <li class="item">
+            <a class="title" href="https://cloud.google.com/blog/topics/developers-practitioners/agent-factory-recap-agent-harnesses-shifting-left-and-autonomous-coding/" target="_blank" rel="noopener">Agent Factory recap: Agent harnesses, shifting left, and autonomous coding</a>
+            <div class="meta"><span class="source">Google Cloud Blog</span> &middot; Sep 24, 07:00 PM ET</div>
+          </li>
+          <li class="item">
+            <a class="title" href="https://aws.amazon.com/blogs/aws/introducing-enhanced-custom-event-buses-in-amazon-eventbridge-for-enterprise-scale-event-driven-applications/" target="_blank" rel="noopener">Introducing enhanced custom event buses in Amazon EventBridge for enterprise-scale event-driven applications</a>
+            <div class="meta"><span class="source">AWS Blog</span> &middot; Sep 24, 04:58 PM ET</div>
+          </li>
+          <li class="item">
+            <a class="title" href="https://cloud.google.com/blog/products/containers-kubernetes/2026-gartner-magic-quadrant-for-container-management/" target="_blank" rel="noopener">Google is a Leader in the 2026 Gartner Magic Quadrant for Container Management</a>
+            <div class="meta"><span class="source">Google Cloud Blog</span> &middot; Sep 24, 03:00 PM ET</div>
+          </li>
+          <li class="item">
+            <a class="title" href="https://azure.microsoft.com/updates?id=557117" target="_blank" rel="noopener">Retirement: Azure Communication Services (ACS) standalone services will be retired on September 30, 2028</a>
+            <div class="meta"><span class="source">Azure Updates</span> &middot; Sep 24, 01:51 PM ET</div>
+          </li>
+          <li class="item">
+            <a class="title" href="https://azure.microsoft.com/updates?id=572573" target="_blank" rel="noopener">[Launched] Generally Available: Instant Access for VM restore points</a>
+            <div class="meta"><span class="source">Azure Updates</span> &middot; Sep 24, 12:04 PM ET</div>
+          </li>
+          <li class="item">
+            <a class="title" href="https://cloud.google.com/blog/products/containers-kubernetes/gke-agentic-migration/" target="_blank" rel="noopener">Introducing GKE agentic migration for AI-assisted EKS-to-GKE migrations with built-in governance</a>
+            <div class="meta"><span class="source">Google Cloud Blog</span> &middot; Sep 24, 12:00 PM ET</div>
+          </li>
+          <li class="item">
+            <a class="title" href="https://cloud.google.com/blog/topics/customers/scribd-inc-classifies-millions-of-documents-on-gemini-enterprise/" target="_blank" rel="noopener">Scribd, Inc. classifies more than 400 million documents with Gemini batch inference on Gemini Enterprise</a>
+            <div class="meta"><span class="source">Google Cloud Blog</span> &middot; Sep 24, 12:00 PM ET</div>
+          </li>
+          <li class="item">
+            <a class="title" href="https://cloud.google.com/blog/products/ai-machine-learning/gemini-3-8-live-with-live-avatar-is-now-generally-available/" target="_blank" rel="noopener">Power your agents: Gemini 3.8 Live with Live Avatar is now generally available</a>
+            <div class="meta"><span class="source">Google Cloud Blog</span> &middot; Sep 24, 11:00 AM ET</div>
+          </li>
+          <li class="item">
+            <a class="title" href="https://cloud.google.com/blog/products/databases/alloydbs-agentic-database-architecture/" target="_blank" rel="noopener">A new, no-compromises database architecture for the agentic era</a>
+            <div class="meta"><span class="source">Google Cloud Blog</span> &middot; Sep 24, 10:30 AM ET</div>
+          </li>
+          <li class="item">
+            <a class="title" href="https://cloud.google.com/blog/topics/customers/how-midsize-latam-companies-build-with-ai/" target="_blank" rel="noopener">How growing Latin American midsize businesses are building in the AI era</a>
+            <div class="meta"><span class="source">Google Cloud Blog</span> &middot; Sep 24, 10:30 AM ET</div>
+          </li>
+          <li class="item">
+            <a class="title" href="https://cloud.google.com/blog/products/databases/announcing-postgresql-for-agents-in-alloydb/" target="_blank" rel="noopener">AlloyDB delivers PostgreSQL for agents: Real-time data at agent scale, with full workload isolation</a>
+            <div class="meta"><span class="source">Google Cloud Blog</span> &middot; Sep 24, 10:30 AM ET</div>
+          </li>
+          <li class="item">
+            <a class="title" href="https://azure.microsoft.com/updates?id=572770" target="_blank" rel="noopener">Retirement: Support for PowerShell 7.4 ends on November 10, 2026</a>
+            <div class="meta"><span class="source">Azure Updates</span> &middot; Sep 23, 12:50 PM ET</div>
+          </li>
+          <li class="item">
+            <a class="title" href="https://azure.microsoft.com/updates?id=572838" target="_blank" rel="noopener">Retirement: Support for .NET 8 and .NET 9 ends on November 10, 2026—upgrade your apps to .NET 10</a>
+            <div class="meta"><span class="source">Azure Updates</span> &middot; Sep 23, 12:46 PM ET</div>
+          </li></ul></section><section><h2>Cloud Native</h2><ul class="items">
+          <li class="item">
+            <a class="title" href="https://www.docker.com/blog/manufacturing-trust-for-ai-agents-keynote/" target="_blank" rel="noopener">Manufacturing Trust for AI Agents | Docker’s WeAreDevelopers Keynote</a>
+            <div class="meta"><span class="source">Docker Blog</span> &middot; Sep 24, 01:15 PM ET</div>
+          </li>
+          <li class="item">
+            <a class="title" href="https://www.docker.com/blog/docker-sandbox-kit-spec/" target="_blank" rel="noopener">From Dockerfile to Kit: the Docker Sandboxes Kit Specification</a>
+            <div class="meta"><span class="source">Docker Blog</span> &middot; Sep 24, 12:00 PM ET</div>
+          </li>
+          <li class="item">
+            <a class="title" href="https://www.docker.com/blog/docker-sandbox-kit-spec-cncf/" target="_blank" rel="noopener">Docker and CNCF partner on an open spec for agent permissions</a>
+            <div class="meta"><span class="source">Docker Blog</span> &middot; Sep 24, 12:00 PM ET</div>
+          </li>
+          <li class="item">
+            <a class="title" href="https://www.docker.com/blog/introducing-cloud-sandboxes-start-on-your-laptop-finish-in-the-cloud/" target="_blank" rel="noopener">Introducing Cloud Sandboxes: Start on Your Laptop, Finish in the Cloud</a>
+            <div class="meta"><span class="source">Docker Blog</span> &middot; Sep 24, 12:00 PM ET</div>
+          </li>
+          <li class="item">
+            <a class="title" href="https://www.cncf.io/blog/2026/09/24/observability-day-where-the-community-comes-together-at-kubecon-cloudnativecon-north-america-2026/" target="_blank" rel="noopener">Observability Day: Where the community comes together at KubeCon + CloudNativeCon North America 2026</a>
+            <div class="meta"><span class="source">CNCF Blog</span> &middot; Sep 24, 08:22 AM ET</div>
+          </li>
+          <li class="item">
+            <a class="title" href="https://www.cncf.io/blog/2026/09/23/which-hat-am-i-wearing-right-now/" target="_blank" rel="noopener">Which hat am I wearing right now?</a>
+            <div class="meta"><span class="source">CNCF Blog</span> &middot; Sep 23, 10:47 AM ET</div>
+          </li></ul></section><section><h2>Community</h2><ul class="items">
+          <li class="item">
+            <a class="title" href="https://www.reddit.com/r/devops/comments/1wpr4q3/how_do_you_learn_devops/" target="_blank" rel="noopener">How do you learn DevOps</a>
+            <div class="meta"><span class="source">r/devops</span> &middot; Sep 25, 04:46 AM ET</div>
+          </li>
+          <li class="item">
+            <a class="title" href="https://www.reddit.com/r/devops/comments/1wpmoyl/how_do_you_check_a_release_list_against_what_is/" target="_blank" rel="noopener">How do you check a release list against what is actually in the tag?</a>
+            <div class="meta"><span class="source">r/devops</span> &middot; Sep 25, 12:14 AM ET</div>
+          </li>
+          <li class="item">
+            <a class="title" href="https://www.reddit.com/r/devops/comments/1wpdazb/question_about_kernelmoduleconfig/" target="_blank" rel="noopener">Question about KernelModuleConfig</a>
+            <div class="meta"><span class="source">r/devops</span> &middot; Sep 24, 04:53 PM ET</div>
+          </li>
+          <li class="item">
+            <a class="title" href="https://www.reddit.com/r/devops/comments/1wpbkcl/beste_embeddedmesse_mit_devopsfokus_im_dachraum/" target="_blank" rel="noopener">Beste Embedded-Messe mit DevOps-Fokus im DACH-Raum?</a>
+            <div class="meta"><span class="source">r/devops</span> &middot; Sep 24, 03:45 PM ET</div>
+          </li>
+          <li class="item">
+            <a class="title" href="https://www.reddit.com/r/devops/comments/1wp8eyh/any_of_you_use_alternatives_to_gitlab_when/" target="_blank" rel="noopener">Any of you use alternatives to GitLab when self-hosting is a requirement? (and general toolchain question)</a>
+            <div class="meta"><span class="source">r/devops</span> &middot; Sep 24, 01:46 PM ET</div>
+          </li>
+          <li class="item">
+            <a class="title" href="https://www.reddit.com/r/devops/comments/1wp28x3/what_is_your_approach_to_identifying_areas_for/" target="_blank" rel="noopener">What is your approach to identifying areas for improvement to make impact at your company?</a>
+            <div class="meta"><span class="source">r/devops</span> &middot; Sep 24, 09:53 AM ET</div>
+          </li>
+          <li class="item">
+            <a class="title" href="https://www.reddit.com/r/devops/comments/1wob57u/should_devops_debug_business_logic_problems/" target="_blank" rel="noopener">Should Devops debug business logic problems ?</a>
+            <div class="meta"><span class="source">r/devops</span> &middot; Sep 23, 12:40 PM ET</div>
+          </li></ul></section></div><div class="panel" id="p-devsec"><section><h2>Actively Exploited</h2><ul class="items">
+          <li class="item">
+            <a class="title" href="https://nvd.nist.gov/vuln/detail/CVE-2026-5430" target="_blank" rel="noopener">CVE-2026-5430 — WSO2 Multiple Products: WSO2 Multiple Products Path Traversal Vulnerability </a>
+            <div class="meta"><span class="source">CISA KEV</span> &middot; added Sep 24</div>
+          </li>
+          <li class="item">
+            <a class="title" href="https://nvd.nist.gov/vuln/detail/CVE-2026-71362" target="_blank" rel="noopener">CVE-2026-71362 — Adobe Commerce and Magento : Adobe Commerce and Magento Incorrect Authorization Vulnerability </a>
+            <div class="meta"><span class="source">CISA KEV</span> &middot; added Sep 24</div>
+          </li>
+          <li class="item">
+            <a class="title" href="https://nvd.nist.gov/vuln/detail/CVE-2026-93952" target="_blank" rel="noopener">CVE-2026-93952 — Arista VeloCloud Orchestrator: Arista VeloCloud Orchestrator Improper Input Validation Vulnerability</a>
+            <div class="meta"><span class="source">CISA KEV</span> &middot; added Sep 22</div>
+          </li>
+          <li class="item">
+            <a class="title" href="https://nvd.nist.gov/vuln/detail/CVE-2026-94127" target="_blank" rel="noopener">CVE-2026-94127 — F5 BIG-IP APM: F5 BIG-IP APM Heap-based Buffer Overflow Vulnerability</a>
+            <div class="meta"><span class="source">CISA KEV</span> &middot; added Sep 22</div>
+          </li>
+          <li class="item">
+            <a class="title" href="https://nvd.nist.gov/vuln/detail/CVE-2026-93616" target="_blank" rel="noopener">CVE-2026-93616 — Check Point Multiple Products: Check Point Multiple Products Path Traversal Vulnerability</a>
+            <div class="meta"><span class="source">CISA KEV</span> &middot; added Sep 22</div>
+          </li>
+          <li class="item">
+            <a class="title" href="https://nvd.nist.gov/vuln/detail/CVE-2026-85102" target="_blank" rel="noopener">CVE-2026-85102 — Check Point Multiple Products: Check Point Multiple Products Improper Certificate Validation Vulnerability</a>
+            <div class="meta"><span class="source">CISA KEV</span> &middot; added Sep 22</div>
+          </li>
+          <li class="item">
+            <a class="title" href="https://nvd.nist.gov/vuln/detail/CVE-2026-7273" target="_blank" rel="noopener">CVE-2026-7273 — Zyxel GS1900 Series Switches: Zyxel GS1900 Series Switches Stack-Based Buffer Overflow Vulnerability</a>
+            <div class="meta"><span class="source">CISA KEV</span> &middot; added Sep 21</div>
+          </li>
+          <li class="item">
+            <a class="title" href="https://nvd.nist.gov/vuln/detail/CVE-2025-39964" target="_blank" rel="noopener">CVE-2025-39964 — Linux Kernel: Linux Kernel Race Condition Vulnerability</a>
+            <div class="meta"><span class="source">CISA KEV</span> &middot; added Sep 18</div>
+          </li>
+          <li class="item">
+            <a class="title" href="https://nvd.nist.gov/vuln/detail/CVE-2026-53266" target="_blank" rel="noopener">CVE-2026-53266 — Linux Kernel: Linux Kernel Out-of-Bounds Write Vulnerability</a>
+            <div class="meta"><span class="source">CISA KEV</span> &middot; added Sep 18</div>
+          </li>
+          <li class="item">
+            <a class="title" href="https://nvd.nist.gov/vuln/detail/CVE-2025-39682" target="_blank" rel="noopener">CVE-2025-39682 — Linux Kernel: Linux Kernel Improper Check for Unusual or Exceptional Conditions Vulnerability</a>
+            <div class="meta"><span class="source">CISA KEV</span> &middot; added Sep 18</div>
+          </li></ul></section><section><h2>Supply Chain</h2><ul class="items">
+          <li class="item">
+            <a class="title" href="https://openssf.org/blog/2026/09/24/inside-the-openssf-summer-mentorship-showcase-how-emerging-developers-are-strengthening-supply-chain-security/" target="_blank" rel="noopener">Inside the OpenSSF Summer Mentorship Showcase: How Emerging Developers Are Strengthening Supply Chain Security</a>
+            <div class="meta"><span class="source">OpenSSF</span> &middot; Sep 24, 03:32 PM ET</div>
+          </li>
+          <li class="item">
+            <a class="title" href="https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/" target="_blank" rel="noopener">AI-powered fuzzing with the GitHub Security Lab Taskflow Agent</a>
+            <div class="meta"><span class="source">GitHub Security Blog</span> &middot; Sep 24, 02:26 PM ET</div>
+          </li>
+          <li class="item">
+            <a class="title" href="https://openssf.org/blog/2026/09/23/security-slam-2026-fall-edition/" target="_blank" rel="noopener">Security Slam 2026 – Fall Edition</a>
+            <div class="meta"><span class="source">OpenSSF</span> &middot; Sep 23, 03:51 PM ET</div>
+          </li></ul></section><section><h2>Cloud &amp; Container</h2><ul class="items">
+          <li class="item">
+            <a class="title" href="https://www.aquasec.com/blog/fewer-findings-faster-answers-how-activestate-and-trivy-turn-a-scan-into-a-verdict/" target="_blank" rel="noopener">Fewer Findings, Faster Answers: How ActiveState and Trivy Turn a Scan Into a Verdict</a>
+            <div class="meta"><span class="source">Aqua Security</span> &middot; Sep 24, 09:35 AM ET</div>
+          </li>
+          <li class="item">
+            <a class="title" href="https://webflow.sysdig.com/blog/why-are-sboms-failing-to-stop-supply-chain-attacks" target="_blank" rel="noopener">Why are SBOMs failing to stop supply chain attacks?</a>
+            <div class="meta"><span class="source">Sysdig</span> &middot; Sep 24, 07:50 AM ET</div>
+          </li></ul></section><section><h2>AppSec</h2><ul class="items">
+          <li class="item">
+            <a class="title" href="https://snyk.io/blog/vulnerability-backlog-attack-surface/" target="_blank" rel="noopener">Your Vulnerability Backlog Is No Longer Technical Debt, It’s an Attack Surface</a>
+            <div class="meta"><span class="source">Snyk</span> &middot; Sep 24, 12:00 AM ET</div>
+          </li></ul></section><section><h2>Threats</h2><ul class="items">
+          <li class="item">
+            <a class="title" href="https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html" target="_blank" rel="noopener">Cloudflare Fixes Flaw That Let One Container Read Another Customer&#x27;s Leftover Disk Data</a>
+            <div class="meta"><span class="source">The Hacker News</span> &middot; Sep 25, 12:49 AM ET</div>
+          </li>
+          <li class="item">
+            <a class="title" href="https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html" target="_blank" rel="noopener">WSO2 and Adobe Commerce Flaws Exploited in Attacks, Added to CISA KEV</a>
+            <div class="meta"><span class="source">The Hacker News</span> &middot; Sep 25, 12:46 AM ET</div>
+          </li>
+          <li class="item">
+            <a class="title" href="https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html" target="_blank" rel="noopener">Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions</a>
+            <div class="meta"><span class="source">The Hacker News</span> &middot; Sep 24, 02:10 PM ET</div>
+          </li>
+          <li class="item">
+            <a class="title" href="https://thehackernews.com/2026/09/hacked-ukrainian-sites-serve-fake.html" target="_blank" rel="noopener">Hacked Ukrainian Sites Serve Fake Cloudflare ClickFix Lures for Psychedelic Stealer</a>
+            <div class="meta"><span class="source">The Hacker News</span> &middot; Sep 24, 10:29 AM ET</div>
+          </li>
+          <li class="item">
+            <a class="title" href="https://thehackernews.com/2026/09/secrets-sprawl-is-identity-problem-that.html" target="_blank" rel="noopener">Secrets Sprawl Is an Identity Problem That AI Just Made Impossible to Ignore</a>
+            <div class="meta"><span class="source">The Hacker News</span> &middot; Sep 24, 07:00 AM ET</div>
+          </li>
+          <li class="item">
+            <a class="title" href="https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html" target="_blank" rel="noopener">TeamFiltration Campaign Compromises Seven Microsoft 365 Accounts Using Default Passwords</a>
+            <div class="meta"><span class="source">The Hacker News</span> &middot; Sep 24, 02:32 AM ET</div>
+          </li>
+          <li class="item">
+            <a class="title" href="https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html" target="_blank" rel="noopener">Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure</a>
+            <div class="meta"><span class="source">The Hacker News</span> &middot; Sep 24, 01:36 AM ET</div>
+          </li>
+          <li class="item">
+            <a class="title" href="https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html" target="_blank" rel="noopener">Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry</a>
+            <div class="meta"><span class="source">The Hacker News</span> &middot; Sep 23, 02:06 PM ET</div>
+          </li>
+          <li class="item">
+            <a class="title" href="https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html" target="_blank" rel="noopener">A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You</a>
+            <div class="meta"><span class="source">The Hacker News</span> &middot; Sep 23, 12:53 PM ET</div>
+          </li>
+          <li class="item">
+            <a class="title" href="https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html" target="_blank" rel="noopener">MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key</a>
+            <div class="meta"><span class="source">The Hacker News</span> &middot; Sep 23, 12:06 PM ET</div>
+          </li>
+          <li class="item">
+            <a class="title" href="https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html" target="_blank" rel="noopener">Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI</a>
+            <div class="meta"><span class="source">The Hacker News</span> &middot; Sep 23, 09:52 AM ET</div>
+          </li>
+          <li class="item">
+            <a class="title" href="https://thehackernews.com/2026/09/exploit-released-for-unpatched-ubuntu.html" target="_blank" rel="noopener">Exploit Released for Unpatched Ubuntu Linux Flaw Enabling Host-Root Container Escape</a>
+            <div class="meta"><span class="source">The Hacker News</span> &middot; Sep 23, 07:12 AM ET</div>
+          </li></ul></section></div><div class="panel" id="p-meetups"><p class="empty">No meetup calendars configured yet — add Meetup group names to <code>MEETUP_GROUPS</code> in <code>sources.py</code>.</p></div>
+    
+  </div>
+</body>
+</html>
