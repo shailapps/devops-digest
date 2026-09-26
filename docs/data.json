@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T13:16:24.223947+00:00",
+  "generated_at": "2026-09-26T14:52:14.623794+00:00",
   "devops": [
     {
       "source": "HashiCorp Blog",
@@ -53,6 +53,13 @@
     {
       "source": "Google Cloud Blog",
       "category": "Cloud",
+      "title": "What\u2019s new with Google Cloud",
+      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "published": "2026-09-25T16:00:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
       "title": "Unlock 3x QPS and microsecond latency with Memorystore for Valkey 9.1",
       "link": "https://cloud.google.com/blog/products/databases/memorystore-for-valkey-9-1-3x-qps-caching/",
       "published": "2026-09-25T16:00:00+00:00"
@@ -69,13 +76,6 @@
       "category": "Cloud",
       "title": "Best practices guide for customizing Gemini models via Reinforcement Learning (RL)",
       "link": "https://cloud.google.com/blog/topics/developers-practitioners/best-practices-guide-for-customizing-gemini-models/",
-      "published": "2026-09-25T16:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "What\u2019s new with Google Cloud",
-      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
       "published": "2026-09-25T16:00:00+00:00"
     },
     {
@@ -261,6 +261,13 @@
     {
       "source": "The Hacker News",
       "category": "Threats",
+      "title": "Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells",
+      "link": "https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html",
+      "published": "2026-09-26T17:16:40+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
       "title": "SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild",
       "link": "https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html",
       "published": "2026-09-26T14:19:53+05:30"
@@ -341,20 +348,6 @@
       "title": "Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions",
       "link": "https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html",
       "published": "2026-09-24T23:40:18+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Hacked Ukrainian Sites Serve Fake Cloudflare ClickFix Lures for Psychedelic Stealer",
-      "link": "https://thehackernews.com/2026/09/hacked-ukrainian-sites-serve-fake.html",
-      "published": "2026-09-24T19:59:06+05:30"
-    },
-    {
-      "source": "Aqua Security",
-      "category": "Cloud & Container",
-      "title": "Fewer Findings, Faster Answers: How ActiveState and Trivy Turn a Scan Into a Verdict",
-      "link": "https://www.aquasec.com/blog/fewer-findings-faster-answers-how-activestate-and-trivy-turn-a-scan-into-a-verdict/",
-      "published": "2026-09-24T13:35:39+00:00"
     }
   ],
   "meetups": [],
