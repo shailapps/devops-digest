@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T15:43:27.270583+00:00",
+  "generated_at": "2026-09-26T13:16:24.223947+00:00",
   "devops": [
     {
       "source": "HashiCorp Blog",
@@ -11,9 +11,79 @@
     {
       "source": "r/devops",
       "category": "Community",
-      "title": "The digest is part of the rollback plan",
-      "link": "https://www.reddit.com/r/devops/comments/1wpzn9y/the_digest_is_part_of_the_rollback_plan/",
-      "published": "2026-09-25T15:40:53+00:00"
+      "title": "How can I deploy this microservices project for free without a credit card?",
+      "link": "https://www.reddit.com/r/devops/comments/1wqpwys/how_can_i_deploy_this_microservices_project_for/",
+      "published": "2026-09-26T12:58:28+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Anyone else had a 340% AI cost spike overnight? Here's what caused ours",
+      "link": "https://www.reddit.com/r/devops/comments/1wqm1lt/anyone_else_had_a_340_ai_cost_spike_overnight/",
+      "published": "2026-09-26T09:18:43+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "DevOps embedded in a non-technical process team, no technical sparring partner",
+      "link": "https://www.reddit.com/r/devops/comments/1wqke4a/devops_embedded_in_a_nontechnical_process_team_no/",
+      "published": "2026-09-26T07:33:31+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Why doesnt DevOps have an ACLS?",
+      "link": "https://www.reddit.com/r/devops/comments/1wqfov2/why_doesnt_devops_have_an_acls/",
+      "published": "2026-09-26T03:08:36+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "How do you know which engineering issues need attention before they become expensive?",
+      "link": "https://www.reddit.com/r/devops/comments/1wq6da2/how_do_you_know_which_engineering_issues_need/",
+      "published": "2026-09-25T20:03:09+00:00"
+    },
+    {
+      "source": "Azure Updates",
+      "category": "Cloud",
+      "title": "[In preview] Public Preview: Azure HorizonDB supports PostgreSQL 18",
+      "link": "https://azure.microsoft.com/updates?id=573048",
+      "published": "2026-09-25T18:07:26+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Unlock 3x QPS and microsecond latency with Memorystore for Valkey 9.1",
+      "link": "https://cloud.google.com/blog/products/databases/memorystore-for-valkey-9-1-3x-qps-caching/",
+      "published": "2026-09-25T16:00:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Storage Intelligence advisor: Know what changed in your storage estate and act on it",
+      "link": "https://cloud.google.com/blog/products/storage-data-transfer/storage-intelligence-advisor-and-batch-operations-updates/",
+      "published": "2026-09-25T16:00:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Best practices guide for customizing Gemini models via Reinforcement Learning (RL)",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/best-practices-guide-for-customizing-gemini-models/",
+      "published": "2026-09-25T16:00:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "What\u2019s new with Google Cloud",
+      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "published": "2026-09-25T16:00:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "ShinyHunters Renewed Mass Exploitation Campaign Targeting Oracle PeopleSoft",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/shinyhunters-renewed-mass-exploitation-campaign-targeting-oracle-peoplesoft/",
+      "published": "2026-09-25T14:00:00+00:00"
     },
     {
       "source": "r/devops",
@@ -28,13 +98,6 @@
       "title": "Security Slam 2026 \u2013 Fall edition",
       "link": "https://www.cncf.io/blog/2026/09/25/security-slam-2026-fall-edition/",
       "published": "2026-09-25T11:00:00+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Mobile App DevOps",
-      "link": "https://www.reddit.com/r/devops/comments/1wps92p/mobile_app_devops/",
-      "published": "2026-09-25T09:57:51+00:00"
     },
     {
       "source": "r/devops",
@@ -58,13 +121,6 @@
       "published": "2026-09-24T20:58:46+00:00"
     },
     {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Question about KernelModuleConfig",
-      "link": "https://www.reddit.com/r/devops/comments/1wpdazb/question_about_kernelmoduleconfig/",
-      "published": "2026-09-24T20:53:16+00:00"
-    },
-    {
       "source": "Google Cloud Blog",
       "category": "Cloud",
       "title": "Google is a Leader in the 2026 Gartner Magic Quadrant for Container Management",
@@ -77,13 +133,6 @@
       "title": "Retirement: Azure Communication Services (ACS) standalone services will be retired on September 30, 2028",
       "link": "https://azure.microsoft.com/updates?id=557117",
       "published": "2026-09-24T17:51:23+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Any of you use alternatives to GitLab when self-hosting is a requirement? (and general toolchain question)",
-      "link": "https://www.reddit.com/r/devops/comments/1wp8eyh/any_of_you_use_alternatives_to_gitlab_when/",
-      "published": "2026-09-24T17:46:08+00:00"
     },
     {
       "source": "Docker Blog",
@@ -126,69 +175,6 @@
       "title": "Introducing GKE agentic migration for AI-assisted EKS-to-GKE migrations with built-in governance",
       "link": "https://cloud.google.com/blog/products/containers-kubernetes/gke-agentic-migration/",
       "published": "2026-09-24T16:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Scribd, Inc. classifies more than 400 million documents with Gemini batch inference on Gemini Enterprise",
-      "link": "https://cloud.google.com/blog/topics/customers/scribd-inc-classifies-millions-of-documents-on-gemini-enterprise/",
-      "published": "2026-09-24T16:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Power your agents: Gemini 3.8 Live with Live Avatar is now generally available",
-      "link": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-3-8-live-with-live-avatar-is-now-generally-available/",
-      "published": "2026-09-24T15:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "A new, no-compromises database architecture for the agentic era",
-      "link": "https://cloud.google.com/blog/products/databases/alloydbs-agentic-database-architecture/",
-      "published": "2026-09-24T14:30:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "How growing Latin American midsize businesses are building in the AI era",
-      "link": "https://cloud.google.com/blog/topics/customers/how-midsize-latam-companies-build-with-ai/",
-      "published": "2026-09-24T14:30:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "AlloyDB delivers PostgreSQL for agents: Real-time data at agent scale, with full workload isolation",
-      "link": "https://cloud.google.com/blog/products/databases/announcing-postgresql-for-agents-in-alloydb/",
-      "published": "2026-09-24T14:30:00+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "What is your approach to identifying areas for improvement to make impact at your company?",
-      "link": "https://www.reddit.com/r/devops/comments/1wp28x3/what_is_your_approach_to_identifying_areas_for/",
-      "published": "2026-09-24T13:53:01+00:00"
-    },
-    {
-      "source": "CNCF Blog",
-      "category": "Cloud Native",
-      "title": "Observability Day: Where the community comes together at KubeCon + CloudNativeCon North America 2026",
-      "link": "https://www.cncf.io/blog/2026/09/24/observability-day-where-the-community-comes-together-at-kubecon-cloudnativecon-north-america-2026/",
-      "published": "2026-09-24T12:22:50+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "Retirement: Support for\u202fPowerShell 7.4 ends on\u202fNovember 10, 2026",
-      "link": "https://azure.microsoft.com/updates?id=572770",
-      "published": "2026-09-23T16:50:05+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "Retirement: Support for .NET 8 and .NET 9 ends on November 10, 2026\u2014upgrade your apps to .NET 10",
-      "link": "https://azure.microsoft.com/updates?id=572838",
-      "published": "2026-09-23T16:46:49+00:00"
     }
   ],
   "devsecops": [
@@ -205,6 +191,14 @@
       "category": "Actively Exploited",
       "title": "CVE-2026-65660 \u2014 Microsoft SharePoint: Microsoft SharePoint Code Injection Vulnerability",
       "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-65660",
+      "published": "2026-09-25T12:00:00+00:00",
+      "date_only": true
+    },
+    {
+      "source": "CISA KEV",
+      "category": "Actively Exploited",
+      "title": "CVE-2026-87902 \u2014 WordPress Core: WordPress Core Remote File Inclusion Vulnerability",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-87902",
       "published": "2026-09-25T12:00:00+00:00",
       "date_only": true
     },
@@ -265,33 +259,23 @@
       "date_only": true
     },
     {
-      "source": "CISA KEV",
-      "category": "Actively Exploited",
-      "title": "CVE-2025-39964 \u2014 Linux Kernel: Linux Kernel Race Condition Vulnerability",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2025-39964",
-      "published": "2026-09-18T12:00:00+00:00",
-      "date_only": true
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild",
+      "link": "https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html",
+      "published": "2026-09-26T14:19:53+05:30"
     },
     {
-      "source": "CISA KEV",
-      "category": "Actively Exploited",
-      "title": "CVE-2026-53266 \u2014 Linux Kernel: Linux Kernel Out-of-Bounds Write Vulnerability",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-53266",
-      "published": "2026-09-18T12:00:00+00:00",
-      "date_only": true
-    },
-    {
-      "source": "CISA KEV",
-      "category": "Actively Exploited",
-      "title": "CVE-2025-39682 \u2014 Linux Kernel: Linux Kernel Improper Check for Unusual or Exceptional Conditions Vulnerability",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2025-39682",
-      "published": "2026-09-18T12:00:00+00:00",
-      "date_only": true
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Compromised GitHub Actions Came Back Online and Resumed Executing Mini Shai-Hulud Malware",
+      "link": "https://thehackernews.com/2026/09/compromised-github-actions-came-back.html",
+      "published": "2026-09-25T20:14:41+05:30"
     },
     {
       "source": "OpenSSF",
       "category": "Supply Chain",
-      "title": "How Does IBM Turn Open Source Participation Into Enterprise and Career Value?",
+      "title": "Case Study: How Does IBM Turn Open Source Participation Into Enterprise and Career Value?",
       "link": "https://openssf.org/blog/2026/09/25/how-does-ibm-turn-open-source-participation-into-enterprise-and-career-value/",
       "published": "2026-09-25T14:38:45+00:00"
     },
@@ -371,69 +355,6 @@
       "title": "Fewer Findings, Faster Answers: How ActiveState and Trivy Turn a Scan Into a Verdict",
       "link": "https://www.aquasec.com/blog/fewer-findings-faster-answers-how-activestate-and-trivy-turn-a-scan-into-a-verdict/",
       "published": "2026-09-24T13:35:39+00:00"
-    },
-    {
-      "source": "Sysdig",
-      "category": "Cloud & Container",
-      "title": "Why are SBOMs failing to stop supply chain attacks?",
-      "link": "https://webflow.sysdig.com/blog/why-are-sboms-failing-to-stop-supply-chain-attacks",
-      "published": "2026-09-24T11:50:00+00:00"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Secrets Sprawl Is an Identity Problem That AI Just Made Impossible to Ignore",
-      "link": "https://thehackernews.com/2026/09/secrets-sprawl-is-identity-problem-that.html",
-      "published": "2026-09-24T16:30:00+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "TeamFiltration Campaign Compromises Seven Microsoft 365 Accounts Using Default Passwords",
-      "link": "https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html",
-      "published": "2026-09-24T12:02:03+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure",
-      "link": "https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html",
-      "published": "2026-09-24T11:06:18+05:30"
-    },
-    {
-      "source": "Snyk",
-      "category": "AppSec",
-      "title": "Your Vulnerability Backlog Is No Longer Technical Debt, It\u2019s an Attack Surface",
-      "link": "https://snyk.io/blog/vulnerability-backlog-attack-surface/",
-      "published": "2026-09-24T04:00:00+00:00"
-    },
-    {
-      "source": "OpenSSF",
-      "category": "Supply Chain",
-      "title": "Security Slam 2026 \u2013 Fall Edition",
-      "link": "https://openssf.org/blog/2026/09/23/security-slam-2026-fall-edition/",
-      "published": "2026-09-23T19:51:38+00:00"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry",
-      "link": "https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html",
-      "published": "2026-09-23T23:36:30+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You",
-      "link": "https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html",
-      "published": "2026-09-23T22:23:10+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key",
-      "link": "https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html",
-      "published": "2026-09-23T21:36:41+05:30"
     }
   ],
   "meetups": [],
