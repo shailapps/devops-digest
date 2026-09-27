@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T14:52:14.623794+00:00",
+  "generated_at": "2026-09-27T15:30:42.520833+00:00",
   "devops": [
     {
       "source": "HashiCorp Blog",
@@ -11,16 +11,30 @@
     {
       "source": "r/devops",
       "category": "Community",
-      "title": "How can I deploy this microservices project for free without a credit card?",
-      "link": "https://www.reddit.com/r/devops/comments/1wqpwys/how_can_i_deploy_this_microservices_project_for/",
-      "published": "2026-09-26T12:58:28+00:00"
+      "title": "We audited the default Helm charts and Docker configs of popular AI stack tools (Ray, Weaviate, MCP servers, LangChain). The out-of-the-box security defaults are surprisingly bad.",
+      "link": "https://www.reddit.com/r/devops/comments/1wrkllb/we_audited_the_default_helm_charts_and_docker/",
+      "published": "2026-09-27T13:44:24+00:00"
     },
     {
       "source": "r/devops",
       "category": "Community",
-      "title": "Anyone else had a 340% AI cost spike overnight? Here's what caused ours",
-      "link": "https://www.reddit.com/r/devops/comments/1wqm1lt/anyone_else_had_a_340_ai_cost_spike_overnight/",
-      "published": "2026-09-26T09:18:43+00:00"
+      "title": "Unorganized Knowledge = Noise",
+      "link": "https://www.reddit.com/r/devops/comments/1wrh025/unorganized_knowledge_noise/",
+      "published": "2026-09-27T10:39:27+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "How to maintain helm charts of multiple micro-services on k8s at scale ?",
+      "link": "https://www.reddit.com/r/devops/comments/1wr7mw9/how_to_maintain_helm_charts_of_multiple/",
+      "published": "2026-09-27T01:46:56+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Indian devs who self-host tools: what actually becomes painful after 6\u201312 months?",
+      "link": "https://www.reddit.com/r/devops/comments/1wr1vsk/indian_devs_who_selfhost_tools_what_actually/",
+      "published": "2026-09-26T21:16:58+00:00"
     },
     {
       "source": "r/devops",
@@ -28,20 +42,6 @@
       "title": "DevOps embedded in a non-technical process team, no technical sparring partner",
       "link": "https://www.reddit.com/r/devops/comments/1wqke4a/devops_embedded_in_a_nontechnical_process_team_no/",
       "published": "2026-09-26T07:33:31+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Why doesnt DevOps have an ACLS?",
-      "link": "https://www.reddit.com/r/devops/comments/1wqfov2/why_doesnt_devops_have_an_acls/",
-      "published": "2026-09-26T03:08:36+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "How do you know which engineering issues need attention before they become expensive?",
-      "link": "https://www.reddit.com/r/devops/comments/1wq6da2/how_do_you_know_which_engineering_issues_need/",
-      "published": "2026-09-25T20:03:09+00:00"
     },
     {
       "source": "Azure Updates",
@@ -77,104 +77,6 @@
       "title": "Best practices guide for customizing Gemini models via Reinforcement Learning (RL)",
       "link": "https://cloud.google.com/blog/topics/developers-practitioners/best-practices-guide-for-customizing-gemini-models/",
       "published": "2026-09-25T16:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "ShinyHunters Renewed Mass Exploitation Campaign Targeting Oracle PeopleSoft",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/shinyhunters-renewed-mass-exploitation-campaign-targeting-oracle-peoplesoft/",
-      "published": "2026-09-25T14:00:00+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "How do I test if my website can handle a traffic spike?",
-      "link": "https://www.reddit.com/r/devops/comments/1wpufyt/how_do_i_test_if_my_website_can_handle_a_traffic/",
-      "published": "2026-09-25T12:00:09+00:00"
-    },
-    {
-      "source": "CNCF Blog",
-      "category": "Cloud Native",
-      "title": "Security Slam 2026 \u2013 Fall edition",
-      "link": "https://www.cncf.io/blog/2026/09/25/security-slam-2026-fall-edition/",
-      "published": "2026-09-25T11:00:00+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "How do you learn DevOps",
-      "link": "https://www.reddit.com/r/devops/comments/1wpr4q3/how_do_you_learn_devops/",
-      "published": "2026-09-25T08:46:51+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Agent Factory recap: Agent harnesses, shifting left, and autonomous coding",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/agent-factory-recap-agent-harnesses-shifting-left-and-autonomous-coding/",
-      "published": "2026-09-24T23:00:00+00:00"
-    },
-    {
-      "source": "AWS Blog",
-      "category": "Cloud",
-      "title": "Introducing enhanced custom event buses in Amazon EventBridge for enterprise-scale event-driven applications",
-      "link": "https://aws.amazon.com/blogs/aws/introducing-enhanced-custom-event-buses-in-amazon-eventbridge-for-enterprise-scale-event-driven-applications/",
-      "published": "2026-09-24T20:58:46+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Google is a Leader in the 2026 Gartner Magic Quadrant for Container Management",
-      "link": "https://cloud.google.com/blog/products/containers-kubernetes/2026-gartner-magic-quadrant-for-container-management/",
-      "published": "2026-09-24T19:00:00+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "Retirement: Azure Communication Services (ACS) standalone services will be retired on September 30, 2028",
-      "link": "https://azure.microsoft.com/updates?id=557117",
-      "published": "2026-09-24T17:51:23+00:00"
-    },
-    {
-      "source": "Docker Blog",
-      "category": "Cloud Native",
-      "title": "Manufacturing Trust for AI Agents | Docker\u2019s WeAreDevelopers Keynote",
-      "link": "https://www.docker.com/blog/manufacturing-trust-for-ai-agents-keynote/",
-      "published": "2026-09-24T17:15:00+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "[Launched] Generally Available: Instant Access for VM restore points",
-      "link": "https://azure.microsoft.com/updates?id=572573",
-      "published": "2026-09-24T16:04:16+00:00"
-    },
-    {
-      "source": "Docker Blog",
-      "category": "Cloud Native",
-      "title": "From Dockerfile to Kit: the Docker Sandboxes Kit Specification",
-      "link": "https://www.docker.com/blog/docker-sandbox-kit-spec/",
-      "published": "2026-09-24T16:00:00+00:00"
-    },
-    {
-      "source": "Docker Blog",
-      "category": "Cloud Native",
-      "title": "Docker and CNCF partner on an open spec for agent permissions",
-      "link": "https://www.docker.com/blog/docker-sandbox-kit-spec-cncf/",
-      "published": "2026-09-24T16:00:00+00:00"
-    },
-    {
-      "source": "Docker Blog",
-      "category": "Cloud Native",
-      "title": "Introducing Cloud Sandboxes: Start on Your Laptop, Finish in the Cloud",
-      "link": "https://www.docker.com/blog/introducing-cloud-sandboxes-start-on-your-laptop-finish-in-the-cloud/",
-      "published": "2026-09-24T16:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Introducing GKE agentic migration for AI-assisted EKS-to-GKE migrations with built-in governance",
-      "link": "https://cloud.google.com/blog/products/containers-kubernetes/gke-agentic-migration/",
-      "published": "2026-09-24T16:00:00+00:00"
     }
   ],
   "devsecops": [
@@ -261,6 +163,20 @@
     {
       "source": "The Hacker News",
       "category": "Threats",
+      "title": "Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation",
+      "link": "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html",
+      "published": "2026-09-27T13:17:57+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials",
+      "link": "https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html",
+      "published": "2026-09-26T23:52:52+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
       "title": "Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells",
       "link": "https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html",
       "published": "2026-09-26T17:16:40+05:30"
@@ -271,83 +187,6 @@
       "title": "SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild",
       "link": "https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html",
       "published": "2026-09-26T14:19:53+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Compromised GitHub Actions Came Back Online and Resumed Executing Mini Shai-Hulud Malware",
-      "link": "https://thehackernews.com/2026/09/compromised-github-actions-came-back.html",
-      "published": "2026-09-25T20:14:41+05:30"
-    },
-    {
-      "source": "OpenSSF",
-      "category": "Supply Chain",
-      "title": "Case Study: How Does IBM Turn Open Source Participation Into Enterprise and Career Value?",
-      "link": "https://openssf.org/blog/2026/09/25/how-does-ibm-turn-open-source-participation-into-enterprise-and-career-value/",
-      "published": "2026-09-25T14:38:45+00:00"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "The SOC Doesn't Need to Start Over with Every Alert",
-      "link": "https://thehackernews.com/2026/09/the-soc-doesnt-need-to-start-over-with.html",
-      "published": "2026-09-25T17:00:00+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Bitget Says Suspected North Korean Hackers Stole $351.6M After Backend Compromise",
-      "link": "https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html",
-      "published": "2026-09-25T16:05:55+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Roundcube Pre-Auth SQL Injection Flaw Actively Exploited in the Wild",
-      "link": "https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html",
-      "published": "2026-09-25T15:44:02+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Cloudflare Fixes Flaw That Let One Container Read Another Customer's Leftover Disk Data",
-      "link": "https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html",
-      "published": "2026-09-25T10:19:22+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "WSO2 and Adobe Commerce Flaws Exploited in Attacks, Added to CISA KEV",
-      "link": "https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html",
-      "published": "2026-09-25T10:16:34+05:30"
-    },
-    {
-      "source": "Sysdig",
-      "category": "Cloud & Container",
-      "title": "AI adoption is a security survival metric",
-      "link": "https://webflow.sysdig.com/blog/ai-adoption-is-a-security-survival-metric",
-      "published": "2026-09-25T00:00:00+00:00"
-    },
-    {
-      "source": "OpenSSF",
-      "category": "Supply Chain",
-      "title": "Inside the OpenSSF Summer Mentorship Showcase: How Emerging Developers Are Strengthening Supply Chain Security",
-      "link": "https://openssf.org/blog/2026/09/24/inside-the-openssf-summer-mentorship-showcase-how-emerging-developers-are-strengthening-supply-chain-security/",
-      "published": "2026-09-24T19:32:24+00:00"
-    },
-    {
-      "source": "GitHub Security Blog",
-      "category": "Supply Chain",
-      "title": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
-      "link": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/",
-      "published": "2026-09-24T18:26:12+00:00"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions",
-      "link": "https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html",
-      "published": "2026-09-24T23:40:18+05:30"
     }
   ],
   "meetups": [],
