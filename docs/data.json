@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T15:30:42.520833+00:00",
+  "generated_at": "2026-09-28T18:25:14.089912+00:00",
   "devops": [
     {
       "source": "HashiCorp Blog",
@@ -9,11 +9,102 @@
       "published": "2026-09-29T07:00:00+00:00"
     },
     {
+      "source": "Azure Updates",
+      "category": "Cloud",
+      "title": "[Launched] Generally Available: Luxembourg - Azure Extended Zones",
+      "link": "https://azure.microsoft.com/updates?id=572968",
+      "published": "2026-09-28T17:08:48+00:00"
+    },
+    {
+      "source": "AWS Blog",
+      "category": "Cloud",
+      "title": "AWS Weekly Roundup: GPT-6 Sol and Luna, Claude Opus 5.5 on Amazon Bedrock, Strands harness, and more (September 28, 2026)",
+      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-gpt-6-sol-and-luna-claude-opus-5-5-on-amazon-bedrock-strands-harness-and-more-september-28-2026/",
+      "published": "2026-09-28T16:14:54+00:00"
+    },
+    {
       "source": "r/devops",
       "category": "Community",
-      "title": "We audited the default Helm charts and Docker configs of popular AI stack tools (Ray, Weaviate, MCP servers, LangChain). The out-of-the-box security defaults are surprisingly bad.",
-      "link": "https://www.reddit.com/r/devops/comments/1wrkllb/we_audited_the_default_helm_charts_and_docker/",
-      "published": "2026-09-27T13:44:24+00:00"
+      "title": "How I cut non-prod cluster costs by scheduling Kubernetes/OpenShift scale-down (with the approach)",
+      "link": "https://www.reddit.com/r/devops/comments/1wsiuzq/how_i_cut_nonprod_cluster_costs_by_scheduling/",
+      "published": "2026-09-28T16:11:13+00:00"
+    },
+    {
+      "source": "AWS DevOps Blog",
+      "category": "DevOps",
+      "title": "Audit trails for autonomous agents with AWS DevOps Agent",
+      "link": "https://aws.amazon.com/blogs/devops/audit-trails-for-autonomous-agents-with-aws-devops-agent/",
+      "published": "2026-09-28T16:07:26+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Introducing Ask, a new Google Earth Engine feature to accelerate geospatial coding",
+      "link": "https://cloud.google.com/blog/products/data-analytics/accelerate-geospatial-coding-with-ai-in-google-earth-engine/",
+      "published": "2026-09-28T16:00:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Why your startup needs open models alongside frontier APIs",
+      "link": "https://cloud.google.com/blog/topics/startups/why-your-startup-needs-open-models-alongside-frontier-apis/",
+      "published": "2026-09-28T16:00:00+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Experiences with Signadot",
+      "link": "https://www.reddit.com/r/devops/comments/1wse81n/experiences_with_signadot/",
+      "published": "2026-09-28T13:10:34+00:00"
+    },
+    {
+      "source": "CNCF Blog",
+      "category": "Cloud Native",
+      "title": "The case for a cloud native agent harness",
+      "link": "https://www.cncf.io/blog/2026/09/28/the-case-for-a-cloud-native-agent-harness/",
+      "published": "2026-09-28T11:00:00+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "What's your default database these days, and why? Yearly survey (mod-approved)",
+      "link": "https://www.reddit.com/r/devops/comments/1ws9qlg/whats_your_default_database_these_days_and_why/",
+      "published": "2026-09-28T09:14:46+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "A list of cloud emulators and supporting tools",
+      "link": "https://www.reddit.com/r/devops/comments/1ws8zp6/a_list_of_cloud_emulators_and_supporting_tools/",
+      "published": "2026-09-28T08:28:15+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Diagram solutions for git / markdown docs and LLM?",
+      "link": "https://www.reddit.com/r/devops/comments/1ws8aqe/diagram_solutions_for_git_markdown_docs_and_llm/",
+      "published": "2026-09-28T07:44:31+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Storage-optimized Z4D machine family, now GA, is designed for IO-intensive workloads",
+      "link": "https://cloud.google.com/blog/products/compute/storage-optimized-z4d-vm-and-bare-metal-instances/",
+      "published": "2026-09-28T07:00:00+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Weekly Self Promotion Thread",
+      "link": "https://www.reddit.com/r/devops/comments/1ws736h/weekly_self_promotion_thread/",
+      "published": "2026-09-28T06:30:19+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "What's the most annoying \"works locally, dies in production\" bug you've had?",
+      "link": "https://www.reddit.com/r/devops/comments/1ws1iip/whats_the_most_annoying_works_locally_dies_in/",
+      "published": "2026-09-28T01:31:01+00:00"
     },
     {
       "source": "r/devops",
@@ -21,65 +112,25 @@
       "title": "Unorganized Knowledge = Noise",
       "link": "https://www.reddit.com/r/devops/comments/1wrh025/unorganized_knowledge_noise/",
       "published": "2026-09-27T10:39:27+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "How to maintain helm charts of multiple micro-services on k8s at scale ?",
-      "link": "https://www.reddit.com/r/devops/comments/1wr7mw9/how_to_maintain_helm_charts_of_multiple/",
-      "published": "2026-09-27T01:46:56+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Indian devs who self-host tools: what actually becomes painful after 6\u201312 months?",
-      "link": "https://www.reddit.com/r/devops/comments/1wr1vsk/indian_devs_who_selfhost_tools_what_actually/",
-      "published": "2026-09-26T21:16:58+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "DevOps embedded in a non-technical process team, no technical sparring partner",
-      "link": "https://www.reddit.com/r/devops/comments/1wqke4a/devops_embedded_in_a_nontechnical_process_team_no/",
-      "published": "2026-09-26T07:33:31+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "[In preview] Public Preview: Azure HorizonDB supports PostgreSQL 18",
-      "link": "https://azure.microsoft.com/updates?id=573048",
-      "published": "2026-09-25T18:07:26+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "What\u2019s new with Google Cloud",
-      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "published": "2026-09-25T16:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Unlock 3x QPS and microsecond latency with Memorystore for Valkey 9.1",
-      "link": "https://cloud.google.com/blog/products/databases/memorystore-for-valkey-9-1-3x-qps-caching/",
-      "published": "2026-09-25T16:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Storage Intelligence advisor: Know what changed in your storage estate and act on it",
-      "link": "https://cloud.google.com/blog/products/storage-data-transfer/storage-intelligence-advisor-and-batch-operations-updates/",
-      "published": "2026-09-25T16:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Best practices guide for customizing Gemini models via Reinforcement Learning (RL)",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/best-practices-guide-for-customizing-gemini-models/",
-      "published": "2026-09-25T16:00:00+00:00"
     }
   ],
   "devsecops": [
+    {
+      "source": "CISA KEV",
+      "category": "Actively Exploited",
+      "title": "CVE-2026-88772 \u2014 Citrix NetScaler: Citrix NetScaler Improper Restriction of Operations within the Bounds of a Memory Buffer Vulnerability",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88772",
+      "published": "2026-09-27T12:00:00+00:00",
+      "date_only": true
+    },
+    {
+      "source": "CISA KEV",
+      "category": "Actively Exploited",
+      "title": "CVE-2026-88771 \u2014 Citrix NetScaler: Citrix NetScaler Improper Input Validation Vulnerability",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88771",
+      "published": "2026-09-27T12:00:00+00:00",
+      "date_only": true
+    },
     {
       "source": "CISA KEV",
       "category": "Actively Exploited",
@@ -163,30 +214,30 @@
     {
       "source": "The Hacker News",
       "category": "Threats",
+      "title": "Carbonato Botnet Compromises Docker Hosts to Deploy Telegram-Controlled Hermes AI Agent",
+      "link": "https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html",
+      "published": "2026-09-28T17:16:00+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "JADEPUFFER-Linked Attackers Used Compromised Service Principals to Delete Azure Resources",
+      "link": "https://thehackernews.com/2026/09/jadepuffer-linked-attackers-used.html",
+      "published": "2026-09-28T14:38:21+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "CISA Says Attackers Are Exploiting Two Critical Citrix NetScaler Flaws Globally",
+      "link": "https://thehackernews.com/2026/09/cisa-says-attackers-are-exploiting-two.html",
+      "published": "2026-09-28T12:51:49+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
       "title": "Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation",
       "link": "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html",
       "published": "2026-09-27T13:17:57+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials",
-      "link": "https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html",
-      "published": "2026-09-26T23:52:52+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells",
-      "link": "https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html",
-      "published": "2026-09-26T17:16:40+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild",
-      "link": "https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html",
-      "published": "2026-09-26T14:19:53+05:30"
     }
   ],
   "meetups": [],
