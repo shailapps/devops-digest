@@ -1,12 +1,180 @@
 {
-  "generated_at": "2026-09-30T16:38:59.381261+00:00",
+  "generated_at": "2026-10-01T17:15:47.638697+00:00",
   "devops": [
+    {
+      "source": "Azure Updates",
+      "category": "Cloud",
+      "title": "Retirement: DCsv3 and DCdsv3-series Azure Virtual Machines will be retired on October 31,\u00a02029",
+      "link": "https://azure.microsoft.com/updates?id=569592",
+      "published": "2026-10-01T17:02:55+00:00"
+    },
     {
       "source": "r/devops",
       "category": "Community",
-      "title": "The Lunch Incident: A Short Novel About Accidental Architecture",
-      "link": "https://www.reddit.com/r/devops/comments/1wu8ybf/the_lunch_incident_a_short_novel_about_accidental/",
-      "published": "2026-09-30T16:07:41+00:00"
+      "title": "Do you guys feel lucky to be in devops or to have switched to devops ?",
+      "link": "https://www.reddit.com/r/devops/comments/1wv48hx/do_you_guys_feel_lucky_to_be_in_devops_or_to_have/",
+      "published": "2026-10-01T16:35:44+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Experience with XAML Builds in Azure DevOps 2020 on prem Upgrade to latest Azure DevOps Version",
+      "link": "https://www.reddit.com/r/devops/comments/1wv456u/experience_with_xaml_builds_in_azure_devops_2020/",
+      "published": "2026-10-01T16:32:13+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Enabling Cloud Storage end-to-end checksums for improved data integrity and durability",
+      "link": "https://cloud.google.com/blog/products/storage-data-transfer/enabling-end-to-end-checksums-in-cloud-storage/",
+      "published": "2026-10-01T16:00:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Accelerating analytics: PayPal\u2019s journey with Managed Service for Apache Spark",
+      "link": "https://cloud.google.com/blog/products/data-analytics/paypals-journey-with-managed-service-for-apache-spark/",
+      "published": "2026-10-01T16:00:00+00:00"
+    },
+    {
+      "source": "AWS DevOps Blog",
+      "category": "DevOps",
+      "title": "How Mirelo AI brought sound design to the IDE with MCP and Kiro powers",
+      "link": "https://aws.amazon.com/blogs/devops/how-mirelo-ai-brought-sound-design-to-the-ide-with-mcp-and-kiro-powers/",
+      "published": "2026-10-01T14:49:24+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "AI Comisseration Follow up",
+      "link": "https://www.reddit.com/r/devops/comments/1wv0mpl/ai_comisseration_follow_up/",
+      "published": "2026-10-01T14:17:27+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Introducing the Server Side Cloud Swift SDK",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/introducing-the-server-side-cloud-swift-sdk/",
+      "published": "2026-10-01T13:00:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Democratizing Managed Lustre with lower cost and frictionless development",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/democratizing-managed-lustre-with-lower-cost-and-frictionless-development/",
+      "published": "2026-10-01T13:00:00+00:00"
+    },
+    {
+      "source": "CNCF Blog",
+      "category": "Cloud Native",
+      "title": "Guardrails, not gates: rethinking policy in platform teams",
+      "link": "https://www.cncf.io/blog/2026/10/01/guardrails-not-gates-rethinking-policy-in-platform-teams/",
+      "published": "2026-10-01T11:30:00+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Fun find: instagram.com's SSL cert expires in 8 days. Somebody at Meta set a reminder, right?",
+      "link": "https://www.reddit.com/r/devops/comments/1wuucos/fun_find_instagramcoms_ssl_cert_expires_in_8_days/",
+      "published": "2026-10-01T08:51:23+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "The flood of \"part-time remote US DevOps contracts\" is an interview proxy & identity theft scam",
+      "link": "https://www.reddit.com/r/devops/comments/1wuq9g1/the_flood_of_parttime_remote_us_devops_contracts/",
+      "published": "2026-10-01T04:37:11+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Nobody Is Listening on Port 8125",
+      "link": "https://www.reddit.com/r/devops/comments/1wulbjy/nobody_is_listening_on_port_8125/",
+      "published": "2026-10-01T00:24:58+00:00"
+    },
+    {
+      "source": "AWS Blog",
+      "category": "Cloud",
+      "title": "Amazon S3 Tables now support all Apache Iceberg V3 data types",
+      "link": "https://aws.amazon.com/blogs/aws/amazon-s3-tables-now-support-all-apache-iceberg-v3-data-types/",
+      "published": "2026-09-30T22:10:00+00:00"
+    },
+    {
+      "source": "Azure Updates",
+      "category": "Cloud",
+      "title": "[In preview] Public Preview: SQL performance monitoring for SQL Server on Azure Virtual Machines",
+      "link": "https://azure.microsoft.com/updates?id=571894",
+      "published": "2026-09-30T21:13:13+00:00"
+    },
+    {
+      "source": "AWS Blog",
+      "category": "Cloud",
+      "title": "Amazon S3 Vectors now supports metadata pre-filtering for higher recall on filtered searches",
+      "link": "https://aws.amazon.com/blogs/aws/amazon-s3-vectors-now-supports-metadata-pre-filtering-for-higher-recall-on-filtered-searches/",
+      "published": "2026-09-30T20:03:34+00:00"
+    },
+    {
+      "source": "AWS DevOps Blog",
+      "category": "DevOps",
+      "title": "Running production experiments with AWS AppConfig experimentation",
+      "link": "https://aws.amazon.com/blogs/devops/running-production-experiments-with-aws-appconfig-experimentation/",
+      "published": "2026-09-30T19:45:35+00:00"
+    },
+    {
+      "source": "Azure Updates",
+      "category": "Cloud",
+      "title": "Retirement: NVv3-series Azure Virtual Machines",
+      "link": "https://azure.microsoft.com/updates?id=573414",
+      "published": "2026-09-30T18:26:47+00:00"
+    },
+    {
+      "source": "Azure Updates",
+      "category": "Cloud",
+      "title": "Retirement: NVv4-series Azure Virtual Machines",
+      "link": "https://azure.microsoft.com/updates?id=573415",
+      "published": "2026-09-30T18:24:01+00:00"
+    },
+    {
+      "source": "AWS Blog",
+      "category": "Cloud",
+      "title": "Amazon Aurora PostgreSQL now supports direct querying of Apache Iceberg and Parquet data in your data lake",
+      "link": "https://aws.amazon.com/blogs/aws/amazon-aurora-postgresql-now-supports-direct-querying-of-apache-iceberg-and-parquet-data-in-your-data-lake/",
+      "published": "2026-09-30T17:22:31+00:00"
+    },
+    {
+      "source": "Azure Updates",
+      "category": "Cloud",
+      "title": "[In preview] Public Preview: Ubuntu 26.04 support in AKS",
+      "link": "https://azure.microsoft.com/updates?id=573214",
+      "published": "2026-09-30T17:11:11+00:00"
+    },
+    {
+      "source": "Azure Updates",
+      "category": "Cloud",
+      "title": "Announcing: Azure canvases for GitHub Copilot",
+      "link": "https://azure.microsoft.com/updates?id=573385",
+      "published": "2026-09-30T17:09:51+00:00"
+    },
+    {
+      "source": "Azure Updates",
+      "category": "Cloud",
+      "title": "Retirement: Dv3, Dsv3, Ev3, and Esv3 Azure VMs",
+      "link": "https://azure.microsoft.com/updates?id=572346",
+      "published": "2026-09-30T17:07:30+00:00"
+    },
+    {
+      "source": "AWS Blog",
+      "category": "Cloud",
+      "title": "Celebrating Our Newest AWS Heroes \u2013 September 2026",
+      "link": "https://aws.amazon.com/blogs/aws/celebrating-our-newest-aws-heroes-september-2026/",
+      "published": "2026-09-30T17:04:05+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "What\u2019s new in AI infrastructure and orchestration in September",
+      "link": "https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/",
+      "published": "2026-09-30T16:00:00+00:00"
     },
     {
       "source": "Google Cloud Blog",
@@ -30,13 +198,6 @@
       "published": "2026-09-30T16:00:00+00:00"
     },
     {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "What\u2019s new in AI infrastructure and orchestration in September",
-      "link": "https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/",
-      "published": "2026-09-30T16:00:00+00:00"
-    },
-    {
       "source": "AWS DevOps Blog",
       "category": "DevOps",
       "title": "Accelerating AS/400 business rule extraction with Kiro: Step-by-step guide",
@@ -51,20 +212,6 @@
       "published": "2026-09-30T15:24:47+00:00"
     },
     {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Vulnerability Discovery and Exploitation Trends in the AI Era",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/vulnerability-discovery-and-exploitation-trends-in-the-ai-era/",
-      "published": "2026-09-30T14:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Data Agent Kit is now GA: Bring Google Data Cloud to any coding agent",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/data-agent-kit-is-now-ga-bring-google-data-cloud-to-any-coding-agent/",
-      "published": "2026-09-30T13:00:00+00:00"
-    },
-    {
       "source": "CNCF Blog",
       "category": "Cloud Native",
       "title": "From 40 seconds to under 10: rebuilding incident detection on OpenTelemetry, Apache Kafka, and Apache Flink on Kubernetes",
@@ -74,138 +221,20 @@
     {
       "source": "r/devops",
       "category": "Community",
-      "title": "Has AI made application development faster than infrastructure teams can safely support?",
-      "link": "https://www.reddit.com/r/devops/comments/1wtxk1e/has_ai_made_application_development_faster_than/",
-      "published": "2026-09-30T06:23:32+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "If AI makes everyone a 10x developer\u2026 who gets promoted?",
-      "link": "https://www.reddit.com/r/devops/comments/1wttw5o/if_ai_makes_everyone_a_10x_developer_who_gets/",
-      "published": "2026-09-30T02:57:56+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Ran AskUI in our pipeline for three months, notes on getting desktop UI tests working in CI",
-      "link": "https://www.reddit.com/r/devops/comments/1wtru2c/ran_askui_in_our_pipeline_for_three_months_notes/",
-      "published": "2026-09-30T01:16:22+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
       "title": "Is it just me or Github actions is overrated?",
       "link": "https://www.reddit.com/r/devops/comments/1wtnlus/is_it_just_me_or_github_actions_is_overrated/",
       "published": "2026-09-29T22:03:50+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Critical RCE Alert: Full takeover of HashiCorp Vault and OpenBao. OpenBao is patched. Vault remains exposed",
-      "link": "https://www.reddit.com/r/devops/comments/1wtmrbu/critical_rce_alert_full_takeover_of_hashicorp/",
-      "published": "2026-09-29T21:29:53+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "Retirement: Azure Functions v1 hosting model on Azure Container Apps",
-      "link": "https://azure.microsoft.com/updates?id=570800",
-      "published": "2026-09-29T19:41:09+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "[Launched] Generally Available: Storage optimized Lasv5 and Laosv5 Azure VM series",
-      "link": "https://azure.microsoft.com/updates?id=572630",
-      "published": "2026-09-29T19:27:09+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "[In preview] Public Preview: Automatic Zone Placement for Virtual Machine Scale Sets",
-      "link": "https://azure.microsoft.com/updates?id=571075",
-      "published": "2026-09-29T19:17:59+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "[Launched] Generally Available: Azure Arc-enabled SQL Server in Germany West Central",
-      "link": "https://azure.microsoft.com/updates?id=570696",
-      "published": "2026-09-29T19:07:44+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "[Launched] Generally Available: Azure Arc-enabled SQL Server Available in Italy North",
-      "link": "https://azure.microsoft.com/updates?id=570763",
-      "published": "2026-09-29T19:06:50+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "[In preview] Public Preview: Azure Database for PostgreSQL Ultra Disk",
-      "link": "https://azure.microsoft.com/updates?id=571909",
-      "published": "2026-09-29T18:14:46+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "[In preview] Public Preview: SQL Performance Monitoring for Azure SQL Database",
-      "link": "https://azure.microsoft.com/updates?id=571867",
-      "published": "2026-09-29T18:13:31+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "[In preview] Public Preview: Performance monitoring for Azure Arc\u2013enabled SQL Server",
-      "link": "https://azure.microsoft.com/updates?id=571904",
-      "published": "2026-09-29T18:11:15+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Accelerating agentic RL and evaluation research velocity with 45x faster GKE Agent Sandbox",
-      "link": "https://cloud.google.com/blog/products/containers-kubernetes/accelerate-agentic-rl-with-gke-agent-sandbox/",
-      "published": "2026-09-29T17:00:00+00:00"
-    },
-    {
-      "source": "AWS DevOps Blog",
-      "category": "DevOps",
-      "title": "Building a Slack-powered AI development agent with Kiro CLI and headless authentication",
-      "link": "https://aws.amazon.com/blogs/devops/building-a-slack-powered-ai-development-agent-with-kiro-cli-and-headless-authentication/",
-      "published": "2026-09-29T16:02:43+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Graph Workflows in ADK: Everything You Need to Know",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/graph-workflows-in-adk-everything-you-need-to-know/",
-      "published": "2026-09-29T16:00:00+00:00"
-    },
-    {
-      "source": "AWS DevOps Blog",
-      "category": "DevOps",
-      "title": "Accelerating development workflows with Kiro CLI as a Pre-Commit and Git Hook Agent",
-      "link": "https://aws.amazon.com/blogs/devops/accelerating-development-workflows-with-kiro-cli-as-a-pre-commit-and-git-hook-agent/",
-      "published": "2026-09-29T15:59:26+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "AWS ECS/Fargate SQS autoscaling with min capacity 0: how to bootstrap from 0 tasks using backlog-per-task target tracking?",
-      "link": "https://www.reddit.com/r/devops/comments/1wt92vd/aws_ecsfargate_sqs_autoscaling_with_min_capacity/",
-      "published": "2026-09-29T12:42:07+00:00"
-    },
-    {
-      "source": "AWS DevOps Blog",
-      "category": "DevOps",
-      "title": "How Property Finder automated incident management with AWS DevOps Agent",
-      "link": "https://aws.amazon.com/blogs/devops/how-property-finder-automated-incident-management-with-aws-devops-agent/",
-      "published": "2026-09-28T19:03:40+00:00"
     }
   ],
   "devsecops": [
+    {
+      "source": "CISA KEV",
+      "category": "Actively Exploited",
+      "title": "CVE-2026-76504 \u2014 Cisco Catalyst SD-WAN Manager: Cisco Catalyst SD-WAN Manager Hex Encoding Vulnerability",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-76504",
+      "published": "2026-09-30T12:00:00+00:00",
+      "date_only": true
+    },
     {
       "source": "CISA KEV",
       "category": "Actively Exploited",
@@ -273,6 +302,69 @@
     {
       "source": "The Hacker News",
       "category": "Threats",
+      "title": "Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers",
+      "link": "https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html",
+      "published": "2026-10-01T22:25:57+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories",
+      "link": "https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html",
+      "published": "2026-10-01T22:15:38+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "How Financial Services Companies Can Modernize Their Software Supply Chain",
+      "link": "https://thehackernews.com/2026/10/how-financial-services-companies-can.html",
+      "published": "2026-10-01T17:15:00+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "CISA Adds Exploited Cisco Catalyst SD-WAN Manager Auth Bypass to KEV",
+      "link": "https://thehackernews.com/2026/10/cisa-adds-exploited-cisco-catalyst-sd.html",
+      "published": "2026-10-01T16:03:16+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Apple CoreGraphics PoC Emerges as WhatsApp PDF Checks Hint at Possible Delivery Path",
+      "link": "https://thehackernews.com/2026/10/apple-coregraphics-poc-emerges-as.html",
+      "published": "2026-10-01T11:24:41+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Bitget Confirms Third-Party Zero-Day Behind $387.5 Million Cryptocurrency Theft",
+      "link": "https://thehackernews.com/2026/10/bitget-confirms-third-party-zero-day.html",
+      "published": "2026-10-01T10:51:10+05:30"
+    },
+    {
+      "source": "Snyk",
+      "category": "AppSec",
+      "title": "Why AI Coding Agents Keep Writing Broken Access Control",
+      "link": "https://snyk.io/blog/ai-coding-agents-broken-access-control/",
+      "published": "2026-10-01T04:00:00+00:00"
+    },
+    {
+      "source": "Sysdig",
+      "category": "Cloud & Container",
+      "title": "With AI agents, runtime is the only place truth lives",
+      "link": "https://webflow.sysdig.com/blog/with-ai-agents-runtime-is-the-only-place-truth-lives",
+      "published": "2026-10-01T00:00:00+00:00"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets",
+      "link": "https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html",
+      "published": "2026-09-30T22:16:29+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
       "title": "Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager",
       "link": "https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html",
       "published": "2026-09-30T20:54:54+05:30"
@@ -318,48 +410,6 @@
       "title": "Evo ADS Govern Agent Behavior Goes GA: Bringing MCP Usage Under Control",
       "link": "https://snyk.io/blog/evo-ads-govern-agent-behavior-ga/",
       "published": "2026-09-30T04:00:00+00:00"
-    },
-    {
-      "source": "OpenSSF",
-      "category": "Supply Chain",
-      "title": "What\u2019s in the SOSS? Podcast #74 \u2013 S3E26 Building the Agentic Future with Angie Jones",
-      "link": "https://openssf.org/podcast/2026/09/29/whats-in-the-soss-podcast-74-s3e26-building-the-agentic-future-with-angie-jones/",
-      "published": "2026-09-29T14:13:09+00:00"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "101 Malicious npm Packages Add Developers' WhatsApp Accounts to Groups Without Consent",
-      "link": "https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html",
-      "published": "2026-09-29T19:15:10+05:30"
-    },
-    {
-      "source": "OpenSSF",
-      "category": "Supply Chain",
-      "title": "CRA Tech Talk, 09/07/2026",
-      "link": "https://openssf.org/policy/cra/2026/09/29/cra-tech-talk-09-07-2026/",
-      "published": "2026-09-29T10:25:11+00:00"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks",
-      "link": "https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html",
-      "published": "2026-09-29T00:48:01+05:30"
-    },
-    {
-      "source": "GitHub Security Blog",
-      "category": "Supply Chain",
-      "title": "How we found 24 Android vulnerabilities using our open source AI security agent",
-      "link": "https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/",
-      "published": "2026-09-28T19:00:00+00:00"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "IAM for AI agents: A Practical Enterprise Framework",
-      "link": "https://thehackernews.com/2026/09/iam-for-ai-agent.html",
-      "published": "2026-09-28T23:50:38+05:30"
     }
   ],
   "meetups": [],
