@@ -1,6 +1,132 @@
 {
-  "generated_at": "2026-10-01T17:15:47.638697+00:00",
+  "generated_at": "2026-10-02T16:28:42.650305+00:00",
   "devops": [
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Announcing Spanner queues: Transactional messaging for agentic workloads and beyond",
+      "link": "https://cloud.google.com/blog/products/databases/spanner-queues-provide-native-transactional-messaging/",
+      "published": "2026-10-02T16:00:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "GKE CPU startup boost: Accelerate app starts without over-provisioning",
+      "link": "https://cloud.google.com/blog/products/containers-kubernetes/gke-cpu-startup-boost-faster-pod-starts-lower-costs/",
+      "published": "2026-10-02T16:00:00+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Forgejo runner needs to apply configuration on host as root",
+      "link": "https://www.reddit.com/r/devops/comments/1wvxe7x/forgejo_runner_needs_to_apply_configuration_on/",
+      "published": "2026-10-02T15:53:13+00:00"
+    },
+    {
+      "source": "AWS DevOps Blog",
+      "category": "DevOps",
+      "title": "Integrate AWS DevOps Agent with third-party tools using Amazon EventBridge",
+      "link": "https://aws.amazon.com/blogs/devops/integrate-aws-devops-agent-with-third-party-tools-using-amazon-eventbridge/",
+      "published": "2026-10-02T15:50:00+00:00"
+    },
+    {
+      "source": "AWS DevOps Blog",
+      "category": "DevOps",
+      "title": "Closed-loop incident response: connect AWS DevOps Agent to OpenSearch",
+      "link": "https://aws.amazon.com/blogs/devops/closed-loop-incident-response-connect-aws-devops-agent-to-opensearch/",
+      "published": "2026-10-02T15:24:49+00:00"
+    },
+    {
+      "source": "CNCF Blog",
+      "category": "Cloud Native",
+      "title": "KubeCon + CloudNativeCon North America 2026: Join the cloud native community at OpenTofu Day",
+      "link": "https://www.cncf.io/blog/2026/10/02/kubecon-cloudnativecon-north-america-2026-join-the-cloud-native-community-at-opentofu-day/",
+      "published": "2026-10-02T15:22:44+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "C\u00f3mo filtran el ruido de alertas en clusters Kubernetes?",
+      "link": "https://www.reddit.com/r/devops/comments/1wvv4cq/c\u00f3mo_filtran_el_ruido_de_alertas_en_clusters/",
+      "published": "2026-10-02T14:22:38+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Am I cursed? Is this the end? Where did the clients go?",
+      "link": "https://www.reddit.com/r/devops/comments/1wvuprh/am_i_cursed_is_this_the_end_where_did_the_clients/",
+      "published": "2026-10-02T14:05:53+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "When does self service infrastructure become too much self service?",
+      "link": "https://www.reddit.com/r/devops/comments/1wvsu17/when_does_self_service_infrastructure_become_too/",
+      "published": "2026-10-02T12:44:12+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Do self taught engineers still exist?",
+      "link": "https://www.reddit.com/r/devops/comments/1wvpw3s/do_self_taught_engineers_still_exist/",
+      "published": "2026-10-02T10:03:42+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "What net cost-savings have you realized from cloud-agnostic infrastructure?",
+      "link": "https://www.reddit.com/r/devops/comments/1wvodl9/what_net_costsavings_have_you_realized_from/",
+      "published": "2026-10-02T08:25:53+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "How to implement long-term AI agent memory in AlloyDB and Memorystore for Valkey",
+      "link": "https://cloud.google.com/blog/products/databases/implementing-long-term-ai-agent-memory-in-alloydb-and-memorystore/",
+      "published": "2026-10-02T07:00:00+00:00"
+    },
+    {
+      "source": "CNCF Blog",
+      "category": "Cloud Native",
+      "title": "KubeCon + CloudNativeCon North America 2026: From user to contributor to maintainer",
+      "link": "https://www.cncf.io/blog/2026/10/01/kubecon-cloudnativecon-north-america-2026-from-user-to-contributor-to-maintainer/",
+      "published": "2026-10-02T00:13:19+00:00"
+    },
+    {
+      "source": "CNCF Blog",
+      "category": "Cloud Native",
+      "title": "KubeCon + CloudNativeCon North America 2026: Build your infrastructure engineer journey",
+      "link": "https://www.cncf.io/blog/2026/10/01/kubecon-cloudnativecon-north-america-2026-build-your-infrastructure-engineer-journey/",
+      "published": "2026-10-02T00:06:46+00:00"
+    },
+    {
+      "source": "CNCF Blog",
+      "category": "Cloud Native",
+      "title": "KubeCon + CloudNativeCon North America 2026: Build your application developer journey",
+      "link": "https://www.cncf.io/blog/2026/10/01/kubecon-cloudnativecon-north-america-2026-build-your-application-developer-journey/",
+      "published": "2026-10-01T23:52:52+00:00"
+    },
+    {
+      "source": "AWS Blog",
+      "category": "Cloud",
+      "title": "Announcing AWS Well-Architected Agent, an AI-powered intelligence to optimize your cloud environment (preview)",
+      "link": "https://aws.amazon.com/blogs/aws/announcing-aws-well-architected-agent-an-ai-powered-intelligence-to-optimize-your-cloud-environment-preview/",
+      "published": "2026-10-01T20:04:04+00:00"
+    },
+    {
+      "source": "CNCF Blog",
+      "category": "Cloud Native",
+      "title": "KubeCon + CloudNativeCon North America 2026: Build your SRE journey",
+      "link": "https://www.cncf.io/blog/2026/10/01/kubecon-cloudnativecon-north-america-2026-build-your-sre-journey/",
+      "published": "2026-10-01T19:34:20+00:00"
+    },
+    {
+      "source": "Docker Blog",
+      "category": "Cloud Native",
+      "title": "Trust Docker for the agents you don\u2019t",
+      "link": "https://www.docker.com/blog/docker-cloud-sandboxes-wearedevelopers-recap/",
+      "published": "2026-10-01T18:26:12+00:00"
+    },
     {
       "source": "Azure Updates",
       "category": "Cloud",
@@ -14,13 +140,6 @@
       "title": "Do you guys feel lucky to be in devops or to have switched to devops ?",
       "link": "https://www.reddit.com/r/devops/comments/1wv48hx/do_you_guys_feel_lucky_to_be_in_devops_or_to_have/",
       "published": "2026-10-01T16:35:44+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Experience with XAML Builds in Azure DevOps 2020 on prem Upgrade to latest Azure DevOps Version",
-      "link": "https://www.reddit.com/r/devops/comments/1wv456u/experience_with_xaml_builds_in_azure_devops_2020/",
-      "published": "2026-10-01T16:32:13+00:00"
     },
     {
       "source": "Google Cloud Blog",
@@ -44,20 +163,6 @@
       "published": "2026-10-01T14:49:24+00:00"
     },
     {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "AI Comisseration Follow up",
-      "link": "https://www.reddit.com/r/devops/comments/1wv0mpl/ai_comisseration_follow_up/",
-      "published": "2026-10-01T14:17:27+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Introducing the Server Side Cloud Swift SDK",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/introducing-the-server-side-cloud-swift-sdk/",
-      "published": "2026-10-01T13:00:00+00:00"
-    },
-    {
       "source": "Google Cloud Blog",
       "category": "Cloud",
       "title": "Democratizing Managed Lustre with lower cost and frictionless development",
@@ -72,25 +177,18 @@
       "published": "2026-10-01T11:30:00+00:00"
     },
     {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Fun find: instagram.com's SSL cert expires in 8 days. Somebody at Meta set a reminder, right?",
-      "link": "https://www.reddit.com/r/devops/comments/1wuucos/fun_find_instagramcoms_ssl_cert_expires_in_8_days/",
-      "published": "2026-10-01T08:51:23+00:00"
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "The future of browser-based security: Leveraging browser data for proactive defense",
+      "link": "https://cloud.google.com/blog/products/chrome-enterprise/the-future-of-browser-based-security-leveraging-browser-data-for-proactive-defense/",
+      "published": "2026-10-01T09:02:00+00:00"
     },
     {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "The flood of \"part-time remote US DevOps contracts\" is an interview proxy & identity theft scam",
-      "link": "https://www.reddit.com/r/devops/comments/1wuq9g1/the_flood_of_parttime_remote_us_devops_contracts/",
-      "published": "2026-10-01T04:37:11+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Nobody Is Listening on Port 8125",
-      "link": "https://www.reddit.com/r/devops/comments/1wulbjy/nobody_is_listening_on_port_8125/",
-      "published": "2026-10-01T00:24:58+00:00"
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Introducing the Server Side Cloud Swift SDK",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/introducing-the-server-side-cloud-swift-sdk/",
+      "published": "2026-10-01T04:00:00+00:00"
     },
     {
       "source": "AWS Blog",
@@ -168,65 +266,33 @@
       "title": "Celebrating Our Newest AWS Heroes \u2013 September 2026",
       "link": "https://aws.amazon.com/blogs/aws/celebrating-our-newest-aws-heroes-september-2026/",
       "published": "2026-09-30T17:04:05+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "What\u2019s new in AI infrastructure and orchestration in September",
-      "link": "https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/",
-      "published": "2026-09-30T16:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Cloud CISO Perspectives: How cybersecurity startups can win CISOs",
-      "link": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-cybersecurity-startups-can-win-cisos/",
-      "published": "2026-09-30T16:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Empower your agents with the Google Cloud CLI remote MCP server",
-      "link": "https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-cli-remote-mcp-server-in-preview/",
-      "published": "2026-09-30T16:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Spanner Omni, now GA: A distributed, multi-model database that you can deploy anywhere",
-      "link": "https://cloud.google.com/blog/products/databases/spanner-omni-deploy-anywhere-version-of-spanner-is-now-ga/",
-      "published": "2026-09-30T16:00:00+00:00"
-    },
-    {
-      "source": "AWS DevOps Blog",
-      "category": "DevOps",
-      "title": "Accelerating AS/400 business rule extraction with Kiro: Step-by-step guide",
-      "link": "https://aws.amazon.com/blogs/devops/accelerating-as-400-business-rule-extraction-with-kiro-step-by-step-guide/",
-      "published": "2026-09-30T15:43:51+00:00"
-    },
-    {
-      "source": "CNCF Blog",
-      "category": "Cloud Native",
-      "title": "ArgoCon North America 2026: What to expect as the Argo community looks toward CD 4.0",
-      "link": "https://www.cncf.io/blog/2026/09/30/argocon-north-america-2026-what-to-expect-as-the-argo-community-looks-toward-cd-4-0/",
-      "published": "2026-09-30T15:24:47+00:00"
-    },
-    {
-      "source": "CNCF Blog",
-      "category": "Cloud Native",
-      "title": "From 40 seconds to under 10: rebuilding incident detection on OpenTelemetry, Apache Kafka, and Apache Flink on Kubernetes",
-      "link": "https://www.cncf.io/blog/2026/09/30/from-40-seconds-to-under-10-rebuilding-incident-detection-on-opentelemetry-apache-kafka-and-apache-flink-on-kubernetes/",
-      "published": "2026-09-30T11:00:00+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Is it just me or Github actions is overrated?",
-      "link": "https://www.reddit.com/r/devops/comments/1wtnlus/is_it_just_me_or_github_actions_is_overrated/",
-      "published": "2026-09-29T22:03:50+00:00"
     }
   ],
   "devsecops": [
+    {
+      "source": "CISA KEV",
+      "category": "Actively Exploited",
+      "title": "CVE-2026-102490 \u2014 Zammad GmbH Zammad: Zammad GmbH Zammad Improper Privilege Management Vulnerability",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-102490",
+      "published": "2026-10-02T12:00:00+00:00",
+      "date_only": true
+    },
+    {
+      "source": "CISA KEV",
+      "category": "Actively Exploited",
+      "title": "CVE-2026-102489 \u2014 Zammad GmbH Zammad: Zammad GmbH Zammad Session Fixation Vulnerability",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-102489",
+      "published": "2026-10-02T12:00:00+00:00",
+      "date_only": true
+    },
+    {
+      "source": "CISA KEV",
+      "category": "Actively Exploited",
+      "title": "CVE-2026-104286 \u2014 Fortinet FortiMail: Fortinet FortiMail Path Traversal Vulnerability",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-104286",
+      "published": "2026-10-01T12:00:00+00:00",
+      "date_only": true
+    },
     {
       "source": "CISA KEV",
       "category": "Actively Exploited",
@@ -284,20 +350,32 @@
       "date_only": true
     },
     {
-      "source": "CISA KEV",
-      "category": "Actively Exploited",
-      "title": "CVE-2026-5430 \u2014 WSO2 Multiple Products: WSO2 Multiple Products Path Traversal Vulnerability ",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-5430",
-      "published": "2026-09-24T12:00:00+00:00",
-      "date_only": true
+      "source": "Aqua Security",
+      "category": "Cloud & Container",
+      "title": "Integrate Aqua and Jira to Turn Security Findings Into Action",
+      "link": "https://www.aquasec.com/blog/integrate-aqua-and-jira-to-turn-security-findings-into-action/",
+      "published": "2026-10-02T13:12:39+00:00"
     },
     {
-      "source": "CISA KEV",
-      "category": "Actively Exploited",
-      "title": "CVE-2026-71362 \u2014 Adobe Commerce and Magento : Adobe Commerce and Magento Incorrect Authorization Vulnerability ",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71362",
-      "published": "2026-09-24T12:00:00+00:00",
-      "date_only": true
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Why CISOs Struggle to Answer the Board's Three Hardest Questions, and How to Fix the Report",
+      "link": "https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html",
+      "published": "2026-10-02T17:00:00+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes",
+      "link": "https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html",
+      "published": "2026-10-02T11:19:50+05:30"
+    },
+    {
+      "source": "Sysdig",
+      "category": "Cloud & Container",
+      "title": "AI agent exploits Zammad zero-days in DIVD breach: What we know and how to detect it",
+      "link": "https://webflow.sysdig.com/blog/ai-agent-exploits-zammad-zero-days-in-divd-breach-what-we-know-and-how-to-detect-it",
+      "published": "2026-10-02T00:00:00+00:00"
     },
     {
       "source": "The Hacker News",
@@ -361,55 +439,6 @@
       "title": "Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets",
       "link": "https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html",
       "published": "2026-09-30T22:16:29+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager",
-      "link": "https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html",
-      "published": "2026-09-30T20:54:54+05:30"
-    },
-    {
-      "source": "Aqua Security",
-      "category": "Cloud & Container",
-      "title": "Supply Chain Security Has the Operating Model Backwards",
-      "link": "https://www.aquasec.com/blog/supply-chain-security-has-the-operating-model-backwards/",
-      "published": "2026-09-30T12:47:21+00:00"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "AI Coding Agents Exposed 13,000 Internal Images, Including Billing Records, on GitHub",
-      "link": "https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html",
-      "published": "2026-09-30T17:00:00+05:30"
-    },
-    {
-      "source": "OpenSSF",
-      "category": "Supply Chain",
-      "title": "OpenSSF Newsletter \u2013 September 2026",
-      "link": "https://openssf.org/newsletter/2026/09/30/openssf-newsletter-september-2026/",
-      "published": "2026-09-30T11:25:38+00:00"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution",
-      "link": "https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html",
-      "published": "2026-09-30T11:00:30+05:30"
-    },
-    {
-      "source": "Snyk",
-      "category": "AppSec",
-      "title": "What Is Agentic AppSec?",
-      "link": "https://snyk.io/blog/what-is-agentic-appsec/",
-      "published": "2026-09-30T04:00:00+00:00"
-    },
-    {
-      "source": "Snyk",
-      "category": "AppSec",
-      "title": "Evo ADS Govern Agent Behavior Goes GA: Bringing MCP Usage Under Control",
-      "link": "https://snyk.io/blog/evo-ads-govern-agent-behavior-ga/",
-      "published": "2026-09-30T04:00:00+00:00"
     }
   ],
   "meetups": [],
