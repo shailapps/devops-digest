@@ -1,19 +1,47 @@
 {
-  "generated_at": "2026-10-03T15:02:24.894439+00:00",
+  "generated_at": "2026-10-04T15:38:44.863142+00:00",
   "devops": [
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Looking for a mentor to guide me and hold me accountabile",
+      "link": "https://www.reddit.com/r/devops/comments/1wxhi9k/looking_for_a_mentor_to_guide_me_and_hold_me/",
+      "published": "2026-10-04T14:49:31+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "AI agents observability in backstage with langfuse and OTEL",
+      "link": "https://www.reddit.com/r/devops/comments/1wxgt8n/ai_agents_observability_in_backstage_with/",
+      "published": "2026-10-04T14:18:24+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Has anyone ever tried listening to their infrastructure instead of watching it?",
+      "link": "https://www.reddit.com/r/devops/comments/1wxbzu3/has_anyone_ever_tried_listening_to_their/",
+      "published": "2026-10-04T10:01:39+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "If your company already uses AWS what would actually make you choose a second cloud provider?",
+      "link": "https://www.reddit.com/r/devops/comments/1wx9d17/if_your_company_already_uses_aws_what_would/",
+      "published": "2026-10-04T07:12:40+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Does Professional DevOps feel as monotonous as \"Hobbyist DevOps\" is?",
+      "link": "https://www.reddit.com/r/devops/comments/1wx3keo/does_professional_devops_feel_as_monotonous_as/",
+      "published": "2026-10-04T01:40:12+00:00"
+    },
     {
       "source": "r/devops",
       "category": "Community",
       "title": "To Seniors, I am wondering what unique I can do in devops, everyone is making agent which auto heals cluster,end to end devsecops projects are all over YouTube.",
       "link": "https://www.reddit.com/r/devops/comments/1wwj7mh/to_seniors_i_am_wondering_what_unique_i_can_do_in/",
       "published": "2026-10-03T09:42:37+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "What's on your Saturday \"fix it before Monday\" infrastructure list today?",
-      "link": "https://www.reddit.com/r/devops/comments/1wwh2yn/whats_on_your_saturday_fix_it_before_monday/",
-      "published": "2026-10-03T07:26:33+00:00"
     },
     {
       "source": "Google Cloud Blog",
@@ -51,130 +79,11 @@
       "published": "2026-10-02T16:00:00+00:00"
     },
     {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Forgejo runner needs to apply configuration on host as root",
-      "link": "https://www.reddit.com/r/devops/comments/1wvxe7x/forgejo_runner_needs_to_apply_configuration_on/",
-      "published": "2026-10-02T15:53:13+00:00"
-    },
-    {
       "source": "AWS DevOps Blog",
       "category": "DevOps",
       "title": "Integrate AWS DevOps Agent with third-party tools using Amazon EventBridge",
       "link": "https://aws.amazon.com/blogs/devops/integrate-aws-devops-agent-with-third-party-tools-using-amazon-eventbridge/",
       "published": "2026-10-02T15:50:00+00:00"
-    },
-    {
-      "source": "AWS DevOps Blog",
-      "category": "DevOps",
-      "title": "Closed-loop incident response: connect AWS DevOps Agent to OpenSearch",
-      "link": "https://aws.amazon.com/blogs/devops/closed-loop-incident-response-connect-aws-devops-agent-to-opensearch/",
-      "published": "2026-10-02T15:24:49+00:00"
-    },
-    {
-      "source": "CNCF Blog",
-      "category": "Cloud Native",
-      "title": "KubeCon + CloudNativeCon North America 2026: Join the cloud native community at OpenTofu Day",
-      "link": "https://www.cncf.io/blog/2026/10/02/kubecon-cloudnativecon-north-america-2026-join-the-cloud-native-community-at-opentofu-day/",
-      "published": "2026-10-02T15:22:44+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Am I cursed? Is this the end? Where did the clients go?",
-      "link": "https://www.reddit.com/r/devops/comments/1wvuprh/am_i_cursed_is_this_the_end_where_did_the_clients/",
-      "published": "2026-10-02T14:05:53+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "When does self service infrastructure become too much self service?",
-      "link": "https://www.reddit.com/r/devops/comments/1wvsu17/when_does_self_service_infrastructure_become_too/",
-      "published": "2026-10-02T12:44:12+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Do self taught engineers still exist?",
-      "link": "https://www.reddit.com/r/devops/comments/1wvpw3s/do_self_taught_engineers_still_exist/",
-      "published": "2026-10-02T10:03:42+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "How to implement long-term AI agent memory in AlloyDB and Memorystore for Valkey",
-      "link": "https://cloud.google.com/blog/products/databases/implementing-long-term-ai-agent-memory-in-alloydb-and-memorystore/",
-      "published": "2026-10-02T07:00:00+00:00"
-    },
-    {
-      "source": "CNCF Blog",
-      "category": "Cloud Native",
-      "title": "KubeCon + CloudNativeCon North America 2026: From user to contributor to maintainer",
-      "link": "https://www.cncf.io/blog/2026/10/01/kubecon-cloudnativecon-north-america-2026-from-user-to-contributor-to-maintainer/",
-      "published": "2026-10-02T00:13:19+00:00"
-    },
-    {
-      "source": "CNCF Blog",
-      "category": "Cloud Native",
-      "title": "KubeCon + CloudNativeCon North America 2026: Build your infrastructure engineer journey",
-      "link": "https://www.cncf.io/blog/2026/10/01/kubecon-cloudnativecon-north-america-2026-build-your-infrastructure-engineer-journey/",
-      "published": "2026-10-02T00:06:46+00:00"
-    },
-    {
-      "source": "CNCF Blog",
-      "category": "Cloud Native",
-      "title": "KubeCon + CloudNativeCon North America 2026: Build your application developer journey",
-      "link": "https://www.cncf.io/blog/2026/10/01/kubecon-cloudnativecon-north-america-2026-build-your-application-developer-journey/",
-      "published": "2026-10-01T23:52:52+00:00"
-    },
-    {
-      "source": "AWS Blog",
-      "category": "Cloud",
-      "title": "Announcing AWS Well-Architected Agent, an AI-powered intelligence to optimize your cloud environment (preview)",
-      "link": "https://aws.amazon.com/blogs/aws/announcing-aws-well-architected-agent-an-ai-powered-intelligence-to-optimize-your-cloud-environment-preview/",
-      "published": "2026-10-01T20:04:04+00:00"
-    },
-    {
-      "source": "CNCF Blog",
-      "category": "Cloud Native",
-      "title": "KubeCon + CloudNativeCon North America 2026: Build your SRE journey",
-      "link": "https://www.cncf.io/blog/2026/10/01/kubecon-cloudnativecon-north-america-2026-build-your-sre-journey/",
-      "published": "2026-10-01T19:34:20+00:00"
-    },
-    {
-      "source": "Docker Blog",
-      "category": "Cloud Native",
-      "title": "Trust Docker for the agents you don\u2019t",
-      "link": "https://www.docker.com/blog/docker-cloud-sandboxes-wearedevelopers-recap/",
-      "published": "2026-10-01T18:26:12+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "Retirement: DCsv3 and DCdsv3-series Azure Virtual Machines will be retired on October 31,\u00a02029",
-      "link": "https://azure.microsoft.com/updates?id=569592",
-      "published": "2026-10-01T17:02:55+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Do you guys feel lucky to be in devops or to have switched to devops ?",
-      "link": "https://www.reddit.com/r/devops/comments/1wv48hx/do_you_guys_feel_lucky_to_be_in_devops_or_to_have/",
-      "published": "2026-10-01T16:35:44+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Enabling Cloud Storage end-to-end checksums for improved data integrity and durability",
-      "link": "https://cloud.google.com/blog/products/storage-data-transfer/enabling-end-to-end-checksums-in-cloud-storage/",
-      "published": "2026-10-01T16:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Accelerating analytics: PayPal\u2019s journey with Managed Service for Apache Spark",
-      "link": "https://cloud.google.com/blog/products/data-analytics/paypals-journey-with-managed-service-for-apache-spark/",
-      "published": "2026-10-01T16:00:00+00:00"
     }
   ],
   "devsecops": [
@@ -237,6 +146,13 @@
     {
       "source": "The Hacker News",
       "category": "Threats",
+      "title": "Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware",
+      "link": "https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html",
+      "published": "2026-10-03T20:06:33+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
       "title": "The State of Cybersecurity in 2026:\u00a0Key Segments, Insights, and Innovations",
       "link": "https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html",
       "published": "2026-10-03T16:30:00+05:30"
@@ -254,48 +170,6 @@
       "title": "Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes",
       "link": "https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html",
       "published": "2026-10-02T22:32:12+05:30"
-    },
-    {
-      "source": "Aqua Security",
-      "category": "Cloud & Container",
-      "title": "Integrate Aqua and Jira to Turn Security Findings Into Action",
-      "link": "https://www.aquasec.com/blog/integrate-aqua-and-jira-to-turn-security-findings-into-action/",
-      "published": "2026-10-02T13:12:39+00:00"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Why CISOs Struggle to Answer the Board's Three Hardest Questions, and How to Fix the Report",
-      "link": "https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html",
-      "published": "2026-10-02T17:00:00+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes",
-      "link": "https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html",
-      "published": "2026-10-02T11:19:50+05:30"
-    },
-    {
-      "source": "Sysdig",
-      "category": "Cloud & Container",
-      "title": "AI agent exploits Zammad zero-days in DIVD breach: What we know and how to detect it",
-      "link": "https://webflow.sysdig.com/blog/ai-agent-exploits-zammad-zero-days-in-divd-breach-what-we-know-and-how-to-detect-it",
-      "published": "2026-10-02T00:00:00+00:00"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers",
-      "link": "https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html",
-      "published": "2026-10-01T22:25:57+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories",
-      "link": "https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html",
-      "published": "2026-10-01T22:15:38+05:30"
     }
   ],
   "meetups": [],
