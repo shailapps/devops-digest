@@ -1,19 +1,117 @@
 {
-  "generated_at": "2026-10-04T15:38:44.863142+00:00",
+  "generated_at": "2026-10-05T19:30:06.897557+00:00",
   "devops": [
     {
       "source": "r/devops",
       "category": "Community",
-      "title": "Looking for a mentor to guide me and hold me accountabile",
-      "link": "https://www.reddit.com/r/devops/comments/1wxhi9k/looking_for_a_mentor_to_guide_me_and_hold_me/",
-      "published": "2026-10-04T14:49:31+00:00"
+      "title": "How do I unclusterfuck these companies?",
+      "link": "https://www.reddit.com/r/devops/comments/1wyh9gq/how_do_i_unclusterfuck_these_companies/",
+      "published": "2026-10-05T19:07:41+00:00"
     },
     {
       "source": "r/devops",
       "category": "Community",
-      "title": "AI agents observability in backstage with langfuse and OTEL",
-      "link": "https://www.reddit.com/r/devops/comments/1wxgt8n/ai_agents_observability_in_backstage_with/",
-      "published": "2026-10-04T14:18:24+00:00"
+      "title": "How to actually pass interviews?",
+      "link": "https://www.reddit.com/r/devops/comments/1wygyop/how_to_actually_pass_interviews/",
+      "published": "2026-10-05T18:56:27+00:00"
+    },
+    {
+      "source": "Azure Updates",
+      "category": "Cloud",
+      "title": "[In preview] Public Preview: Azure HorizonDB expands to additional regions",
+      "link": "https://azure.microsoft.com/updates?id=572940",
+      "published": "2026-10-05T18:51:57+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Broad Kubernetes Experience but Shallow Depth - How Would You Upskill?",
+      "link": "https://www.reddit.com/r/devops/comments/1wygm9n/broad_kubernetes_experience_but_shallow_depth_how/",
+      "published": "2026-10-05T18:43:21+00:00"
+    },
+    {
+      "source": "Azure Updates",
+      "category": "Cloud",
+      "title": "[Launched] Generally Available: SQL Server on Azure Virtual Machines in Azure Bleu",
+      "link": "https://azure.microsoft.com/updates?id=571499",
+      "published": "2026-10-05T18:12:09+00:00"
+    },
+    {
+      "source": "Kubernetes Blog",
+      "category": "Cloud Native",
+      "title": "Scaling Kubernetes Workloads with Node Swap",
+      "link": "https://kubernetes.io/blog/2026/10/05/scaling-kubernetes-workloads-with-node-swap/",
+      "published": "2026-10-05T10:00:00-08:00"
+    },
+    {
+      "source": "Azure Updates",
+      "category": "Cloud",
+      "title": "Announcing: Table discovery in OneLake Catalog search",
+      "link": "https://azure.microsoft.com/updates?id=573875",
+      "published": "2026-10-05T17:55:23+00:00"
+    },
+    {
+      "source": "Azure Updates",
+      "category": "Cloud",
+      "title": "[In preview] Public Preview: Azure Backup for PostgreSQL flexible server and elastic cluster (v2)",
+      "link": "https://azure.microsoft.com/updates?id=573425",
+      "published": "2026-10-05T17:44:31+00:00"
+    },
+    {
+      "source": "Azure Updates",
+      "category": "Cloud",
+      "title": "[In preview] Public Preview: IPv6 Support for Application Gateway WAF",
+      "link": "https://azure.microsoft.com/updates?id=573861",
+      "published": "2026-10-05T17:41:41+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "I'm thinking of writing a free practical book on Production DevOps what should I include?",
+      "link": "https://www.reddit.com/r/devops/comments/1wycxfu/im_thinking_of_writing_a_free_practical_book_on/",
+      "published": "2026-10-05T16:22:48+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Introducing Google Cloud Modernize, transforming for (and with) AI",
+      "link": "https://cloud.google.com/blog/products/infrastructure-modernization/google-cloud-modernize-accelerate-transformation-with-ai/",
+      "published": "2026-10-05T16:00:00+00:00"
+    },
+    {
+      "source": "AWS DevOps Blog",
+      "category": "DevOps",
+      "title": "Restart EC2 and on-premises fleets faster with AWS CodeDeploy RESTART deployment mode",
+      "link": "https://aws.amazon.com/blogs/devops/restart-ec2-and-on-premises-fleets-faster-with-aws-codedeploy-restart-deployment-mode/",
+      "published": "2026-10-05T15:46:02+00:00"
+    },
+    {
+      "source": "AWS Blog",
+      "category": "Cloud",
+      "title": "AWS Weekly Roundup: Amazon Bedrock Managed Agents powered by OpenAI, Q3 service availability updates, Kiro workflows, and more (October 5, 2026)",
+      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-bedrock-managed-agents-powered-by-openai-q3-service-availability-updates-kiro-workflows-and-more-october-5-2026/",
+      "published": "2026-10-05T15:41:19+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Weekly Self Promotion Thread",
+      "link": "https://www.reddit.com/r/devops/comments/1wy1g5i/weekly_self_promotion_thread/",
+      "published": "2026-10-05T06:30:19+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Certification + Job Planning",
+      "link": "https://www.reddit.com/r/devops/comments/1wxwuh9/certification_job_planning/",
+      "published": "2026-10-05T02:06:26+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Questions for upcoming Devops interview",
+      "link": "https://www.reddit.com/r/devops/comments/1wxkrpq/questions_for_upcoming_devops_interview/",
+      "published": "2026-10-04T17:05:58+00:00"
     },
     {
       "source": "r/devops",
@@ -21,72 +119,17 @@
       "title": "Has anyone ever tried listening to their infrastructure instead of watching it?",
       "link": "https://www.reddit.com/r/devops/comments/1wxbzu3/has_anyone_ever_tried_listening_to_their/",
       "published": "2026-10-04T10:01:39+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "If your company already uses AWS what would actually make you choose a second cloud provider?",
-      "link": "https://www.reddit.com/r/devops/comments/1wx9d17/if_your_company_already_uses_aws_what_would/",
-      "published": "2026-10-04T07:12:40+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Does Professional DevOps feel as monotonous as \"Hobbyist DevOps\" is?",
-      "link": "https://www.reddit.com/r/devops/comments/1wx3keo/does_professional_devops_feel_as_monotonous_as/",
-      "published": "2026-10-04T01:40:12+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "To Seniors, I am wondering what unique I can do in devops, everyone is making agent which auto heals cluster,end to end devsecops projects are all over YouTube.",
-      "link": "https://www.reddit.com/r/devops/comments/1wwj7mh/to_seniors_i_am_wondering_what_unique_i_can_do_in/",
-      "published": "2026-10-03T09:42:37+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "AI21 achieves an 83% reduction in time-to-start for AI workloads with AI Hypercomputer",
-      "link": "https://cloud.google.com/blog/products/containers-kubernetes/ai21-trains-its-models-on-ai-hypercomputer/",
-      "published": "2026-10-02T19:00:00+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "[In preview] Public Preview:  Major version upgrades (MVU) for Azure Database for PostgreSQL elastic clusters",
-      "link": "https://azure.microsoft.com/updates?id=571504",
-      "published": "2026-10-02T17:35:21+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "What\u2019s new with Google Cloud",
-      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "published": "2026-10-02T16:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Announcing Spanner queues: Transactional messaging for agentic workloads and beyond",
-      "link": "https://cloud.google.com/blog/products/databases/spanner-queues-provide-native-transactional-messaging/",
-      "published": "2026-10-02T16:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "GKE CPU startup boost: Accelerate app starts without over-provisioning",
-      "link": "https://cloud.google.com/blog/products/containers-kubernetes/gke-cpu-startup-boost-faster-pod-starts-lower-costs/",
-      "published": "2026-10-02T16:00:00+00:00"
-    },
-    {
-      "source": "AWS DevOps Blog",
-      "category": "DevOps",
-      "title": "Integrate AWS DevOps Agent with third-party tools using Amazon EventBridge",
-      "link": "https://aws.amazon.com/blogs/devops/integrate-aws-devops-agent-with-third-party-tools-using-amazon-eventbridge/",
-      "published": "2026-10-02T15:50:00+00:00"
     }
   ],
   "devsecops": [
+    {
+      "source": "CISA KEV",
+      "category": "Actively Exploited",
+      "title": "CVE-2026-88779 \u2014 Citrix NetScaler: Citrix NetScaler Improper Restriction of Operations within the Bounds of a Memory Buffer Vulnerability",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88779",
+      "published": "2026-10-04T12:00:00+00:00",
+      "date_only": true
+    },
     {
       "source": "CISA KEV",
       "category": "Actively Exploited",
@@ -128,48 +171,39 @@
       "date_only": true
     },
     {
-      "source": "CISA KEV",
-      "category": "Actively Exploited",
-      "title": "CVE-2026-88772 \u2014 Citrix NetScaler: Citrix NetScaler Improper Restriction of Operations within the Bounds of a Memory Buffer Vulnerability",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88772",
-      "published": "2026-09-27T12:00:00+00:00",
-      "date_only": true
-    },
-    {
-      "source": "CISA KEV",
-      "category": "Actively Exploited",
-      "title": "CVE-2026-88771 \u2014 Citrix NetScaler: Citrix NetScaler Improper Input Validation Vulnerability",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88771",
-      "published": "2026-09-27T12:00:00+00:00",
-      "date_only": true
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes",
+      "link": "https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html",
+      "published": "2026-10-05T21:51:52+05:30"
     },
     {
       "source": "The Hacker News",
       "category": "Threats",
-      "title": "Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware",
-      "link": "https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html",
-      "published": "2026-10-03T20:06:33+05:30"
+      "title": "\u26a1 Weekly Recap: NetScaler and FortiMail 0-Days, AI Coding Leaks, Spectre v2 and Ransomware Arrests",
+      "link": "https://thehackernews.com/2026/10/weekly-recap-netscaler-and-fortimail-0.html",
+      "published": "2026-10-05T19:50:43+05:30"
     },
     {
       "source": "The Hacker News",
       "category": "Threats",
-      "title": "The State of Cybersecurity in 2026:\u00a0Key Segments, Insights, and Innovations",
-      "link": "https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html",
-      "published": "2026-10-03T16:30:00+05:30"
+      "title": "Attackers Target Rejetto HFS Flaw That Enables Admin Session Forgery and RCE",
+      "link": "https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html",
+      "published": "2026-10-05T13:39:23+05:30"
     },
     {
       "source": "The Hacker News",
       "category": "Threats",
-      "title": "GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers",
-      "link": "https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html",
-      "published": "2026-10-02T23:03:31+05:30"
+      "title": "New NetScaler Zero-Day Exploited in Targeted Attacks Can Knock SAML Deployments Offline",
+      "link": "https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html",
+      "published": "2026-10-05T12:10:19+05:30"
     },
     {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes",
-      "link": "https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html",
-      "published": "2026-10-02T22:32:12+05:30"
+      "source": "Sysdig",
+      "category": "Cloud & Container",
+      "title": "Security briefing: September 2026",
+      "link": "https://webflow.sysdig.com/blog/security-briefing-september-2026",
+      "published": "2026-10-05T00:00:00+00:00"
     }
   ],
   "meetups": [],
