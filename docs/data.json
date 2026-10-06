@@ -1,6 +1,83 @@
 {
-  "generated_at": "2026-10-05T19:30:06.897557+00:00",
+  "generated_at": "2026-10-06T17:02:11.661536+00:00",
   "devops": [
+    {
+      "source": "AWS Blog",
+      "category": "Cloud",
+      "title": "All the numbers: Amazon Prime Day 2026 powered by AWS",
+      "link": "https://aws.amazon.com/blogs/aws/all-the-numbers-amazon-prime-day-2026-powered-by-aws/",
+      "published": "2026-10-06T16:09:36+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Managed Apache Iceberg at scale: How Spanner powers Lakehouse runtime catalog",
+      "link": "https://cloud.google.com/blog/products/data-analytics/lakehouse-runtime-catalog-powered-by-spanner/",
+      "published": "2026-10-06T16:00:00+00:00"
+    },
+    {
+      "source": "Azure Updates",
+      "category": "Cloud",
+      "title": "[In preview] Public Preview: AKS on bare metal now on Ubuntu",
+      "link": "https://azure.microsoft.com/updates?id=573782",
+      "published": "2026-10-06T15:44:06+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Database security",
+      "link": "https://www.reddit.com/r/devops/comments/1wz5sk6/database_security/",
+      "published": "2026-10-06T15:38:16+00:00"
+    },
+    {
+      "source": "CNCF Blog",
+      "category": "Cloud Native",
+      "title": "The 2026-2028 CNCF ambassador cohort",
+      "link": "https://www.cncf.io/blog/2026/10/06/2026-2028-cncf-ambassador-cohort/",
+      "published": "2026-10-06T11:33:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Where mission meets moonshot: Join us at the Google Public Sector Summit 2026",
+      "link": "https://cloud.google.com/blog/topics/public-sector/where-mission-meets-moonshot-join-us-at-the-google-public-sector-summit-2026/",
+      "published": "2026-10-06T07:00:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "AlloyDB: A unified database engine for hybrid search",
+      "link": "https://cloud.google.com/blog/products/databases/simplify-ai-search-with-alloydb-hybrid-search-and-rrf/",
+      "published": "2026-10-06T07:00:00+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Why moving artifacts into your customer\u2019s VPC can be so annoying",
+      "link": "https://www.reddit.com/r/devops/comments/1wyrhf8/why_moving_artifacts_into_your_customers_vpc_can/",
+      "published": "2026-10-06T02:40:12+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "runbooks kinda suckk",
+      "link": "https://www.reddit.com/r/devops/comments/1wyoed1/runbooks_kinda_suckk/",
+      "published": "2026-10-06T00:06:54+00:00"
+    },
+    {
+      "source": "CNCF Blog",
+      "category": "Cloud Native",
+      "title": "Kubelet watches inodes. Just not until it\u2019s an emergency.",
+      "link": "https://www.cncf.io/blog/2026/10/05/kubelet-watches-inodes-just-not-until-its-an-emergency/",
+      "published": "2026-10-05T21:27:03+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "DevOps-focused SWE preparing for Amazon SDE OA - advice?",
+      "link": "https://www.reddit.com/r/devops/comments/1wykd6q/devopsfocused_swe_preparing_for_amazon_sde_oa/",
+      "published": "2026-10-05T21:08:21+00:00"
+    },
     {
       "source": "r/devops",
       "category": "Community",
@@ -65,13 +142,6 @@
       "published": "2026-10-05T17:41:41+00:00"
     },
     {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "I'm thinking of writing a free practical book on Production DevOps what should I include?",
-      "link": "https://www.reddit.com/r/devops/comments/1wycxfu/im_thinking_of_writing_a_free_practical_book_on/",
-      "published": "2026-10-05T16:22:48+00:00"
-    },
-    {
       "source": "Google Cloud Blog",
       "category": "Cloud",
       "title": "Introducing Google Cloud Modernize, transforming for (and with) AI",
@@ -98,27 +168,6 @@
       "title": "Weekly Self Promotion Thread",
       "link": "https://www.reddit.com/r/devops/comments/1wy1g5i/weekly_self_promotion_thread/",
       "published": "2026-10-05T06:30:19+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Certification + Job Planning",
-      "link": "https://www.reddit.com/r/devops/comments/1wxwuh9/certification_job_planning/",
-      "published": "2026-10-05T02:06:26+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Questions for upcoming Devops interview",
-      "link": "https://www.reddit.com/r/devops/comments/1wxkrpq/questions_for_upcoming_devops_interview/",
-      "published": "2026-10-04T17:05:58+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Has anyone ever tried listening to their infrastructure instead of watching it?",
-      "link": "https://www.reddit.com/r/devops/comments/1wxbzu3/has_anyone_ever_tried_listening_to_their/",
-      "published": "2026-10-04T10:01:39+00:00"
     }
   ],
   "devsecops": [
@@ -169,6 +218,62 @@
       "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-86950",
       "published": "2026-09-29T12:00:00+00:00",
       "date_only": true
+    },
+    {
+      "source": "OpenSSF",
+      "category": "Supply Chain",
+      "title": "What\u2019s in the SOSS? Podcast #75 \u2013 S3E27 From Upstream to Downstream: Managing Open Source Risk in a Changing Regulatory Era with Vincent Danen",
+      "link": "https://openssf.org/podcast/2026/10/06/whats-in-the-soss-podcast-75-s3e27-from-upstream-to-downstream-managing-open-source-risk-in-a-changing-regulatory-era-with-vincent-danen/",
+      "published": "2026-10-06T15:31:13+00:00"
+    },
+    {
+      "source": "Aqua Security",
+      "category": "Cloud & Container",
+      "title": "Can Vulnerability Scanning Tell You What You\u2019re Exposed to Right Now?",
+      "link": "https://www.aquasec.com/blog/can-vulnerability-scanning-tell-you-what-youre-exposed-to-right-now/",
+      "published": "2026-10-06T13:00:53+00:00"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "LibreOffice and OpenOffice Flaws Let Malicious Spreadsheets Run Code Without Macro Warnings",
+      "link": "https://thehackernews.com/2026/10/libreoffice-and-openoffice-flaws-let.html",
+      "published": "2026-10-06T17:27:00+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Google Pauses OSS Product Bug Bounty Rewards After Surge in Invalid Automated Reports",
+      "link": "https://thehackernews.com/2026/10/google-pauses-oss-product-bug-bounty.html",
+      "published": "2026-10-06T14:51:47+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Critical Atlassian Flaw Lets Unauthenticated Attackers Read Known Files Across 8 Products",
+      "link": "https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html",
+      "published": "2026-10-06T12:28:56+05:30"
+    },
+    {
+      "source": "OpenSSF",
+      "category": "Supply Chain",
+      "title": "OpenSSF Shares Expanded Membership and New Global Policy Resources During Community Day Europe",
+      "link": "https://openssf.org/press-release/2026/10/06/openssf-shares-expanded-membership-and-new-global-policy-resources-during-community-day-europe/",
+      "published": "2026-10-06T02:59:49+00:00"
+    },
+    {
+      "source": "Sysdig",
+      "category": "Cloud & Container",
+      "title": "AI agent exploits Zammad zero-days in DIVD breach: What we know and how to detect it",
+      "link": "https://webflow.sysdig.com/blog/ai-agent-exploits-zammad-zero-days-in-divd-breach-what-we-know-and-how-to-detect-it",
+      "published": "2026-10-06T00:00:00+00:00"
+    },
+    {
+      "source": "Sysdig",
+      "category": "Cloud & Container",
+      "title": "Three AI governance questions every executive needs to answer",
+      "link": "https://webflow.sysdig.com/blog/three-questions-every-executive-should-be-able-to-answer-about-ai-agents",
+      "published": "2026-10-06T00:00:00+00:00"
     },
     {
       "source": "The Hacker News",
