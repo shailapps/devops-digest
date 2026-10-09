@@ -1,12 +1,110 @@
 {
-  "generated_at": "2026-10-08T17:42:17.530877+00:00",
+  "generated_at": "2026-10-09T17:17:36.137879+00:00",
   "devops": [
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Modernizing Unstructured Data Workflows: Alteryx Live Query meets Google Cloud BigQuery",
+      "link": "https://cloud.google.com/blog/products/data-analytics/modernize-unstructured-data-workloads-with-alteryx-and-bigquery/",
+      "published": "2026-10-09T16:00:00+00:00"
+    },
     {
       "source": "r/devops",
       "category": "Community",
-      "title": "Resources to build a foundational understanding on Operating systems",
-      "link": "https://www.reddit.com/r/devops/comments/1x0u0r8/resources_to_build_a_foundational_understanding/",
-      "published": "2026-10-08T15:32:03+00:00"
+      "title": "AI generated code review",
+      "link": "https://www.reddit.com/r/devops/comments/1x1olt9/ai_generated_code_review/",
+      "published": "2026-10-09T15:38:24+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Do EKS users really deploy more than 2 Clusters?",
+      "link": "https://www.reddit.com/r/devops/comments/1x1jmyv/do_eks_users_really_deploy_more_than_2_clusters/",
+      "published": "2026-10-09T12:07:09+00:00"
+    },
+    {
+      "source": "CNCF Blog",
+      "category": "Cloud Native",
+      "title": "Join Platform Engineering Day at KubeCon + CloudNativeCon North America 2026",
+      "link": "https://www.cncf.io/blog/2026/10/09/join-platform-engineering-day-at-kubecon-cloudnativecon-north-america-2026/",
+      "published": "2026-10-09T12:00:00+00:00"
+    },
+    {
+      "source": "CNCF Blog",
+      "category": "Cloud Native",
+      "title": "Making the Golden Kubestronaut a little more golden",
+      "link": "https://www.cncf.io/blog/2026/10/09/making-the-golden-kubestronaut-a-little-more-golden/",
+      "published": "2026-10-09T11:30:00+00:00"
+    },
+    {
+      "source": "CNCF Blog",
+      "category": "Cloud Native",
+      "title": "Who owns NIS2 and DORA on a Kubernetes platform team",
+      "link": "https://www.cncf.io/blog/2026/10/09/who-owns-nis2-and-dora-on-a-kubernetes-platform-team/",
+      "published": "2026-10-09T08:07:47+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Script output Best Practice Contracts",
+      "link": "https://www.reddit.com/r/devops/comments/1x1d85q/script_output_best_practice_contracts/",
+      "published": "2026-10-09T05:39:41+00:00"
+    },
+    {
+      "source": "Azure Updates",
+      "category": "Cloud",
+      "title": "[Launched] Generally Available: Managed StandardV2 NAT Gateway for AKS",
+      "link": "https://azure.microsoft.com/updates?id=574430",
+      "published": "2026-10-08T22:51:01+00:00"
+    },
+    {
+      "source": "CNCF Blog",
+      "category": "Cloud Native",
+      "title": "Don\u2019t give AI agents root. Make them propose the next system state.",
+      "link": "https://www.cncf.io/blog/2026/10/08/dont-give-ai-agents-root-make-them-propose-the-next-system-state/",
+      "published": "2026-10-08T22:21:41+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "How hard is it to switch cloud/DevOps platforms in a bad job market?",
+      "link": "https://www.reddit.com/r/devops/comments/1x14kf7/how_hard_is_it_to_switch_clouddevops_platforms_in/",
+      "published": "2026-10-08T22:19:15+00:00"
+    },
+    {
+      "source": "Azure Updates",
+      "category": "Cloud",
+      "title": "[Launched] Generally Available: Azure Database for PostgreSQL flexible server in East US 3",
+      "link": "https://azure.microsoft.com/updates?id=573691",
+      "published": "2026-10-08T19:56:31+00:00"
+    },
+    {
+      "source": "Azure Updates",
+      "category": "Cloud",
+      "title": "Retirement: Microsoft Dev Box will be retired on September 18, 2028",
+      "link": "https://azure.microsoft.com/updates?id=567933",
+      "published": "2026-10-08T18:23:25+00:00"
+    },
+    {
+      "source": "Azure Updates",
+      "category": "Cloud",
+      "title": "Retirement: Azure Deployment Environments will be retired on February 22, 2027",
+      "link": "https://azure.microsoft.com/updates?id=567934",
+      "published": "2026-10-08T18:20:34+00:00"
+    },
+    {
+      "source": "Azure Updates",
+      "category": "Cloud",
+      "title": "[Launched] Generally Available: Exceptions in WAF for Azure Application Gateway and Azure Front Door",
+      "link": "https://azure.microsoft.com/updates?id=574343",
+      "published": "2026-10-08T17:29:30+00:00"
+    },
+    {
+      "source": "Azure Updates",
+      "category": "Cloud",
+      "title": "[In preview] Public Preview: Microsoft Agent 365 integration with Azure API Management",
+      "link": "https://azure.microsoft.com/updates?id=574204",
+      "published": "2026-10-08T17:24:34+00:00"
     },
     {
       "source": "r/devops",
@@ -60,27 +158,6 @@
     {
       "source": "r/devops",
       "category": "Community",
-      "title": "Deployment of Web and Mobile application",
-      "link": "https://www.reddit.com/r/devops/comments/1x0ozup/deployment_of_web_and_mobile_application/",
-      "published": "2026-10-08T11:57:29+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Junior Java/Spring Boot developer looking to move towards AWS \u2014 Developer Associate or Solutions Architect Associate?",
-      "link": "https://www.reddit.com/r/devops/comments/1x0o64e/junior_javaspring_boot_developer_looking_to_move/",
-      "published": "2026-10-08T11:12:17+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Build and release architecture for large applications and teams",
-      "link": "https://www.reddit.com/r/devops/comments/1x0nw7v/build_and_release_architecture_for_large/",
-      "published": "2026-10-08T10:57:11+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
       "title": "What's the most ridiculous \"temporary fix\" you've seen that's been running in production for years?",
       "link": "https://www.reddit.com/r/devops/comments/1x0kuvm/whats_the_most_ridiculous_temporary_fix_youve/",
       "published": "2026-10-08T07:43:26+00:00"
@@ -105,76 +182,6 @@
       "title": "Kubernetes on Edge Day returns to KubeCon + CloudNativeCon North America 2026",
       "link": "https://www.cncf.io/blog/2026/10/07/kubernetes-on-edge-day-returns-to-kubecon-cloudnativecon-north-america-2026/",
       "published": "2026-10-07T21:33:31+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "[Launched] Generally Available: Anyscale on Azure",
-      "link": "https://azure.microsoft.com/updates?id=573744",
-      "published": "2026-10-07T17:06:00+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "[Launched] Generally Available: Enabling the Bulk admin role for SQL Server on Linux",
-      "link": "https://azure.microsoft.com/updates?id=573443",
-      "published": "2026-10-07T16:57:04+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Introducing Google Cloud\u2019s U4 compute: Enabling ultra-low latency trading",
-      "link": "https://cloud.google.com/blog/topics/financial-services/ultra-low-latency-solution-with-u4-enables-high-velocity-trading/",
-      "published": "2026-10-07T16:00:00+00:00"
-    },
-    {
-      "source": "CNCF Blog",
-      "category": "Cloud Native",
-      "title": "Meshery becomes a CNCF Incubating project",
-      "link": "https://www.cncf.io/blog/2026/10/07/meshery-becomes-a-cncf-incubating-project/",
-      "published": "2026-10-07T12:05:16+00:00"
-    },
-    {
-      "source": "CNCF Blog",
-      "category": "Cloud Native",
-      "title": "CNCF Welcomes OVHcloud, One of Europe\u2019s Largest Independent Cloud Providers, as a Platinum Member",
-      "link": "https://www.cncf.io/announcements/2026/10/07/cncf-welcomes-ovhcloud-a-leading-european-cloud-provider-and-global-cloud-and-ai-player-as-a-platinum-member/",
-      "published": "2026-10-07T07:00:00+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "Retirement: Pod name dimension in AKS pod platform metrics",
-      "link": "https://azure.microsoft.com/updates?id=570232",
-      "published": "2026-10-06T22:37:54+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Announcing MCP Toolbox Java SDK v1.0: Agentic data access for the enterprise",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/announcing-mcp-toolbox-java-sdk-v10-agentic-data-access-for-the-enterprise/",
-      "published": "2026-10-06T19:00:00+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "Retirement: Azure App Service on Azure Stack Hub",
-      "link": "https://azure.microsoft.com/updates?id=568178",
-      "published": "2026-10-06T18:24:43+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "Retirement: Support for Java 8, 11 and 17 will end on September 1, 2027",
-      "link": "https://azure.microsoft.com/updates?id=568585",
-      "published": "2026-10-06T18:21:59+00:00"
-    },
-    {
-      "source": "Kubernetes Blog",
-      "category": "Cloud Native",
-      "title": "The Shift to cgroup v2 in Kubernetes: What You Need to Know",
-      "link": "https://kubernetes.io/blog/2026/10/06/kubernetes-cgroups-v2-shift/",
-      "published": "2026-10-06T10:00:00-08:00"
     }
   ],
   "devsecops": [
@@ -243,12 +250,53 @@
       "date_only": true
     },
     {
-      "source": "CISA KEV",
-      "category": "Actively Exploited",
-      "title": "CVE-2026-104286 \u2014 Fortinet FortiMail: Fortinet FortiMail Path Traversal Vulnerability",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-104286",
-      "published": "2026-10-01T12:00:00+00:00",
-      "date_only": true
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge",
+      "link": "https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html",
+      "published": "2026-10-09T18:17:26+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Flax Typhoon Exploits Five Flaws as CISA Sets October 11 Deadline for Federal Agencies",
+      "link": "https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html",
+      "published": "2026-10-09T17:51:51+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "The AI Velocity Paradox: Why Security Is Decades Behind AI Ambition",
+      "link": "https://thehackernews.com/2026/10/the-ai-velocity-paradox-why-security-is.html",
+      "published": "2026-10-09T17:00:00+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Three Teams Demonstrate Remote Hacks of Fully Patched Google Pixel 10 at Pwn2Own",
+      "link": "https://thehackernews.com/2026/10/three-teams-demonstrate-remote-hacks-of.html",
+      "published": "2026-10-09T13:56:17+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Citrix Patches Critical NetScaler Flaw That Could Enable RCE in SAML Deployments",
+      "link": "https://thehackernews.com/2026/10/citrix-patches-critical-netscaler-flaw.html",
+      "published": "2026-10-09T13:41:33+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "FBI Says China-Linked Hackers Ran Portal Giving Third Parties Access to Stolen Emails",
+      "link": "https://thehackernews.com/2026/10/fbi-says-china-linked-hackers-ran.html",
+      "published": "2026-10-09T00:02:21+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "ThreatsDay: Ransomware Affiliate Betrayal, WhatsApp RAT, Exposed Hacker Tools and 12 More Stories",
+      "link": "https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html",
+      "published": "2026-10-08T23:28:02+05:30"
     },
     {
       "source": "GitHub Security Blog",
@@ -298,48 +346,6 @@
       "title": "Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer",
       "link": "https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html",
       "published": "2026-10-07T23:13:20+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "SonicWall Patches CVSS 10.0 Pre-Authentication SSRF Flaw in SMA1000 Appliances",
-      "link": "https://thehackernews.com/2026/10/sonicwall-patches-cvss-100-pre.html",
-      "published": "2026-10-07T21:47:44+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Atlassian Data Center Flaw Draws Exploitation Attempts Within Two Hours of Public Details",
-      "link": "https://thehackernews.com/2026/10/atlassian-data-center-flaw-draws.html",
-      "published": "2026-10-07T17:19:26+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Anthropic Expands Claude Access for Vetted Cyber Teams as Glasswing Finds 129,000 Flaws",
-      "link": "https://thehackernews.com/2026/10/anthropic-expands-claude-access-for.html",
-      "published": "2026-10-07T13:37:38+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "100+ Compromised Websites Use Fake Cloudflare Checks to Deliver LunexStealer",
-      "link": "https://thehackernews.com/2026/10/100-compromised-websites-use-fake.html",
-      "published": "2026-10-07T12:27:54+05:30"
-    },
-    {
-      "source": "Snyk",
-      "category": "AppSec",
-      "title": "Frontier models found the vulnerabilities. Only the attacker found the chains.",
-      "link": "https://snyk.io/blog/frontier-models-vulnerabilities-attacker-chains/",
-      "published": "2026-10-07T04:00:00+00:00"
-    },
-    {
-      "source": "Snyk",
-      "category": "AppSec",
-      "title": "Autonomous Attacks Are Already Here. The Defense Has to Match Their Speed.",
-      "link": "https://snyk.io/blog/autonomous-attacks-already-here-defense-match-their-speed/",
-      "published": "2026-10-07T00:00:00+00:00"
     }
   ],
   "meetups": [],
