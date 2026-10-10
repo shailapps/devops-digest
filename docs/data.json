@@ -1,6 +1,34 @@
 {
-  "generated_at": "2026-10-09T17:17:36.137879+00:00",
+  "generated_at": "2026-10-10T16:05:56.711288+00:00",
   "devops": [
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "explaining prod server migration while hungry cause i cant afford groceries",
+      "link": "https://www.reddit.com/r/devops/comments/1x23f1r/explaining_prod_server_migration_while_hungry/",
+      "published": "2026-10-10T02:06:06+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "You're Not Crazy, They Never Sent FIN",
+      "link": "https://www.reddit.com/r/devops/comments/1x21no2/youre_not_crazy_they_never_sent_fin/",
+      "published": "2026-10-10T00:36:38+00:00"
+    },
+    {
+      "source": "Azure Updates",
+      "category": "Cloud",
+      "title": "Retirement: Azure Key Vault Secrets Provider Extension for Azure Arc enabled Kubernetes clusters",
+      "link": "https://azure.microsoft.com/updates?id=570313",
+      "published": "2026-10-09T20:27:17+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "GitOps for infrastructure management - anyone doing this with OpenStack?",
+      "link": "https://www.reddit.com/r/devops/comments/1x1rjk9/gitops_for_infrastructure_management_anyone_doing/",
+      "published": "2026-10-09T17:31:37+00:00"
+    },
     {
       "source": "Google Cloud Blog",
       "category": "Cloud",
@@ -9,11 +37,11 @@
       "published": "2026-10-09T16:00:00+00:00"
     },
     {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "AI generated code review",
-      "link": "https://www.reddit.com/r/devops/comments/1x1olt9/ai_generated_code_review/",
-      "published": "2026-10-09T15:38:24+00:00"
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "What\u2019s new with Google Data Cloud",
+      "link": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
+      "published": "2026-10-09T16:00:00+00:00"
     },
     {
       "source": "r/devops",
@@ -42,13 +70,6 @@
       "title": "Who owns NIS2 and DORA on a Kubernetes platform team",
       "link": "https://www.cncf.io/blog/2026/10/09/who-owns-nis2-and-dora-on-a-kubernetes-platform-team/",
       "published": "2026-10-09T08:07:47+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Script output Best Practice Contracts",
-      "link": "https://www.reddit.com/r/devops/comments/1x1d85q/script_output_best_practice_contracts/",
-      "published": "2026-10-09T05:39:41+00:00"
     },
     {
       "source": "Azure Updates",
@@ -105,83 +126,6 @@
       "title": "[In preview] Public Preview: Microsoft Agent 365 integration with Azure API Management",
       "link": "https://azure.microsoft.com/updates?id=574204",
       "published": "2026-10-08T17:24:34+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "ngl, dumping raw server logs into a massive context window is way better than writing regex",
-      "link": "https://www.reddit.com/r/devops/comments/1x0syyd/ngl_dumping_raw_server_logs_into_a_massive/",
-      "published": "2026-10-08T14:51:38+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "Announcing: Multiparty private offers in Microsoft Marketplace expands to Hong Kong",
-      "link": "https://azure.microsoft.com/updates?id=571831",
-      "published": "2026-10-08T14:17:44+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "The biggest production risk might be the engineer who noticed something and decided not to say it",
-      "link": "https://www.reddit.com/r/devops/comments/1x0pt2p/the_biggest_production_risk_might_be_the_engineer/",
-      "published": "2026-10-08T12:37:23+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Innovation in Ireland: How Irish brands scale with Gemini Enterprise",
-      "link": "https://cloud.google.com/blog/topics/customers/ireland-innovation-companies-startups-governments-scale-with-gemini/",
-      "published": "2026-10-08T12:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Google Public Sector and SUNY launch AI-enabled platform to accelerate university research",
-      "link": "https://cloud.google.com/blog/topics/public-sector/gps-suny-launch-ai-enabled-platform-to-accelerate-university-research/",
-      "published": "2026-10-08T12:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Empowering SMBs to do more with Gemini",
-      "link": "https://cloud.google.com/blog/topics/startups/how-to-grow-your-small-business-using-google-gemini/",
-      "published": "2026-10-08T12:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Welcome to Gemini at Work 2026: Introducing the Gemini agent",
-      "link": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026/",
-      "published": "2026-10-08T12:00:00+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "What's the most ridiculous \"temporary fix\" you've seen that's been running in production for years?",
-      "link": "https://www.reddit.com/r/devops/comments/1x0kuvm/whats_the_most_ridiculous_temporary_fix_youve/",
-      "published": "2026-10-08T07:43:26+00:00"
-    },
-    {
-      "source": "CNCF Blog",
-      "category": "Cloud Native",
-      "title": "CiliumCon is back at KubeCon + CloudNativeCon North America 2026",
-      "link": "https://www.cncf.io/blog/2026/10/07/ciliumcon-is-back-at-kubecon-cloudnativecon-north-america-2026/",
-      "published": "2026-10-07T22:38:50+00:00"
-    },
-    {
-      "source": "CNCF Blog",
-      "category": "Cloud Native",
-      "title": "BackstageCon comes to KubeCon + CloudNativeCon North America 2026 in Salt Lake City",
-      "link": "https://www.cncf.io/blog/2026/10/07/backstagecon-comes-to-kubecon-cloudnativecon-north-america-2026-in-salt-lake-city/",
-      "published": "2026-10-07T21:59:53+00:00"
-    },
-    {
-      "source": "CNCF Blog",
-      "category": "Cloud Native",
-      "title": "Kubernetes on Edge Day returns to KubeCon + CloudNativeCon North America 2026",
-      "link": "https://www.cncf.io/blog/2026/10/07/kubernetes-on-edge-day-returns-to-kubecon-cloudnativecon-north-america-2026/",
-      "published": "2026-10-07T21:33:31+00:00"
     }
   ],
   "devsecops": [
@@ -234,20 +178,25 @@
       "date_only": true
     },
     {
-      "source": "CISA KEV",
-      "category": "Actively Exploited",
-      "title": "CVE-2026-102490 \u2014 Zammad GmbH Zammad: Zammad GmbH Zammad Improper Privilege Management Vulnerability",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-102490",
-      "published": "2026-10-02T12:00:00+00:00",
-      "date_only": true
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't",
+      "link": "https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html",
+      "published": "2026-10-10T16:30:00+05:30"
     },
     {
-      "source": "CISA KEV",
-      "category": "Actively Exploited",
-      "title": "CVE-2026-102489 \u2014 Zammad GmbH Zammad: Zammad GmbH Zammad Session Fixation Vulnerability",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-102489",
-      "published": "2026-10-02T12:00:00+00:00",
-      "date_only": true
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
+      "link": "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html",
+      "published": "2026-10-10T14:48:45+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories",
+      "link": "https://thehackernews.com/2026/10/credential-stealing-github-actions.html",
+      "published": "2026-10-10T00:44:28+05:30"
     },
     {
       "source": "The Hacker News",
@@ -304,48 +253,6 @@
       "title": "How one bug bounty researcher chooses the features they investigate",
       "link": "https://github.blog/security/how-one-bug-bounty-researcher-chooses-the-features-they-investigate/",
       "published": "2026-10-08T17:02:52+00:00"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Japan Sees Sharp Rise in Web Data Leaks Amid Mobile API Abuse and Metabase Attacks",
-      "link": "https://thehackernews.com/2026/10/japan-sees-sharp-rise-in-web-data-leaks.html",
-      "published": "2026-10-08T21:15:56+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "16 Malicious Firefox Extensions Pose as Rabby and OKX Wallets to Steal Recovery Phrases",
-      "link": "https://thehackernews.com/2026/10/16-malicious-firefox-extensions-pose-as.html",
-      "published": "2026-10-08T15:16:32+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "MonsterCloud Owner Accused of Billing Over $19M While Secretly Paying Ransoms to Decrypt Data",
-      "link": "https://thehackernews.com/2026/10/monstercloud-owner-accused-of-billing.html",
-      "published": "2026-10-08T13:11:44+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Tensorlake npm Package Compromised to Deliver Shai-Hulud Credential-Stealing Worm",
-      "link": "https://thehackernews.com/2026/10/tensorlake-npm-package-compromised-to.html",
-      "published": "2026-10-08T11:16:20+05:30"
-    },
-    {
-      "source": "Sysdig",
-      "category": "Cloud & Container",
-      "title": "Runtime AI Defense in a shared responsibility model",
-      "link": "https://webflow.sysdig.com/blog/runtime-ai-defense-in-a-shared-responsibility-model",
-      "published": "2026-10-08T00:00:00+00:00"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer",
-      "link": "https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html",
-      "published": "2026-10-07T23:13:20+05:30"
     }
   ],
   "meetups": [],
