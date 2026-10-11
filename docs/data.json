@@ -1,6 +1,41 @@
 {
-  "generated_at": "2026-10-10T16:05:56.711288+00:00",
+  "generated_at": "2026-10-11T16:32:09.572814+00:00",
   "devops": [
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "I gave my AI access to the shell. Built this after it almost \"helped\" me too much.",
+      "link": "https://www.reddit.com/r/devops/comments/1x363lp/i_gave_my_ai_access_to_the_shell_built_this_after/",
+      "published": "2026-10-11T11:42:11+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Worth switching from ChatGPT Plus to Claude Pro for an OpenShift / IBM CP4I / WSO2 stack?",
+      "link": "https://www.reddit.com/r/devops/comments/1x2pvj1/worth_switching_from_chatgpt_plus_to_claude_pro/",
+      "published": "2026-10-10T20:57:05+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Ipv4 vs Ipv6, explained from scratch",
+      "link": "https://www.reddit.com/r/devops/comments/1x2mpxi/ipv4_vs_ipv6_explained_from_scratch/",
+      "published": "2026-10-10T18:42:49+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Networking a 3-Node Kubernetes Homelab with Cilium, Gateway API and Cloudflare Tunnel",
+      "link": "https://www.reddit.com/r/devops/comments/1x2mjo9/networking_a_3node_kubernetes_homelab_with_cilium/",
+      "published": "2026-10-10T18:35:27+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Can AI actually write production-ready scripts end-to-end without human intervention?",
+      "link": "https://www.reddit.com/r/devops/comments/1x2mhoj/can_ai_actually_write_productionready_scripts/",
+      "published": "2026-10-10T18:33:04+00:00"
+    },
     {
       "source": "r/devops",
       "category": "Community",
@@ -9,123 +44,11 @@
       "published": "2026-10-10T02:06:06+00:00"
     },
     {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "You're Not Crazy, They Never Sent FIN",
-      "link": "https://www.reddit.com/r/devops/comments/1x21no2/youre_not_crazy_they_never_sent_fin/",
-      "published": "2026-10-10T00:36:38+00:00"
-    },
-    {
       "source": "Azure Updates",
       "category": "Cloud",
       "title": "Retirement: Azure Key Vault Secrets Provider Extension for Azure Arc enabled Kubernetes clusters",
       "link": "https://azure.microsoft.com/updates?id=570313",
       "published": "2026-10-09T20:27:17+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "GitOps for infrastructure management - anyone doing this with OpenStack?",
-      "link": "https://www.reddit.com/r/devops/comments/1x1rjk9/gitops_for_infrastructure_management_anyone_doing/",
-      "published": "2026-10-09T17:31:37+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Modernizing Unstructured Data Workflows: Alteryx Live Query meets Google Cloud BigQuery",
-      "link": "https://cloud.google.com/blog/products/data-analytics/modernize-unstructured-data-workloads-with-alteryx-and-bigquery/",
-      "published": "2026-10-09T16:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "What\u2019s new with Google Data Cloud",
-      "link": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
-      "published": "2026-10-09T16:00:00+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Do EKS users really deploy more than 2 Clusters?",
-      "link": "https://www.reddit.com/r/devops/comments/1x1jmyv/do_eks_users_really_deploy_more_than_2_clusters/",
-      "published": "2026-10-09T12:07:09+00:00"
-    },
-    {
-      "source": "CNCF Blog",
-      "category": "Cloud Native",
-      "title": "Join Platform Engineering Day at KubeCon + CloudNativeCon North America 2026",
-      "link": "https://www.cncf.io/blog/2026/10/09/join-platform-engineering-day-at-kubecon-cloudnativecon-north-america-2026/",
-      "published": "2026-10-09T12:00:00+00:00"
-    },
-    {
-      "source": "CNCF Blog",
-      "category": "Cloud Native",
-      "title": "Making the Golden Kubestronaut a little more golden",
-      "link": "https://www.cncf.io/blog/2026/10/09/making-the-golden-kubestronaut-a-little-more-golden/",
-      "published": "2026-10-09T11:30:00+00:00"
-    },
-    {
-      "source": "CNCF Blog",
-      "category": "Cloud Native",
-      "title": "Who owns NIS2 and DORA on a Kubernetes platform team",
-      "link": "https://www.cncf.io/blog/2026/10/09/who-owns-nis2-and-dora-on-a-kubernetes-platform-team/",
-      "published": "2026-10-09T08:07:47+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "[Launched] Generally Available: Managed StandardV2 NAT Gateway for AKS",
-      "link": "https://azure.microsoft.com/updates?id=574430",
-      "published": "2026-10-08T22:51:01+00:00"
-    },
-    {
-      "source": "CNCF Blog",
-      "category": "Cloud Native",
-      "title": "Don\u2019t give AI agents root. Make them propose the next system state.",
-      "link": "https://www.cncf.io/blog/2026/10/08/dont-give-ai-agents-root-make-them-propose-the-next-system-state/",
-      "published": "2026-10-08T22:21:41+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "How hard is it to switch cloud/DevOps platforms in a bad job market?",
-      "link": "https://www.reddit.com/r/devops/comments/1x14kf7/how_hard_is_it_to_switch_clouddevops_platforms_in/",
-      "published": "2026-10-08T22:19:15+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "[Launched] Generally Available: Azure Database for PostgreSQL flexible server in East US 3",
-      "link": "https://azure.microsoft.com/updates?id=573691",
-      "published": "2026-10-08T19:56:31+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "Retirement: Microsoft Dev Box will be retired on September 18, 2028",
-      "link": "https://azure.microsoft.com/updates?id=567933",
-      "published": "2026-10-08T18:23:25+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "Retirement: Azure Deployment Environments will be retired on February 22, 2027",
-      "link": "https://azure.microsoft.com/updates?id=567934",
-      "published": "2026-10-08T18:20:34+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "[Launched] Generally Available: Exceptions in WAF for Azure Application Gateway and Azure Front Door",
-      "link": "https://azure.microsoft.com/updates?id=574343",
-      "published": "2026-10-08T17:29:30+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "[In preview] Public Preview: Microsoft Agent 365 integration with Azure API Management",
-      "link": "https://azure.microsoft.com/updates?id=574204",
-      "published": "2026-10-08T17:24:34+00:00"
     }
   ],
   "devsecops": [
@@ -197,62 +120,6 @@
       "title": "Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories",
       "link": "https://thehackernews.com/2026/10/credential-stealing-github-actions.html",
       "published": "2026-10-10T00:44:28+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge",
-      "link": "https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html",
-      "published": "2026-10-09T18:17:26+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Flax Typhoon Exploits Five Flaws as CISA Sets October 11 Deadline for Federal Agencies",
-      "link": "https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html",
-      "published": "2026-10-09T17:51:51+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "The AI Velocity Paradox: Why Security Is Decades Behind AI Ambition",
-      "link": "https://thehackernews.com/2026/10/the-ai-velocity-paradox-why-security-is.html",
-      "published": "2026-10-09T17:00:00+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Three Teams Demonstrate Remote Hacks of Fully Patched Google Pixel 10 at Pwn2Own",
-      "link": "https://thehackernews.com/2026/10/three-teams-demonstrate-remote-hacks-of.html",
-      "published": "2026-10-09T13:56:17+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Citrix Patches Critical NetScaler Flaw That Could Enable RCE in SAML Deployments",
-      "link": "https://thehackernews.com/2026/10/citrix-patches-critical-netscaler-flaw.html",
-      "published": "2026-10-09T13:41:33+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "FBI Says China-Linked Hackers Ran Portal Giving Third Parties Access to Stolen Emails",
-      "link": "https://thehackernews.com/2026/10/fbi-says-china-linked-hackers-ran.html",
-      "published": "2026-10-09T00:02:21+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "ThreatsDay: Ransomware Affiliate Betrayal, WhatsApp RAT, Exposed Hacker Tools and 12 More Stories",
-      "link": "https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html",
-      "published": "2026-10-08T23:28:02+05:30"
-    },
-    {
-      "source": "GitHub Security Blog",
-      "category": "Supply Chain",
-      "title": "How one bug bounty researcher chooses the features they investigate",
-      "link": "https://github.blog/security/how-one-bug-bounty-researcher-chooses-the-features-they-investigate/",
-      "published": "2026-10-08T17:02:52+00:00"
     }
   ],
   "meetups": [],
