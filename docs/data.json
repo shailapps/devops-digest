@@ -1,54 +1,103 @@
 {
-  "generated_at": "2026-10-11T16:32:09.572814+00:00",
+  "generated_at": "2026-10-12T20:06:17.411479+00:00",
   "devops": [
     {
       "source": "r/devops",
       "category": "Community",
-      "title": "I gave my AI access to the shell. Built this after it almost \"helped\" me too much.",
-      "link": "https://www.reddit.com/r/devops/comments/1x363lp/i_gave_my_ai_access_to_the_shell_built_this_after/",
-      "published": "2026-10-11T11:42:11+00:00"
+      "title": "Meme from Russian DevOps channel (autrotranslated to English) AKA \"List of DevOps interview questions for October 2026\"",
+      "link": "https://www.reddit.com/r/devops/comments/1x4bpht/meme_from_russian_devops_channel_autrotranslated/",
+      "published": "2026-10-12T19:39:44+00:00"
     },
     {
       "source": "r/devops",
       "category": "Community",
-      "title": "Worth switching from ChatGPT Plus to Claude Pro for an OpenShift / IBM CP4I / WSO2 stack?",
-      "link": "https://www.reddit.com/r/devops/comments/1x2pvj1/worth_switching_from_chatgpt_plus_to_claude_pro/",
-      "published": "2026-10-10T20:57:05+00:00"
+      "title": "How do you combine semantic-release with \u201cbuild once, deploy many\u201d for containers",
+      "link": "https://www.reddit.com/r/devops/comments/1x48bjr/how_do_you_combine_semanticrelease_with_build/",
+      "published": "2026-10-12T17:35:29+00:00"
     },
     {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Ipv4 vs Ipv6, explained from scratch",
-      "link": "https://www.reddit.com/r/devops/comments/1x2mpxi/ipv4_vs_ipv6_explained_from_scratch/",
-      "published": "2026-10-10T18:42:49+00:00"
+      "source": "Docker Blog",
+      "category": "Cloud Native",
+      "title": "Docker Hub security advisory: personal access tokens transferred during account-to-organization conversions",
+      "link": "https://www.docker.com/blog/docker-hub-security-advisory-cve-2026-105445/",
+      "published": "2026-10-12T16:00:00+00:00"
     },
     {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Networking a 3-Node Kubernetes Homelab with Cilium, Gateway API and Cloudflare Tunnel",
-      "link": "https://www.reddit.com/r/devops/comments/1x2mjo9/networking_a_3node_kubernetes_homelab_with_cilium/",
-      "published": "2026-10-10T18:35:27+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Can AI actually write production-ready scripts end-to-end without human intervention?",
-      "link": "https://www.reddit.com/r/devops/comments/1x2mhoj/can_ai_actually_write_productionready_scripts/",
-      "published": "2026-10-10T18:33:04+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "explaining prod server migration while hungry cause i cant afford groceries",
-      "link": "https://www.reddit.com/r/devops/comments/1x23f1r/explaining_prod_server_migration_while_hungry/",
-      "published": "2026-10-10T02:06:06+00:00"
-    },
-    {
-      "source": "Azure Updates",
+      "source": "Google Cloud Blog",
       "category": "Cloud",
-      "title": "Retirement: Azure Key Vault Secrets Provider Extension for Azure Arc enabled Kubernetes clusters",
-      "link": "https://azure.microsoft.com/updates?id=570313",
-      "published": "2026-10-09T20:27:17+00:00"
+      "title": "Introducing TimesFM 3.0 with multivariate time-series forecasting in BigQuery",
+      "link": "https://cloud.google.com/blog/products/data-analytics/bigquery-timesfm-3-0-with-multivariate-time-series-forecasting/",
+      "published": "2026-10-12T16:00:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Trusted Data Apps for the Agentic Data Cloud, powered by Looker",
+      "link": "https://cloud.google.com/blog/products/business-intelligence/introducing-looker-data-apps/",
+      "published": "2026-10-12T16:00:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "10 Years of the SRE book: Announcing the second edition of \"Site Reliability Engineering\u201d",
+      "link": "https://cloud.google.com/blog/products/devops-sre/sre-book-second-edition/",
+      "published": "2026-10-12T16:00:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Agentic data science with the Data Agent Kit",
+      "link": "https://cloud.google.com/blog/products/data-analytics/bringing-you-the-data-agent-kit/",
+      "published": "2026-10-12T16:00:00+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Is there an open-source way to automate cloud and AI cost remediation with approvals?",
+      "link": "https://www.reddit.com/r/devops/comments/1x3zzm4/is_there_an_opensource_way_to_automate_cloud_and/",
+      "published": "2026-10-12T12:01:09+00:00"
+    },
+    {
+      "source": "CNCF Blog",
+      "category": "Cloud Native",
+      "title": "From zero to agent builder: Running kagent on your laptop",
+      "link": "https://www.cncf.io/blog/2026/10/12/from-zero-to-agent-builder-running-kagent-on-your-laptop/",
+      "published": "2026-10-12T11:30:00+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Go worker handling bursty large-file transfers. Unlimited concurrency vs bounded semaphore and retries",
+      "link": "https://www.reddit.com/r/devops/comments/1x3wr26/go_worker_handling_bursty_largefile_transfers/",
+      "published": "2026-10-12T08:50:36+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Weekly Self Promotion Thread",
+      "link": "https://www.reddit.com/r/devops/comments/1x3ujiw/weekly_self_promotion_thread/",
+      "published": "2026-10-12T06:30:16+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Must have physical books every devops engineer should have on their desk",
+      "link": "https://www.reddit.com/r/devops/comments/1x3ucy2/must_have_physical_books_every_devops_engineer/",
+      "published": "2026-10-12T06:19:06+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "What's your monthly GitHub Actions bill, and does anyone actually worry about it?",
+      "link": "https://www.reddit.com/r/devops/comments/1x3lio1/whats_your_monthly_github_actions_bill_and_does/",
+      "published": "2026-10-11T22:33:23+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "DevOps for Wordpress",
+      "link": "https://www.reddit.com/r/devops/comments/1x3fq1d/devops_for_wordpress/",
+      "published": "2026-10-11T18:33:15+00:00"
     }
   ],
   "devsecops": [
@@ -93,33 +142,25 @@
       "date_only": true
     },
     {
-      "source": "CISA KEV",
-      "category": "Actively Exploited",
-      "title": "CVE-2026-88779 \u2014 Citrix NetScaler: Citrix NetScaler Improper Restriction of Operations within the Bounds of a Memory Buffer Vulnerability",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88779",
-      "published": "2026-10-04T12:00:00+00:00",
-      "date_only": true
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "\u26a1 Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More",
+      "link": "https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html",
+      "published": "2026-10-12T20:46:26+05:30"
     },
     {
       "source": "The Hacker News",
       "category": "Threats",
-      "title": "The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't",
-      "link": "https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html",
-      "published": "2026-10-10T16:30:00+05:30"
+      "title": "Critical SonicWall SMA 1000 Flaw Targeted in 135 Exploitation Attempts After Patch",
+      "link": "https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html",
+      "published": "2026-10-12T16:06:56+05:30"
     },
     {
       "source": "The Hacker News",
       "category": "Threats",
-      "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
-      "link": "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html",
-      "published": "2026-10-10T14:48:45+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories",
-      "link": "https://thehackernews.com/2026/10/credential-stealing-github-actions.html",
-      "published": "2026-10-10T00:44:28+05:30"
+      "title": "Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE",
+      "link": "https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html",
+      "published": "2026-10-12T14:32:14+05:30"
     }
   ],
   "meetups": [],
