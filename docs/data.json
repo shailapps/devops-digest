@@ -1,6 +1,76 @@
 {
-  "generated_at": "2026-10-12T20:06:17.411479+00:00",
+  "generated_at": "2026-10-13T17:55:38.769747+00:00",
   "devops": [
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "GitHub Actions self-hosted runner gets stuck downloading Java 17 with setup-java \u2014 curl: (18) Transferred a partial file",
+      "link": "https://www.reddit.com/r/devops/comments/1x52qgg/github_actions_selfhosted_runner_gets_stuck/",
+      "published": "2026-10-13T17:20:10+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Cross-cloud conversational analytics made simple with open standards",
+      "link": "https://cloud.google.com/blog/products/data-analytics/cross-cloud-conversational-analytics-with-borderless-lakehouse/",
+      "published": "2026-10-13T16:00:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Gemini 4 Argon available on Google Cloud, built to help solve your business\u2019 hardest problems",
+      "link": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-4-argon-available-on-google-cloud/",
+      "published": "2026-10-13T16:00:00+00:00"
+    },
+    {
+      "source": "AWS Blog",
+      "category": "Cloud",
+      "title": "AWS Weekly Roundup: Prime Day 2026 by the numbers, Claude Haiku 5.5, Amazon Nova 2.5 Sonic, and more (October 13, 2026)",
+      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-prime-day-2026-by-the-numbers-claude-haiku-5-5-amazon-nova-2-5-sonic-and-more-october-13-2026/",
+      "published": "2026-10-13T15:59:06+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "One Agent Development Kit, five languages",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/one-agent-development-kit-five-languages/",
+      "published": "2026-10-13T12:22:00+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "soft recommendation to visualize Service/Dependency Map",
+      "link": "https://www.reddit.com/r/devops/comments/1x4sx80/soft_recommendation_to_visualize/",
+      "published": "2026-10-13T10:21:25+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "If you're into Cybersecurity, Cloud, DevOps, or Linux, let's connect and learn together",
+      "link": "https://www.reddit.com/r/devops/comments/1x4q0eq/if_youre_into_cybersecurity_cloud_devops_or_linux/",
+      "published": "2026-10-13T07:11:53+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Side Projects/Tutoring?",
+      "link": "https://www.reddit.com/r/devops/comments/1x4gxll/side_projectstutoring/",
+      "published": "2026-10-12T23:13:47+00:00"
+    },
+    {
+      "source": "AWS Blog",
+      "category": "Cloud",
+      "title": "Announcing AWS Lambda Web Functions",
+      "link": "https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/",
+      "published": "2026-10-12T22:34:47+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Building a taxi app with a microservices architecture. How would you deploy it on a small budget?",
+      "link": "https://www.reddit.com/r/devops/comments/1x4fe6l/building_a_taxi_app_with_a_microservices/",
+      "published": "2026-10-12T22:04:46+00:00"
+    },
     {
       "source": "r/devops",
       "category": "Community",
@@ -25,15 +95,8 @@
     {
       "source": "Google Cloud Blog",
       "category": "Cloud",
-      "title": "Introducing TimesFM 3.0 with multivariate time-series forecasting in BigQuery",
-      "link": "https://cloud.google.com/blog/products/data-analytics/bigquery-timesfm-3-0-with-multivariate-time-series-forecasting/",
-      "published": "2026-10-12T16:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Trusted Data Apps for the Agentic Data Cloud, powered by Looker",
-      "link": "https://cloud.google.com/blog/products/business-intelligence/introducing-looker-data-apps/",
+      "title": "Agentic data science with the Data Agent Kit",
+      "link": "https://cloud.google.com/blog/products/data-analytics/bringing-you-the-data-agent-kit/",
       "published": "2026-10-12T16:00:00+00:00"
     },
     {
@@ -46,16 +109,16 @@
     {
       "source": "Google Cloud Blog",
       "category": "Cloud",
-      "title": "Agentic data science with the Data Agent Kit",
-      "link": "https://cloud.google.com/blog/products/data-analytics/bringing-you-the-data-agent-kit/",
+      "title": "Trusted Data Apps for the Agentic Data Cloud, powered by Looker",
+      "link": "https://cloud.google.com/blog/products/business-intelligence/introducing-looker-data-apps/",
       "published": "2026-10-12T16:00:00+00:00"
     },
     {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Is there an open-source way to automate cloud and AI cost remediation with approvals?",
-      "link": "https://www.reddit.com/r/devops/comments/1x3zzm4/is_there_an_opensource_way_to_automate_cloud_and/",
-      "published": "2026-10-12T12:01:09+00:00"
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Introducing TimesFM 3.0 with multivariate time-series forecasting in BigQuery",
+      "link": "https://cloud.google.com/blog/products/data-analytics/bigquery-timesfm-3-0-with-multivariate-time-series-forecasting/",
+      "published": "2026-10-12T16:00:00+00:00"
     },
     {
       "source": "CNCF Blog",
@@ -67,40 +130,20 @@
     {
       "source": "r/devops",
       "category": "Community",
-      "title": "Go worker handling bursty large-file transfers. Unlimited concurrency vs bounded semaphore and retries",
-      "link": "https://www.reddit.com/r/devops/comments/1x3wr26/go_worker_handling_bursty_largefile_transfers/",
-      "published": "2026-10-12T08:50:36+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
       "title": "Weekly Self Promotion Thread",
       "link": "https://www.reddit.com/r/devops/comments/1x3ujiw/weekly_self_promotion_thread/",
       "published": "2026-10-12T06:30:16+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Must have physical books every devops engineer should have on their desk",
-      "link": "https://www.reddit.com/r/devops/comments/1x3ucy2/must_have_physical_books_every_devops_engineer/",
-      "published": "2026-10-12T06:19:06+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "What's your monthly GitHub Actions bill, and does anyone actually worry about it?",
-      "link": "https://www.reddit.com/r/devops/comments/1x3lio1/whats_your_monthly_github_actions_bill_and_does/",
-      "published": "2026-10-11T22:33:23+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "DevOps for Wordpress",
-      "link": "https://www.reddit.com/r/devops/comments/1x3fq1d/devops_for_wordpress/",
-      "published": "2026-10-11T18:33:15+00:00"
     }
   ],
   "devsecops": [
+    {
+      "source": "CISA KEV",
+      "category": "Actively Exploited",
+      "title": "CVE-2026-104935 \u2014 Ivanti Connect Secure: Ivanti Connect Secure Authentication Bypass by Spoofing Vulnerability",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-104935",
+      "published": "2026-10-13T12:00:00+00:00",
+      "date_only": true
+    },
     {
       "source": "CISA KEV",
       "category": "Actively Exploited",
@@ -140,6 +183,41 @@
       "link": "https://nvd.nist.gov/vuln/detail/CVE-2015-3306",
       "published": "2026-10-08T12:00:00+00:00",
       "date_only": true
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "GitHub Tightens npm Publishing After Flaw Left 1,500+ Packages Vulnerable to Hijacking",
+      "link": "https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html",
+      "published": "2026-10-13T21:48:18+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "[Webinar] How to Stop AI-Driven Privilege Escalation With Runtime Identity Controls",
+      "link": "https://thehackernews.com/2026/10/webinar-how-to-stop-ai-driven-privilege.html",
+      "published": "2026-10-13T17:27:06+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Two Critical MarkLogic Flaws Could Give Delegated Managers Persistent Admin Control",
+      "link": "https://thehackernews.com/2026/10/two-critical-marklogic-flaws-could-give.html",
+      "published": "2026-10-13T14:14:01+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "GitLab Patches CVSS 10.0 Flaw That Could Let Unauthenticated Users Run Server Code",
+      "link": "https://thehackernews.com/2026/10/gitlab-patches-cvss-100-flaw-that-could.html",
+      "published": "2026-10-13T14:13:37+05:30"
+    },
+    {
+      "source": "Sysdig",
+      "category": "Cloud & Container",
+      "title": "Why Cybersecurity Awareness Month still comes back to the basics",
+      "link": "https://webflow.sysdig.com/blog/why-cybersecurity-awareness-month-still-comes-back-to-the-basics",
+      "published": "2026-10-13T00:00:00+00:00"
     },
     {
       "source": "The Hacker News",
