@@ -1,12 +1,54 @@
 {
-  "generated_at": "2026-10-13T17:55:38.769747+00:00",
+  "generated_at": "2026-10-14T15:41:48.033069+00:00",
   "devops": [
     {
       "source": "r/devops",
       "category": "Community",
-      "title": "GitHub Actions self-hosted runner gets stuck downloading Java 17 with setup-java \u2014 curl: (18) Transferred a partial file",
-      "link": "https://www.reddit.com/r/devops/comments/1x52qgg/github_actions_selfhosted_runner_gets_stuck/",
-      "published": "2026-10-13T17:20:10+00:00"
+      "title": "How do you know a Renovate chart bump is safe to merge in Argo CD?",
+      "link": "https://www.reddit.com/r/devops/comments/1x5rdfo/how_do_you_know_a_renovate_chart_bump_is_safe_to/",
+      "published": "2026-10-14T13:34:18+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "How are you giving AI agents access to AWS in production?",
+      "link": "https://www.reddit.com/r/devops/comments/1x5r9ob/how_are_you_giving_ai_agents_access_to_aws_in/",
+      "published": "2026-10-14T13:29:47+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Is Trunk Based Development possible if an integration test takes too long to run?",
+      "link": "https://www.reddit.com/r/devops/comments/1x5r1w1/is_trunk_based_development_possible_if_an/",
+      "published": "2026-10-14T13:20:15+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "AWS/Azure/GCP & Security Training",
+      "link": "https://www.reddit.com/r/devops/comments/1x5puyk/awsazuregcp_security_training/",
+      "published": "2026-10-14T12:26:00+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Do you use AWS Systems Manager?",
+      "link": "https://www.reddit.com/r/devops/comments/1x5n8dd/do_you_use_aws_systems_manager/",
+      "published": "2026-10-14T10:00:21+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "That moment when you realize you're in production",
+      "link": "https://www.reddit.com/r/devops/comments/1x5m0ci/that_moment_when_you_realize_youre_in_production/",
+      "published": "2026-10-14T08:40:43+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "syllabus for a undergrad devops course",
+      "link": "https://www.reddit.com/r/devops/comments/1x57ib9/syllabus_for_a_undergrad_devops_course/",
+      "published": "2026-10-13T20:16:34+00:00"
     },
     {
       "source": "Google Cloud Blog",
@@ -37,53 +79,11 @@
       "published": "2026-10-13T12:22:00+00:00"
     },
     {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "soft recommendation to visualize Service/Dependency Map",
-      "link": "https://www.reddit.com/r/devops/comments/1x4sx80/soft_recommendation_to_visualize/",
-      "published": "2026-10-13T10:21:25+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "If you're into Cybersecurity, Cloud, DevOps, or Linux, let's connect and learn together",
-      "link": "https://www.reddit.com/r/devops/comments/1x4q0eq/if_youre_into_cybersecurity_cloud_devops_or_linux/",
-      "published": "2026-10-13T07:11:53+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Side Projects/Tutoring?",
-      "link": "https://www.reddit.com/r/devops/comments/1x4gxll/side_projectstutoring/",
-      "published": "2026-10-12T23:13:47+00:00"
-    },
-    {
       "source": "AWS Blog",
       "category": "Cloud",
       "title": "Announcing AWS Lambda Web Functions",
       "link": "https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/",
       "published": "2026-10-12T22:34:47+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Building a taxi app with a microservices architecture. How would you deploy it on a small budget?",
-      "link": "https://www.reddit.com/r/devops/comments/1x4fe6l/building_a_taxi_app_with_a_microservices/",
-      "published": "2026-10-12T22:04:46+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Meme from Russian DevOps channel (autrotranslated to English) AKA \"List of DevOps interview questions for October 2026\"",
-      "link": "https://www.reddit.com/r/devops/comments/1x4bpht/meme_from_russian_devops_channel_autrotranslated/",
-      "published": "2026-10-12T19:39:44+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "How do you combine semantic-release with \u201cbuild once, deploy many\u201d for containers",
-      "link": "https://www.reddit.com/r/devops/comments/1x48bjr/how_do_you_combine_semanticrelease_with_build/",
-      "published": "2026-10-12T17:35:29+00:00"
     },
     {
       "source": "Docker Blog",
@@ -119,20 +119,6 @@
       "title": "Introducing TimesFM 3.0 with multivariate time-series forecasting in BigQuery",
       "link": "https://cloud.google.com/blog/products/data-analytics/bigquery-timesfm-3-0-with-multivariate-time-series-forecasting/",
       "published": "2026-10-12T16:00:00+00:00"
-    },
-    {
-      "source": "CNCF Blog",
-      "category": "Cloud Native",
-      "title": "From zero to agent builder: Running kagent on your laptop",
-      "link": "https://www.cncf.io/blog/2026/10/12/from-zero-to-agent-builder-running-kagent-on-your-laptop/",
-      "published": "2026-10-12T11:30:00+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Weekly Self Promotion Thread",
-      "link": "https://www.reddit.com/r/devops/comments/1x3ujiw/weekly_self_promotion_thread/",
-      "published": "2026-10-12T06:30:16+00:00"
     }
   ],
   "devsecops": [
@@ -141,6 +127,14 @@
       "category": "Actively Exploited",
       "title": "CVE-2026-104935 \u2014 Ivanti Connect Secure: Ivanti Connect Secure Authentication Bypass by Spoofing Vulnerability",
       "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-104935",
+      "published": "2026-10-13T12:00:00+00:00",
+      "date_only": true
+    },
+    {
+      "source": "CISA KEV",
+      "category": "Actively Exploited",
+      "title": "CVE-2026-96951 \u2014 Microsoft Windows: Microsoft Windows Command Injection Vulnerability",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-96951",
       "published": "2026-10-13T12:00:00+00:00",
       "date_only": true
     },
@@ -187,6 +181,69 @@
     {
       "source": "The Hacker News",
       "category": "Threats",
+      "title": "CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts",
+      "link": "https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html",
+      "published": "2026-10-14T18:00:42+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host",
+      "link": "https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html",
+      "published": "2026-10-14T13:16:57+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave",
+      "link": "https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html",
+      "published": "2026-10-14T11:22:28+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Microsoft Patches Record 1,413 Flaws, Including Exploited Windows Shell Bug",
+      "link": "https://thehackernews.com/2026/10/microsoft-patches-record-1413-flaws.html",
+      "published": "2026-10-14T10:04:43+05:30"
+    },
+    {
+      "source": "OpenSSF",
+      "category": "Supply Chain",
+      "title": "Introducing Privateer: AI-Assisted Security & Compliance Evaluation Framework Joins the OpenSSF Sandbox",
+      "link": "https://openssf.org/blog/2026/10/13/introducing-privateer-ai-assisted-security-compliance-evaluation-framework-joins-the-openssf-sandbox/",
+      "published": "2026-10-13T20:53:11+00:00"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another",
+      "link": "https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html",
+      "published": "2026-10-13T23:33:18+05:30"
+    },
+    {
+      "source": "GitHub Security Blog",
+      "category": "Supply Chain",
+      "title": "GitHub\u2019s model for secret detection: Finding more secrets with less noise",
+      "link": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/",
+      "published": "2026-10-13T17:56:33+00:00"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far",
+      "link": "https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html",
+      "published": "2026-10-13T23:03:11+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "SAP Discloses Critical CVSS 10 Flaw in Cloud SDK for Python Allowing OAuth2 Credential Theft",
+      "link": "https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html",
+      "published": "2026-10-13T22:58:50+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
       "title": "GitHub Tightens npm Publishing After Flaw Left 1,500+ Packages Vulnerable to Hijacking",
       "link": "https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html",
       "published": "2026-10-13T21:48:18+05:30"
@@ -218,27 +275,6 @@
       "title": "Why Cybersecurity Awareness Month still comes back to the basics",
       "link": "https://webflow.sysdig.com/blog/why-cybersecurity-awareness-month-still-comes-back-to-the-basics",
       "published": "2026-10-13T00:00:00+00:00"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "\u26a1 Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More",
-      "link": "https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html",
-      "published": "2026-10-12T20:46:26+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Critical SonicWall SMA 1000 Flaw Targeted in 135 Exploitation Attempts After Patch",
-      "link": "https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html",
-      "published": "2026-10-12T16:06:56+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE",
-      "link": "https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html",
-      "published": "2026-10-12T14:32:14+05:30"
     }
   ],
   "meetups": [],
