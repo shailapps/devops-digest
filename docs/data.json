@@ -1,33 +1,96 @@
 {
-  "generated_at": "2026-10-14T15:41:48.033069+00:00",
+  "generated_at": "2026-10-15T15:29:20.313574+00:00",
   "devops": [
     {
       "source": "r/devops",
       "category": "Community",
-      "title": "How do you know a Renovate chart bump is safe to merge in Argo CD?",
-      "link": "https://www.reddit.com/r/devops/comments/1x5rdfo/how_do_you_know_a_renovate_chart_bump_is_safe_to/",
-      "published": "2026-10-14T13:34:18+00:00"
+      "title": "Why are we still reviewing massive PRs in alphabetical file order?",
+      "link": "https://www.reddit.com/r/devops/comments/1x6nzsy/why_are_we_still_reviewing_massive_prs_in/",
+      "published": "2026-10-15T15:01:01+00:00"
     },
     {
       "source": "r/devops",
       "category": "Community",
-      "title": "How are you giving AI agents access to AWS in production?",
-      "link": "https://www.reddit.com/r/devops/comments/1x5r9ob/how_are_you_giving_ai_agents_access_to_aws_in/",
-      "published": "2026-10-14T13:29:47+00:00"
+      "title": "Title: What does your deployment actually verify?",
+      "link": "https://www.reddit.com/r/devops/comments/1x6nilu/title_what_does_your_deployment_actually_verify/",
+      "published": "2026-10-15T14:43:22+00:00"
     },
     {
       "source": "r/devops",
       "category": "Community",
-      "title": "Is Trunk Based Development possible if an integration test takes too long to run?",
-      "link": "https://www.reddit.com/r/devops/comments/1x5r1w1/is_trunk_based_development_possible_if_an/",
-      "published": "2026-10-14T13:20:15+00:00"
+      "title": "How to manage access for 50 EKS cluster with AWS IAM?",
+      "link": "https://www.reddit.com/r/devops/comments/1x6kymt/how_to_manage_access_for_50_eks_cluster_with_aws/",
+      "published": "2026-10-15T12:59:18+00:00"
+    },
+    {
+      "source": "Docker Blog",
+      "category": "Cloud Native",
+      "title": "AI Agent Security Risks: What Can Go Wrong When Agents Act on Their Own",
+      "link": "https://www.docker.com/blog/ai-agent-security-risks/",
+      "published": "2026-10-14T22:08:33+00:00"
+    },
+    {
+      "source": "Docker Blog",
+      "category": "Cloud Native",
+      "title": "Harbor + Docker Sandboxes: Run Safe, Reproducible Agent Evals",
+      "link": "https://www.docker.com/blog/harbor-docker-sandboxes-run-safe-reproducible-agent-evals/",
+      "published": "2026-10-14T21:45:27+00:00"
     },
     {
       "source": "r/devops",
       "category": "Community",
-      "title": "AWS/Azure/GCP & Security Training",
-      "link": "https://www.reddit.com/r/devops/comments/1x5puyk/awsazuregcp_security_training/",
-      "published": "2026-10-14T12:26:00+00:00"
+      "title": "Anyone noticed AI PRs that ignore infrastructure and DevOps realities?",
+      "link": "https://www.reddit.com/r/devops/comments/1x62lxf/anyone_noticed_ai_prs_that_ignore_infrastructure/",
+      "published": "2026-10-14T20:46:00+00:00"
+    },
+    {
+      "source": "AWS Blog",
+      "category": "Cloud",
+      "title": "Amazon S3 is now available on the Vercel Marketplace and v0 by Vercel",
+      "link": "https://aws.amazon.com/blogs/aws/amazon-s3-vercel-marketplace-v0/",
+      "published": "2026-10-14T19:30:48+00:00"
+    },
+    {
+      "source": "Azure Updates",
+      "category": "Cloud",
+      "title": "[Launched] Generally Available: Azure Cloud HSM hardware audit logging",
+      "link": "https://azure.microsoft.com/updates?id=576377",
+      "published": "2026-10-14T19:17:47+00:00"
+    },
+    {
+      "source": "Azure Updates",
+      "category": "Cloud",
+      "title": "[Launched] Generally Available: Azure Site Recovery Support for Azure ARC-enabled Windows VMWare/Physical servers",
+      "link": "https://azure.microsoft.com/updates?id=576214",
+      "published": "2026-10-14T19:13:31+00:00"
+    },
+    {
+      "source": "Kubernetes Blog",
+      "category": "Cloud Native",
+      "title": "Why Is My Kubernetes Job Still Pending? Tracing Kueue Admission with Headlamp",
+      "link": "https://kubernetes.io/blog/2026/10/14/tracing-kueue-admission-with-headlamp/",
+      "published": "2026-10-14T10:35:00-08:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "am i in the right job!?",
+      "link": "https://www.reddit.com/r/devops/comments/1x5z7cg/am_i_in_the_right_job/",
+      "published": "2026-10-14T18:34:17+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Cloud CISO Perspectives: New Gemini Notebook can help CISOs and policymakers prepare for PQC",
+      "link": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-new-gemini-notebook-can-help-cisos-policymakers-prepare-for-pqc/",
+      "published": "2026-10-14T16:00:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Predictable AI spend in BigQuery: Introducing cost management for generative AI functions",
+      "link": "https://cloud.google.com/blog/products/data-analytics/using-bigquerys-generative-ai-cost-management-features/",
+      "published": "2026-10-14T16:00:00+00:00"
     },
     {
       "source": "r/devops",
@@ -42,13 +105,6 @@
       "title": "That moment when you realize you're in production",
       "link": "https://www.reddit.com/r/devops/comments/1x5m0ci/that_moment_when_you_realize_youre_in_production/",
       "published": "2026-10-14T08:40:43+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "syllabus for a undergrad devops course",
-      "link": "https://www.reddit.com/r/devops/comments/1x57ib9/syllabus_for_a_undergrad_devops_course/",
-      "published": "2026-10-13T20:16:34+00:00"
     },
     {
       "source": "Google Cloud Blog",
@@ -70,58 +126,41 @@
       "title": "AWS Weekly Roundup: Prime Day 2026 by the numbers, Claude Haiku 5.5, Amazon Nova 2.5 Sonic, and more (October 13, 2026)",
       "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-prime-day-2026-by-the-numbers-claude-haiku-5-5-amazon-nova-2-5-sonic-and-more-october-13-2026/",
       "published": "2026-10-13T15:59:06+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "One Agent Development Kit, five languages",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/one-agent-development-kit-five-languages/",
-      "published": "2026-10-13T12:22:00+00:00"
-    },
-    {
-      "source": "AWS Blog",
-      "category": "Cloud",
-      "title": "Announcing AWS Lambda Web Functions",
-      "link": "https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/",
-      "published": "2026-10-12T22:34:47+00:00"
-    },
-    {
-      "source": "Docker Blog",
-      "category": "Cloud Native",
-      "title": "Docker Hub security advisory: personal access tokens transferred during account-to-organization conversions",
-      "link": "https://www.docker.com/blog/docker-hub-security-advisory-cve-2026-105445/",
-      "published": "2026-10-12T16:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Agentic data science with the Data Agent Kit",
-      "link": "https://cloud.google.com/blog/products/data-analytics/bringing-you-the-data-agent-kit/",
-      "published": "2026-10-12T16:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "10 Years of the SRE book: Announcing the second edition of \"Site Reliability Engineering\u201d",
-      "link": "https://cloud.google.com/blog/products/devops-sre/sre-book-second-edition/",
-      "published": "2026-10-12T16:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Trusted Data Apps for the Agentic Data Cloud, powered by Looker",
-      "link": "https://cloud.google.com/blog/products/business-intelligence/introducing-looker-data-apps/",
-      "published": "2026-10-12T16:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Introducing TimesFM 3.0 with multivariate time-series forecasting in BigQuery",
-      "link": "https://cloud.google.com/blog/products/data-analytics/bigquery-timesfm-3-0-with-multivariate-time-series-forecasting/",
-      "published": "2026-10-12T16:00:00+00:00"
     }
   ],
   "devsecops": [
+    {
+      "source": "CISA KEV",
+      "category": "Actively Exploited",
+      "title": "CVE-2026-105134 \u2014 Ahsay AhsayCBS: Ahsay AhsayCBS Command Injection Vulnerability",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-105134",
+      "published": "2026-10-14T12:00:00+00:00",
+      "date_only": true
+    },
+    {
+      "source": "CISA KEV",
+      "category": "Actively Exploited",
+      "title": "CVE-2026-76519 \u2014 Cisco Secure Email Gateway: Cisco Secure Email Gateway Relative Path Traversal Vulnerability",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-76519",
+      "published": "2026-10-14T12:00:00+00:00",
+      "date_only": true
+    },
+    {
+      "source": "CISA KEV",
+      "category": "Actively Exploited",
+      "title": "CVE-2026-105133 \u2014 Ahsay AhsayCBS: Ahsay AhsayCBS Improper Authentication Vulnerability",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-105133",
+      "published": "2026-10-14T12:00:00+00:00",
+      "date_only": true
+    },
+    {
+      "source": "CISA KEV",
+      "category": "Actively Exploited",
+      "title": "CVE-2026-0322 \u2014 Palo Alto Networks PAN-OS: Palo Alto Networks PAN-OS Code Injection Vulnerability",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-0322",
+      "published": "2026-10-14T12:00:00+00:00",
+      "date_only": true
+    },
     {
       "source": "CISA KEV",
       "category": "Actively Exploited",
@@ -181,6 +220,90 @@
     {
       "source": "The Hacker News",
       "category": "Threats",
+      "title": "Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams",
+      "link": "https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html",
+      "published": "2026-10-15T19:41:36+05:30"
+    },
+    {
+      "source": "Aqua Security",
+      "category": "Cloud & Container",
+      "title": "Japan\u2019s Cyber Emergency Is a Warning for the World",
+      "link": "https://www.aquasec.com/blog/japans-cyber-emergency-is-a-warning-for-the-world/",
+      "published": "2026-10-15T13:59:49+00:00"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "NGINX Fixes 5 Flaws, Including Possible RCE and a TLS Bug That May Skip Client-Cert Checks",
+      "link": "https://thehackernews.com/2026/10/nginx-fixes-5-flaws-including-possible.html",
+      "published": "2026-10-15T18:28:05+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Next.js Ships Out-of-Band Patch for Two Critical RCE Flaws in Caching and SVG Processing",
+      "link": "https://thehackernews.com/2026/10/nextjs-ships-out-of-band-patch-for-two.html",
+      "published": "2026-10-15T17:58:13+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation",
+      "link": "https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html",
+      "published": "2026-10-15T17:16:49+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "GhostAction Compromises About 1,900 GitHub Accounts, Targets Over 30,000 Repositories",
+      "link": "https://thehackernews.com/2026/10/ghostaction-compromises-about-1900.html",
+      "published": "2026-10-15T14:15:10+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Langflow's Critical Authenticated RCE Flaw Targeted in 1,423 Honeypot Exploit Attempts",
+      "link": "https://thehackernews.com/2026/10/langflows-critical-authenticated-rce.html",
+      "published": "2026-10-15T12:37:05+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "AhsayCBS Flaws Exploited to Deploy Web Shells Get New Fixes After Incomplete Patches",
+      "link": "https://thehackernews.com/2026/10/ahsaycbs-flaws-exploited-to-deploy-web.html",
+      "published": "2026-10-15T12:13:08+05:30"
+    },
+    {
+      "source": "Snyk",
+      "category": "AppSec",
+      "title": "Introducing Evo Agentic AppSec: Security That Keeps Up With AI Development",
+      "link": "https://snyk.io/blog/announcing-snyk-agentic-appsec/",
+      "published": "2026-10-15T04:00:00+00:00"
+    },
+    {
+      "source": "Snyk",
+      "category": "AppSec",
+      "title": "VulnBump: Can AI Agents Fix Vulnerable Dependencies Without Breaking the Build?",
+      "link": "https://snyk.io/blog/vulnbump/",
+      "published": "2026-10-15T04:00:00+00:00"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora\u2019s Built-in CODE App",
+      "link": "https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html",
+      "published": "2026-10-14T23:08:31+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Microsoft Disrupts 3 Phishing Kits Linked to Over 1 Billion Scam Messages",
+      "link": "https://thehackernews.com/2026/10/microsoft-disrupts-3-phishing-kits.html",
+      "published": "2026-10-14T22:39:15+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
       "title": "CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts",
       "link": "https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html",
       "published": "2026-10-14T18:00:42+05:30"
@@ -214,67 +337,11 @@
       "published": "2026-10-13T20:53:11+00:00"
     },
     {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another",
-      "link": "https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html",
-      "published": "2026-10-13T23:33:18+05:30"
-    },
-    {
       "source": "GitHub Security Blog",
       "category": "Supply Chain",
       "title": "GitHub\u2019s model for secret detection: Finding more secrets with less noise",
       "link": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/",
       "published": "2026-10-13T17:56:33+00:00"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far",
-      "link": "https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html",
-      "published": "2026-10-13T23:03:11+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "SAP Discloses Critical CVSS 10 Flaw in Cloud SDK for Python Allowing OAuth2 Credential Theft",
-      "link": "https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html",
-      "published": "2026-10-13T22:58:50+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "GitHub Tightens npm Publishing After Flaw Left 1,500+ Packages Vulnerable to Hijacking",
-      "link": "https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html",
-      "published": "2026-10-13T21:48:18+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "[Webinar] How to Stop AI-Driven Privilege Escalation With Runtime Identity Controls",
-      "link": "https://thehackernews.com/2026/10/webinar-how-to-stop-ai-driven-privilege.html",
-      "published": "2026-10-13T17:27:06+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Two Critical MarkLogic Flaws Could Give Delegated Managers Persistent Admin Control",
-      "link": "https://thehackernews.com/2026/10/two-critical-marklogic-flaws-could-give.html",
-      "published": "2026-10-13T14:14:01+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "GitLab Patches CVSS 10.0 Flaw That Could Let Unauthenticated Users Run Server Code",
-      "link": "https://thehackernews.com/2026/10/gitlab-patches-cvss-100-flaw-that-could.html",
-      "published": "2026-10-13T14:13:37+05:30"
-    },
-    {
-      "source": "Sysdig",
-      "category": "Cloud & Container",
-      "title": "Why Cybersecurity Awareness Month still comes back to the basics",
-      "link": "https://webflow.sysdig.com/blog/why-cybersecurity-awareness-month-still-comes-back-to-the-basics",
-      "published": "2026-10-13T00:00:00+00:00"
     }
   ],
   "meetups": [],
