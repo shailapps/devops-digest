@@ -1,6 +1,111 @@
 {
-  "generated_at": "2026-10-15T15:29:20.313574+00:00",
+  "generated_at": "2026-10-16T15:10:55.417708+00:00",
   "devops": [
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "A Home for Vibe Coded Apps at Work (or home)",
+      "link": "https://www.reddit.com/r/devops/comments/1x7irea/a_home_for_vibe_coded_apps_at_work_or_home/",
+      "published": "2026-10-16T15:09:17+00:00"
+    },
+    {
+      "source": "CNCF Blog",
+      "category": "Cloud Native",
+      "title": "Putting Nepal on the CNCF Golden Kubestronaut map",
+      "link": "https://www.cncf.io/blog/2026/10/16/putting-nepal-on-the-cncf-golden-kubestronaut-map/",
+      "published": "2026-10-16T11:30:00+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "I abandoned the open-source database anonymizer. Should I kill it?",
+      "link": "https://www.reddit.com/r/devops/comments/1x7c147/i_abandoned_the_opensource_database_anonymizer/",
+      "published": "2026-10-16T09:53:11+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Feels like we're about to enter the next fad skill that gets you hired",
+      "link": "https://www.reddit.com/r/devops/comments/1x701h7/feels_like_were_about_to_enter_the_next_fad_skill/",
+      "published": "2026-10-15T22:50:52+00:00"
+    },
+    {
+      "source": "CNCF Blog",
+      "category": "Cloud Native",
+      "title": "Carbon as a first-class signal: Bringing software carbon intensity to OpenTelemetry",
+      "link": "https://www.cncf.io/blog/2026/10/15/carbon-as-a-first-class-signal-bringing-software-carbon-intensity-to-opentelemetry/",
+      "published": "2026-10-15T22:21:45+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "For those of you who use open-spec, what's your method for tracking work alongside proposed changes to the spec?",
+      "link": "https://www.reddit.com/r/devops/comments/1x6ythy/for_those_of_you_who_use_openspec_whats_your/",
+      "published": "2026-10-15T21:57:16+00:00"
+    },
+    {
+      "source": "Azure Updates",
+      "category": "Cloud",
+      "title": "[In preview] Public Preview: Azure Files cross-region data copy and synchronization with Azure Storage Mover",
+      "link": "https://azure.microsoft.com/updates?id=576542",
+      "published": "2026-10-15T19:05:18+00:00"
+    },
+    {
+      "source": "Azure Updates",
+      "category": "Cloud",
+      "title": "[Launched] Generally Available: Standard service endpoint",
+      "link": "https://azure.microsoft.com/updates?id=571025",
+      "published": "2026-10-15T17:39:51+00:00"
+    },
+    {
+      "source": "Azure Updates",
+      "category": "Cloud",
+      "title": "[Launched] Generally Availabile: Automatic zone balance for Virtual Machine Scale Sets",
+      "link": "https://azure.microsoft.com/updates?id=576334",
+      "published": "2026-10-15T16:54:20+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Temporal Serverless Workers on Cloud Run: Scale workers ahead of demand",
+      "link": "https://cloud.google.com/blog/products/serverless/temporal-serverless-workers-on-cloud-run-worker-pools/",
+      "published": "2026-10-15T16:00:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "What the Gemini agent means for startups",
+      "link": "https://cloud.google.com/blog/topics/startups/what-the-gemini-agent-means-for-startups/",
+      "published": "2026-10-15T16:00:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Bringing the borderless Lakehouse into the agentic era with innovations for Gemini",
+      "link": "https://cloud.google.com/blog/products/data-analytics/borderless-lakehouse-integrates-with-gemini/",
+      "published": "2026-10-15T16:00:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Modernizing perimeter security: Scalable perimeters with VPC Service Controls",
+      "link": "https://cloud.google.com/blog/products/identity-security/introducing-new-scalable-perimeter-options-with-vpc-service-controls/",
+      "published": "2026-10-15T16:00:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "What\u2019s new with Google Data Cloud",
+      "link": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
+      "published": "2026-10-15T16:00:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "How Visko streams real-time world models on Google Cloud TPUs",
+      "link": "https://cloud.google.com/blog/products/media-entertainment/how-visko-streams-real-time-world-models-on-google-cloud-tpus/",
+      "published": "2026-10-15T16:00:00+00:00"
+    },
     {
       "source": "r/devops",
       "category": "Community",
@@ -9,18 +114,18 @@
       "published": "2026-10-15T15:01:01+00:00"
     },
     {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Title: What does your deployment actually verify?",
-      "link": "https://www.reddit.com/r/devops/comments/1x6nilu/title_what_does_your_deployment_actually_verify/",
-      "published": "2026-10-15T14:43:22+00:00"
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "ARMORY CASTLE Exploits BeyondTrust",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/armory-castle-exploits-beyondtrust/",
+      "published": "2026-10-15T14:00:00+00:00"
     },
     {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "How to manage access for 50 EKS cluster with AWS IAM?",
-      "link": "https://www.reddit.com/r/devops/comments/1x6kymt/how_to_manage_access_for_50_eks_cluster_with_aws/",
-      "published": "2026-10-15T12:59:18+00:00"
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Investigating Ephemeral Supply Chain Tampering",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/investigating-ephemeral-supply-chain-tampering/",
+      "published": "2026-10-15T11:00:00+00:00"
     },
     {
       "source": "Docker Blog",
@@ -70,65 +175,17 @@
       "title": "Why Is My Kubernetes Job Still Pending? Tracing Kueue Admission with Headlamp",
       "link": "https://kubernetes.io/blog/2026/10/14/tracing-kueue-admission-with-headlamp/",
       "published": "2026-10-14T10:35:00-08:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "am i in the right job!?",
-      "link": "https://www.reddit.com/r/devops/comments/1x5z7cg/am_i_in_the_right_job/",
-      "published": "2026-10-14T18:34:17+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Cloud CISO Perspectives: New Gemini Notebook can help CISOs and policymakers prepare for PQC",
-      "link": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-new-gemini-notebook-can-help-cisos-policymakers-prepare-for-pqc/",
-      "published": "2026-10-14T16:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Predictable AI spend in BigQuery: Introducing cost management for generative AI functions",
-      "link": "https://cloud.google.com/blog/products/data-analytics/using-bigquerys-generative-ai-cost-management-features/",
-      "published": "2026-10-14T16:00:00+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Do you use AWS Systems Manager?",
-      "link": "https://www.reddit.com/r/devops/comments/1x5n8dd/do_you_use_aws_systems_manager/",
-      "published": "2026-10-14T10:00:21+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "That moment when you realize you're in production",
-      "link": "https://www.reddit.com/r/devops/comments/1x5m0ci/that_moment_when_you_realize_youre_in_production/",
-      "published": "2026-10-14T08:40:43+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Cross-cloud conversational analytics made simple with open standards",
-      "link": "https://cloud.google.com/blog/products/data-analytics/cross-cloud-conversational-analytics-with-borderless-lakehouse/",
-      "published": "2026-10-13T16:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Gemini 4 Argon available on Google Cloud, built to help solve your business\u2019 hardest problems",
-      "link": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-4-argon-available-on-google-cloud/",
-      "published": "2026-10-13T16:00:00+00:00"
-    },
-    {
-      "source": "AWS Blog",
-      "category": "Cloud",
-      "title": "AWS Weekly Roundup: Prime Day 2026 by the numbers, Claude Haiku 5.5, Amazon Nova 2.5 Sonic, and more (October 13, 2026)",
-      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-prime-day-2026-by-the-numbers-claude-haiku-5-5-amazon-nova-2-5-sonic-and-more-october-13-2026/",
-      "published": "2026-10-13T15:59:06+00:00"
     }
   ],
   "devsecops": [
+    {
+      "source": "CISA KEV",
+      "category": "Actively Exploited",
+      "title": "CVE-2026-21589 \u2014 Atlassian Multiple Products: Atlassian Multiple Products Files or Directories Accessible to External Parties Vulnerability",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-21589",
+      "published": "2026-10-15T12:00:00+00:00",
+      "date_only": true
+    },
     {
       "source": "CISA KEV",
       "category": "Actively Exploited",
@@ -178,44 +235,39 @@
       "date_only": true
     },
     {
-      "source": "CISA KEV",
-      "category": "Actively Exploited",
-      "title": "CVE-2015-5477 \u2014 ISC BIND:  ISC BIND Data Processing Errors Vulnerability",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2015-5477",
-      "published": "2026-10-08T12:00:00+00:00",
-      "date_only": true
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers",
+      "link": "https://thehackernews.com/2026/10/china-linked-hackers-exploited.html",
+      "published": "2026-10-16T12:25:55+05:30"
     },
     {
-      "source": "CISA KEV",
-      "category": "Actively Exploited",
-      "title": "CVE-2016-3081 \u2014 Apache Struts: Apache Struts Command Injection Vulnerability",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2016-3081",
-      "published": "2026-10-08T12:00:00+00:00",
-      "date_only": true
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "PEERSTITCH Malware Deployed via FortiOS Flaw Bypasses Checks on Tagged VPN Sessions",
+      "link": "https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html",
+      "published": "2026-10-16T10:29:36+05:30"
     },
     {
-      "source": "CISA KEV",
-      "category": "Actively Exploited",
-      "title": "CVE-2023-22894 \u2014 Strapi Strapi: Strapi Cleartext Storage of Sensitive Information Vulnerability",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2023-22894",
-      "published": "2026-10-08T12:00:00+00:00",
-      "date_only": true
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory",
+      "link": "https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html",
+      "published": "2026-10-16T01:54:36+05:30"
     },
     {
-      "source": "CISA KEV",
-      "category": "Actively Exploited",
-      "title": "CVE-2021-3199 \u2014 ONLYOFFICE Docs: ONLYOFFICE Docs Server Path Traversal Vulnerability",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-3199",
-      "published": "2026-10-08T12:00:00+00:00",
-      "date_only": true
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More",
+      "link": "https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html",
+      "published": "2026-10-16T00:19:33+05:30"
     },
     {
-      "source": "CISA KEV",
-      "category": "Actively Exploited",
-      "title": "CVE-2015-3306 \u2014 ProFTPD ProFTPD: ProFTPD Improper Access Control Vulnerability",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2015-3306",
-      "published": "2026-10-08T12:00:00+00:00",
-      "date_only": true
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Silent Lynx Exploits WinRAR Flaw to Deploy Reverse Shell in CIS Government Attacks",
+      "link": "https://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html",
+      "published": "2026-10-15T21:30:26+05:30"
     },
     {
       "source": "The Hacker News",
@@ -300,48 +352,6 @@
       "title": "Microsoft Disrupts 3 Phishing Kits Linked to Over 1 Billion Scam Messages",
       "link": "https://thehackernews.com/2026/10/microsoft-disrupts-3-phishing-kits.html",
       "published": "2026-10-14T22:39:15+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts",
-      "link": "https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html",
-      "published": "2026-10-14T18:00:42+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host",
-      "link": "https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html",
-      "published": "2026-10-14T13:16:57+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave",
-      "link": "https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html",
-      "published": "2026-10-14T11:22:28+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Microsoft Patches Record 1,413 Flaws, Including Exploited Windows Shell Bug",
-      "link": "https://thehackernews.com/2026/10/microsoft-patches-record-1413-flaws.html",
-      "published": "2026-10-14T10:04:43+05:30"
-    },
-    {
-      "source": "OpenSSF",
-      "category": "Supply Chain",
-      "title": "Introducing Privateer: AI-Assisted Security & Compliance Evaluation Framework Joins the OpenSSF Sandbox",
-      "link": "https://openssf.org/blog/2026/10/13/introducing-privateer-ai-assisted-security-compliance-evaluation-framework-joins-the-openssf-sandbox/",
-      "published": "2026-10-13T20:53:11+00:00"
-    },
-    {
-      "source": "GitHub Security Blog",
-      "category": "Supply Chain",
-      "title": "GitHub\u2019s model for secret detection: Finding more secrets with less noise",
-      "link": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/",
-      "published": "2026-10-13T17:56:33+00:00"
     }
   ],
   "meetups": [],
