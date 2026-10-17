@@ -1,12 +1,103 @@
 {
-  "generated_at": "2026-10-16T15:10:55.417708+00:00",
+  "generated_at": "2026-10-17T14:03:14.720792+00:00",
   "devops": [
     {
       "source": "r/devops",
       "category": "Community",
-      "title": "A Home for Vibe Coded Apps at Work (or home)",
-      "link": "https://www.reddit.com/r/devops/comments/1x7irea/a_home_for_vibe_coded_apps_at_work_or_home/",
-      "published": "2026-10-16T15:09:17+00:00"
+      "title": "Jr Software Engineer Here! Was wondering, how do you manage, monitor, and stress-test your production VPS setups (like DigitalOcean)?",
+      "link": "https://www.reddit.com/r/devops/comments/1x82z03/jr_software_engineer_here_was_wondering_how_do/",
+      "published": "2026-10-17T06:23:47+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Why do dumb sites take whole team?",
+      "link": "https://www.reddit.com/r/devops/comments/1x7sh7e/why_do_dumb_sites_take_whole_team/",
+      "published": "2026-10-16T21:25:02+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "on-call routing/escalation in small teams, what do you actually use?",
+      "link": "https://www.reddit.com/r/devops/comments/1x7rfha/oncall_routingescalation_in_small_teams_what_do/",
+      "published": "2026-10-16T20:42:06+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "How do you get your first DevOps job when every position requires experience?",
+      "link": "https://www.reddit.com/r/devops/comments/1x7re8v/how_do_you_get_your_first_devops_job_when_every/",
+      "published": "2026-10-16T20:40:43+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Day 0 support for Reflection\u2019s Beam on Google Cloud: 5x faster perf with llm-d and NVIDIA Dynamo",
+      "link": "https://cloud.google.com/blog/topics/ai-infrastructure/day-0-support-with-5x-perf-for-reflection-beam-on-google-cloud/",
+      "published": "2026-10-16T17:00:00+00:00"
+    },
+    {
+      "source": "Azure Updates",
+      "category": "Cloud",
+      "title": "[In preview] Public Preview: Azure Databricks Private network gateway",
+      "link": "https://azure.microsoft.com/updates?id=576556",
+      "published": "2026-10-16T16:59:02+00:00"
+    },
+    {
+      "source": "Azure Updates",
+      "category": "Cloud",
+      "title": "[Launched] Generally Available: External key management for Azure Key Vault Managed HSM",
+      "link": "https://azure.microsoft.com/updates?id=574296",
+      "published": "2026-10-16T16:50:27+00:00"
+    },
+    {
+      "source": "CNCF Blog",
+      "category": "Cloud Native",
+      "title": "Deploying, maintaining, and migrating production n8n on EKS",
+      "link": "https://www.cncf.io/blog/2026/10/16/deploying-maintaining-and-migrating-production-n8n-on-eks/",
+      "published": "2026-10-16T16:39:04+00:00"
+    },
+    {
+      "source": "Docker Blog",
+      "category": "Cloud Native",
+      "title": "From Containers to Sandboxes: Developer Trust in the Agentic Era",
+      "link": "https://www.docker.com/blog/stack-overflow-survey-2026-ai-agent-trust/",
+      "published": "2026-10-16T16:00:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Architecting autonomy: A design pattern for high-compute, governed agents in biotech",
+      "link": "https://cloud.google.com/blog/topics/healthcare-life-sciences/architecting-scalable-agentic-biotech-workloads/",
+      "published": "2026-10-16T16:00:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Announcing Wiz Runtime Sensor add-on for GKE: Turnkey threat detection for Kubernetes",
+      "link": "https://cloud.google.com/blog/products/identity-security/wiz-sensor-for-gke-turnkey-threat-detection-for-kubernetes/",
+      "published": "2026-10-16T16:00:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Four evaluation engineering lessons learned from building agent plugins",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/four-eval-engineering-lessons/",
+      "published": "2026-10-16T16:00:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "The SAVE method: Learn the fundamentals to engineer trustworthy generative media",
+      "link": "https://cloud.google.com/blog/topics/consulting/fundamentals-to-engineer-trustworthy-gen-media/",
+      "published": "2026-10-16T16:00:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "What\u2019s new with Google Cloud",
+      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "published": "2026-10-16T16:00:00+00:00"
     },
     {
       "source": "CNCF Blog",
@@ -35,13 +126,6 @@
       "title": "Carbon as a first-class signal: Bringing software carbon intensity to OpenTelemetry",
       "link": "https://www.cncf.io/blog/2026/10/15/carbon-as-a-first-class-signal-bringing-software-carbon-intensity-to-opentelemetry/",
       "published": "2026-10-15T22:21:45+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "For those of you who use open-spec, what's your method for tracking work alongside proposed changes to the spec?",
-      "link": "https://www.reddit.com/r/devops/comments/1x6ythy/for_those_of_you_who_use_openspec_whats_your/",
-      "published": "2026-10-15T21:57:16+00:00"
     },
     {
       "source": "Azure Updates",
@@ -79,105 +163,30 @@
       "published": "2026-10-15T16:00:00+00:00"
     },
     {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Bringing the borderless Lakehouse into the agentic era with innovations for Gemini",
-      "link": "https://cloud.google.com/blog/products/data-analytics/borderless-lakehouse-integrates-with-gemini/",
-      "published": "2026-10-15T16:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Modernizing perimeter security: Scalable perimeters with VPC Service Controls",
-      "link": "https://cloud.google.com/blog/products/identity-security/introducing-new-scalable-perimeter-options-with-vpc-service-controls/",
-      "published": "2026-10-15T16:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "What\u2019s new with Google Data Cloud",
-      "link": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
-      "published": "2026-10-15T16:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "How Visko streams real-time world models on Google Cloud TPUs",
-      "link": "https://cloud.google.com/blog/products/media-entertainment/how-visko-streams-real-time-world-models-on-google-cloud-tpus/",
-      "published": "2026-10-15T16:00:00+00:00"
-    },
-    {
       "source": "r/devops",
       "category": "Community",
       "title": "Why are we still reviewing massive PRs in alphabetical file order?",
       "link": "https://www.reddit.com/r/devops/comments/1x6nzsy/why_are_we_still_reviewing_massive_prs_in/",
       "published": "2026-10-15T15:01:01+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "ARMORY CASTLE Exploits BeyondTrust",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/armory-castle-exploits-beyondtrust/",
-      "published": "2026-10-15T14:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Investigating Ephemeral Supply Chain Tampering",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/investigating-ephemeral-supply-chain-tampering/",
-      "published": "2026-10-15T11:00:00+00:00"
-    },
-    {
-      "source": "Docker Blog",
-      "category": "Cloud Native",
-      "title": "AI Agent Security Risks: What Can Go Wrong When Agents Act on Their Own",
-      "link": "https://www.docker.com/blog/ai-agent-security-risks/",
-      "published": "2026-10-14T22:08:33+00:00"
-    },
-    {
-      "source": "Docker Blog",
-      "category": "Cloud Native",
-      "title": "Harbor + Docker Sandboxes: Run Safe, Reproducible Agent Evals",
-      "link": "https://www.docker.com/blog/harbor-docker-sandboxes-run-safe-reproducible-agent-evals/",
-      "published": "2026-10-14T21:45:27+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Anyone noticed AI PRs that ignore infrastructure and DevOps realities?",
-      "link": "https://www.reddit.com/r/devops/comments/1x62lxf/anyone_noticed_ai_prs_that_ignore_infrastructure/",
-      "published": "2026-10-14T20:46:00+00:00"
-    },
-    {
-      "source": "AWS Blog",
-      "category": "Cloud",
-      "title": "Amazon S3 is now available on the Vercel Marketplace and v0 by Vercel",
-      "link": "https://aws.amazon.com/blogs/aws/amazon-s3-vercel-marketplace-v0/",
-      "published": "2026-10-14T19:30:48+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "[Launched] Generally Available: Azure Cloud HSM hardware audit logging",
-      "link": "https://azure.microsoft.com/updates?id=576377",
-      "published": "2026-10-14T19:17:47+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "[Launched] Generally Available: Azure Site Recovery Support for Azure ARC-enabled Windows VMWare/Physical servers",
-      "link": "https://azure.microsoft.com/updates?id=576214",
-      "published": "2026-10-14T19:13:31+00:00"
-    },
-    {
-      "source": "Kubernetes Blog",
-      "category": "Cloud Native",
-      "title": "Why Is My Kubernetes Job Still Pending? Tracing Kueue Admission with Headlamp",
-      "link": "https://kubernetes.io/blog/2026/10/14/tracing-kueue-admission-with-headlamp/",
-      "published": "2026-10-14T10:35:00-08:00"
     }
   ],
   "devsecops": [
+    {
+      "source": "CISA KEV",
+      "category": "Actively Exploited",
+      "title": "CVE-2026-102764 \u2014 BeyondTrust Remote Support: BeyondTrust Remote Support Authentication Bypass by Spoofing Vulnerability",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-102764",
+      "published": "2026-10-16T12:00:00+00:00",
+      "date_only": true
+    },
+    {
+      "source": "CISA KEV",
+      "category": "Actively Exploited",
+      "title": "CVE-2025-61624 \u2014 Fortinet Multiple Products: Fortinet Multiple Products Path Traversal Vulnerability",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2025-61624",
+      "published": "2026-10-16T12:00:00+00:00",
+      "date_only": true
+    },
     {
       "source": "CISA KEV",
       "category": "Actively Exploited",
@@ -237,6 +246,34 @@
     {
       "source": "The Hacker News",
       "category": "Threats",
+      "title": "MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon",
+      "link": "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html",
+      "published": "2026-10-17T16:41:56+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants",
+      "link": "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html",
+      "published": "2026-10-17T11:46:46+05:30"
+    },
+    {
+      "source": "OpenSSF",
+      "category": "Supply Chain",
+      "title": "Case Study: GitHub Expands Malware Advisories Across Eight Ecosystems with OpenSSF",
+      "link": "https://openssf.org/blog/2026/10/16/case-study-github-expands-malware-advisories-across-eight-ecosystems-with-openssf/",
+      "published": "2026-10-16T19:06:29+00:00"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
+      "link": "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html",
+      "published": "2026-10-16T23:18:45+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
       "title": "China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers",
       "link": "https://thehackernews.com/2026/10/china-linked-hackers-exploited.html",
       "published": "2026-10-16T12:25:55+05:30"
@@ -275,83 +312,6 @@
       "title": "Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams",
       "link": "https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html",
       "published": "2026-10-15T19:41:36+05:30"
-    },
-    {
-      "source": "Aqua Security",
-      "category": "Cloud & Container",
-      "title": "Japan\u2019s Cyber Emergency Is a Warning for the World",
-      "link": "https://www.aquasec.com/blog/japans-cyber-emergency-is-a-warning-for-the-world/",
-      "published": "2026-10-15T13:59:49+00:00"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "NGINX Fixes 5 Flaws, Including Possible RCE and a TLS Bug That May Skip Client-Cert Checks",
-      "link": "https://thehackernews.com/2026/10/nginx-fixes-5-flaws-including-possible.html",
-      "published": "2026-10-15T18:28:05+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Next.js Ships Out-of-Band Patch for Two Critical RCE Flaws in Caching and SVG Processing",
-      "link": "https://thehackernews.com/2026/10/nextjs-ships-out-of-band-patch-for-two.html",
-      "published": "2026-10-15T17:58:13+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation",
-      "link": "https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html",
-      "published": "2026-10-15T17:16:49+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "GhostAction Compromises About 1,900 GitHub Accounts, Targets Over 30,000 Repositories",
-      "link": "https://thehackernews.com/2026/10/ghostaction-compromises-about-1900.html",
-      "published": "2026-10-15T14:15:10+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Langflow's Critical Authenticated RCE Flaw Targeted in 1,423 Honeypot Exploit Attempts",
-      "link": "https://thehackernews.com/2026/10/langflows-critical-authenticated-rce.html",
-      "published": "2026-10-15T12:37:05+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "AhsayCBS Flaws Exploited to Deploy Web Shells Get New Fixes After Incomplete Patches",
-      "link": "https://thehackernews.com/2026/10/ahsaycbs-flaws-exploited-to-deploy-web.html",
-      "published": "2026-10-15T12:13:08+05:30"
-    },
-    {
-      "source": "Snyk",
-      "category": "AppSec",
-      "title": "Introducing Evo Agentic AppSec: Security That Keeps Up With AI Development",
-      "link": "https://snyk.io/blog/announcing-snyk-agentic-appsec/",
-      "published": "2026-10-15T04:00:00+00:00"
-    },
-    {
-      "source": "Snyk",
-      "category": "AppSec",
-      "title": "VulnBump: Can AI Agents Fix Vulnerable Dependencies Without Breaking the Build?",
-      "link": "https://snyk.io/blog/vulnbump/",
-      "published": "2026-10-15T04:00:00+00:00"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora\u2019s Built-in CODE App",
-      "link": "https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html",
-      "published": "2026-10-14T23:08:31+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Microsoft Disrupts 3 Phishing Kits Linked to Over 1 Billion Scam Messages",
-      "link": "https://thehackernews.com/2026/10/microsoft-disrupts-3-phishing-kits.html",
-      "published": "2026-10-14T22:39:15+05:30"
     }
   ],
   "meetups": [],
