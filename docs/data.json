@@ -1,26 +1,40 @@
 {
-  "generated_at": "2026-10-17T14:03:14.720792+00:00",
+  "generated_at": "2026-10-18T14:17:18.287154+00:00",
   "devops": [
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "How does your team track everything that's about to be retired in your cloud?",
+      "link": "https://www.reddit.com/r/devops/comments/1x8ubmw/how_does_your_team_track_everything_thats_about/",
+      "published": "2026-10-18T04:45:39+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "How do I actually scan for CVEs for Javascript?",
+      "link": "https://www.reddit.com/r/devops/comments/1x8peyq/how_do_i_actually_scan_for_cves_for_javascript/",
+      "published": "2026-10-18T00:20:46+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Who else has a \"no deploys on Friday\" rule, and what's the story behind it?",
+      "link": "https://www.reddit.com/r/devops/comments/1x8b8ks/who_else_has_a_no_deploys_on_friday_rule_and/",
+      "published": "2026-10-17T14:11:43+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Looking for an affordable production-grade VPS/EC2 instance as a solo developer (4 vCPU, 8 GB RAM)",
+      "link": "https://www.reddit.com/r/devops/comments/1x86u37/looking_for_an_affordable_productiongrade_vpsec2/",
+      "published": "2026-10-17T10:24:00+00:00"
+    },
     {
       "source": "r/devops",
       "category": "Community",
       "title": "Jr Software Engineer Here! Was wondering, how do you manage, monitor, and stress-test your production VPS setups (like DigitalOcean)?",
       "link": "https://www.reddit.com/r/devops/comments/1x82z03/jr_software_engineer_here_was_wondering_how_do/",
       "published": "2026-10-17T06:23:47+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Why do dumb sites take whole team?",
-      "link": "https://www.reddit.com/r/devops/comments/1x7sh7e/why_do_dumb_sites_take_whole_team/",
-      "published": "2026-10-16T21:25:02+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "on-call routing/escalation in small teams, what do you actually use?",
-      "link": "https://www.reddit.com/r/devops/comments/1x7rfha/oncall_routingescalation_in_small_teams_what_do/",
-      "published": "2026-10-16T20:42:06+00:00"
     },
     {
       "source": "r/devops",
@@ -67,6 +81,13 @@
     {
       "source": "Google Cloud Blog",
       "category": "Cloud",
+      "title": "What\u2019s new with Google Cloud",
+      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "published": "2026-10-16T16:00:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
       "title": "Architecting autonomy: A design pattern for high-compute, governed agents in biotech",
       "link": "https://cloud.google.com/blog/topics/healthcare-life-sciences/architecting-scalable-agentic-biotech-workloads/",
       "published": "2026-10-16T16:00:00+00:00"
@@ -91,83 +112,6 @@
       "title": "The SAVE method: Learn the fundamentals to engineer trustworthy generative media",
       "link": "https://cloud.google.com/blog/topics/consulting/fundamentals-to-engineer-trustworthy-gen-media/",
       "published": "2026-10-16T16:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "What\u2019s new with Google Cloud",
-      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "published": "2026-10-16T16:00:00+00:00"
-    },
-    {
-      "source": "CNCF Blog",
-      "category": "Cloud Native",
-      "title": "Putting Nepal on the CNCF Golden Kubestronaut map",
-      "link": "https://www.cncf.io/blog/2026/10/16/putting-nepal-on-the-cncf-golden-kubestronaut-map/",
-      "published": "2026-10-16T11:30:00+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "I abandoned the open-source database anonymizer. Should I kill it?",
-      "link": "https://www.reddit.com/r/devops/comments/1x7c147/i_abandoned_the_opensource_database_anonymizer/",
-      "published": "2026-10-16T09:53:11+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Feels like we're about to enter the next fad skill that gets you hired",
-      "link": "https://www.reddit.com/r/devops/comments/1x701h7/feels_like_were_about_to_enter_the_next_fad_skill/",
-      "published": "2026-10-15T22:50:52+00:00"
-    },
-    {
-      "source": "CNCF Blog",
-      "category": "Cloud Native",
-      "title": "Carbon as a first-class signal: Bringing software carbon intensity to OpenTelemetry",
-      "link": "https://www.cncf.io/blog/2026/10/15/carbon-as-a-first-class-signal-bringing-software-carbon-intensity-to-opentelemetry/",
-      "published": "2026-10-15T22:21:45+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "[In preview] Public Preview: Azure Files cross-region data copy and synchronization with Azure Storage Mover",
-      "link": "https://azure.microsoft.com/updates?id=576542",
-      "published": "2026-10-15T19:05:18+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "[Launched] Generally Available: Standard service endpoint",
-      "link": "https://azure.microsoft.com/updates?id=571025",
-      "published": "2026-10-15T17:39:51+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "[Launched] Generally Availabile: Automatic zone balance for Virtual Machine Scale Sets",
-      "link": "https://azure.microsoft.com/updates?id=576334",
-      "published": "2026-10-15T16:54:20+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Temporal Serverless Workers on Cloud Run: Scale workers ahead of demand",
-      "link": "https://cloud.google.com/blog/products/serverless/temporal-serverless-workers-on-cloud-run-worker-pools/",
-      "published": "2026-10-15T16:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "What the Gemini agent means for startups",
-      "link": "https://cloud.google.com/blog/topics/startups/what-the-gemini-agent-means-for-startups/",
-      "published": "2026-10-15T16:00:00+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Why are we still reviewing massive PRs in alphabetical file order?",
-      "link": "https://www.reddit.com/r/devops/comments/1x6nzsy/why_are_we_still_reviewing_massive_prs_in/",
-      "published": "2026-10-15T15:01:01+00:00"
     }
   ],
   "devsecops": [
@@ -246,6 +190,13 @@
     {
       "source": "The Hacker News",
       "category": "Threats",
+      "title": "ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants",
+      "link": "https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html",
+      "published": "2026-10-18T13:53:02+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
       "title": "MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon",
       "link": "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html",
       "published": "2026-10-17T16:41:56+05:30"
@@ -270,48 +221,6 @@
       "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
       "link": "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html",
       "published": "2026-10-16T23:18:45+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers",
-      "link": "https://thehackernews.com/2026/10/china-linked-hackers-exploited.html",
-      "published": "2026-10-16T12:25:55+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "PEERSTITCH Malware Deployed via FortiOS Flaw Bypasses Checks on Tagged VPN Sessions",
-      "link": "https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html",
-      "published": "2026-10-16T10:29:36+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory",
-      "link": "https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html",
-      "published": "2026-10-16T01:54:36+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More",
-      "link": "https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html",
-      "published": "2026-10-16T00:19:33+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Silent Lynx Exploits WinRAR Flaw to Deploy Reverse Shell in CIS Government Attacks",
-      "link": "https://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html",
-      "published": "2026-10-15T21:30:26+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams",
-      "link": "https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html",
-      "published": "2026-10-15T19:41:36+05:30"
     }
   ],
   "meetups": [],
