@@ -1,19 +1,40 @@
 {
-  "generated_at": "2026-10-19T17:19:35.040331+00:00",
+  "generated_at": "2026-10-20T15:33:20.617377+00:00",
   "devops": [
     {
       "source": "r/devops",
       "category": "Community",
-      "title": "Best platforms to start freelancing as a DevOps Engineer?",
-      "link": "https://www.reddit.com/r/devops/comments/1xa2ubw/best_platforms_to_start_freelancing_as_a_devops/",
-      "published": "2026-10-19T17:16:09+00:00"
+      "title": "Kubernetes probes keep restarting services that just need more time",
+      "link": "https://www.reddit.com/r/devops/comments/1xatqcs/kubernetes_probes_keep_restarting_services_that/",
+      "published": "2026-10-20T14:32:26+00:00"
     },
     {
       "source": "r/devops",
       "category": "Community",
-      "title": "Is anyone using Endor Labs products?",
-      "link": "https://www.reddit.com/r/devops/comments/1xa2e3q/is_anyone_using_endor_labs_products/",
-      "published": "2026-10-19T16:59:52+00:00"
+      "title": "Homelab runner for Gitea",
+      "link": "https://www.reddit.com/r/devops/comments/1xatqay/homelab_runner_for_gitea/",
+      "published": "2026-10-20T14:32:22+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Sonatype Nexus now requires mandatory telemetry gathering",
+      "link": "https://www.reddit.com/r/devops/comments/1xaremm/sonatype_nexus_now_requires_mandatory_telemetry/",
+      "published": "2026-10-20T12:56:22+00:00"
+    },
+    {
+      "source": "Azure Updates",
+      "category": "Cloud",
+      "title": "[Launched] Generally Available: Metrics usage insights for Azure Monitor workspace",
+      "link": "https://azure.microsoft.com/updates?id=577165",
+      "published": "2026-10-19T20:23:15+00:00"
+    },
+    {
+      "source": "Azure Updates",
+      "category": "Cloud",
+      "title": "[Launched] Generally Available: Azure DNS enables DNS-based load balancing through Traffic Manager linked records",
+      "link": "https://azure.microsoft.com/updates?id=573917",
+      "published": "2026-10-19T17:55:40+00:00"
     },
     {
       "source": "r/devops",
@@ -35,34 +56,6 @@
       "title": "HERE Technologies and AWS: Accelerating NDS.Live with agentic AI",
       "link": "https://aws.amazon.com/blogs/devops/here-technologies-and-aws-accelerating-nds-live-with-agentic-ai/",
       "published": "2026-10-19T16:00:46+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Building full virtual vehicles on Google Cloud: From AAOS to the smallest MCU",
-      "link": "https://cloud.google.com/blog/topics/manufacturing/building-full-virtual-vehicles-on-google-cloud-from-aaos-to-the-smallest-mcu/",
-      "published": "2026-10-19T16:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "How to Use Python UDF Logging for Pipeline Observability",
-      "link": "https://cloud.google.com/blog/products/data-analytics/python-udf-logging-for-pipeline-observability-in-bigquery/",
-      "published": "2026-10-19T16:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Developer\u2019s guide to implementing MCP apps in Gemini",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/devs-guide-to-mcp-apps-in-gemini/",
-      "published": "2026-10-19T16:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Who judges the judge? Three helpful ways to audit your LLM evaluators",
-      "link": "https://cloud.google.com/blog/topics/consulting/three-ways-to-audit-your-llm-evaluators/",
-      "published": "2026-10-19T16:00:00+00:00"
     },
     {
       "source": "AWS Blog",
@@ -93,25 +86,11 @@
       "published": "2026-10-19T07:09:04+00:00"
     },
     {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Google named a Leader in the 2026 IDC MarketScape for Agentic AI Platforms",
-      "link": "https://cloud.google.com/blog/products/ai-machine-learning/google-named-leader-in-2026-idc-marketscape-for-agentic-ai-platforms/",
-      "published": "2026-10-19T07:00:00+00:00"
-    },
-    {
       "source": "r/devops",
       "category": "Community",
       "title": "Weekly Self Promotion Thread",
       "link": "https://www.reddit.com/r/devops/comments/1x9pgb3/weekly_self_promotion_thread/",
       "published": "2026-10-19T06:30:17+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "How to monitor Supabase using an OTEL Collector?",
-      "link": "https://www.reddit.com/r/devops/comments/1x9kck3/how_to_monitor_supabase_using_an_otel_collector/",
-      "published": "2026-10-19T01:45:36+00:00"
     },
     {
       "source": "r/devops",
@@ -195,6 +174,55 @@
       "date_only": true
     },
     {
+      "source": "Aqua Security",
+      "category": "Cloud & Container",
+      "title": "How Do Financial Institutions Measure and Control Cyber Risk?",
+      "link": "https://www.aquasec.com/blog/how-do-financial-institutions-measure-and-control-cyber-risk/",
+      "published": "2026-10-20T13:30:08+00:00"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Pegasus Spyware Infection Confirmed on Serbian University Rector's iPhone Days Before Election",
+      "link": "https://thehackernews.com/2026/10/pegasus-spyware-infection-confirmed-on.html",
+      "published": "2026-10-20T18:29:44+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "ConnectWise Resets Credentials as Cloud Backup Remains Offline After Security Incident",
+      "link": "https://thehackernews.com/2026/10/connectwise-resets-credentials-as-cloud.html",
+      "published": "2026-10-20T16:26:08+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware",
+      "link": "https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html",
+      "published": "2026-10-20T13:51:29+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote Access Trojan",
+      "link": "https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html",
+      "published": "2026-10-20T12:41:45+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Ex-OpenAI Engineer Detained in Spy Device Case as Saudi Royal Contacts Emerge",
+      "link": "https://thehackernews.com/2026/10/ex-openai-engineer-detained-in-spy.html",
+      "published": "2026-10-20T11:23:16+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor",
+      "link": "https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html",
+      "published": "2026-10-19T23:02:13+05:30"
+    },
+    {
       "source": "The Hacker News",
       "category": "Threats",
       "title": "\u26a1 Weekly Recap: 98 Zero-Days, Rogue AI Agents, $100M Crypto Theft, 700 Supermarkets Hit and More",
@@ -214,15 +242,10 @@
       "title": "Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic",
       "link": "https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html",
       "published": "2026-10-19T15:36:40+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants",
-      "link": "https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html",
-      "published": "2026-10-18T13:53:02+05:30"
     }
   ],
   "meetups": [],
-  "errors": []
+  "errors": [
+    "Google Cloud Blog: HTTPSConnectionPool(host='cloudblog.withgoogle.com', port=443): Read timed out. (read timeout=20)"
+  ]
 }
