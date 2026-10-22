@@ -1,12 +1,89 @@
 {
-  "generated_at": "2026-10-21T15:49:13.633343+00:00",
+  "generated_at": "2026-10-22T15:47:01.769493+00:00",
   "devops": [
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Inside Agent Compute Engine: Building the compute foundation for the agentic era",
+      "link": "https://cloud.google.com/blog/topics/ai-infrastructure/agent-compute-engine-deep-dive/",
+      "published": "2026-10-22T13:00:00+00:00"
+    },
     {
       "source": "r/devops",
       "category": "Community",
-      "title": "PHP Just Patched Two Critical Remote Code Execution Flaws. Update Now.",
-      "link": "https://www.reddit.com/r/devops/comments/1xbqkm2/php_just_patched_two_critical_remote_code/",
-      "published": "2026-10-21T15:40:14+00:00"
+      "title": "What does everyone use for GRC and compliance in 2026?",
+      "link": "https://www.reddit.com/r/devops/comments/1xchh4w/what_does_everyone_use_for_grc_and_compliance_in/",
+      "published": "2026-10-22T12:40:46+00:00"
+    },
+    {
+      "source": "Docker Blog",
+      "category": "Cloud Native",
+      "title": "ActiveState Partners with Docker to Secure the Open Source in Enterprise Containers",
+      "link": "https://www.docker.com/blog/docker-activestate-partnership/",
+      "published": "2026-10-22T11:30:00+00:00"
+    },
+    {
+      "source": "CNCF Blog",
+      "category": "Cloud Native",
+      "title": "Filtering and reducing AI agent telemetry with the OpenTelemetry Collector",
+      "link": "https://www.cncf.io/blog/2026/10/22/filtering-and-reducing-ai-agent-telemetry-with-the-opentelemetry-collector/",
+      "published": "2026-10-22T11:00:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Introducing Agent Compute Engine and expanded agent governance",
+      "link": "https://cloud.google.com/blog/topics/ai-infrastructure/introducing-agent-compute-engine-and-expanded-agent-governance/",
+      "published": "2026-10-22T04:00:00+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Railway's security incident is more serious than a normal outage. Customer environment variables may have been exposed.",
+      "link": "https://www.reddit.com/r/devops/comments/1xc6bbp/railways_security_incident_is_more_serious_than_a/",
+      "published": "2026-10-22T02:13:37+00:00"
+    },
+    {
+      "source": "Azure Updates",
+      "category": "Cloud",
+      "title": "Announcing: Choose Your Own Telephony (CYOT) for Microsoft Entra",
+      "link": "https://azure.microsoft.com/updates?id=577273",
+      "published": "2026-10-21T17:38:32+00:00"
+    },
+    {
+      "source": "Azure Updates",
+      "category": "Cloud",
+      "title": "[Launched] Generally Available: Azure Cosmos DB Safe Key Rotation",
+      "link": "https://azure.microsoft.com/updates?id=576716",
+      "published": "2026-10-21T17:13:16+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Learning in the AI era...",
+      "link": "https://www.reddit.com/r/devops/comments/1xbrzi1/learning_in_the_ai_era/",
+      "published": "2026-10-21T16:31:24+00:00"
+    },
+    {
+      "source": "Docker Blog",
+      "category": "Cloud Native",
+      "title": "Your Agent Runs in a Docker Sandbox. Now It Can Join a Team.",
+      "link": "https://www.docker.com/blog/band-ai-agents-docker-sandboxes/",
+      "published": "2026-10-21T16:10:49+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "BigQuery ObjectRef now GA: Build multimodal data platforms for conversational analytics entirely in SQL",
+      "link": "https://cloud.google.com/blog/products/data-analytics/analyze-unstructured-data-in-bigquery-with-objectref/",
+      "published": "2026-10-21T16:00:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "ZenteiQ scales batch inference 4x with GKE Inference Gateway powered by llm-d",
+      "link": "https://cloud.google.com/blog/products/containers-kubernetes/zenteiq-scales-physical-ai-inference-4x-with-gke-and-llm-d/",
+      "published": "2026-10-21T16:00:00+00:00"
     },
     {
       "source": "r/devops",
@@ -58,13 +135,6 @@
       "published": "2026-10-21T11:30:00+00:00"
     },
     {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Google Cloud and NVIDIA expand co-engineering collaboration to scale infrastructure for the agentic era",
-      "link": "https://cloud.google.com/blog/topics/ai-infrastructure/google-cloud-infrastructure-at-nvidia-gtc-berlin-2026/",
-      "published": "2026-10-21T11:30:00+00:00"
-    },
-    {
       "source": "CNCF Blog",
       "category": "Cloud Native",
       "title": "Before you evaluate an AI SRE, give your existing agent context",
@@ -72,25 +142,11 @@
       "published": "2026-10-21T11:00:00+00:00"
     },
     {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "What\u2019s the worst production failure your monitoring didn\u2019t catch?",
-      "link": "https://www.reddit.com/r/devops/comments/1xbbpob/whats_the_worst_production_failure_your/",
-      "published": "2026-10-21T02:49:38+00:00"
-    },
-    {
       "source": "AWS DevOps Blog",
       "category": "DevOps",
       "title": "Limit agent permissions and spend in AWS Transform custom",
       "link": "https://aws.amazon.com/blogs/devops/limit-agent-permissions-and-spend-in-aws-transform-custom/",
       "published": "2026-10-20T19:04:02+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Managed RAG search inside the sovereign perimeter: Gemini on GDC enterprise search",
-      "link": "https://cloud.google.com/blog/topics/hybrid-cloud/managed-rag-search-inside-the-sovereign-perimeter-gemini-on-gdc-enterprise-search/",
-      "published": "2026-10-20T19:00:00+00:00"
     },
     {
       "source": "Azure Updates",
@@ -133,55 +189,6 @@
       "title": "[Launched] Generally Available: Advanced platform metrics for Azure Monitor",
       "link": "https://azure.microsoft.com/updates?id=575329",
       "published": "2026-10-20T16:54:24+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Claude Opus 5.5 and Claude Sonnet 5.5 are now available in Google Antigravity",
-      "link": "https://cloud.google.com/blog/products/ai-machine-learning/claude-opus-55-and-claude-sonnet-55-available-in-antigravity/",
-      "published": "2026-10-20T16:00:00+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Sonatype Nexus now requires mandatory telemetry gathering",
-      "link": "https://www.reddit.com/r/devops/comments/1xaremm/sonatype_nexus_now_requires_mandatory_telemetry/",
-      "published": "2026-10-20T12:56:22+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "TorchTPU is now open source: Run native PyTorch on TPUs",
-      "link": "https://cloud.google.com/blog/topics/ai-infrastructure/torchtpu-is-now-open-source-run-native-pytorch-on-tpus/",
-      "published": "2026-10-20T11:30:00+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "[Launched] Generally Available: Metrics usage insights for Azure Monitor workspace",
-      "link": "https://azure.microsoft.com/updates?id=577165",
-      "published": "2026-10-19T20:23:15+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "[Launched] Generally Available: Azure DNS enables DNS-based load balancing through Traffic Manager linked records",
-      "link": "https://azure.microsoft.com/updates?id=573917",
-      "published": "2026-10-19T17:55:40+00:00"
-    },
-    {
-      "source": "AWS DevOps Blog",
-      "category": "DevOps",
-      "title": "Automate Active Directory joins for Elastic Beanstalk Windows applications",
-      "link": "https://aws.amazon.com/blogs/devops/automate-active-directory-joins-for-elastic-beanstalk-windows-applications/",
-      "published": "2026-10-19T16:07:51+00:00"
-    },
-    {
-      "source": "AWS DevOps Blog",
-      "category": "DevOps",
-      "title": "HERE Technologies and AWS: Accelerating NDS.Live with agentic AI",
-      "link": "https://aws.amazon.com/blogs/devops/here-technologies-and-aws-accelerating-nds-live-with-agentic-ai/",
-      "published": "2026-10-19T16:00:46+00:00"
     }
   ],
   "devsecops": [
@@ -258,36 +265,74 @@
       "date_only": true
     },
     {
-      "source": "CISA KEV",
-      "category": "Actively Exploited",
-      "title": "CVE-2026-105134 \u2014 Ahsay AhsayCBS: Ahsay AhsayCBS Command Injection Vulnerability",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-105134",
-      "published": "2026-10-14T12:00:00+00:00",
-      "date_only": true
+      "source": "OpenSSF",
+      "category": "Supply Chain",
+      "title": "Who Checked It? Attestations, Gemara, and CRA Due Diligence",
+      "link": "https://openssf.org/blog/2026/10/22/who-checked-it-attestations-gemara-and-cra-due-diligence/",
+      "published": "2026-10-22T12:10:04+00:00"
     },
     {
-      "source": "CISA KEV",
-      "category": "Actively Exploited",
-      "title": "CVE-2026-76519 \u2014 Cisco Secure Email Gateway: Cisco Secure Email Gateway Relative Path Traversal Vulnerability",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-76519",
-      "published": "2026-10-14T12:00:00+00:00",
-      "date_only": true
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation",
+      "link": "https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html",
+      "published": "2026-10-22T16:45:42+05:30"
     },
     {
-      "source": "CISA KEV",
-      "category": "Actively Exploited",
-      "title": "CVE-2026-105133 \u2014 Ahsay AhsayCBS: Ahsay AhsayCBS Improper Authentication Vulnerability",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-105133",
-      "published": "2026-10-14T12:00:00+00:00",
-      "date_only": true
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release",
+      "link": "https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html",
+      "published": "2026-10-22T13:58:48+05:30"
     },
     {
-      "source": "CISA KEV",
-      "category": "Actively Exploited",
-      "title": "CVE-2026-0322 \u2014 Palo Alto Networks PAN-OS: Palo Alto Networks PAN-OS Code Injection Vulnerability",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-0322",
-      "published": "2026-10-14T12:00:00+00:00",
-      "date_only": true
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions",
+      "link": "https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html",
+      "published": "2026-10-22T13:17:22+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory Amplification",
+      "link": "https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html",
+      "published": "2026-10-22T12:08:31+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Someone Tried to Exploit PHP2Shell 4 Days Before the Vulnerabilities Were Publicly Disclosed",
+      "link": "https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html",
+      "published": "2026-10-22T12:04:10+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack",
+      "link": "https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html",
+      "published": "2026-10-22T09:51:26+05:30"
+    },
+    {
+      "source": "Aqua Security",
+      "category": "Cloud & Container",
+      "title": "PHP2Shell: How to Protect Vulnerable PHP Workloads While Patching",
+      "link": "https://www.aquasec.com/blog/php2shell-how-to-protect-vulnerable-php-workloads-while-patching/",
+      "published": "2026-10-21T19:50:31+00:00"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases",
+      "link": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
+      "published": "2026-10-22T00:27:34+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor",
+      "link": "https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html",
+      "published": "2026-10-21T23:31:57+05:30"
     },
     {
       "source": "The Hacker News",
@@ -325,6 +370,13 @@
       "published": "2026-10-21T04:00:00+00:00"
     },
     {
+      "source": "Snyk",
+      "category": "AppSec",
+      "title": "AI Is Calling In Every Risk You've Accepted: Seven Insights From The AI Security Panel: Unfiltered",
+      "link": "https://snyk.io/blog/ai-security-panel-unfiltered/",
+      "published": "2026-10-21T00:00:00+00:00"
+    },
+    {
       "source": "OpenSSF",
       "category": "Supply Chain",
       "title": "New OpenSSF Guide: Finding and Fixing Vulnerabilities Using AI",
@@ -337,48 +389,6 @@
       "title": "What\u2019s in the SOSS? Podcast #76 \u2013 S3E28 Invisible Infrastructure, Autonomous Agents, and 10 Years of Cloud Native with CNCF\u2019s Chris Aniszczyk",
       "link": "https://openssf.org/podcast/2026/10/20/whats-in-the-soss-podcast-76-s3e28-invisible-infrastructure-autonomous-agents-and-10-years-of-cloud-native-with-cncfs-chris-aniszczyk/",
       "published": "2026-10-20T16:45:58+00:00"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution",
-      "link": "https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html",
-      "published": "2026-10-20T21:08:52+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
-      "link": "https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html",
-      "published": "2026-10-20T21:02:27+05:30"
-    },
-    {
-      "source": "Aqua Security",
-      "category": "Cloud & Container",
-      "title": "How Do Financial Institutions Measure and Control Cyber Risk?",
-      "link": "https://www.aquasec.com/blog/how-do-financial-institutions-measure-and-control-cyber-risk/",
-      "published": "2026-10-20T13:30:08+00:00"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Pegasus Spyware Infection Confirmed on Serbian University Rector's iPhone Days Before Election",
-      "link": "https://thehackernews.com/2026/10/pegasus-spyware-infection-confirmed-on.html",
-      "published": "2026-10-20T18:29:44+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "ConnectWise Resets Credentials as Cloud Backup Remains Offline After Security Incident",
-      "link": "https://thehackernews.com/2026/10/connectwise-resets-credentials-as-cloud.html",
-      "published": "2026-10-20T16:26:08+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware",
-      "link": "https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html",
-      "published": "2026-10-20T13:51:29+05:30"
     }
   ],
   "meetups": [],
