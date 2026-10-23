@@ -1,19 +1,103 @@
 {
-  "generated_at": "2026-10-22T15:47:01.769493+00:00",
+  "generated_at": "2026-10-23T15:37:53.608776+00:00",
   "devops": [
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Suggest me any project in AWS with Terraform!",
+      "link": "https://www.reddit.com/r/devops/comments/1xdfrgt/suggest_me_any_project_in_aws_with_terraform/",
+      "published": "2026-10-23T14:34:27+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "16 years old, looking into cloud security",
+      "link": "https://www.reddit.com/r/devops/comments/1xddryi/16_years_old_looking_into_cloud_security/",
+      "published": "2026-10-23T13:17:02+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "What does AI-assisted incident investigation actually look like at your company right now?",
+      "link": "https://www.reddit.com/r/devops/comments/1xdcnxa/what_does_aiassisted_incident_investigation/",
+      "published": "2026-10-23T12:28:49+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "How do cloud load testing tools compare to JMeter?",
+      "link": "https://www.reddit.com/r/devops/comments/1xdc6ge/how_do_cloud_load_testing_tools_compare_to_jmeter/",
+      "published": "2026-10-23T12:05:48+00:00"
+    },
+    {
+      "source": "CNCF Blog",
+      "category": "Cloud Native",
+      "title": "Multi-tenant GPU Kubernetes on simulated hardware with Kamaji and HAMi",
+      "link": "https://www.cncf.io/blog/2026/10/23/multi-tenant-gpu-kubernetes-on-simulated-hardware-with-kamaji-and-hami/",
+      "published": "2026-10-23T11:30:00+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Test automation after deployment",
+      "link": "https://www.reddit.com/r/devops/comments/1xd92zw/test_automation_after_deployment/",
+      "published": "2026-10-23T09:13:11+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Are you patching faster now that AI can help turn old bugs into working exploits?",
+      "link": "https://www.reddit.com/r/devops/comments/1xd8wob/are_you_patching_faster_now_that_ai_can_help_turn/",
+      "published": "2026-10-23T09:01:59+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "How should we evaluate AI Agent observability platforms in 2026?",
+      "link": "https://www.reddit.com/r/devops/comments/1xd6dxa/how_should_we_evaluate_ai_agent_observability/",
+      "published": "2026-10-23T06:27:11+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Expanding Claude availability and deployment choice on Google Cloud",
+      "link": "https://cloud.google.com/blog/products/ai-machine-learning/expanding-claude-availability-on-google-cloud/",
+      "published": "2026-10-22T21:00:00+00:00"
+    },
+    {
+      "source": "AWS Blog",
+      "category": "Cloud",
+      "title": "AWS Continuum for code vulnerabilities is now generally available",
+      "link": "https://aws.amazon.com/blogs/aws/aws-continuum-for-code-vulnerabilities-is-now-generally-available/",
+      "published": "2026-10-22T20:33:10+00:00"
+    },
+    {
+      "source": "Azure Updates",
+      "category": "Cloud",
+      "title": "[Launched] Generally Available: ABFS Vectored Read for Azure Data Lake Storage",
+      "link": "https://azure.microsoft.com/updates?id=577618",
+      "published": "2026-10-22T18:01:00+00:00"
+    },
+    {
+      "source": "Docker Blog",
+      "category": "Cloud Native",
+      "title": "Security Update on PHP2Shell: Impact for Docker Customers",
+      "link": "https://www.docker.com/blog/security-update-on-php2shell-impact-for-docker-customers/",
+      "published": "2026-10-22T17:22:47+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Introducing new self-learning context enrichment in Knowledge Catalog",
+      "link": "https://cloud.google.com/blog/products/data-analytics/knowledge-catalog-self-learning-context-enrichment-for-ai-agents/",
+      "published": "2026-10-22T16:00:00+00:00"
+    },
     {
       "source": "Google Cloud Blog",
       "category": "Cloud",
       "title": "Inside Agent Compute Engine: Building the compute foundation for the agentic era",
       "link": "https://cloud.google.com/blog/topics/ai-infrastructure/agent-compute-engine-deep-dive/",
       "published": "2026-10-22T13:00:00+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "What does everyone use for GRC and compliance in 2026?",
-      "link": "https://www.reddit.com/r/devops/comments/1xchh4w/what_does_everyone_use_for_grc_and_compliance_in/",
-      "published": "2026-10-22T12:40:46+00:00"
     },
     {
       "source": "Docker Blog",
@@ -37,13 +121,6 @@
       "published": "2026-10-22T04:00:00+00:00"
     },
     {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Railway's security incident is more serious than a normal outage. Customer environment variables may have been exposed.",
-      "link": "https://www.reddit.com/r/devops/comments/1xc6bbp/railways_security_incident_is_more_serious_than_a/",
-      "published": "2026-10-22T02:13:37+00:00"
-    },
-    {
       "source": "Azure Updates",
       "category": "Cloud",
       "title": "Announcing: Choose Your Own Telephony (CYOT) for Microsoft Entra",
@@ -56,13 +133,6 @@
       "title": "[Launched] Generally Available: Azure Cosmos DB Safe Key Rotation",
       "link": "https://azure.microsoft.com/updates?id=576716",
       "published": "2026-10-21T17:13:16+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Learning in the AI era...",
-      "link": "https://www.reddit.com/r/devops/comments/1xbrzi1/learning_in_the_ai_era/",
-      "published": "2026-10-21T16:31:24+00:00"
     },
     {
       "source": "Docker Blog",
@@ -84,111 +154,6 @@
       "title": "ZenteiQ scales batch inference 4x with GKE Inference Gateway powered by llm-d",
       "link": "https://cloud.google.com/blog/products/containers-kubernetes/zenteiq-scales-physical-ai-inference-4x-with-gke-and-llm-d/",
       "published": "2026-10-21T16:00:00+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "LiteLLM Compromised again - 1.107.0. PyPI Installs a Credential Stealer and Backdoor",
-      "link": "https://www.reddit.com/r/devops/comments/1xbq9of/litellm_compromised_again_11070_pypi_installs_a/",
-      "published": "2026-10-21T15:28:49+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "AI Identity Crisis",
-      "link": "https://www.reddit.com/r/devops/comments/1xbpjnn/ai_identity_crisis/",
-      "published": "2026-10-21T15:01:33+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Responding to core PHP vulnerabilities CVE-2026-109618 and CVE-2026-109619",
-      "link": "https://cloud.google.com/blog/products/identity-security/responding-to-core-php-vulnerabilities-cve-2026-109618-cve-2026-109619/",
-      "published": "2026-10-21T14:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Google Public Sector increases partner investments for frontline adoption",
-      "link": "https://cloud.google.com/blog/topics/public-sector/google-public-sector-increases-partner-investments-for-frontline-adoption/",
-      "published": "2026-10-21T13:00:00+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "\u200eHow do you simulate realistic user traffic in load testing?",
-      "link": "https://www.reddit.com/r/devops/comments/1xblst1/how_do_you_simulate_realistic_user_traffic_in/",
-      "published": "2026-10-21T12:28:13+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Google Cloud expands model choice and flexibility, bringing OpenAI models to customers",
-      "link": "https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-brings-openai-models-to-customers/",
-      "published": "2026-10-21T12:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Hardware-backed security at global scale: Confidential G4 with NVIDIA Blackwell is GA",
-      "link": "https://cloud.google.com/blog/topics/ai-infrastructure/confidential-g4-gpus-are-ga/",
-      "published": "2026-10-21T11:30:00+00:00"
-    },
-    {
-      "source": "CNCF Blog",
-      "category": "Cloud Native",
-      "title": "Before you evaluate an AI SRE, give your existing agent context",
-      "link": "https://www.cncf.io/blog/2026/10/21/before-you-evaluate-an-ai-sre-give-your-existing-agent-context/",
-      "published": "2026-10-21T11:00:00+00:00"
-    },
-    {
-      "source": "AWS DevOps Blog",
-      "category": "DevOps",
-      "title": "Limit agent permissions and spend in AWS Transform custom",
-      "link": "https://aws.amazon.com/blogs/devops/limit-agent-permissions-and-spend-in-aws-transform-custom/",
-      "published": "2026-10-20T19:04:02+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "[In preview] Public Preview: Disable VNet peering route",
-      "link": "https://azure.microsoft.com/updates?id=576242",
-      "published": "2026-10-20T18:55:47+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Too many internal tools are becoming hard to maintain",
-      "link": "https://www.reddit.com/r/devops/comments/1xb0b5k/too_many_internal_tools_are_becoming_hard_to/",
-      "published": "2026-10-20T18:37:32+00:00"
-    },
-    {
-      "source": "AWS Blog",
-      "category": "Cloud",
-      "title": "Introducing Amazon ECS Gateway: A fully-managed ingress solution for ECS services",
-      "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-ecs-gateway-a-fully-managed-ingress-solution-for-ecs-services/",
-      "published": "2026-10-20T17:03:38+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "[Launched] Generally Available: Service tag match condition for Azure Front Door Premium WAF",
-      "link": "https://azure.microsoft.com/updates?id=577156",
-      "published": "2026-10-20T16:57:35+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "[Launched] Generally Available: Keyless TLS on Application Gateway with Azure Key Vault Managed HSM",
-      "link": "https://azure.microsoft.com/updates?id=577130",
-      "published": "2026-10-20T16:55:59+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "[Launched] Generally Available: Advanced platform metrics for Azure Monitor",
-      "link": "https://azure.microsoft.com/updates?id=575329",
-      "published": "2026-10-20T16:54:24+00:00"
     }
   ],
   "devsecops": [
@@ -257,12 +222,67 @@
       "date_only": true
     },
     {
-      "source": "CISA KEV",
-      "category": "Actively Exploited",
-      "title": "CVE-2026-21589 \u2014 Atlassian Multiple Products: Atlassian Multiple Products Files or Directories Accessible to External Parties Vulnerability",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-21589",
-      "published": "2026-10-15T12:00:00+00:00",
-      "date_only": true
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "PHP Warns of Another Unpatched RCE Two Days After Emergency PHP2Shell Patches",
+      "link": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
+      "published": "2026-10-23T16:55:43+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Critical Flaw in Python\u2019s Popular Pillow Image Library Allows Code Execution via a Crafted Image",
+      "link": "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html",
+      "published": "2026-10-23T15:06:00+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data",
+      "link": "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html",
+      "published": "2026-10-23T14:10:43+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware",
+      "link": "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html",
+      "published": "2026-10-23T13:10:45+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks",
+      "link": "https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html",
+      "published": "2026-10-23T00:35:17+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "ThreatsDay: AI Secrets Leak, PingCAP Source Theft, Signal Hang-Up Flaw, Laravel Auth Bypass + 21 More",
+      "link": "https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html",
+      "published": "2026-10-22T23:15:44+05:30"
+    },
+    {
+      "source": "GitHub Security Blog",
+      "category": "Supply Chain",
+      "title": "How bug bounty sharpens one researcher\u2019s security skills",
+      "link": "https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/",
+      "published": "2026-10-22T17:21:30+00:00"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Two CVSS 9.0 Linux KSMBD RCE Flaws Disclosed on Public Mailing Lists Before Kernel Fixes",
+      "link": "https://thehackernews.com/2026/10/two-cvss-90-linux-ksmbd-rce-flaws.html",
+      "published": "2026-10-22T22:31:53+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Meta Ordered to Pay $25 Billion After Court Finds 43 Million Privacy Violations",
+      "link": "https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html",
+      "published": "2026-10-22T21:42:31+05:30"
     },
     {
       "source": "OpenSSF",
@@ -314,6 +334,27 @@
       "published": "2026-10-22T09:51:26+05:30"
     },
     {
+      "source": "Snyk",
+      "category": "AppSec",
+      "title": "PHP Patches Two Critical Unauthenticated RCEs (CVE-2026-109618, CVE-2026-109619): Update Now",
+      "link": "https://snyk.io/blog/php-patches-critical-unauthenticated-rces/",
+      "published": "2026-10-22T04:00:00+00:00"
+    },
+    {
+      "source": "Snyk",
+      "category": "AppSec",
+      "title": "Turn Your Vulnerability Backlog Into Pull Requests With Agentic Remediation",
+      "link": "https://snyk.io/blog/evo-remediation-agent-open-preview/",
+      "published": "2026-10-22T04:00:00+00:00"
+    },
+    {
+      "source": "Sysdig",
+      "category": "Cloud & Container",
+      "title": "PHP2Shell (CVE-2026-109618 and CVE-2026-109619): Detecting unauthenticated remote code execution in PHP core",
+      "link": "https://webflow.sysdig.com/blog/php2shell-cve-2026-109618-and-cve-2026-109619-detecting-unauthenticated-remote-code-execution-in-php-core",
+      "published": "2026-10-22T00:00:00+00:00"
+    },
+    {
       "source": "Aqua Security",
       "category": "Cloud & Container",
       "title": "PHP2Shell: How to Protect Vulnerable PHP Workloads While Patching",
@@ -333,62 +374,6 @@
       "title": "LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor",
       "link": "https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html",
       "published": "2026-10-21T23:31:57+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge",
-      "link": "https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html",
-      "published": "2026-10-21T19:30:00+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "PHP2Shell: What Actually Protects You Before the 14:00 UTC PHP RCE Patch, and What Doesn't",
-      "link": "https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html",
-      "published": "2026-10-21T16:06:53+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
-      "link": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
-      "published": "2026-10-21T14:35:17+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "CISA Orders Federal Agencies to Patch Exploited Plex2Shell, Siemens, and SiteGuard Flaws",
-      "link": "https://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html",
-      "published": "2026-10-21T12:56:49+05:30"
-    },
-    {
-      "source": "Snyk",
-      "category": "AppSec",
-      "title": "AI Model Risk Depends on What the Model Can Reach",
-      "link": "https://snyk.io/blog/ai-model-risk-model-reach/",
-      "published": "2026-10-21T04:00:00+00:00"
-    },
-    {
-      "source": "Snyk",
-      "category": "AppSec",
-      "title": "AI Is Calling In Every Risk You've Accepted: Seven Insights From The AI Security Panel: Unfiltered",
-      "link": "https://snyk.io/blog/ai-security-panel-unfiltered/",
-      "published": "2026-10-21T00:00:00+00:00"
-    },
-    {
-      "source": "OpenSSF",
-      "category": "Supply Chain",
-      "title": "New OpenSSF Guide: Finding and Fixing Vulnerabilities Using AI",
-      "link": "https://openssf.org/blog/2026/10/20/new-openssf-guide-finding-and-fixing-vulnerabilities-using-ai/",
-      "published": "2026-10-20T20:05:39+00:00"
-    },
-    {
-      "source": "OpenSSF",
-      "category": "Supply Chain",
-      "title": "What\u2019s in the SOSS? Podcast #76 \u2013 S3E28 Invisible Infrastructure, Autonomous Agents, and 10 Years of Cloud Native with CNCF\u2019s Chris Aniszczyk",
-      "link": "https://openssf.org/podcast/2026/10/20/whats-in-the-soss-podcast-76-s3e28-invisible-infrastructure-autonomous-agents-and-10-years-of-cloud-native-with-cncfs-chris-aniszczyk/",
-      "published": "2026-10-20T16:45:58+00:00"
     }
   ],
   "meetups": [],
