@@ -1,47 +1,96 @@
 {
-  "generated_at": "2026-10-25T14:46:42.684329+00:00",
+  "generated_at": "2026-10-26T17:07:14.173387+00:00",
   "devops": [
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Apache DevLake Lightweight Alternative",
-      "link": "https://www.reddit.com/r/devops/comments/1xek2ty/apache_devlake_lightweight_alternative/",
-      "published": "2026-10-24T21:14:29+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "CKA exam stress",
-      "link": "https://www.reddit.com/r/devops/comments/1xe7yad/cka_exam_stress/",
-      "published": "2026-10-24T12:56:03+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Seems someone is interested in AWS Golden Jacket \ud83e\udde5",
-      "link": "https://www.reddit.com/r/devops/comments/1xe5mbl/seems_someone_is_interested_in_aws_golden_jacket/",
-      "published": "2026-10-24T10:53:41+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "What are some use cases for an internal system monitoring bot?",
-      "link": "https://www.reddit.com/r/devops/comments/1xe1ti6/what_are_some_use_cases_for_an_internal_system/",
-      "published": "2026-10-24T06:59:20+00:00"
-    },
     {
       "source": "Azure Updates",
       "category": "Cloud",
-      "title": "[Launched] Generally Available: Item Level Recovery for Azure VMs with Premium SSDv2 and Ultra Disks in Azure Backup",
-      "link": "https://azure.microsoft.com/updates?id=577963",
-      "published": "2026-10-23T19:21:07+00:00"
+      "title": "[Launched] Generally Available: Network Watcher VNet flow logs filtering",
+      "link": "https://azure.microsoft.com/updates?id=577782",
+      "published": "2026-10-26T16:02:05+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Scale agents securely with IAM Helper Agent Skills and MCP Tools",
+      "link": "https://cloud.google.com/blog/products/identity-security/scale-agents-securely-with-iam-helper-agent-skills-and-mcp-tools/",
+      "published": "2026-10-26T16:00:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Unifying enterprise context and semantics: LookML in Knowledge Catalog is now GA",
+      "link": "https://cloud.google.com/blog/products/business-intelligence/lookml-metadata-indexing-in-knowledge-catalog-is-now-ga/",
+      "published": "2026-10-26T16:00:00+00:00"
+    },
+    {
+      "source": "AWS Blog",
+      "category": "Cloud",
+      "title": "AWS Weekly Roundup: Amazon Polly Generative engine, TorchNeuron for Trainium, and more (October 26, 2026)",
+      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-polly-generative-engine-torchneuron-for-trainium-and-more-october-26-2026/",
+      "published": "2026-10-26T15:02:24+00:00"
+    },
+    {
+      "source": "CNCF Blog",
+      "category": "Cloud Native",
+      "title": "Isolation. Security. Scale.",
+      "link": "https://www.cncf.io/blog/2026/10/26/isolation-security-scale/",
+      "published": "2026-10-26T11:30:00+00:00"
     },
     {
       "source": "r/devops",
       "category": "Community",
-      "title": "Railway's Connected GitHub Accounts Were Compromised",
-      "link": "https://www.reddit.com/r/devops/comments/1xdnaf8/railways_connected_github_accounts_were/",
-      "published": "2026-10-23T19:16:52+00:00"
+      "title": "Is it difficult to switch from Desktop Support to DevOps?",
+      "link": "https://www.reddit.com/r/devops/comments/1xfu1cz/is_it_difficult_to_switch_from_desktop_support_to/",
+      "published": "2026-10-26T11:19:56+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Diffinery: Open-source GitHub and GitHub Actions alternative that runs entirely on Cloudflare",
+      "link": "https://www.reddit.com/r/devops/comments/1xftjg1/diffinery_opensource_github_and_github_actions/",
+      "published": "2026-10-26T10:53:37+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Making attacking agents pay with Context Bombs",
+      "link": "https://www.reddit.com/r/devops/comments/1xfsq7l/making_attacking_agents_pay_with_context_bombs/",
+      "published": "2026-10-26T10:07:46+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Weekly Self Promotion Thread",
+      "link": "https://www.reddit.com/r/devops/comments/1xfq7qc/weekly_self_promotion_thread/",
+      "published": "2026-10-26T07:30:16+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Can I switch from Desktop Support to DevOps?",
+      "link": "https://www.reddit.com/r/devops/comments/1xfq488/can_i_switch_from_desktop_support_to_devops/",
+      "published": "2026-10-26T07:23:45+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Two widely used npm packages had their security advisories withdrawn. How should we handle false positives in dependency audits?",
+      "link": "https://www.reddit.com/r/devops/comments/1xfikfb/two_widely_used_npm_packages_had_their_security/",
+      "published": "2026-10-26T00:34:05+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Open Source Contribution Recommendations for projects related to DevOps and Platform Engineering",
+      "link": "https://www.reddit.com/r/devops/comments/1xfg9xz/open_source_contribution_recommendations_for/",
+      "published": "2026-10-25T22:51:10+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "HA AI Clusters - SRE Engineer - General questions",
+      "link": "https://www.reddit.com/r/devops/comments/1xffaoh/ha_ai_clusters_sre_engineer_general_questions/",
+      "published": "2026-10-25T22:08:52+00:00"
     }
   ],
   "devsecops": [
@@ -112,58 +161,58 @@
     {
       "source": "The Hacker News",
       "category": "Threats",
-      "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
-      "link": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
-      "published": "2026-10-24T16:39:29+05:30"
+      "title": "\u26a1 Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More",
+      "link": "https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html",
+      "published": "2026-10-26T19:36:13+05:30"
     },
     {
       "source": "The Hacker News",
       "category": "Threats",
-      "title": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline",
-      "link": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
-      "published": "2026-10-24T16:33:33+05:30"
+      "title": "Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes",
+      "link": "https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html",
+      "published": "2026-10-26T17:22:41+05:30"
     },
     {
       "source": "The Hacker News",
       "category": "Threats",
-      "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
-      "link": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
-      "published": "2026-10-24T11:55:57+05:30"
-    },
-    {
-      "source": "Sysdig",
-      "category": "Cloud & Container",
-      "title": "Node2Shell (CVE-2026-111497): Detecting the Node.js Brotli RCE",
-      "link": "https://webflow.sysdig.com/blog/node2shell-cve-2026-111497-detecting-the-node-js-brotli-rce",
-      "published": "2026-10-24T00:00:00+00:00"
-    },
-    {
-      "source": "Sysdig",
-      "category": "Cloud & Container",
-      "title": "Detecting and mitigating ZDI-CAN-33367 and five other Linux flaws",
-      "link": "https://webflow.sysdig.com/blog/detecting-and-mitigating-zdi-can-33367-and-five-other-linux-flaws",
-      "published": "2026-10-24T00:00:00+00:00"
-    },
-    {
-      "source": "OpenSSF",
-      "category": "Supply Chain",
-      "title": "New OpenSSF Tech Talk: How Upstream Contribution Minimizes Technical Debt & Streamlines CRA Reporting",
-      "link": "https://openssf.org/blog/2026/10/23/new-openssf-tech-talk-how-upstream-contribution-minimizes-technical-debt-streamlines-cra-reporting/",
-      "published": "2026-10-23T19:46:03+00:00"
+      "title": "uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts",
+      "link": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html",
+      "published": "2026-10-26T15:24:02+05:30"
     },
     {
       "source": "The Hacker News",
       "category": "Threats",
-      "title": "Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws",
-      "link": "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html",
-      "published": "2026-10-23T23:24:08+05:30"
+      "title": "Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs",
+      "link": "https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html",
+      "published": "2026-10-26T13:19:46+05:30"
     },
     {
       "source": "The Hacker News",
       "category": "Threats",
-      "title": "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions",
-      "link": "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html",
-      "published": "2026-10-23T23:20:47+05:30"
+      "title": "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware",
+      "link": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
+      "published": "2026-10-26T11:33:48+05:30"
+    },
+    {
+      "source": "Snyk",
+      "category": "AppSec",
+      "title": "PHP Patches Two Critical Unauthenticated RCEs (CVE-2026-109618, CVE-2026-109619): [Updated for CVE-2026-115560]",
+      "link": "https://snyk.io/blog/php-patches-critical-unauthenticated-rces/",
+      "published": "2026-10-26T04:00:00+00:00"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
+      "link": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
+      "published": "2026-10-25T23:14:09+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "PHP2Shell Exploitation Attempts Continue Amid Suspected N. Korea Global Scanning Activity",
+      "link": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
+      "published": "2026-10-25T22:49:46+05:30"
     }
   ],
   "meetups": [],
