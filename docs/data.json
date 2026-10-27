@@ -1,19 +1,110 @@
 {
-  "generated_at": "2026-10-26T17:07:14.173387+00:00",
+  "generated_at": "2026-10-27T16:11:18.852848+00:00",
   "devops": [
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Scale agents securely with IAM Helper Agent Skills and MCP Tools",
+      "link": "https://cloud.google.com/blog/products/identity-security/scale-agents-securely-with-iam-helper-agent-skills-and-mcp-tools/",
+      "published": "2026-10-27T16:00:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Securely connecting Gemini Enterprise to Snowflake data",
+      "link": "https://cloud.google.com/blog/products/data-analytics/bridge-gemini-enterprise-and-snowflake-with-google-adk/",
+      "published": "2026-10-27T16:00:00+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Any beginner-friendly DevOps Discord servers or Slack communities?",
+      "link": "https://www.reddit.com/r/devops/comments/1xgw5xd/any_beginnerfriendly_devops_discord_servers_or/",
+      "published": "2026-10-27T15:49:12+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Bringing Google TPUs to Oracle Cloud Infrastructure",
+      "link": "https://cloud.google.com/blog/products/infrastructure/bringing-google-tpus-to-oracle-cloud-infrastructure/",
+      "published": "2026-10-27T14:00:00+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "why is everyone still using cloud llms just to route tool calls? tested local cpu embeddings vs bm25 on 100k tools",
+      "link": "https://www.reddit.com/r/devops/comments/1xgsv6a/why_is_everyone_still_using_cloud_llms_just_to/",
+      "published": "2026-10-27T13:41:52+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Gemini Robotics Embodied Reasoning 2 is now available on Google Cloud",
+      "link": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-robotics-embodied-reasoning-2-is-now-available-on-google-cloud/",
+      "published": "2026-10-27T13:00:00+00:00"
+    },
+    {
+      "source": "CNCF Blog",
+      "category": "Cloud Native",
+      "title": "Over 500 Golden Kubestronauts: The evolving standard for cloud native mastery",
+      "link": "https://www.cncf.io/blog/2026/10/27/over-500-golden-kubestronauts-the-evolving-standard-for-cloud-native-mastery/",
+      "published": "2026-10-27T11:30:00+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "What APM tool does your team actually rely on, and why?",
+      "link": "https://www.reddit.com/r/devops/comments/1xgo0k0/what_apm_tool_does_your_team_actually_rely_on_and/",
+      "published": "2026-10-27T09:37:52+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Anyone interested for DevOps discussions/sessions?",
+      "link": "https://www.reddit.com/r/devops/comments/1xgl5vw/anyone_interested_for_devops_discussionssessions/",
+      "published": "2026-10-27T06:32:31+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "First-year DevOps student, 5 months to finish an individual project, feeling overwhelmed. Any advice?",
+      "link": "https://www.reddit.com/r/devops/comments/1xgjty5/firstyear_devops_student_5_months_to_finish_an/",
+      "published": "2026-10-27T05:10:25+00:00"
+    },
+    {
+      "source": "Kubernetes Blog",
+      "category": "Cloud Native",
+      "title": "Announcing the Workload Conformance Working Group",
+      "link": "https://kubernetes.io/blog/2026/10/27/announcing-workload-conformance-wg/",
+      "published": "2026-10-27T04:30:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Google Cloud and NASA: Testing robotic systems for deep space missions",
+      "link": "https://cloud.google.com/blog/topics/public-sector/google-cloud-and-nasa-testing-robotic-systems-for-deep-space-missions/",
+      "published": "2026-10-27T04:00:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Easy to integrate, compliant by design: Bringing the Swiss Franc to Google Cloud Universal Ledger",
+      "link": "https://cloud.google.com/blog/topics/financial-services/easy-to-integrate-compliant-by-design-bringing-the-swiss-franc-to-google-cloud-universal-ledger/",
+      "published": "2026-10-26T20:00:00+00:00"
+    },
+    {
+      "source": "AWS DevOps Blog",
+      "category": "DevOps",
+      "title": "Tracing failures across Terraform state boundaries with AWS DevOps Agent",
+      "link": "https://aws.amazon.com/blogs/devops/tracing-failures-across-terraform-state-boundaries-with-aws-devops-agent/",
+      "published": "2026-10-26T17:21:23+00:00"
+    },
     {
       "source": "Azure Updates",
       "category": "Cloud",
       "title": "[Launched] Generally Available: Network Watcher VNet flow logs filtering",
       "link": "https://azure.microsoft.com/updates?id=577782",
       "published": "2026-10-26T16:02:05+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Scale agents securely with IAM Helper Agent Skills and MCP Tools",
-      "link": "https://cloud.google.com/blog/products/identity-security/scale-agents-securely-with-iam-helper-agent-skills-and-mcp-tools/",
-      "published": "2026-10-26T16:00:00+00:00"
     },
     {
       "source": "Google Cloud Blog",
@@ -39,20 +130,6 @@
     {
       "source": "r/devops",
       "category": "Community",
-      "title": "Is it difficult to switch from Desktop Support to DevOps?",
-      "link": "https://www.reddit.com/r/devops/comments/1xfu1cz/is_it_difficult_to_switch_from_desktop_support_to/",
-      "published": "2026-10-26T11:19:56+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Diffinery: Open-source GitHub and GitHub Actions alternative that runs entirely on Cloudflare",
-      "link": "https://www.reddit.com/r/devops/comments/1xftjg1/diffinery_opensource_github_and_github_actions/",
-      "published": "2026-10-26T10:53:37+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
       "title": "Making attacking agents pay with Context Bombs",
       "link": "https://www.reddit.com/r/devops/comments/1xfsq7l/making_attacking_agents_pay_with_context_bombs/",
       "published": "2026-10-26T10:07:46+00:00"
@@ -67,33 +144,28 @@
     {
       "source": "r/devops",
       "category": "Community",
-      "title": "Can I switch from Desktop Support to DevOps?",
-      "link": "https://www.reddit.com/r/devops/comments/1xfq488/can_i_switch_from_desktop_support_to_devops/",
-      "published": "2026-10-26T07:23:45+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Two widely used npm packages had their security advisories withdrawn. How should we handle false positives in dependency audits?",
-      "link": "https://www.reddit.com/r/devops/comments/1xfikfb/two_widely_used_npm_packages_had_their_security/",
-      "published": "2026-10-26T00:34:05+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
       "title": "Open Source Contribution Recommendations for projects related to DevOps and Platform Engineering",
       "link": "https://www.reddit.com/r/devops/comments/1xfg9xz/open_source_contribution_recommendations_for/",
       "published": "2026-10-25T22:51:10+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "HA AI Clusters - SRE Engineer - General questions",
-      "link": "https://www.reddit.com/r/devops/comments/1xffaoh/ha_ai_clusters_sre_engineer_general_questions/",
-      "published": "2026-10-25T22:08:52+00:00"
     }
   ],
   "devsecops": [
+    {
+      "source": "CISA KEV",
+      "category": "Actively Exploited",
+      "title": "CVE-2026-109618 \u2014 PHP Group PHP: PHP Memory Corruption Vulnerability",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-109618",
+      "published": "2026-10-26T12:00:00+00:00",
+      "date_only": true
+    },
+    {
+      "source": "CISA KEV",
+      "category": "Actively Exploited",
+      "title": "CVE-2026-109619 \u2014 PHP Group PHP: PHP Stale Internal Request-State Vulnerability",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-109619",
+      "published": "2026-10-26T12:00:00+00:00",
+      "date_only": true
+    },
     {
       "source": "CISA KEV",
       "category": "Actively Exploited",
@@ -157,6 +229,62 @@
       "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-110936",
       "published": "2026-10-20T12:00:00+00:00",
       "date_only": true
+    },
+    {
+      "source": "Aqua Security",
+      "category": "Cloud & Container",
+      "title": "HTTP2Shell Vulnerability: How Should Security Teams Assess and Reduce Exposure?",
+      "link": "https://www.aquasec.com/blog/http2shell-vulnerability-how-should-security-teams-assess-and-reduce-exposure/",
+      "published": "2026-10-27T13:17:22+00:00"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens",
+      "link": "https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html",
+      "published": "2026-10-27T17:39:50+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution",
+      "link": "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html",
+      "published": "2026-10-27T10:07:59+05:30"
+    },
+    {
+      "source": "Sysdig",
+      "category": "Cloud & Container",
+      "title": "Mythos access is expanding: what this means for vulnerability management",
+      "link": "https://webflow.sysdig.com/blog/mythos-access-is-expanding-what-this-means-for-vulnerability-management",
+      "published": "2026-10-27T00:00:00+00:00"
+    },
+    {
+      "source": "Sysdig",
+      "category": "Cloud & Container",
+      "title": "In a pickle: Why every pickle defense in machine learning is bypassed the same way",
+      "link": "https://webflow.sysdig.com/blog/in-a-pickle-why-every-pickle-defense-in-machine-learning-is-bypassed-the-same-way",
+      "published": "2026-10-27T00:00:00+00:00"
+    },
+    {
+      "source": "Sysdig",
+      "category": "Cloud & Container",
+      "title": "Three layers of open source defense for AI coding agents: OpenShell, Prempti, and Falco",
+      "link": "https://webflow.sysdig.com/blog/three-layers-of-open-source-defense-for-ai-coding-agents-openshell-prempti-and-falco",
+      "published": "2026-10-27T00:00:00+00:00"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw",
+      "link": "https://thehackernews.com/2026/10/php-issues-second-windows-security.html",
+      "published": "2026-10-26T23:15:57+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware",
+      "link": "https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html",
+      "published": "2026-10-26T21:22:40+05:30"
     },
     {
       "source": "The Hacker News",
