@@ -1,12 +1,131 @@
 {
-  "generated_at": "2026-10-27T16:11:18.852848+00:00",
+  "generated_at": "2026-10-28T16:58:14.234126+00:00",
   "devops": [
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "How do you prevent analytical queries from tanking your transactional database?",
+      "link": "https://www.reddit.com/r/devops/comments/1xhtfxb/how_do_you_prevent_analytical_queries_from/",
+      "published": "2026-10-28T16:48:31+00:00"
+    },
     {
       "source": "Google Cloud Blog",
       "category": "Cloud",
-      "title": "Scale agents securely with IAM Helper Agent Skills and MCP Tools",
-      "link": "https://cloud.google.com/blog/products/identity-security/scale-agents-securely-with-iam-helper-agent-skills-and-mcp-tools/",
-      "published": "2026-10-27T16:00:00+00:00"
+      "title": "How to troubleshoot GKE workloads faster with VPC Flow Logs",
+      "link": "https://cloud.google.com/blog/products/containers-kubernetes/using-vpc-flow-logs-to-troubleshoot-gke-workloads/",
+      "published": "2026-10-28T16:00:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "How GKE networking scales to support high densities of concurrent AI agents",
+      "link": "https://cloud.google.com/blog/products/networking/gke-networking-dataplane-for-large-agentic-ai-workloads/",
+      "published": "2026-10-28T16:00:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Introducing the AlloyDB Omni web UI for easier cluster observability",
+      "link": "https://cloud.google.com/blog/products/databases/alloydb-omni-delivers-a-web-ui-for-cluster-observability/",
+      "published": "2026-10-28T16:00:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Near-zero downtime upgrades: Announcing Cloud SQL for MySQL blue-green deployments",
+      "link": "https://cloud.google.com/blog/products/databases/cloud-sql-blue-green-deployments/",
+      "published": "2026-10-28T16:00:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Behind the scenes, two months later: How we ship Google Agent Skills like products",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/behind-the-scenes-two-months-later-how-we-ship-google-agent-skills-like-products/",
+      "published": "2026-10-28T16:00:00+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "blacksmith vs depot vs namespace alternatives, anything else worth a trial?",
+      "link": "https://www.reddit.com/r/devops/comments/1xhq1sj/blacksmith_vs_depot_vs_namespace_alternatives/",
+      "published": "2026-10-28T14:45:49+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Interview tomorrow (5+ YOE DevOps), CV deep-dive, but I\u2019ve been caught in reorg purgatory doing nothing for months. How do I spin this?",
+      "link": "https://www.reddit.com/r/devops/comments/1xhpyph/interview_tomorrow_5_yoe_devops_cv_deepdive_but/",
+      "published": "2026-10-28T14:42:29+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "The $87K API key leak had nothing to do with .env",
+      "link": "https://www.reddit.com/r/devops/comments/1xhoqdk/the_87k_api_key_leak_had_nothing_to_do_with_env/",
+      "published": "2026-10-28T13:55:04+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "I recreated a Node2Shell RCE attack in the form of an interactive exercise",
+      "link": "https://www.reddit.com/r/devops/comments/1xhohrx/i_recreated_a_node2shell_rce_attack_in_the_form/",
+      "published": "2026-10-28T13:45:31+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "CloudFlare Tunnel with pre-auth (and multiple IdPs)",
+      "link": "https://www.reddit.com/r/devops/comments/1xhnx2t/cloudflare_tunnel_with_preauth_and_multiple_idps/",
+      "published": "2026-10-28T13:21:50+00:00"
+    },
+    {
+      "source": "Docker Blog",
+      "category": "Cloud Native",
+      "title": "Win the Agentic Era, Together: Introducing the Docker Navigator Partner Program",
+      "link": "https://www.docker.com/blog/docker-navigator-partner-program/",
+      "published": "2026-10-28T13:00:00+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Preparing for OCTA and CCA",
+      "link": "https://www.reddit.com/r/devops/comments/1xhlud8/preparing_for_octa_and_cca/",
+      "published": "2026-10-28T11:46:49+00:00"
+    },
+    {
+      "source": "Azure Updates",
+      "category": "Cloud",
+      "title": "[Launched] Generally Available: Higher limit of Azure Blob Storage accounts per region per subscription",
+      "link": "https://azure.microsoft.com/updates?id=578358",
+      "published": "2026-10-27T21:16:52+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Introducing VMware solution on Google Cloud",
+      "link": "https://cloud.google.com/blog/products/infrastructure-modernization/vmware-solution-on-google-cloud/",
+      "published": "2026-10-27T20:00:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Powering the agentic enterprise with latest innovations in Oracle AI Database@Google Cloud",
+      "link": "https://cloud.google.com/blog/products/databases/oracle-ai-databasegoogle-cloud-whats-new-at-oracle-ai-world/",
+      "published": "2026-10-27T19:30:00+00:00"
+    },
+    {
+      "source": "Azure Updates",
+      "category": "Cloud",
+      "title": "[Launched] Generally Available: Cost management and tagging for Claude models in Microsoft Foundry",
+      "link": "https://azure.microsoft.com/updates?id=577260",
+      "published": "2026-10-27T17:19:43+00:00"
+    },
+    {
+      "source": "Azure Updates",
+      "category": "Cloud",
+      "title": "[Launched] Generally Available: Azure Front Door profile and route level WAF policies",
+      "link": "https://azure.microsoft.com/updates?id=578153",
+      "published": "2026-10-27T16:58:04+00:00"
     },
     {
       "source": "Google Cloud Blog",
@@ -16,60 +135,11 @@
       "published": "2026-10-27T16:00:00+00:00"
     },
     {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Any beginner-friendly DevOps Discord servers or Slack communities?",
-      "link": "https://www.reddit.com/r/devops/comments/1xgw5xd/any_beginnerfriendly_devops_discord_servers_or/",
-      "published": "2026-10-27T15:49:12+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Bringing Google TPUs to Oracle Cloud Infrastructure",
-      "link": "https://cloud.google.com/blog/products/infrastructure/bringing-google-tpus-to-oracle-cloud-infrastructure/",
-      "published": "2026-10-27T14:00:00+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "why is everyone still using cloud llms just to route tool calls? tested local cpu embeddings vs bm25 on 100k tools",
-      "link": "https://www.reddit.com/r/devops/comments/1xgsv6a/why_is_everyone_still_using_cloud_llms_just_to/",
-      "published": "2026-10-27T13:41:52+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Gemini Robotics Embodied Reasoning 2 is now available on Google Cloud",
-      "link": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-robotics-embodied-reasoning-2-is-now-available-on-google-cloud/",
-      "published": "2026-10-27T13:00:00+00:00"
-    },
-    {
       "source": "CNCF Blog",
       "category": "Cloud Native",
       "title": "Over 500 Golden Kubestronauts: The evolving standard for cloud native mastery",
       "link": "https://www.cncf.io/blog/2026/10/27/over-500-golden-kubestronauts-the-evolving-standard-for-cloud-native-mastery/",
       "published": "2026-10-27T11:30:00+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "What APM tool does your team actually rely on, and why?",
-      "link": "https://www.reddit.com/r/devops/comments/1xgo0k0/what_apm_tool_does_your_team_actually_rely_on_and/",
-      "published": "2026-10-27T09:37:52+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Anyone interested for DevOps discussions/sessions?",
-      "link": "https://www.reddit.com/r/devops/comments/1xgl5vw/anyone_interested_for_devops_discussionssessions/",
-      "published": "2026-10-27T06:32:31+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "First-year DevOps student, 5 months to finish an individual project, feeling overwhelmed. Any advice?",
-      "link": "https://www.reddit.com/r/devops/comments/1xgjty5/firstyear_devops_student_5_months_to_finish_an/",
-      "published": "2026-10-27T05:10:25+00:00"
     },
     {
       "source": "Kubernetes Blog",
@@ -79,77 +149,30 @@
       "published": "2026-10-27T04:30:00+00:00"
     },
     {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Google Cloud and NASA: Testing robotic systems for deep space missions",
-      "link": "https://cloud.google.com/blog/topics/public-sector/google-cloud-and-nasa-testing-robotic-systems-for-deep-space-missions/",
-      "published": "2026-10-27T04:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Easy to integrate, compliant by design: Bringing the Swiss Franc to Google Cloud Universal Ledger",
-      "link": "https://cloud.google.com/blog/topics/financial-services/easy-to-integrate-compliant-by-design-bringing-the-swiss-franc-to-google-cloud-universal-ledger/",
-      "published": "2026-10-26T20:00:00+00:00"
-    },
-    {
       "source": "AWS DevOps Blog",
       "category": "DevOps",
       "title": "Tracing failures across Terraform state boundaries with AWS DevOps Agent",
       "link": "https://aws.amazon.com/blogs/devops/tracing-failures-across-terraform-state-boundaries-with-aws-devops-agent/",
       "published": "2026-10-26T17:21:23+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "[Launched] Generally Available: Network Watcher VNet flow logs filtering",
-      "link": "https://azure.microsoft.com/updates?id=577782",
-      "published": "2026-10-26T16:02:05+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Unifying enterprise context and semantics: LookML in Knowledge Catalog is now GA",
-      "link": "https://cloud.google.com/blog/products/business-intelligence/lookml-metadata-indexing-in-knowledge-catalog-is-now-ga/",
-      "published": "2026-10-26T16:00:00+00:00"
-    },
-    {
-      "source": "AWS Blog",
-      "category": "Cloud",
-      "title": "AWS Weekly Roundup: Amazon Polly Generative engine, TorchNeuron for Trainium, and more (October 26, 2026)",
-      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-polly-generative-engine-torchneuron-for-trainium-and-more-october-26-2026/",
-      "published": "2026-10-26T15:02:24+00:00"
-    },
-    {
-      "source": "CNCF Blog",
-      "category": "Cloud Native",
-      "title": "Isolation. Security. Scale.",
-      "link": "https://www.cncf.io/blog/2026/10/26/isolation-security-scale/",
-      "published": "2026-10-26T11:30:00+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Making attacking agents pay with Context Bombs",
-      "link": "https://www.reddit.com/r/devops/comments/1xfsq7l/making_attacking_agents_pay_with_context_bombs/",
-      "published": "2026-10-26T10:07:46+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Weekly Self Promotion Thread",
-      "link": "https://www.reddit.com/r/devops/comments/1xfq7qc/weekly_self_promotion_thread/",
-      "published": "2026-10-26T07:30:16+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Open Source Contribution Recommendations for projects related to DevOps and Platform Engineering",
-      "link": "https://www.reddit.com/r/devops/comments/1xfg9xz/open_source_contribution_recommendations_for/",
-      "published": "2026-10-25T22:51:10+00:00"
     }
   ],
   "devsecops": [
+    {
+      "source": "CISA KEV",
+      "category": "Actively Exploited",
+      "title": "CVE-2026-48356 \u2014 Adobe Commerce and Magento: Adobe Commerce and Magento Unrestricted Upload of File with Dangerous Type Vulnerability",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-48356",
+      "published": "2026-10-27T12:00:00+00:00",
+      "date_only": true
+    },
+    {
+      "source": "CISA KEV",
+      "category": "Actively Exploited",
+      "title": "CVE-2026-111497 \u2014 Google Brotli: Google Brotli Unchecked Return Value Vulnerability",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-111497",
+      "published": "2026-10-27T12:00:00+00:00",
+      "date_only": true
+    },
     {
       "source": "CISA KEV",
       "category": "Actively Exploited",
@@ -183,52 +206,95 @@
       "date_only": true
     },
     {
-      "source": "CISA KEV",
-      "category": "Actively Exploited",
-      "title": "CVE-2026-106931 \u2014 EG Secure Solutions SiteGuard Server Edition: EG Secure Solutions SiteGuard Server Edition OS Command Injection Vulnerability",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-106931",
-      "published": "2026-10-20T12:00:00+00:00",
-      "date_only": true
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch",
+      "link": "https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html",
+      "published": "2026-10-28T18:18:03+05:30"
     },
     {
-      "source": "CISA KEV",
-      "category": "Actively Exploited",
-      "title": "CVE-2026-96656 \u2014 Plex Media Server: Plex Media Server External Control of File Name or Path Vulnerability",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-96656",
-      "published": "2026-10-20T12:00:00+00:00",
-      "date_only": true
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass",
+      "link": "https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html",
+      "published": "2026-10-28T16:45:51+05:30"
     },
     {
-      "source": "CISA KEV",
-      "category": "Actively Exploited",
-      "title": "CVE-2026-96655 \u2014 Plex Media Server: Plex Media Server Server-Side Request Forgery (SSRF) Vulnerability",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-96655",
-      "published": "2026-10-20T12:00:00+00:00",
-      "date_only": true
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "American Organizations Under Attack: Skyw4lker Device Code Phishing Campaign Exposed",
+      "link": "https://thehackernews.com/2026/10/american-organizations-under-attack.html",
+      "published": "2026-10-28T16:00:00+05:30"
     },
     {
-      "source": "CISA KEV",
-      "category": "Actively Exploited",
-      "title": "CVE-2026-96654 \u2014 Plex Media Server: Plex Media Server Improper Neutralization of Encoded URI Schemes in a Web Page Vulnerability",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-96654",
-      "published": "2026-10-20T12:00:00+00:00",
-      "date_only": true
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits",
+      "link": "https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html",
+      "published": "2026-10-28T13:45:07+05:30"
     },
     {
-      "source": "CISA KEV",
-      "category": "Actively Exploited",
-      "title": "CVE-2026-96652 \u2014 Plex Media Server: Plex Media Server Server-Side Request Forgery (SSRF) Vulnerability",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-96652",
-      "published": "2026-10-20T12:00:00+00:00",
-      "date_only": true
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Japan's GMO Offers $1 Million Bounty to Catch Hackers Behind FX Trading Cloud Breach",
+      "link": "https://thehackernews.com/2026/10/japans-gmo-offers-1-million-bounty-to.html",
+      "published": "2026-10-28T12:43:21+05:30"
     },
     {
-      "source": "CISA KEV",
-      "category": "Actively Exploited",
-      "title": "CVE-2026-110936 \u2014 Siemens Software Center: Siemens Software Center Uncontrolled Search Path Element Vulnerability",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-110936",
-      "published": "2026-10-20T12:00:00+00:00",
-      "date_only": true
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Tailscale Patches SSH Flaws That Could Let Hacked Devices Gain Root Access on Other Servers",
+      "link": "https://thehackernews.com/2026/10/tailscale-patches-ssh-flaws-that-could.html",
+      "published": "2026-10-28T11:50:37+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "ShinyHunters-Exploited Oracle PeopleSoft Zero-Day Turns Out to Be Three Chained Flaws",
+      "link": "https://thehackernews.com/2026/10/shinyhunters-exploited-oracle.html",
+      "published": "2026-10-28T11:34:58+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Adobe Commerce PolyShell Attacks Breach Hundreds of Stores as Brotli Exploit Traffic Emerges",
+      "link": "https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html",
+      "published": "2026-10-28T11:12:26+05:30"
+    },
+    {
+      "source": "Sysdig",
+      "category": "Cloud & Container",
+      "title": "Node2Shell (CVE-2026-111497): Detecting the Node.js Brotli RCE",
+      "link": "https://webflow.sysdig.com/blog/node2shell-cve-2026-111497-detecting-the-node-js-brotli-rce",
+      "published": "2026-10-28T00:00:00+00:00"
+    },
+    {
+      "source": "Sysdig",
+      "category": "Cloud & Container",
+      "title": "Detecting and mitigating ZDI-CAN-33367 and five other Linux flaws",
+      "link": "https://webflow.sysdig.com/blog/detecting-and-mitigating-zdi-can-33367-and-five-other-linux-flaws",
+      "published": "2026-10-28T00:00:00+00:00"
+    },
+    {
+      "source": "Sysdig",
+      "category": "Cloud & Container",
+      "title": "PHP2Shell (CVE-2026-109618 and CVE-2026-109619): Detecting unauthenticated remote code execution in PHP core",
+      "link": "https://webflow.sysdig.com/blog/php2shell-cve-2026-109618-and-cve-2026-109619-detecting-unauthenticated-remote-code-execution-in-php-core",
+      "published": "2026-10-28T00:00:00+00:00"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "GoAhead TLS Flaws Allow Revoked Client Certificates and Enable Session Decryption",
+      "link": "https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html",
+      "published": "2026-10-27T19:29:48+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Apple Backports Fix for Exploited CoreGraphics Flaw to Older iPhones and iPads",
+      "link": "https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html",
+      "published": "2026-10-27T19:29:09+05:30"
     },
     {
       "source": "Aqua Security",
@@ -271,76 +337,6 @@
       "title": "Three layers of open source defense for AI coding agents: OpenShell, Prempti, and Falco",
       "link": "https://webflow.sysdig.com/blog/three-layers-of-open-source-defense-for-ai-coding-agents-openshell-prempti-and-falco",
       "published": "2026-10-27T00:00:00+00:00"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw",
-      "link": "https://thehackernews.com/2026/10/php-issues-second-windows-security.html",
-      "published": "2026-10-26T23:15:57+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware",
-      "link": "https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html",
-      "published": "2026-10-26T21:22:40+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "\u26a1 Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More",
-      "link": "https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html",
-      "published": "2026-10-26T19:36:13+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes",
-      "link": "https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html",
-      "published": "2026-10-26T17:22:41+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts",
-      "link": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html",
-      "published": "2026-10-26T15:24:02+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs",
-      "link": "https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html",
-      "published": "2026-10-26T13:19:46+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware",
-      "link": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
-      "published": "2026-10-26T11:33:48+05:30"
-    },
-    {
-      "source": "Snyk",
-      "category": "AppSec",
-      "title": "PHP Patches Two Critical Unauthenticated RCEs (CVE-2026-109618, CVE-2026-109619): [Updated for CVE-2026-115560]",
-      "link": "https://snyk.io/blog/php-patches-critical-unauthenticated-rces/",
-      "published": "2026-10-26T04:00:00+00:00"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
-      "link": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
-      "published": "2026-10-25T23:14:09+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "PHP2Shell Exploitation Attempts Continue Amid Suspected N. Korea Global Scanning Activity",
-      "link": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
-      "published": "2026-10-25T22:49:46+05:30"
     }
   ],
   "meetups": [],
