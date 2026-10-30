@@ -1,12 +1,117 @@
 {
-  "generated_at": "2026-10-29T17:18:10.329305+00:00",
+  "generated_at": "2026-10-30T16:56:28.439390+00:00",
   "devops": [
     {
       "source": "Google Cloud Blog",
       "category": "Cloud",
-      "title": "Querying Databricks Apache Iceberg Tables with the borderless Lakehouse",
-      "link": "https://cloud.google.com/blog/products/data-analytics/querying-databricks-iceberg-tables-with-google-clouds-lakehouse/",
-      "published": "2026-10-29T16:00:00+00:00"
+      "title": "What\u2019s new with Google Cloud",
+      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "published": "2026-10-30T16:00:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "What\u2019s new in AI infrastructure and orchestration in October",
+      "link": "https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/",
+      "published": "2026-10-30T16:00:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "When the Kubernetes API went silent: A three-layer networking mystery",
+      "link": "https://cloud.google.com/blog/products/networking/the-three-layer-gke-network-mystery/",
+      "published": "2026-10-30T16:00:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Innovate on your own business terms: Google Cloud spend caps now generally available",
+      "link": "https://cloud.google.com/blog/topics/cost-management/google-cloud-spend-caps-now-generally-available/",
+      "published": "2026-10-30T16:00:00+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Datadog: We're paying the bill, so why the hell can't we access our cost data?",
+      "link": "https://www.reddit.com/r/devops/comments/1xjgjek/datadog_were_paying_the_bill_so_why_the_hell_cant/",
+      "published": "2026-10-30T14:15:16+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Has the recent vulnpocalypse changed how you think about infrastructure security?",
+      "link": "https://www.reddit.com/r/devops/comments/1xjfw5p/has_the_recent_vulnpocalypse_changed_how_you/",
+      "published": "2026-10-30T13:49:41+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "New Gemini courses for financial services and legal teams",
+      "link": "https://cloud.google.com/blog/topics/training-certifications/new-gemini-courses-for-financial-services-and-legal-teams/",
+      "published": "2026-10-30T13:00:00+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Who is leading the pack in AI workloads AWS or Azure?",
+      "link": "https://www.reddit.com/r/devops/comments/1xjemaz/who_is_leading_the_pack_in_ai_workloads_aws_or/",
+      "published": "2026-10-30T12:55:38+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "How do you maintain one Helm chart across 50+ customer clusters you don't control",
+      "link": "https://www.reddit.com/r/devops/comments/1xjd1u1/how_do_you_maintain_one_helm_chart_across_50/",
+      "published": "2026-10-30T11:41:41+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Stuck Between IT and RKE2: Need Advice on Operating Without Sudo Access",
+      "link": "https://www.reddit.com/r/devops/comments/1xj9ajw/stuck_between_it_and_rke2_need_advice_on/",
+      "published": "2026-10-30T07:56:28+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Binance hack and a DevOps laptop",
+      "link": "https://www.reddit.com/r/devops/comments/1xj4flc/binance_hack_and_a_devops_laptop/",
+      "published": "2026-10-30T03:10:26+00:00"
+    },
+    {
+      "source": "CNCF Blog",
+      "category": "Cloud Native",
+      "title": "KubeCon + CloudNativeCon NA 2026: End User TAB recommendations and tips",
+      "link": "https://www.cncf.io/blog/2026/10/29/kubecon-cloudnativecon-na-2026-end-user-tab-recommendations-and-tips/",
+      "published": "2026-10-30T00:43:04+00:00"
+    },
+    {
+      "source": "Azure Updates",
+      "category": "Cloud",
+      "title": "[Launched] Generally Available: Large OS Disk Encryption for Azure Confidential VM migrations",
+      "link": "https://azure.microsoft.com/updates?id=578850",
+      "published": "2026-10-29T21:19:52+00:00"
+    },
+    {
+      "source": "CNCF Blog",
+      "category": "Cloud Native",
+      "title": "The boundary problem in agentic AI is a platform problem",
+      "link": "https://www.cncf.io/blog/2026/10/29/the-boundary-problem-in-agentic-ai-is-a-platform-problem/",
+      "published": "2026-10-29T18:11:50+00:00"
+    },
+    {
+      "source": "Azure Updates",
+      "category": "Cloud",
+      "title": "[Launched] Generally Available: HTTP DDoS ruleset for Azure Front Door Premium WAF",
+      "link": "https://azure.microsoft.com/updates?id=578681",
+      "published": "2026-10-29T17:09:49+00:00"
+    },
+    {
+      "source": "Azure Updates",
+      "category": "Cloud",
+      "title": "[Launched] Generally Available: Azure MCP Server 3.0",
+      "link": "https://azure.microsoft.com/updates?id=578662",
+      "published": "2026-10-29T17:04:58+00:00"
     },
     {
       "source": "Google Cloud Blog",
@@ -18,16 +123,16 @@
     {
       "source": "Google Cloud Blog",
       "category": "Cloud",
-      "title": "Grounding agents in one context graph connecting semantic models you already trust",
-      "link": "https://cloud.google.com/blog/products/data-analytics/expanded-semantic-model-support-in-knowledge-catalog/",
+      "title": "Querying Databricks Apache Iceberg Tables with the borderless Lakehouse",
+      "link": "https://cloud.google.com/blog/products/data-analytics/querying-databricks-iceberg-tables-with-google-clouds-lakehouse/",
       "published": "2026-10-29T16:00:00+00:00"
     },
     {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Any one from Delhi/Dwarka for INFRA coffee discussion this weekend.",
-      "link": "https://www.reddit.com/r/devops/comments/1xijzfm/any_one_from_delhidwarka_for_infra_coffee/",
-      "published": "2026-10-29T13:28:34+00:00"
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Grounding agents in one context graph connecting semantic models you already trust",
+      "link": "https://cloud.google.com/blog/products/data-analytics/expanded-semantic-model-support-in-knowledge-catalog/",
+      "published": "2026-10-29T16:00:00+00:00"
     },
     {
       "source": "r/devops",
@@ -42,27 +147,6 @@
       "title": "Coding Agent Horror Stories: The CVE That Did Not Exist",
       "link": "https://www.docker.com/blog/coding-agent-horror-stories-the-cve-that-did-not-exist/",
       "published": "2026-10-29T13:00:00+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Passed the AWS Cloud Practitioner (CLF-C02) exam \u2014 sharing my study plan, resources & pro exam tips!",
-      "link": "https://www.reddit.com/r/devops/comments/1xiivfg/passed_the_aws_cloud_practitioner_clfc02_exam/",
-      "published": "2026-10-29T12:40:40+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "I landed a \"devops\" role as a junior",
-      "link": "https://www.reddit.com/r/devops/comments/1xigylx/i_landed_a_devops_role_as_a_junior/",
-      "published": "2026-10-29T11:06:15+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "How do you contain your agents' accesses?",
-      "link": "https://www.reddit.com/r/devops/comments/1xid62t/how_do_you_contain_your_agents_accesses/",
-      "published": "2026-10-29T07:16:20+00:00"
     },
     {
       "source": "Kubernetes Blog",
@@ -91,86 +175,25 @@
       "title": "[In preview] Public Preview: Cross Tenant Restore with Azure Backup",
       "link": "https://azure.microsoft.com/updates?id=577117",
       "published": "2026-10-28T17:09:30+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "How do you prevent analytical queries from tanking your transactional database?",
-      "link": "https://www.reddit.com/r/devops/comments/1xhtfxb/how_do_you_prevent_analytical_queries_from/",
-      "published": "2026-10-28T16:48:31+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "[Launched] Generally Available: Marketplace private offer enhancements",
-      "link": "https://azure.microsoft.com/updates?id=576547",
-      "published": "2026-10-28T16:23:43+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Introducing the AlloyDB Omni web UI for easier cluster observability",
-      "link": "https://cloud.google.com/blog/products/databases/alloydb-omni-delivers-a-web-ui-for-cluster-observability/",
-      "published": "2026-10-28T16:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Behind the scenes, two months later: How we ship Google Agent Skills like products",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/behind-the-scenes-two-months-later-how-we-ship-google-agent-skills-like-products/",
-      "published": "2026-10-28T16:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "How to troubleshoot GKE workloads faster with VPC Flow Logs",
-      "link": "https://cloud.google.com/blog/products/containers-kubernetes/using-vpc-flow-logs-to-troubleshoot-gke-workloads/",
-      "published": "2026-10-28T16:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "How GKE networking scales to support high densities of concurrent AI agents",
-      "link": "https://cloud.google.com/blog/products/networking/gke-networking-dataplane-for-large-agentic-ai-workloads/",
-      "published": "2026-10-28T16:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Near-zero downtime upgrades: Announcing Cloud SQL for MySQL blue-green deployments",
-      "link": "https://cloud.google.com/blog/products/databases/cloud-sql-blue-green-deployments/",
-      "published": "2026-10-28T16:00:00+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "The $87K API key leak had nothing to do with .env",
-      "link": "https://www.reddit.com/r/devops/comments/1xhoqdk/the_87k_api_key_leak_had_nothing_to_do_with_env/",
-      "published": "2026-10-28T13:55:04+00:00"
-    },
-    {
-      "source": "Docker Blog",
-      "category": "Cloud Native",
-      "title": "Win the Agentic Era, Together: Introducing the Docker Navigator Partner Program",
-      "link": "https://www.docker.com/blog/docker-navigator-partner-program/",
-      "published": "2026-10-28T13:00:00+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "[Launched] Generally Available: Higher limit of Azure Blob Storage accounts per region per subscription",
-      "link": "https://azure.microsoft.com/updates?id=578358",
-      "published": "2026-10-27T21:16:52+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "[Launched] Generally Available: Cost management and tagging for Claude models in Microsoft Foundry",
-      "link": "https://azure.microsoft.com/updates?id=577260",
-      "published": "2026-10-27T17:19:43+00:00"
     }
   ],
   "devsecops": [
+    {
+      "source": "CISA KEV",
+      "category": "Actively Exploited",
+      "title": "CVE-2026-97229 \u2014 GitLab Community Edition and Enterprise Edition: GitLab Community Edition and Enterprise Edition Integer Overflow or Wraparound Vulnerability",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-97229",
+      "published": "2026-10-29T12:00:00+00:00",
+      "date_only": true
+    },
+    {
+      "source": "CISA KEV",
+      "category": "Actively Exploited",
+      "title": "CVE-2026-76418 \u2014 Cisco Secure Firewall ASA Software and Cisco Secure FTD Software: Cisco Secure Firewall ASA Software and Cisco Secure FTD Software Unchecked Return Value to NULL Pointer Dereference Vulnerability",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-76418",
+      "published": "2026-10-29T12:00:00+00:00",
+      "date_only": true
+    },
     {
       "source": "CISA KEV",
       "category": "Actively Exploited",
@@ -234,6 +257,41 @@
       "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-110447",
       "published": "2026-10-23T12:00:00+00:00",
       "date_only": true
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours",
+      "link": "https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html",
+      "published": "2026-10-30T19:38:14+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent SSH Backdoor",
+      "link": "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html",
+      "published": "2026-10-30T14:25:47+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw",
+      "link": "https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html",
+      "published": "2026-10-30T13:15:30+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV",
+      "link": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html",
+      "published": "2026-10-30T12:57:05+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
+      "link": "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
+      "published": "2026-10-30T00:41:58+05:30"
     },
     {
       "source": "The Hacker News",
@@ -304,83 +362,6 @@
       "title": "Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns",
       "link": "https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html",
       "published": "2026-10-28T23:38:33+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Google to Allow One-Tap Android App Installs From Approved Third-Party Stores Outside U.S.",
-      "link": "https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html",
-      "published": "2026-10-28T22:38:09+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Researcher Reveals How Logic Bugs Alone Cracked Microsoft Edge in $175,000 Pwn2Own Win",
-      "link": "https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html",
-      "published": "2026-10-28T21:53:34+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch",
-      "link": "https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html",
-      "published": "2026-10-28T18:18:03+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass",
-      "link": "https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html",
-      "published": "2026-10-28T16:45:51+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "American Organizations Under Attack: Skyw4lker Device Code Phishing Campaign Exposed",
-      "link": "https://thehackernews.com/2026/10/american-organizations-under-attack.html",
-      "published": "2026-10-28T16:00:00+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits",
-      "link": "https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html",
-      "published": "2026-10-28T13:45:07+05:30"
-    },
-    {
-      "source": "Snyk",
-      "category": "AppSec",
-      "title": "PHP2Shell Won't Be the Last. Here's Where the Next One Will Show Up First.",
-      "link": "https://snyk.io/blog/php2shell-where-next-one-will-show-up-first/",
-      "published": "2026-10-28T04:00:00+00:00"
-    },
-    {
-      "source": "Sysdig",
-      "category": "Cloud & Container",
-      "title": "Node2Shell (CVE-2026-111497): Detecting the Node.js Brotli RCE",
-      "link": "https://webflow.sysdig.com/blog/node2shell-cve-2026-111497-detecting-the-node-js-brotli-rce",
-      "published": "2026-10-28T00:00:00+00:00"
-    },
-    {
-      "source": "Sysdig",
-      "category": "Cloud & Container",
-      "title": "Detecting and mitigating ZDI-CAN-33367 and five other Linux flaws",
-      "link": "https://webflow.sysdig.com/blog/detecting-and-mitigating-zdi-can-33367-and-five-other-linux-flaws",
-      "published": "2026-10-28T00:00:00+00:00"
-    },
-    {
-      "source": "Sysdig",
-      "category": "Cloud & Container",
-      "title": "PHP2Shell (CVE-2026-109618 and CVE-2026-109619): Detecting unauthenticated remote code execution in PHP core",
-      "link": "https://webflow.sysdig.com/blog/php2shell-cve-2026-109618-and-cve-2026-109619-detecting-unauthenticated-remote-code-execution-in-php-core",
-      "published": "2026-10-28T00:00:00+00:00"
-    },
-    {
-      "source": "Snyk",
-      "category": "AppSec",
-      "title": "Snyk UNFILTERED: Inside Our First-Ever Customer Summit",
-      "link": "https://snyk.io/blog/snyk-unfiltered-customer-summit/",
-      "published": "2026-10-28T00:00:00+00:00"
     }
   ],
   "meetups": [],
