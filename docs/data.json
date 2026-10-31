@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-10-30T16:56:28.439390+00:00",
+  "generated_at": "2026-10-31T15:56:48.664644+00:00",
   "devops": [
     {
-      "source": "Google Cloud Blog",
+      "source": "r/devops",
+      "category": "Community",
+      "title": "How do you clean up stale branches, old PRs, and dead repos across a whole GitHub org?",
+      "link": "https://www.reddit.com/r/devops/comments/1xk62rx/how_do_you_clean_up_stale_branches_old_prs_and/",
+      "published": "2026-10-31T09:47:57+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Which is more used in industry: ArgoCD or Flux?",
+      "link": "https://www.reddit.com/r/devops/comments/1xjx85h/which_is_more_used_in_industry_argocd_or_flux/",
+      "published": "2026-10-31T01:18:52+00:00"
+    },
+    {
+      "source": "Azure Updates",
       "category": "Cloud",
-      "title": "What\u2019s new with Google Cloud",
-      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "published": "2026-10-30T16:00:00+00:00"
+      "title": "[In preview] Public Preview: Support database-level managed identity (including FIC) in Create Database Scoped Credential T-SQL",
+      "link": "https://azure.microsoft.com/updates?id=577491",
+      "published": "2026-10-30T17:16:27+00:00"
     },
     {
       "source": "Google Cloud Blog",
@@ -30,6 +44,13 @@
       "published": "2026-10-30T16:00:00+00:00"
     },
     {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "What\u2019s new with Google Cloud",
+      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "published": "2026-10-30T16:00:00+00:00"
+    },
+    {
       "source": "r/devops",
       "category": "Community",
       "title": "Datadog: We're paying the bill, so why the hell can't we access our cost data?",
@@ -49,13 +70,6 @@
       "title": "New Gemini courses for financial services and legal teams",
       "link": "https://cloud.google.com/blog/topics/training-certifications/new-gemini-courses-for-financial-services-and-legal-teams/",
       "published": "2026-10-30T13:00:00+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Who is leading the pack in AI workloads AWS or Azure?",
-      "link": "https://www.reddit.com/r/devops/comments/1xjemaz/who_is_leading_the_pack_in_ai_workloads_aws_or/",
-      "published": "2026-10-30T12:55:38+00:00"
     },
     {
       "source": "r/devops",
@@ -133,51 +147,25 @@
       "title": "Grounding agents in one context graph connecting semantic models you already trust",
       "link": "https://cloud.google.com/blog/products/data-analytics/expanded-semantic-model-support-in-knowledge-catalog/",
       "published": "2026-10-29T16:00:00+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "DevOps conferences in Europe 2027",
-      "link": "https://www.reddit.com/r/devops/comments/1xijx97/devops_conferences_in_europe_2027/",
-      "published": "2026-10-29T13:26:02+00:00"
-    },
-    {
-      "source": "Docker Blog",
-      "category": "Cloud Native",
-      "title": "Coding Agent Horror Stories: The CVE That Did Not Exist",
-      "link": "https://www.docker.com/blog/coding-agent-horror-stories-the-cve-that-did-not-exist/",
-      "published": "2026-10-29T13:00:00+00:00"
-    },
-    {
-      "source": "Kubernetes Blog",
-      "category": "Cloud Native",
-      "title": "From Working Group to SIG Architecture: spotlight on AI Conformance",
-      "link": "https://kubernetes.io/blog/2026/10/29/sig-arch-ai-conformance-2026/",
-      "published": "2026-10-29T05:00:00+00:00"
-    },
-    {
-      "source": "CNCF Blog",
-      "category": "Cloud Native",
-      "title": "Volcano v1.16 Released: NamespaceQueue, fairshare, and a broader HyperNode ecosystem",
-      "link": "https://www.cncf.io/blog/2026/10/28/volcano-v1-16-released-namespacequeue-fairshare-and-a-broader-hypernode-ecosystem/",
-      "published": "2026-10-28T20:45:08+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "Announcing: Migrate Azure Container Apps logging destination from Log Analytics to Azure Monitor",
-      "link": "https://azure.microsoft.com/updates?id=577689",
-      "published": "2026-10-28T17:52:51+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "[In preview] Public Preview: Cross Tenant Restore with Azure Backup",
-      "link": "https://azure.microsoft.com/updates?id=577117",
-      "published": "2026-10-28T17:09:30+00:00"
     }
   ],
   "devsecops": [
+    {
+      "source": "CISA KEV",
+      "category": "Actively Exploited",
+      "title": "CVE-2026-118527 \u2014 Ivanti Connect Secure: Ivanti Connect Secure Generation of Predictable Numbers or Identifiers Vulnerability",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-118527",
+      "published": "2026-10-30T12:00:00+00:00",
+      "date_only": true
+    },
+    {
+      "source": "CISA KEV",
+      "category": "Actively Exploited",
+      "title": "CVE-2026-111357 \u2014 Ivanti Connect Secure: Ivanti Connect Secure Missing Authentication for Critical Function Vulnerability",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-111357",
+      "published": "2026-10-30T12:00:00+00:00",
+      "date_only": true
+    },
     {
       "source": "CISA KEV",
       "category": "Actively Exploited",
@@ -243,20 +231,39 @@
       "date_only": true
     },
     {
-      "source": "CISA KEV",
-      "category": "Actively Exploited",
-      "title": "CVE-2026-114625 \u2014 Arista VeloCloud Orchestrator: Arista VeloCloud Orchestrator SQL Injection Vulnerability",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-114625",
-      "published": "2026-10-23T12:00:00+00:00",
-      "date_only": true
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data",
+      "link": "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html",
+      "published": "2026-10-31T17:31:56+05:30"
     },
     {
-      "source": "CISA KEV",
-      "category": "Actively Exploited",
-      "title": "CVE-2026-110447 \u2014 Collabora Collabora Online \u2013 Built-in CODE Server: Collabora Online \u2013 Built-in CODE Server OS Command Injection Vulnerability",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-110447",
-      "published": "2026-10-23T12:00:00+00:00",
-      "date_only": true
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access",
+      "link": "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html",
+      "published": "2026-10-31T13:57:43+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%",
+      "link": "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html",
+      "published": "2026-10-31T10:26:12+05:30"
+    },
+    {
+      "source": "OpenSSF",
+      "category": "Supply Chain",
+      "title": "OpenSSF Newsletter \u2013 October 2026",
+      "link": "https://openssf.org/newsletter/2026/10/30/openssf-newsletter-october-2026/",
+      "published": "2026-10-30T19:52:38+00:00"
+    },
+    {
+      "source": "OpenSSF",
+      "category": "Supply Chain",
+      "title": "New LF Research Survey Shows Generative AI Cuts Open Source Coding Time in Half, but 25% of Incoming Pull Requests are Considered AI Slop",
+      "link": "https://openssf.org/press-release/2026/10/30/new-lf-research-survey-shows-generative-ai-cuts-open-source-coding-time-in-half-but-25-of-incoming-pull-requests-are-considered-ai-slop/",
+      "published": "2026-10-30T18:48:15+00:00"
     },
     {
       "source": "The Hacker News",
@@ -299,69 +306,6 @@
       "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
       "link": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
       "published": "2026-10-29T21:27:05+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners",
-      "link": "https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html",
-      "published": "2026-10-29T20:50:29+05:30"
-    },
-    {
-      "source": "Aqua Security",
-      "category": "Cloud & Container",
-      "title": "Integrate Aquasec and Prometheus for Greater Visibility Into Runtime Security Operations",
-      "link": "https://www.aquasec.com/blog/integrate-aquasec-and-prometheus-for-greater-visibility-into-runtime-security-operations/",
-      "published": "2026-10-29T13:24:23+00:00"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "26,400 Valid Cloud and AI Credentials Found Exposed in Public Gitee Repositories",
-      "link": "https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html",
-      "published": "2026-10-29T17:03:15+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls",
-      "link": "https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html",
-      "published": "2026-10-29T16:14:46+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "GitHub Launches npm Firewall to Block Malicious Packages Before Installation",
-      "link": "https://thehackernews.com/2026/10/github-launches-npm-firewall-to-block.html",
-      "published": "2026-10-29T15:56:33+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Attacker Tried to Exploit Alpine Linux\u2019s GitLab via CVSS 10.0 Flaw Its Ruby Left Open",
-      "link": "https://thehackernews.com/2026/10/attacker-tried-to-exploit-alpine-linuxs.html",
-      "published": "2026-10-29T14:35:39+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility",
-      "link": "https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html",
-      "published": "2026-10-29T11:52:33+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Attackers Exploit PHP2Shell Flaws in Internet-Exposed Palo Alto Networks Management Interfaces",
-      "link": "https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html",
-      "published": "2026-10-29T11:20:17+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns",
-      "link": "https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html",
-      "published": "2026-10-28T23:38:33+05:30"
     }
   ],
   "meetups": [],
