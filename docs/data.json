@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-10-31T15:56:48.664644+00:00",
+  "generated_at": "2026-11-01T16:59:23.185832+00:00",
   "devops": [
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Building a fast perimeter security auditor in Next.js: Handling Anti-SSRF, RFC 1918 ranges, and socket timeouts",
+      "link": "https://www.reddit.com/r/devops/comments/1xkomdn/building_a_fast_perimeter_security_auditor_in/",
+      "published": "2026-10-31T23:37:42+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Anyone rethinking IDE extensions after the Cursor marketplace incident?",
+      "link": "https://www.reddit.com/r/devops/comments/1xkexud/anyone_rethinking_ide_extensions_after_the_cursor/",
+      "published": "2026-10-31T16:42:14+00:00"
+    },
     {
       "source": "r/devops",
       "category": "Community",
@@ -21,132 +35,6 @@
       "title": "[In preview] Public Preview: Support database-level managed identity (including FIC) in Create Database Scoped Credential T-SQL",
       "link": "https://azure.microsoft.com/updates?id=577491",
       "published": "2026-10-30T17:16:27+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "What\u2019s new in AI infrastructure and orchestration in October",
-      "link": "https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/",
-      "published": "2026-10-30T16:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "When the Kubernetes API went silent: A three-layer networking mystery",
-      "link": "https://cloud.google.com/blog/products/networking/the-three-layer-gke-network-mystery/",
-      "published": "2026-10-30T16:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Innovate on your own business terms: Google Cloud spend caps now generally available",
-      "link": "https://cloud.google.com/blog/topics/cost-management/google-cloud-spend-caps-now-generally-available/",
-      "published": "2026-10-30T16:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "What\u2019s new with Google Cloud",
-      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "published": "2026-10-30T16:00:00+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Datadog: We're paying the bill, so why the hell can't we access our cost data?",
-      "link": "https://www.reddit.com/r/devops/comments/1xjgjek/datadog_were_paying_the_bill_so_why_the_hell_cant/",
-      "published": "2026-10-30T14:15:16+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Has the recent vulnpocalypse changed how you think about infrastructure security?",
-      "link": "https://www.reddit.com/r/devops/comments/1xjfw5p/has_the_recent_vulnpocalypse_changed_how_you/",
-      "published": "2026-10-30T13:49:41+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "New Gemini courses for financial services and legal teams",
-      "link": "https://cloud.google.com/blog/topics/training-certifications/new-gemini-courses-for-financial-services-and-legal-teams/",
-      "published": "2026-10-30T13:00:00+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "How do you maintain one Helm chart across 50+ customer clusters you don't control",
-      "link": "https://www.reddit.com/r/devops/comments/1xjd1u1/how_do_you_maintain_one_helm_chart_across_50/",
-      "published": "2026-10-30T11:41:41+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Stuck Between IT and RKE2: Need Advice on Operating Without Sudo Access",
-      "link": "https://www.reddit.com/r/devops/comments/1xj9ajw/stuck_between_it_and_rke2_need_advice_on/",
-      "published": "2026-10-30T07:56:28+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Binance hack and a DevOps laptop",
-      "link": "https://www.reddit.com/r/devops/comments/1xj4flc/binance_hack_and_a_devops_laptop/",
-      "published": "2026-10-30T03:10:26+00:00"
-    },
-    {
-      "source": "CNCF Blog",
-      "category": "Cloud Native",
-      "title": "KubeCon + CloudNativeCon NA 2026: End User TAB recommendations and tips",
-      "link": "https://www.cncf.io/blog/2026/10/29/kubecon-cloudnativecon-na-2026-end-user-tab-recommendations-and-tips/",
-      "published": "2026-10-30T00:43:04+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "[Launched] Generally Available: Large OS Disk Encryption for Azure Confidential VM migrations",
-      "link": "https://azure.microsoft.com/updates?id=578850",
-      "published": "2026-10-29T21:19:52+00:00"
-    },
-    {
-      "source": "CNCF Blog",
-      "category": "Cloud Native",
-      "title": "The boundary problem in agentic AI is a platform problem",
-      "link": "https://www.cncf.io/blog/2026/10/29/the-boundary-problem-in-agentic-ai-is-a-platform-problem/",
-      "published": "2026-10-29T18:11:50+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "[Launched] Generally Available: HTTP DDoS ruleset for Azure Front Door Premium WAF",
-      "link": "https://azure.microsoft.com/updates?id=578681",
-      "published": "2026-10-29T17:09:49+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "[Launched] Generally Available: Azure MCP Server 3.0",
-      "link": "https://azure.microsoft.com/updates?id=578662",
-      "published": "2026-10-29T17:04:58+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Cloud CISO Perspectives: Introducing new $250,000 tier for Google Cloud VRP (Q&A)",
-      "link": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-introducing-new-tier-for-google-cloud-vrp/",
-      "published": "2026-10-29T16:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Querying Databricks Apache Iceberg Tables with the borderless Lakehouse",
-      "link": "https://cloud.google.com/blog/products/data-analytics/querying-databricks-iceberg-tables-with-google-clouds-lakehouse/",
-      "published": "2026-10-29T16:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Grounding agents in one context graph connecting semantic models you already trust",
-      "link": "https://cloud.google.com/blog/products/data-analytics/expanded-semantic-model-support-in-knowledge-catalog/",
-      "published": "2026-10-29T16:00:00+00:00"
     }
   ],
   "devsecops": [
@@ -233,6 +121,13 @@
     {
       "source": "The Hacker News",
       "category": "Threats",
+      "title": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
+      "link": "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html",
+      "published": "2026-11-01T14:21:31+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
       "title": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data",
       "link": "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html",
       "published": "2026-10-31T17:31:56+05:30"
@@ -264,48 +159,6 @@
       "title": "New LF Research Survey Shows Generative AI Cuts Open Source Coding Time in Half, but 25% of Incoming Pull Requests are Considered AI Slop",
       "link": "https://openssf.org/press-release/2026/10/30/new-lf-research-survey-shows-generative-ai-cuts-open-source-coding-time-in-half-but-25-of-incoming-pull-requests-are-considered-ai-slop/",
       "published": "2026-10-30T18:48:15+00:00"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours",
-      "link": "https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html",
-      "published": "2026-10-30T19:38:14+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent SSH Backdoor",
-      "link": "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html",
-      "published": "2026-10-30T14:25:47+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw",
-      "link": "https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html",
-      "published": "2026-10-30T13:15:30+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV",
-      "link": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html",
-      "published": "2026-10-30T12:57:05+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
-      "link": "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
-      "published": "2026-10-30T00:41:58+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
-      "link": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
-      "published": "2026-10-29T21:27:05+05:30"
     }
   ],
   "meetups": [],
