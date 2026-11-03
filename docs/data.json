@@ -1,6 +1,69 @@
 {
-  "generated_at": "2026-11-02T20:37:28.672055+00:00",
+  "generated_at": "2026-11-03T18:13:32.676036+00:00",
   "devops": [
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "How Nammu21 automates syndicated loans on Google Cloud Universal Ledger",
+      "link": "https://cloud.google.com/blog/topics/financial-services/how-nammu21-automates-syndicated-loans-on-google-cloud-universal-ledger/",
+      "published": "2026-11-03T18:00:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Leading in the agentic era: How to put people first as you adopt AI agents",
+      "link": "https://cloud.google.com/blog/topics/consulting/lessons-for-adopting-ai-agents/",
+      "published": "2026-11-03T17:00:00+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Is Google Cloud Kubernetes Engine built-in Observability enough?",
+      "link": "https://www.reddit.com/r/devops/comments/1xmwkvn/is_google_cloud_kubernetes_engine_builtin/",
+      "published": "2026-11-03T15:51:50+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Am I wrong to be turned off by coding examinations in interviews?",
+      "link": "https://www.reddit.com/r/devops/comments/1xmsxbb/am_i_wrong_to_be_turned_off_by_coding/",
+      "published": "2026-11-03T13:28:35+00:00"
+    },
+    {
+      "source": "CNCF Blog",
+      "category": "Cloud Native",
+      "title": "OpenKruise Agents v0.6.0: Leaping ahead in agent Sandbox security and automation",
+      "link": "https://www.cncf.io/blog/2026/11/03/openkruise-agents-v0-6-0-leaping-ahead-in-agent-sandbox-security-and-automation/",
+      "published": "2026-11-03T12:00:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Five rules for evaluating agent skills before they bloat your context window",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/evaluate-agent-skills-before-they-bloat-your-context-window/",
+      "published": "2026-11-03T08:00:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Introducing Physical-Engineering\u2019s Last Exam for agents",
+      "link": "https://cloud.google.com/blog/products/ai-machine-learning/introducing-physical-engineerings-last-exam-for-agents/",
+      "published": "2026-11-03T08:00:00+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "GitHub Actions now supports dependency lockfiles",
+      "link": "https://www.reddit.com/r/devops/comments/1xmlv6c/github_actions_now_supports_dependency_lockfiles/",
+      "published": "2026-11-03T06:41:28+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Which YouTube channels actually help with platform/infra work?",
+      "link": "https://www.reddit.com/r/devops/comments/1xmjgwk/which_youtube_channels_actually_help_with/",
+      "published": "2026-11-03T04:28:51+00:00"
+    },
     {
       "source": "Azure Updates",
       "category": "Cloud",
@@ -51,6 +114,13 @@
       "published": "2026-11-02T18:00:51+00:00"
     },
     {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Google Cloud Developer plugin now available in Antigravity Marketplace",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-developer-plugin-now-available-in-antigravity-marketplace/",
+      "published": "2026-11-02T18:00:00+00:00"
+    },
+    {
       "source": "Azure Updates",
       "category": "Cloud",
       "title": "[Launched] Generally Available: Azure Site Recovery for Azure Local",
@@ -79,11 +149,11 @@
       "published": "2026-11-02T16:45:48+00:00"
     },
     {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "What does one mean by \"projects\" if not homelabs? Are homelabs considered as projects?",
-      "link": "https://www.reddit.com/r/devops/comments/1xly6f1/what_does_one_mean_by_projects_if_not_homelabs/",
-      "published": "2026-11-02T14:09:38+00:00"
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "What Google Cloud announced in AI this month",
+      "link": "https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/",
+      "published": "2026-11-02T16:00:00+00:00"
     },
     {
       "source": "Docker Blog",
@@ -102,13 +172,6 @@
     {
       "source": "Google Cloud Blog",
       "category": "Cloud",
-      "title": "The Rise of LLMJacking: How Threat Actors Monetize Compromised Cloud and Model Resources",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/llmjacking-monetizing-compromised-cloud-models/",
-      "published": "2026-11-02T14:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
       "title": "Shutting the Door on the XCPE Botnet",
       "link": "https://cloud.google.com/blog/topics/threat-intelligence/shutting-the-door-on-the-xcpe-botnet/",
       "published": "2026-11-02T14:00:00+00:00"
@@ -121,16 +184,9 @@
       "published": "2026-11-02T12:37:45+00:00"
     },
     {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Unexpected cloud cost spike. How to handle postmortem?",
-      "link": "https://www.reddit.com/r/devops/comments/1xlvd19/unexpected_cloud_cost_spike_how_to_handle/",
-      "published": "2026-11-02T12:03:37+00:00"
-    },
-    {
       "source": "CNCF Blog",
       "category": "Cloud Native",
-      "title": "The Linkerd Story: The people Behind The Service Mesh \u2014 A new documentary premieres at KubeCon + CloudNativeCon North America 2026",
+      "title": "The Linkerd Story: The People Behind The Service Mesh \u2014 A new documentary premieres at KubeCon + CloudNativeCon North America 2026",
       "link": "https://www.cncf.io/blog/2026/11/02/the-linkerd-story-the-people-behind-the-service-mesh-a-new-documentary-premieres-at-kubecon-cloudnativecon-north-america-2026/",
       "published": "2026-11-02T12:00:00+00:00"
     },
@@ -144,23 +200,9 @@
     {
       "source": "r/devops",
       "category": "Community",
-      "title": "What\u2019s your experience using incident.io for on-call and incident response?",
-      "link": "https://www.reddit.com/r/devops/comments/1xlom45/whats_your_experience_using_incidentio_for_oncall/",
-      "published": "2026-11-02T05:12:53+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
       "title": "How many apps have non-engineers at your company built with Claude/Cursor/Lovable, and who owns them when they break?",
       "link": "https://www.reddit.com/r/devops/comments/1xlhrh8/how_many_apps_have_nonengineers_at_your_company/",
       "published": "2026-11-01T23:29:30+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "AI taking over Devops.",
-      "link": "https://www.reddit.com/r/devops/comments/1xldkq0/ai_taking_over_devops/",
-      "published": "2026-11-01T20:30:42+00:00"
     }
   ],
   "devsecops": [
@@ -229,20 +271,60 @@
       "date_only": true
     },
     {
-      "source": "CISA KEV",
-      "category": "Actively Exploited",
-      "title": "CVE-2026-109618 \u2014 PHP Group PHP: PHP Memory Corruption Vulnerability",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-109618",
-      "published": "2026-10-26T12:00:00+00:00",
-      "date_only": true
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Barracuda Flaws Could Be Chained to Bypass Authorization and Gain Root Access",
+      "link": "https://thehackernews.com/2026/11/barracuda-flaws-could-be-chained-to.html",
+      "published": "2026-11-03T21:29:19+05:30"
     },
     {
-      "source": "CISA KEV",
-      "category": "Actively Exploited",
-      "title": "CVE-2026-109619 \u2014 PHP Group PHP: PHP Stale Internal Request-State Vulnerability",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-109619",
-      "published": "2026-10-26T12:00:00+00:00",
-      "date_only": true
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges",
+      "link": "https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html",
+      "published": "2026-11-03T21:11:53+05:30"
+    },
+    {
+      "source": "OpenSSF",
+      "category": "Supply Chain",
+      "title": "What\u2019s in the SOSS? Podcast #77 \u2013 S3E29 Baking Security into the Toolchain: Accurate Swift SBOMs with Apple\u2019s Ev Cheng and Sam Khouri",
+      "link": "https://openssf.org/podcast/2026/11/03/whats-in-the-soss-podcast-77-s3e29-baking-security-into-the-toolchain-accurate-swift-sboms-with-apples-ev-cheng-and-sam-khouri/",
+      "published": "2026-11-03T14:49:26+00:00"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing",
+      "link": "https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html",
+      "published": "2026-11-03T16:53:53+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw",
+      "link": "https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html",
+      "published": "2026-11-03T13:13:07+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors",
+      "link": "https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html",
+      "published": "2026-11-03T11:04:41+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Attackers Target Unpatched CryptoPayment Gateway Flaw That Can Expose Wallet Credentials",
+      "link": "https://thehackernews.com/2026/11/attackers-target-unpatched.html",
+      "published": "2026-11-03T11:04:37+05:30"
+    },
+    {
+      "source": "Sysdig",
+      "category": "Cloud & Container",
+      "title": "Security briefing: October 2026",
+      "link": "https://webflow.sysdig.com/blog/security-briefing-october-2026",
+      "published": "2026-11-03T00:00:00+00:00"
     },
     {
       "source": "The Hacker News",
@@ -257,13 +339,6 @@
       "title": "Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers",
       "link": "https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html",
       "published": "2026-11-02T17:20:00+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
-      "link": "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html",
-      "published": "2026-11-01T14:21:31+05:30"
     }
   ],
   "meetups": [],
