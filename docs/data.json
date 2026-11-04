@@ -1,26 +1,159 @@
 {
-  "generated_at": "2026-11-03T18:13:32.676036+00:00",
+  "generated_at": "2026-11-04T18:26:24.788793+00:00",
   "devops": [
+    {
+      "source": "Azure Updates",
+      "category": "Cloud",
+      "title": "[In preview] Public Preview: Multi-disk crash-consistent VM restore points for Premium SSD v2 and Ultra Disks on VMs with SCSI disk controller",
+      "link": "https://azure.microsoft.com/updates?id=579162",
+      "published": "2026-11-04T17:13:51+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Helping you build and defend at machine-speed in the agentic era",
+      "link": "https://cloud.google.com/blog/products/identity-security/helping-you-build-and-defend-at-machine-speed-in-the-agentic-era/",
+      "published": "2026-11-04T17:00:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Highlights and reflections from Google Public Sector Summit: Where mission meets moonshot",
+      "link": "https://cloud.google.com/blog/topics/public-sector/highlights-and-reflections-from-google-public-sector-summit-where-mission-meets-moonshot/",
+      "published": "2026-11-04T17:00:00+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Does anyone track how much merged code gets deleted again after a short while?",
+      "link": "https://www.reddit.com/r/devops/comments/1xnsg5x/does_anyone_track_how_much_merged_code_gets/",
+      "published": "2026-11-04T16:21:10+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Introducing Compute Engine API multi-versioning: Predictable evolution without breaking production",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/introducing-compute-engine-api-multi-versioning-predictable-evolution-without-breaking-production/",
+      "published": "2026-11-04T16:00:00+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Tired of high workload and AI",
+      "link": "https://www.reddit.com/r/devops/comments/1xnp2hi/tired_of_high_workload_and_ai/",
+      "published": "2026-11-04T14:06:18+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "AlloyDB Express: Instant, scale-to-zero PostgreSQL for developers and coding agents",
+      "link": "https://cloud.google.com/blog/products/databases/introducing-alloydb-express-for-rapid-testing-and-prototyping/",
+      "published": "2026-11-04T14:00:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "New capabilities to power agents at scale with Google's Agentic Data Cloud",
+      "link": "https://cloud.google.com/blog/products/databases/whats-new-across-googles-agentic-data-cloud/",
+      "published": "2026-11-04T14:00:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Unify operational and Lakehouse data with direct Iceberg access in AlloyDB for PostgreSQL",
+      "link": "https://cloud.google.com/blog/products/databases/direct-iceberg-access-in-alloydb/",
+      "published": "2026-11-04T14:00:00+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "No QA team, incomplete requirements... How would you tackle this? \ud83d\ude02",
+      "link": "https://www.reddit.com/r/devops/comments/1xno9re/no_qa_team_incomplete_requirements_how_would_you/",
+      "published": "2026-11-04T13:31:50+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "What identity is best used for cross-instance work between GitHub Enterprise Server and GitHub cloud?",
+      "link": "https://www.reddit.com/r/devops/comments/1xnnsnb/what_identity_is_best_used_for_crossinstance_work/",
+      "published": "2026-11-04T13:09:33+00:00"
+    },
+    {
+      "source": "CNCF Blog",
+      "category": "Cloud Native",
+      "title": "OpenShell on Kubernetes: A guide for platform engineers",
+      "link": "https://www.cncf.io/blog/2026/11/04/openshell-on-kubernetes-a-guide-for-platform-engineers/",
+      "published": "2026-11-04T12:00:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Chrome Enterprise Premium drives 50%+ projected cost reduction for Mercari",
+      "link": "https://cloud.google.com/blog/products/chrome-enterprise/chrome-enterprise-premium-drives-50-projected-cost-reduction-for-mercari/",
+      "published": "2026-11-04T09:00:00+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Railway's headline uptime went from 97.10% to 100%.",
+      "link": "https://www.reddit.com/r/devops/comments/1xnfgkx/railways_headline_uptime_went_from_9710_to_100/",
+      "published": "2026-11-04T04:57:42+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Teams are shipping LLM features from random pods. How do you even inventory which services call which model APIs?",
+      "link": "https://www.reddit.com/r/devops/comments/1xndmow/teams_are_shipping_llm_features_from_random_pods/",
+      "published": "2026-11-04T03:22:18+00:00"
+    },
+    {
+      "source": "Azure Updates",
+      "category": "Cloud",
+      "title": "[In preview] Public Preview: JWT validation for Application Gateway for Containers",
+      "link": "https://azure.microsoft.com/updates?id=576382",
+      "published": "2026-11-03T21:17:08+00:00"
+    },
+    {
+      "source": "Azure Updates",
+      "category": "Cloud",
+      "title": "[In preview] Public Preview: MCP gateway for Application Gateway for Containers",
+      "link": "https://azure.microsoft.com/updates?id=576388",
+      "published": "2026-11-03T21:16:36+00:00"
+    },
+    {
+      "source": "Azure Updates",
+      "category": "Cloud",
+      "title": "[In preview] Public Preview: Private ingress for Application Gateway for Containers",
+      "link": "https://azure.microsoft.com/updates?id=576393",
+      "published": "2026-11-03T21:15:46+00:00"
+    },
+    {
+      "source": "Azure Updates",
+      "category": "Cloud",
+      "title": "[In preview] Public Preview: Advanced capacity insights are now available in Azure Storage Discovery",
+      "link": "https://azure.microsoft.com/updates?id=578655",
+      "published": "2026-11-03T20:20:29+00:00"
+    },
+    {
+      "source": "Azure Updates",
+      "category": "Cloud",
+      "title": "[In preview] Public Preview: Extend immutability for PITR backups for Azure SQL Database and Azure SQL Managed Instance",
+      "link": "https://azure.microsoft.com/updates?id=579305",
+      "published": "2026-11-03T18:36:12+00:00"
+    },
+    {
+      "source": "Azure Updates",
+      "category": "Cloud",
+      "title": "[Launched] Generally Available: Enhanced Azure Site Recovery support for VMSS Flex",
+      "link": "https://azure.microsoft.com/updates?id=578926",
+      "published": "2026-11-03T18:32:01+00:00"
+    },
     {
       "source": "Google Cloud Blog",
       "category": "Cloud",
       "title": "How Nammu21 automates syndicated loans on Google Cloud Universal Ledger",
       "link": "https://cloud.google.com/blog/topics/financial-services/how-nammu21-automates-syndicated-loans-on-google-cloud-universal-ledger/",
       "published": "2026-11-03T18:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Leading in the agentic era: How to put people first as you adopt AI agents",
-      "link": "https://cloud.google.com/blog/topics/consulting/lessons-for-adopting-ai-agents/",
-      "published": "2026-11-03T17:00:00+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Is Google Cloud Kubernetes Engine built-in Observability enough?",
-      "link": "https://www.reddit.com/r/devops/comments/1xmwkvn/is_google_cloud_kubernetes_engine_builtin/",
-      "published": "2026-11-03T15:51:50+00:00"
     },
     {
       "source": "r/devops",
@@ -37,32 +170,11 @@
       "published": "2026-11-03T12:00:00+00:00"
     },
     {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Five rules for evaluating agent skills before they bloat your context window",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/evaluate-agent-skills-before-they-bloat-your-context-window/",
+      "source": "HashiCorp Blog",
+      "category": "DevOps",
+      "title": "Introducing IBM Cloud Secrets Manager Vault Dedicated: HashiCorp Vault Enterprise, managed by IBM",
+      "link": "https://www.hashicorp.com/blog/introducing-ibm-cloud-secrets-manager-vault-dedicated",
       "published": "2026-11-03T08:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Introducing Physical-Engineering\u2019s Last Exam for agents",
-      "link": "https://cloud.google.com/blog/products/ai-machine-learning/introducing-physical-engineerings-last-exam-for-agents/",
-      "published": "2026-11-03T08:00:00+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "GitHub Actions now supports dependency lockfiles",
-      "link": "https://www.reddit.com/r/devops/comments/1xmlv6c/github_actions_now_supports_dependency_lockfiles/",
-      "published": "2026-11-03T06:41:28+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Which YouTube channels actually help with platform/infra work?",
-      "link": "https://www.reddit.com/r/devops/comments/1xmjgwk/which_youtube_channels_actually_help_with/",
-      "published": "2026-11-03T04:28:51+00:00"
     },
     {
       "source": "Azure Updates",
@@ -70,142 +182,17 @@
       "title": "[In preview] Public Preview: On-prem NAS share discovery and assessment are now available using Azure Migrate",
       "link": "https://azure.microsoft.com/updates?id=577975",
       "published": "2026-11-02T19:37:11+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "Retirement: OT security in Microsoft Defender for IoT",
-      "link": "https://azure.microsoft.com/updates?id=576255",
-      "published": "2026-11-02T19:22:28+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "[Launched] Generally Available: Change from virtual network integration to a private endpoint capable network configuration in Azure Database for PostgreSQL flexible server",
-      "link": "https://azure.microsoft.com/updates?id=574541",
-      "published": "2026-11-02T19:20:33+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "Retirement: Azure Fluid Relay",
-      "link": "https://azure.microsoft.com/updates?id=570498",
-      "published": "2026-11-02T19:01:41+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "[Launched] Generally Available: Azure Storage Actions adds automatic task updates, execution controls, and case-sensitive matching",
-      "link": "https://azure.microsoft.com/updates?id=578628",
-      "published": "2026-11-02T18:34:01+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "[Launched] Generally Available: Restart databases in Azure SQL DB via the Azure portal",
-      "link": "https://azure.microsoft.com/updates?id=577992",
-      "published": "2026-11-02T18:02:48+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "[Launched] Generally Available: Geo-Replication on partitioned namespaces for Azure Service Bus Premium",
-      "link": "https://azure.microsoft.com/updates?id=579021",
-      "published": "2026-11-02T18:00:51+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Google Cloud Developer plugin now available in Antigravity Marketplace",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-developer-plugin-now-available-in-antigravity-marketplace/",
-      "published": "2026-11-02T18:00:00+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "[Launched] Generally Available: Azure Site Recovery for Azure Local",
-      "link": "https://azure.microsoft.com/updates?id=579111",
-      "published": "2026-11-02T17:49:48+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "OpenObserve vs Stack Grafana",
-      "link": "https://www.reddit.com/r/devops/comments/1xm3ts3/openobserve_vs_stack_grafana/",
-      "published": "2026-11-02T17:39:32+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Beyond Migration: Using Database Migration Service for disk shrinking",
-      "link": "https://cloud.google.com/blog/products/databases/use-dms-to-shrink-cloud-sql-for-sql-server-disk/",
-      "published": "2026-11-02T17:00:00+00:00"
-    },
-    {
-      "source": "AWS Blog",
-      "category": "Cloud",
-      "title": "AWS Weekly Roundup: GPT-6.1 Terra on Bedrock, Step Functions as agent tools, and more (November 2, 2026)",
-      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-gpt-6-1-terra-on-bedrock-step-functions-as-agent-tools-and-more-november-2-2026/",
-      "published": "2026-11-02T16:45:48+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "What Google Cloud announced in AI this month",
-      "link": "https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/",
-      "published": "2026-11-02T16:00:00+00:00"
-    },
-    {
-      "source": "Docker Blog",
-      "category": "Cloud Native",
-      "title": "The Ecosystem is the Answer: Docker, the Blueprint Alliance, and the Importance of Collaboration in the Agentic Era",
-      "link": "https://www.docker.com/blog/docker-blueprint-alliance-agent-baseline/",
-      "published": "2026-11-02T14:00:00+00:00"
-    },
-    {
-      "source": "Docker Blog",
-      "category": "Cloud Native",
-      "title": "Where should your code live in a Docker Sandbox?",
-      "link": "https://www.docker.com/blog/docker-sandbox-code-checkout-workflows/",
-      "published": "2026-11-02T14:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Shutting the Door on the XCPE Botnet",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/shutting-the-door-on-the-xcpe-botnet/",
-      "published": "2026-11-02T14:00:00+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Like to improve my networking knowledge",
-      "link": "https://www.reddit.com/r/devops/comments/1xlw1rn/like_to_improve_my_networking_knowledge/",
-      "published": "2026-11-02T12:37:45+00:00"
-    },
-    {
-      "source": "CNCF Blog",
-      "category": "Cloud Native",
-      "title": "The Linkerd Story: The People Behind The Service Mesh \u2014 A new documentary premieres at KubeCon + CloudNativeCon North America 2026",
-      "link": "https://www.cncf.io/blog/2026/11/02/the-linkerd-story-the-people-behind-the-service-mesh-a-new-documentary-premieres-at-kubecon-cloudnativecon-north-america-2026/",
-      "published": "2026-11-02T12:00:00+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Weekly Self Promotion Thread",
-      "link": "https://www.reddit.com/r/devops/comments/1xlqwcb/weekly_self_promotion_thread/",
-      "published": "2026-11-02T07:30:14+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "How many apps have non-engineers at your company built with Claude/Cursor/Lovable, and who owns them when they break?",
-      "link": "https://www.reddit.com/r/devops/comments/1xlhrh8/how_many_apps_have_nonengineers_at_your_company/",
-      "published": "2026-11-01T23:29:30+00:00"
     }
   ],
   "devsecops": [
+    {
+      "source": "CISA KEV",
+      "category": "Actively Exploited",
+      "title": "CVE-2026-119977 \u2014 WordPress WordPress Core: WordPress WordPress Core Time-of-check Time-of-use (TOCTOU) Race Condition Vulnerability",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-119977",
+      "published": "2026-11-03T12:00:00+00:00",
+      "date_only": true
+    },
     {
       "source": "CISA KEV",
       "category": "Actively Exploited",
@@ -255,20 +242,67 @@
       "date_only": true
     },
     {
-      "source": "CISA KEV",
-      "category": "Actively Exploited",
-      "title": "CVE-2026-48356 \u2014 Adobe Commerce and Magento: Adobe Commerce and Magento Unrestricted Upload of File with Dangerous Type Vulnerability",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-48356",
-      "published": "2026-10-27T12:00:00+00:00",
-      "date_only": true
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records",
+      "link": "https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html",
+      "published": "2026-11-04T22:30:38+05:30"
     },
     {
-      "source": "CISA KEV",
-      "category": "Actively Exploited",
-      "title": "CVE-2026-111497 \u2014 Google Brotli: Google Brotli Unchecked Return Value Vulnerability",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-111497",
-      "published": "2026-10-27T12:00:00+00:00",
-      "date_only": true
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits",
+      "link": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html",
+      "published": "2026-11-04T19:57:52+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory",
+      "link": "https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html",
+      "published": "2026-11-04T17:16:27+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction",
+      "link": "https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html",
+      "published": "2026-11-04T13:16:15+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades",
+      "link": "https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html",
+      "published": "2026-11-04T11:13:11+05:30"
+    },
+    {
+      "source": "Snyk",
+      "category": "AppSec",
+      "title": "Snyk Named a Leader in The Forrester Wave\u2122: Agentic Development Security Tools, Q4 2026",
+      "link": "https://snyk.io/blog/snyk-named-leader-forrester-wave-agentic-development-security-tools-q4-2026/",
+      "published": "2026-11-04T04:00:00+00:00"
+    },
+    {
+      "source": "Sysdig",
+      "category": "Cloud & Container",
+      "title": "What one organization revealed about AI agent risk",
+      "link": "https://webflow.sysdig.com/blog/a-first-look-under-the-hood-of-ai-agents",
+      "published": "2026-11-04T00:00:00+00:00"
+    },
+    {
+      "source": "Sysdig",
+      "category": "Cloud & Container",
+      "title": "Introducing Sysdig AI Defense: See, stop, and prove what agents do",
+      "link": "https://webflow.sysdig.com/blog/introducing-sysdig-ai-defense",
+      "published": "2026-11-04T00:00:00+00:00"
+    },
+    {
+      "source": "OpenSSF",
+      "category": "Supply Chain",
+      "title": "The PHP Security Wake-Up Call: Fixes Are Only the Beginning",
+      "link": "https://openssf.org/blog/2026/11/03/the-php-security-wake-up-call-fixes-are-only-the-beginning/",
+      "published": "2026-11-03T19:21:35+00:00"
     },
     {
       "source": "The Hacker News",
@@ -313,32 +347,11 @@
       "published": "2026-11-03T11:04:41+05:30"
     },
     {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Attackers Target Unpatched CryptoPayment Gateway Flaw That Can Expose Wallet Credentials",
-      "link": "https://thehackernews.com/2026/11/attackers-target-unpatched.html",
-      "published": "2026-11-03T11:04:37+05:30"
-    },
-    {
       "source": "Sysdig",
       "category": "Cloud & Container",
       "title": "Security briefing: October 2026",
       "link": "https://webflow.sysdig.com/blog/security-briefing-october-2026",
       "published": "2026-11-03T00:00:00+00:00"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment",
-      "link": "https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html",
-      "published": "2026-11-02T20:16:05+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers",
-      "link": "https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html",
-      "published": "2026-11-02T17:20:00+05:30"
     }
   ],
   "meetups": [],
