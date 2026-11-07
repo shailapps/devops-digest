@@ -1,11 +1,74 @@
 {
-  "generated_at": "2026-11-06T17:48:21.159159+00:00",
+  "generated_at": "2026-11-07T16:43:44.479386+00:00",
   "devops": [
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "left my job to run CI on bare metal boxes, 2 months in, not sure if I\u2019m clever or stupid",
+      "link": "https://www.reddit.com/r/devops/comments/1xqa64s/left_my_job_to_run_ci_on_bare_metal_boxes_2/",
+      "published": "2026-11-07T16:17:39+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "How to enable SSH clone on self hosted GitLab running in a private subnet behind an AWS ALB?",
+      "link": "https://www.reddit.com/r/devops/comments/1xq5aof/how_to_enable_ssh_clone_on_self_hosted_gitlab/",
+      "published": "2026-11-07T12:32:32+00:00"
+    },
+    {
+      "source": "CNCF Blog",
+      "category": "Cloud Native",
+      "title": "We organized Sustainability Month. Here\u2019s what we learned. \ud83c\udf31",
+      "link": "https://www.cncf.io/blog/2026/11/07/we-organized-sustainability-month-heres-what-we-learned-%f0%9f%8c%b1/",
+      "published": "2026-11-07T12:30:00+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Is committing config-only .env files (no secrets) to a private repo really a security sin?",
+      "link": "https://www.reddit.com/r/devops/comments/1xq4acv/is_committing_configonly_env_files_no_secrets_to/",
+      "published": "2026-11-07T11:33:38+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "how much money are you wasting on gpus doing nothing?",
+      "link": "https://www.reddit.com/r/devops/comments/1xq3vkb/how_much_money_are_you_wasting_on_gpus_doing/",
+      "published": "2026-11-07T11:07:26+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Across the whole DevOps stack (Pipelines, Terraform, K8s, Docker, Ansible), how much do you actually write by hand vs prompting or using templates?",
+      "link": "https://www.reddit.com/r/devops/comments/1xq3jjl/across_the_whole_devops_stack_pipelines_terraform/",
+      "published": "2026-11-07T10:46:10+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Is anyone still using railway after the breach?",
+      "link": "https://www.reddit.com/r/devops/comments/1xpubc0/is_anyone_still_using_railway_after_the_breach/",
+      "published": "2026-11-07T01:44:51+00:00"
+    },
+    {
+      "source": "AWS DevOps Blog",
+      "category": "DevOps",
+      "title": "Your Guide to the Developer Tools Track at AWS re:Invent 2026",
+      "link": "https://aws.amazon.com/blogs/devops/your-guide-to-the-developer-tools-track-at-aws-reinvent-2026/",
+      "published": "2026-11-06T18:20:09+00:00"
+    },
+    {
+      "source": "AWS DevOps Blog",
+      "category": "DevOps",
+      "title": "Run Maestro tests on real Android devices using AWS Device Farm",
+      "link": "https://aws.amazon.com/blogs/devops/run-maestro-tests-on-real-android-devices-using-aws-device-farm/",
+      "published": "2026-11-06T18:13:33+00:00"
+    },
     {
       "source": "Google Cloud Blog",
       "category": "Cloud",
-      "title": "The Blueprint: Orchestrating 5,000+ AI assets for a World Cup TV spot",
-      "link": "https://cloud.google.com/blog/products/media-entertainment/how-mito-orchestrated-5000-plus-ai-assets-for-a-world-cup-tv-spot/",
+      "title": "What\u2019s new with Google Cloud",
+      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
       "published": "2026-11-06T17:00:00+00:00"
     },
     {
@@ -16,25 +79,18 @@
       "published": "2026-11-06T17:00:00+00:00"
     },
     {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "The Blueprint: Orchestrating 5,000+ AI assets for a World Cup TV spot",
+      "link": "https://cloud.google.com/blog/products/media-entertainment/how-mito-orchestrated-5000-plus-ai-assets-for-a-world-cup-tv-spot/",
+      "published": "2026-11-06T17:00:00+00:00"
+    },
+    {
       "source": "r/devops",
       "category": "Community",
       "title": "Is GHA + ArgoCD still the default CD standard or are you using something else?",
       "link": "https://www.reddit.com/r/devops/comments/1xpf9nt/is_gha_argocd_still_the_default_cd_standard_or/",
       "published": "2026-11-06T15:14:49+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "How do you piece together events across services when correlation IDs are missing or inconsistent?",
-      "link": "https://www.reddit.com/r/devops/comments/1xpese4/how_do_you_piece_together_events_across_services/",
-      "published": "2026-11-06T14:55:31+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Grafana: Our latest adventure with canary tokens",
-      "link": "https://www.reddit.com/r/devops/comments/1xpdbnl/grafana_our_latest_adventure_with_canary_tokens/",
-      "published": "2026-11-06T13:52:33+00:00"
     },
     {
       "source": "CNCF Blog",
@@ -49,13 +105,6 @@
       "title": "Zero-shot predictions in Pandas using the new BigQuery Accessor",
       "link": "https://cloud.google.com/blog/products/data-analytics/bigquery-ai-functions-in-pandas/",
       "published": "2026-11-06T08:00:00+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Should I use Nomad for single VM?",
-      "link": "https://www.reddit.com/r/devops/comments/1xp3hw5/should_i_use_nomad_for_single_vm/",
-      "published": "2026-11-06T04:13:16+00:00"
     },
     {
       "source": "Docker Blog",
@@ -77,20 +126,6 @@
       "title": "Bringing conversational analytics to Gemini with Agentic Data Cloud connectors",
       "link": "https://cloud.google.com/blog/products/data-analytics/query-enterprise-data-in-gemini-with-data-cloud-connectors/",
       "published": "2026-11-05T23:00:00+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "How do I make colleagues aware of the risks of giving an LLM agent root access to production?",
-      "link": "https://www.reddit.com/r/devops/comments/1xoukmj/how_do_i_make_colleagues_aware_of_the_risks_of/",
-      "published": "2026-11-05T21:17:30+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Books for Devops",
-      "link": "https://www.reddit.com/r/devops/comments/1xop05n/books_for_devops/",
-      "published": "2026-11-05T17:41:05+00:00"
     },
     {
       "source": "Azure Updates",
@@ -119,72 +154,17 @@
       "title": "Building an agent skill optimizer with AlphaEvolve, Harbor and Gemini 4 Argon",
       "link": "https://cloud.google.com/blog/topics/developers-practitioners/how-to-build-an-agent-skill-optimizer-with-alphaevolve-and-harbor/",
       "published": "2026-11-05T17:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "What\u2019s new with Google Data Cloud",
-      "link": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
-      "published": "2026-11-05T17:00:00+00:00"
-    },
-    {
-      "source": "Docker Blog",
-      "category": "Cloud Native",
-      "title": "Docker and ActiveState Extending Secure Defaults to the Packages Developers Install",
-      "link": "https://www.docker.com/blog/docker-activestate-trusted-content/",
-      "published": "2026-11-05T15:28:22+00:00"
-    },
-    {
-      "source": "Docker Blog",
-      "category": "Cloud Native",
-      "title": "CNCF Score project improved its security posture by joining the Docker-Sponsored Open Source Program",
-      "link": "https://www.docker.com/blog/cncf-score-project-improved-its-security-posture-by-joining-the-docker-sponsored-open-source-program/",
-      "published": "2026-11-05T14:00:00+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "OpenSSH on musl has a problem",
-      "link": "https://www.reddit.com/r/devops/comments/1xoim7b/openssh_on_musl_has_a_problem/",
-      "published": "2026-11-05T13:27:20+00:00"
-    },
-    {
-      "source": "CNCF Blog",
-      "category": "Cloud Native",
-      "title": "kpt v1.0.0 is released",
-      "link": "https://www.cncf.io/blog/2026/11/05/kpt-v1-0-0-is-released/",
-      "published": "2026-11-05T12:00:00+00:00"
-    },
-    {
-      "source": "AWS Blog",
-      "category": "Cloud",
-      "title": "Amazon S3 Tables now offer managed migration of Apache Hive tables to Apache Iceberg",
-      "link": "https://aws.amazon.com/blogs/aws/amazon-s3-tables-now-offer-managed-migration-of-apache-hive-tables-to-apache-iceberg/",
-      "published": "2026-11-04T23:34:52+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "[Launched] Generally Available: Azure Database for PostgreSQL stable REST API version 2026-10-01",
-      "link": "https://azure.microsoft.com/updates?id=579300",
-      "published": "2026-11-04T18:42:12+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "Generally Available: Route maps for Azure Route Server",
-      "link": "https://azure.microsoft.com/updates?id=578966",
-      "published": "2026-11-04T18:39:41+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "[In preview] Public Preview: Azure Firewall IPv6 now supports application rules",
-      "link": "https://azure.microsoft.com/updates?id=579507",
-      "published": "2026-11-04T18:09:43+00:00"
     }
   ],
   "devsecops": [
+    {
+      "source": "CISA KEV",
+      "category": "Actively Exploited",
+      "title": "CVE-2026-19868 \u2014 SonicWall SonicOS SSLVPN: SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-19868",
+      "published": "2026-11-06T12:00:00+00:00",
+      "date_only": true
+    },
     {
       "source": "CISA KEV",
       "category": "Actively Exploited",
@@ -202,20 +182,18 @@
       "date_only": true
     },
     {
-      "source": "CISA KEV",
-      "category": "Actively Exploited",
-      "title": "CVE-2026-118527 \u2014 Ivanti Connect Secure: Ivanti Connect Secure Generation of Predictable Numbers or Identifiers Vulnerability",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-118527",
-      "published": "2026-10-30T12:00:00+00:00",
-      "date_only": true
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Claude Code's \u201cDon't Ask Again\u201d File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
+      "link": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
+      "published": "2026-11-07T12:14:17+05:30"
     },
     {
-      "source": "CISA KEV",
-      "category": "Actively Exploited",
-      "title": "CVE-2026-111357 \u2014 Ivanti Connect Secure: Ivanti Connect Secure Missing Authentication for Critical Function Vulnerability",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-111357",
-      "published": "2026-10-30T12:00:00+00:00",
-      "date_only": true
+      "source": "OpenSSF",
+      "category": "Supply Chain",
+      "title": "OpenSSF Community Day Europe 2026: Driving Systemic Security and Operational Resilience in Open Source",
+      "link": "https://openssf.org/blog/2026/11/06/openssf-community-day-europe-2026-driving-systemic-security-and-operational-resilience-in-open-source/",
+      "published": "2026-11-06T21:40:15+00:00"
     },
     {
       "source": "The Hacker News",
@@ -272,41 +250,6 @@
       "title": "CVE-2026-116472",
       "link": "https://github.com/kubernetes/kubernetes/issues/143852",
       "published": "2026-11-05T17:21:19+00:00"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
-      "link": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
-      "published": "2026-11-05T17:38:54+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful Content",
-      "link": "https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html",
-      "published": "2026-11-05T14:43:28+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution",
-      "link": "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
-      "published": "2026-11-05T12:36:33+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
-      "link": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
-      "published": "2026-11-05T10:47:04+05:30"
-    },
-    {
-      "source": "Sysdig",
-      "category": "Cloud & Container",
-      "title": "Refreshing the 555 Benchmark for Cloud Detection and Response in the AI era",
-      "link": "https://webflow.sysdig.com/blog/refreshing-the-555-benchmark-for-cloud-detection-and-response-in-the-ai-era",
-      "published": "2026-11-05T00:00:00+00:00"
     }
   ],
   "meetups": [],
