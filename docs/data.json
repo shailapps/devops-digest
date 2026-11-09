@@ -1,12 +1,110 @@
 {
-  "generated_at": "2026-11-08T16:54:39.140326+00:00",
+  "generated_at": "2026-11-09T21:16:26.963282+00:00",
   "devops": [
+    {
+      "source": "AWS Blog",
+      "category": "Cloud",
+      "title": "AWS Weekly Roundup: AgentCore Runtime V2, Amazon DynamoDB bulk put items, and more (November 9, 2026)",
+      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-agentcore-runtime-v2-amazon-dynamodb-bulk-put-items-and-more-november-9-2026/",
+      "published": "2026-11-09T17:55:26+00:00"
+    },
+    {
+      "source": "Azure Updates",
+      "category": "Cloud",
+      "title": "[In preview] Public Preview: Modernize Arc-enabled Windows Servers with Azure File Sync",
+      "link": "https://azure.microsoft.com/updates?id=579854",
+      "published": "2026-11-09T17:20:57+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "New survey finds enterprises trapped between legacy software and AI modernization",
+      "link": "https://cloud.google.com/blog/products/ai-machine-learning/new-survey-finds-enterprises-trapped-between-legacy-software-and-ai-modernization/",
+      "published": "2026-11-09T17:00:00+00:00"
+    },
     {
       "source": "r/devops",
       "category": "Community",
-      "title": "bootstrap K3s over SSH in < 27s \ud83d\ude80",
-      "link": "https://www.reddit.com/r/devops/comments/1xr2jp8/bootstrap_k3s_over_ssh_in_27s/",
-      "published": "2026-11-08T16:34:57+00:00"
+      "title": "How do you keep track of tools nobody uses anymore?",
+      "link": "https://www.reddit.com/r/devops/comments/1xrvzy6/how_do_you_keep_track_of_tools_nobody_uses_anymore/",
+      "published": "2026-11-09T16:20:06+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Cloud CISO Perspectives: Our security forecast for 2027",
+      "link": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-our-security-forecast-2027/",
+      "published": "2026-11-09T16:00:00+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "New to AWS: Project-based roadmap for production-ready infra? (Course & tutorial recs?)",
+      "link": "https://www.reddit.com/r/devops/comments/1xrt02l/new_to_aws_projectbased_roadmap_for/",
+      "published": "2026-11-09T14:25:51+00:00"
+    },
+    {
+      "source": "CNCF Blog",
+      "category": "Cloud Native",
+      "title": "New research: Virtual machines remain central to cloud native infrastructure as AI workloads evolve",
+      "link": "https://www.cncf.io/blog/2026/11/09/new-research-virtual-machines-remain-central-to-cloud-native-infrastructure-as-ai-workloads-evolve/",
+      "published": "2026-11-09T14:00:00+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Go vs Python for DevOps: which one is more worth learning?",
+      "link": "https://www.reddit.com/r/devops/comments/1xrryhc/go_vs_python_for_devops_which_one_is_more_worth/",
+      "published": "2026-11-09T13:42:12+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Introducing TPU Sync: Fast KV cache and weight transfer for inference and RL on TPU",
+      "link": "https://cloud.google.com/blog/topics/ai-infrastructure/introducing-tpu-sync-fast-kv-cache-and-weight-transfer-on-tpu/",
+      "published": "2026-11-09T13:00:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Now generally available: GKE dynamic slicing for higher resilience, and efficiency for TPUs",
+      "link": "https://cloud.google.com/blog/products/containers-kubernetes/gke-dynamic-slicing-on-tpus/",
+      "published": "2026-11-09T13:00:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Our newest TPUs: 8tx and 8i Max, built for the agentic era",
+      "link": "https://cloud.google.com/blog/topics/ai-infrastructure/tpu-8tx-and-tpu-8i-max/",
+      "published": "2026-11-09T13:00:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Cloud Pathways, a distributed ML runtime for massive accelerator fleets, now GA",
+      "link": "https://cloud.google.com/blog/topics/ai-infrastructure/cloud-pathways-a-distributed-ml-runtime-is-ga/",
+      "published": "2026-11-09T13:00:00+00:00"
+    },
+    {
+      "source": "CNCF Blog",
+      "category": "Cloud Native",
+      "title": "Run Linux applications in hypervisor-isolated micro-VMs with Hyperlight",
+      "link": "https://www.cncf.io/blog/2026/11/09/run-linux-applications-in-hypervisor-isolated-micro-vms-with-hyperlight/",
+      "published": "2026-11-09T12:00:00+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Weekly Self Promotion Thread",
+      "link": "https://www.reddit.com/r/devops/comments/1xrlgil/weekly_self_promotion_thread/",
+      "published": "2026-11-09T07:30:18+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "KubeCon North America",
+      "link": "https://www.reddit.com/r/devops/comments/1xre2it/kubecon_north_america/",
+      "published": "2026-11-09T00:50:29+00:00"
     },
     {
       "source": "r/devops",
@@ -28,72 +126,41 @@
       "title": "What is VPS provider for production?",
       "link": "https://www.reddit.com/r/devops/comments/1xqs0e8/what_is_vps_provider_for_production/",
       "published": "2026-11-08T06:43:46+00:00"
-    },
-    {
-      "source": "CNCF Blog",
-      "category": "Cloud Native",
-      "title": "We organized Sustainability Month. Here\u2019s what we learned. \ud83c\udf31",
-      "link": "https://www.cncf.io/blog/2026/11/07/we-organized-sustainability-month-heres-what-we-learned-%f0%9f%8c%b1/",
-      "published": "2026-11-07T12:30:00+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Is committing config-only .env files (no secrets) to a private repo really a security sin?",
-      "link": "https://www.reddit.com/r/devops/comments/1xq4acv/is_committing_configonly_env_files_no_secrets_to/",
-      "published": "2026-11-07T11:33:38+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Across the whole DevOps stack (Pipelines, Terraform, K8s, Docker, Ansible), how much do you actually write by hand vs prompting or using templates?",
-      "link": "https://www.reddit.com/r/devops/comments/1xq3jjl/across_the_whole_devops_stack_pipelines_terraform/",
-      "published": "2026-11-07T10:46:10+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Is anyone still using railway after the breach?",
-      "link": "https://www.reddit.com/r/devops/comments/1xpubc0/is_anyone_still_using_railway_after_the_breach/",
-      "published": "2026-11-07T01:44:51+00:00"
-    },
-    {
-      "source": "AWS DevOps Blog",
-      "category": "DevOps",
-      "title": "Your Guide to the Developer Tools Track at AWS re:Invent 2026",
-      "link": "https://aws.amazon.com/blogs/devops/your-guide-to-the-developer-tools-track-at-aws-reinvent-2026/",
-      "published": "2026-11-06T18:20:09+00:00"
-    },
-    {
-      "source": "AWS DevOps Blog",
-      "category": "DevOps",
-      "title": "Run Maestro tests on real Android devices using AWS Device Farm",
-      "link": "https://aws.amazon.com/blogs/devops/run-maestro-tests-on-real-android-devices-using-aws-device-farm/",
-      "published": "2026-11-06T18:13:33+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "What\u2019s new with Google Cloud",
-      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "published": "2026-11-06T17:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Introducing Z4M: storage-optimized compute for AI/ML and parallel file systems",
-      "link": "https://cloud.google.com/blog/products/compute/storage-optimized-z4m-machine-series-are-ga/",
-      "published": "2026-11-06T17:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "The Blueprint: Orchestrating 5,000+ AI assets for a World Cup TV spot",
-      "link": "https://cloud.google.com/blog/products/media-entertainment/how-mito-orchestrated-5000-plus-ai-assets-for-a-world-cup-tv-spot/",
-      "published": "2026-11-06T17:00:00+00:00"
     }
   ],
   "devsecops": [
+    {
+      "source": "CISA KEV",
+      "category": "Actively Exploited",
+      "title": "CVE-2026-102895 \u2014 GPUStack GPUStack: GPUStack Improper Authentication Vulnerability",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-102895",
+      "published": "2026-11-09T12:00:00+00:00",
+      "date_only": true
+    },
+    {
+      "source": "CISA KEV",
+      "category": "Actively Exploited",
+      "title": "CVE-2026-123158 \u2014 OpenBSD OpenSSH: OpenBSD OpenSSH Unexpected Status Code or Return Value Vulnerability",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-123158",
+      "published": "2026-11-09T12:00:00+00:00",
+      "date_only": true
+    },
+    {
+      "source": "CISA KEV",
+      "category": "Actively Exploited",
+      "title": "CVE-2026-116779 \u2014 SignalWire FreeSwitch: SignalWire FreeSwitch Code Injection Vulnerability",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-116779",
+      "published": "2026-11-09T12:00:00+00:00",
+      "date_only": true
+    },
+    {
+      "source": "CISA KEV",
+      "category": "Actively Exploited",
+      "title": "CVE-2026-123218 \u2014 IBM Aspera Faspex: IBM Aspera Faspex Incorrect Authorization Vulnerability",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-123218",
+      "published": "2026-11-09T12:00:00+00:00",
+      "date_only": true
+    },
     {
       "source": "CISA KEV",
       "category": "Actively Exploited",
@@ -121,16 +188,51 @@
     {
       "source": "The Hacker News",
       "category": "Threats",
-      "title": "Claude Code's \u201cDon't Ask Again\u201d File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
-      "link": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
-      "published": "2026-11-07T12:14:17+05:30"
+      "title": "Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html",
+      "published": "2026-11-09T23:21:21+05:30"
     },
     {
       "source": "OpenSSF",
       "category": "Supply Chain",
-      "title": "OpenSSF Community Day Europe 2026: Driving Systemic Security and Operational Resilience in Open Source",
-      "link": "https://openssf.org/blog/2026/11/06/openssf-community-day-europe-2026-driving-systemic-security-and-operational-resilience-in-open-source/",
-      "published": "2026-11-06T21:40:15+00:00"
+      "title": "The AI Security Gap Hiding in Routine Maintenance",
+      "link": "https://openssf.org/blog/2026/11/09/the-ai-security-gap-hiding-in-routine-maintenance/",
+      "published": "2026-11-09T17:42:25+00:00"
+    },
+    {
+      "source": "OpenSSF",
+      "category": "Supply Chain",
+      "title": "OpenSSF Welcomes New Members and Expands AI Security Resources",
+      "link": "https://openssf.org/press-release/2026/11/09/openssf-welcomes-new-members-and-expands-ai-security-resources/",
+      "published": "2026-11-09T15:00:08+00:00"
+    },
+    {
+      "source": "OpenSSF",
+      "category": "Supply Chain",
+      "title": "Announcing Zarf 1.0: Security and Stability for Airgap Software Delivery",
+      "link": "https://openssf.org/blog/2026/11/09/announcing-zarf-1-0-security-and-stability-for-airgap-software-delivery/",
+      "published": "2026-11-09T14:01:14+00:00"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars",
+      "link": "https://thehackernews.com/2026/11/default-adminadmin-server-password.html",
+      "published": "2026-11-09T16:57:53+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation",
+      "link": "https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html",
+      "published": "2026-11-09T11:35:24+05:30"
+    },
+    {
+      "source": "Snyk",
+      "category": "AppSec",
+      "title": "Say Yes To MCP, Safely A Guide For Governing AI Coding Agents With Evo ADS",
+      "link": "https://snyk.io/blog/governing-ai-coding-agents-evo-ads/",
+      "published": "2026-11-09T00:00:00+00:00"
     }
   ],
   "meetups": [],
