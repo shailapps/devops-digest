@@ -1,6 +1,146 @@
 {
-  "generated_at": "2026-11-09T21:16:26.963282+00:00",
+  "generated_at": "2026-11-10T18:28:22.398682+00:00",
   "devops": [
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "llx: a fast, lightweight coding agent in Rust: one 2.8 MB binary, any model, built for the terminal and CI",
+      "link": "https://www.reddit.com/r/devops/comments/1xsubus/llx_a_fast_lightweight_coding_agent_in_rust_one/",
+      "published": "2026-11-10T18:18:24+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "BigQuery measures is now GA, unifying BI metrics and knowledge graphs for AI accuracy",
+      "link": "https://cloud.google.com/blog/products/data-analytics/bigquery-measures-ga-unifying-bi-metrics-and-knowledge-graphs/",
+      "published": "2026-11-10T17:00:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Don't just flag it, fix it: How to run CodeMender in your pull requests",
+      "link": "https://cloud.google.com/blog/products/identity-security/how-to-run-codemender-in-your-pull-requests/",
+      "published": "2026-11-10T17:00:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Inside the Gemini factory: Accelerating partner solutions",
+      "link": "https://cloud.google.com/blog/topics/partners/inside-the-gemini-factory-accelerating-partner-solutions/",
+      "published": "2026-11-10T17:00:00+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Running additional checks after automated code review",
+      "link": "https://www.reddit.com/r/devops/comments/1xsr3pd/running_additional_checks_after_automated_code/",
+      "published": "2026-11-10T16:18:17+00:00"
+    },
+    {
+      "source": "CNCF Blog",
+      "category": "Cloud Native",
+      "title": "CNCF Welcomes Twelve New Members as Organizations Look to Run AI Agents on Open, Sovereign Infrastructure",
+      "link": "https://www.cncf.io/announcements/2026/11/10/cncf-welcomes-twelve-new-members-as-organizations-look-to-run-ai-agents-on-open-sovereign-infrastructure/",
+      "published": "2026-11-10T16:00:00+00:00"
+    },
+    {
+      "source": "CNCF Blog",
+      "category": "Cloud Native",
+      "title": "CNCF Welcomes CoreWeave as a Platinum Member to Further Open Source AI Infrastructure",
+      "link": "https://www.cncf.io/announcements/2026/11/10/cncf-welcomes-coreweave-as-a-platinum-member-to-further-open-source-ai-infrastructure/",
+      "published": "2026-11-10T16:00:00+00:00"
+    },
+    {
+      "source": "CNCF Blog",
+      "category": "Cloud Native",
+      "title": "Open Cluster Management (OCM) becomes a CNCF Incubating Project",
+      "link": "https://www.cncf.io/blog/2026/11/10/open-cluster-management-ocm-becomes-a-cncf-incubating-project/",
+      "published": "2026-11-10T16:00:00+00:00"
+    },
+    {
+      "source": "CNCF Blog",
+      "category": "Cloud Native",
+      "title": "CNCF Welcomes Vultr as a Platinum Member to Advance Open and Sovereign Cloud Infrastructure for AI",
+      "link": "https://www.cncf.io/announcements/2026/11/10/cncf-welcomes-vultr-as-a-platinum-member-to-advance-open-and-sovereign-cloud-infrastructure-for-ai/",
+      "published": "2026-11-10T16:00:00+00:00"
+    },
+    {
+      "source": "CNCF Blog",
+      "category": "Cloud Native",
+      "title": "CNCF and SlashData Report Finds Cloud Native Developers Are More AI-Ready, Global Population Surpasses 21 Million",
+      "link": "https://www.cncf.io/announcements/2026/11/10/cncf-and-slashdata-report-finds-cloud-native-developers-are-more-ai-ready-global-population-surpasses-21-million/",
+      "published": "2026-11-10T16:00:00+00:00"
+    },
+    {
+      "source": "CNCF Blog",
+      "category": "Cloud Native",
+      "title": "CNCF Welcomes Qualcomm Upgrade to Gold Membership to Advance AI Infrastructure Across the Edge-to-Cloud Continuum",
+      "link": "https://www.cncf.io/announcements/2026/11/10/cncf-welcomes-qualcomm-upgrade-to-gold-membership-to-advance-ai-infrastructure-across-the-edge-to-cloud-continuum/",
+      "published": "2026-11-10T16:00:00+00:00"
+    },
+    {
+      "source": "CNCF Blog",
+      "category": "Cloud Native",
+      "title": "Donating KubeRay to CNCF",
+      "link": "https://www.cncf.io/blog/2026/11/10/donating-kuberay-to-cncf/",
+      "published": "2026-11-10T16:00:00+00:00"
+    },
+    {
+      "source": "CNCF Blog",
+      "category": "Cloud Native",
+      "title": "CNCF and SlashData Report Finds Platform Engineering Strategies Are Shaping AI Infrastructure Adoption",
+      "link": "https://www.cncf.io/announcements/2026/11/10/cncf-and-slashdata-report-finds-platform-engineering-strategies-are-shaping-ai-infrastructure-adoption/",
+      "published": "2026-11-10T16:00:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Experimenting with ClusterNetworkPolicy in GKE",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/experimenting-with-clusternetworkpolicy-in-gke/",
+      "published": "2026-11-10T16:00:00+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Future of Devops engineers with IA",
+      "link": "https://www.reddit.com/r/devops/comments/1xsmsbc/future_of_devops_engineers_with_ia/",
+      "published": "2026-11-10T13:23:19+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Introducing Gemini for healthcare",
+      "link": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-healthcare/",
+      "published": "2026-11-10T12:00:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "The Blueprint: How Authentic Brands Group expands creativity with AuthOS",
+      "link": "https://cloud.google.com/blog/topics/retail/the-blueprint-how-authentic-brands-group-expands-creativity-with-authos/",
+      "published": "2026-11-10T12:00:00+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Do I need release branches in this workflow, or another long lived branch?",
+      "link": "https://www.reddit.com/r/devops/comments/1xsacej/do_i_need_release_branches_in_this_workflow_or/",
+      "published": "2026-11-10T01:44:57+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "The open AI-native stack on Kubernetes: From open models to distributed inference and agents",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/the-open-ai-native-stack-on-kubernetes-from-open-models-to-distributed-inference-and-agents/",
+      "published": "2026-11-10T01:00:00+00:00"
+    },
+    {
+      "source": "Azure Updates",
+      "category": "Cloud",
+      "title": "Retirement: Support for .NET 8 and .NET 9 on Static Web Apps is ending November 10, 2026",
+      "link": "https://azure.microsoft.com/updates?id=575106",
+      "published": "2026-11-09T22:50:01+00:00"
+    },
     {
       "source": "AWS Blog",
       "category": "Cloud",
@@ -30,25 +170,11 @@
       "published": "2026-11-09T16:20:06+00:00"
     },
     {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Cloud CISO Perspectives: Our security forecast for 2027",
-      "link": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-our-security-forecast-2027/",
-      "published": "2026-11-09T16:00:00+00:00"
-    },
-    {
       "source": "r/devops",
       "category": "Community",
       "title": "New to AWS: Project-based roadmap for production-ready infra? (Course & tutorial recs?)",
       "link": "https://www.reddit.com/r/devops/comments/1xrt02l/new_to_aws_projectbased_roadmap_for/",
       "published": "2026-11-09T14:25:51+00:00"
-    },
-    {
-      "source": "CNCF Blog",
-      "category": "Cloud Native",
-      "title": "New research: Virtual machines remain central to cloud native infrastructure as AI workloads evolve",
-      "link": "https://www.cncf.io/blog/2026/11/09/new-research-virtual-machines-remain-central-to-cloud-native-infrastructure-as-ai-workloads-evolve/",
-      "published": "2026-11-09T14:00:00+00:00"
     },
     {
       "source": "r/devops",
@@ -58,74 +184,11 @@
       "published": "2026-11-09T13:42:12+00:00"
     },
     {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Introducing TPU Sync: Fast KV cache and weight transfer for inference and RL on TPU",
-      "link": "https://cloud.google.com/blog/topics/ai-infrastructure/introducing-tpu-sync-fast-kv-cache-and-weight-transfer-on-tpu/",
-      "published": "2026-11-09T13:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Now generally available: GKE dynamic slicing for higher resilience, and efficiency for TPUs",
-      "link": "https://cloud.google.com/blog/products/containers-kubernetes/gke-dynamic-slicing-on-tpus/",
-      "published": "2026-11-09T13:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Our newest TPUs: 8tx and 8i Max, built for the agentic era",
-      "link": "https://cloud.google.com/blog/topics/ai-infrastructure/tpu-8tx-and-tpu-8i-max/",
-      "published": "2026-11-09T13:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Cloud Pathways, a distributed ML runtime for massive accelerator fleets, now GA",
-      "link": "https://cloud.google.com/blog/topics/ai-infrastructure/cloud-pathways-a-distributed-ml-runtime-is-ga/",
-      "published": "2026-11-09T13:00:00+00:00"
-    },
-    {
-      "source": "CNCF Blog",
-      "category": "Cloud Native",
-      "title": "Run Linux applications in hypervisor-isolated micro-VMs with Hyperlight",
-      "link": "https://www.cncf.io/blog/2026/11/09/run-linux-applications-in-hypervisor-isolated-micro-vms-with-hyperlight/",
-      "published": "2026-11-09T12:00:00+00:00"
-    },
-    {
       "source": "r/devops",
       "category": "Community",
       "title": "Weekly Self Promotion Thread",
       "link": "https://www.reddit.com/r/devops/comments/1xrlgil/weekly_self_promotion_thread/",
       "published": "2026-11-09T07:30:18+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "KubeCon North America",
-      "link": "https://www.reddit.com/r/devops/comments/1xre2it/kubecon_north_america/",
-      "published": "2026-11-09T00:50:29+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "DB based app for pics",
-      "link": "https://www.reddit.com/r/devops/comments/1xr1vh7/db_based_app_for_pics/",
-      "published": "2026-11-08T16:06:30+00:00"
-    },
-    {
-      "source": "CNCF Blog",
-      "category": "Cloud Native",
-      "title": "Lima v2.3: Native on Windows, VMnet on Linux, and menu TUI",
-      "link": "https://www.cncf.io/blog/2026/11/08/lima-v2-3-native-on-windows-vmnet-on-linux-and-menu-tui/",
-      "published": "2026-11-08T12:30:00+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "What is VPS provider for production?",
-      "link": "https://www.reddit.com/r/devops/comments/1xqs0e8/what_is_vps_provider_for_production/",
-      "published": "2026-11-08T06:43:46+00:00"
     }
   ],
   "devsecops": [
@@ -184,6 +247,76 @@
       "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-119977",
       "published": "2026-11-03T12:00:00+00:00",
       "date_only": true
+    },
+    {
+      "source": "GitHub Security Blog",
+      "category": "Supply Chain",
+      "title": "Git security vulnerabilities announced",
+      "link": "https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/",
+      "published": "2026-11-10T18:00:00+00:00"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor",
+      "link": "https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html",
+      "published": "2026-11-10T21:30:55+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Fireworks AI Breach Widens to Expose Customer Billing Data and Incomplete Model Weights",
+      "link": "https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html",
+      "published": "2026-11-10T21:03:59+05:30"
+    },
+    {
+      "source": "Aqua Security",
+      "category": "Cloud & Container",
+      "title": "Why Does AI Agent Security in Banking Require More Than Alerts?",
+      "link": "https://www.aquasec.com/blog/ai-agent-security-banking-runtime/",
+      "published": "2026-11-10T14:56:52+00:00"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys, No Fix Confirmed",
+      "link": "https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html",
+      "published": "2026-11-10T17:45:31+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities",
+      "link": "https://thehackernews.com/2026/11/apple-patches-imessage-group-chat.html",
+      "published": "2026-11-10T15:46:51+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "SAP Patches Four CVSS 10.0 Flaws, Including Two Enabling Remote Code Execution",
+      "link": "https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html",
+      "published": "2026-11-10T15:32:40+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026",
+      "link": "https://thehackernews.com/2026/11/google-issues-chrome-security-update.html",
+      "published": "2026-11-10T12:22:54+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "N-able Takes N-central Cloud Offline After Researcher Discloses 33 Zero-Days with PoC Exploits",
+      "link": "https://thehackernews.com/2026/11/n-able-takes-hosted-n-central-offline.html",
+      "published": "2026-11-10T12:14:36+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "CISA Warns of Active Exploitation of OpenSSH, GPUStack, FreeSWITCH, and IBM Flaws",
+      "link": "https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html",
+      "published": "2026-11-10T12:01:42+05:30"
     },
     {
       "source": "The Hacker News",
