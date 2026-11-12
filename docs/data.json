@@ -1,12 +1,138 @@
 {
-  "generated_at": "2026-11-11T18:21:21.159690+00:00",
+  "generated_at": "2026-11-12T18:40:44.563968+00:00",
   "devops": [
     {
       "source": "Google Cloud Blog",
       "category": "Cloud",
-      "title": "How lemonflow built real-time agents for EV charging using Gemma and TPUs",
-      "link": "https://cloud.google.com/blog/topics/startups/building-real-time-agents-for-ev-charging-using-gemma-and-tpus/",
-      "published": "2026-11-11T17:00:00+00:00"
+      "title": "Chrome Enterprise brings more protections to healthcare technologies",
+      "link": "https://cloud.google.com/blog/products/chrome-enterprise/chrome-enterprise-brings-more-protections-to-healthcare-technologies/",
+      "published": "2026-11-12T18:55:00+00:00"
+    },
+    {
+      "source": "AWS DevOps Blog",
+      "category": "DevOps",
+      "title": "A coordination framework for formal proof development with Kiro",
+      "link": "https://aws.amazon.com/blogs/devops/a-coordination-framework-for-formal-proof-development-with-kiro/",
+      "published": "2026-11-12T18:31:29+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "How do you stay informed of DevOps and AI current events?",
+      "link": "https://www.reddit.com/r/devops/comments/1xuk8hz/how_do_you_stay_informed_of_devops_and_ai_current/",
+      "published": "2026-11-12T18:16:51+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "User Analytics on an 'open' website?",
+      "link": "https://www.reddit.com/r/devops/comments/1xuimt9/user_analytics_on_an_open_website/",
+      "published": "2026-11-12T17:18:01+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Powering agentic cloud governance: What's new in Organization Policy",
+      "link": "https://cloud.google.com/blog/products/identity-security/ai-powered-cloud-governance-whats-new-in-organization-policy/",
+      "published": "2026-11-12T17:00:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Autonomous defense at cloud speed with SentinelOne and Google Security Operations",
+      "link": "https://cloud.google.com/blog/topics/partners/autonomous-defense-at-cloud-speed-with-sentinelone-and-google-security-operations/",
+      "published": "2026-11-12T17:00:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Simplifying last mile cloud connectivity with Lumen and partner Cross-Cloud Interconnect",
+      "link": "https://cloud.google.com/blog/products/networking/partner-cross-cloud-interconnect-for-last-mile-delivered-by-lumen/",
+      "published": "2026-11-12T17:00:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "What\u2019s new with Google Data Cloud",
+      "link": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
+      "published": "2026-11-12T17:00:00+00:00"
+    },
+    {
+      "source": "Azure Updates",
+      "category": "Cloud",
+      "title": "[In preview] Public Preview: SQL performance monitoring for Azure SQL Managed Instance",
+      "link": "https://azure.microsoft.com/updates?id=574158",
+      "published": "2026-11-12T16:59:40+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Cloud Tagging Strategy for Messy AWS and Azure Environments",
+      "link": "https://www.reddit.com/r/devops/comments/1xuhnf3/cloud_tagging_strategy_for_messy_aws_and_azure/",
+      "published": "2026-11-12T16:42:07+00:00"
+    },
+    {
+      "source": "CNCF Blog",
+      "category": "Cloud Native",
+      "title": "CNCF Recognizes Cloud Native Champions in 2026 Community Awards",
+      "link": "https://www.cncf.io/announcements/2026/11/12/cncf-recognizes-cloud-native-champions-in-2026-community-awards/",
+      "published": "2026-11-12T16:00:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Google named the furthest in vision for the Gartner Magic Quadrant for Data Lakehouse Platforms",
+      "link": "https://cloud.google.com/blog/products/data-analytics/google-is-a-leader-in-the-gartner-magic-quadrant-for-data-lakehouse-platforms/",
+      "published": "2026-11-12T16:00:00+00:00"
+    },
+    {
+      "source": "CNCF Blog",
+      "category": "Cloud Native",
+      "title": "Gang scheduling and topology-aware placement for AI training in Kubernetes",
+      "link": "https://www.cncf.io/blog/2026/11/12/gang-scheduling-and-topology-aware-placement-for-ai-training-in-kubernetes/",
+      "published": "2026-11-12T12:00:00+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "what do you actually put behind /health?",
+      "link": "https://www.reddit.com/r/devops/comments/1xu7phc/what_do_you_actually_put_behind_health/",
+      "published": "2026-11-12T08:44:19+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "my 2am rollback story and the GPUStack revision history that actually saved",
+      "link": "https://www.reddit.com/r/devops/comments/1xu4vdn/my_2am_rollback_story_and_the_gpustack_revision/",
+      "published": "2026-11-12T05:51:02+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Best approach to take for designing and implementing a hosting environment for an existing Claude Code generated product",
+      "link": "https://www.reddit.com/r/devops/comments/1xu4vck/best_approach_to_take_for_designing_and/",
+      "published": "2026-11-12T05:50:59+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Can't close Google Payments profile after deleting GCP projects",
+      "link": "https://www.reddit.com/r/devops/comments/1xu3lau/cant_close_google_payments_profile_after_deleting/",
+      "published": "2026-11-12T04:40:09+00:00"
+    },
+    {
+      "source": "AWS Blog",
+      "category": "Cloud",
+      "title": "Test your applications against AWS locally with AWS Emulator",
+      "link": "https://aws.amazon.com/blogs/aws/test-your-applications-against-aws-locally-with-aws-emulator/",
+      "published": "2026-11-11T19:00:44+00:00"
+    },
+    {
+      "source": "Azure Updates",
+      "category": "Cloud",
+      "title": "[In preview] Public Preview: Rate limit grouping for Azure Front Door Premium WAF",
+      "link": "https://azure.microsoft.com/updates?id=580155",
+      "published": "2026-11-11T18:18:27+00:00"
     },
     {
       "source": "Google Cloud Blog",
@@ -58,20 +184,6 @@
       "published": "2026-11-11T12:00:00+00:00"
     },
     {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "How to learn while also completing tasks?",
-      "link": "https://www.reddit.com/r/devops/comments/1xt9f2g/how_to_learn_while_also_completing_tasks/",
-      "published": "2026-11-11T05:22:13+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Need Guidance..",
-      "link": "https://www.reddit.com/r/devops/comments/1xszn5r/need_guidance/",
-      "published": "2026-11-10T21:43:45+00:00"
-    },
-    {
       "source": "Azure Updates",
       "category": "Cloud",
       "title": "[In preview] Public Preview: Distributed accelerator for cloud storage on AKS",
@@ -86,13 +198,6 @@
       "published": "2026-11-10T20:07:45+00:00"
     },
     {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "What\u2019s the one tool in your stack you wish you could throw in the bin?",
-      "link": "https://www.reddit.com/r/devops/comments/1xsvrsd/whats_the_one_tool_in_your_stack_you_wish_you/",
-      "published": "2026-11-10T19:12:18+00:00"
-    },
-    {
       "source": "Azure Updates",
       "category": "Cloud",
       "title": "[In preview] Public Preview: Azure Front Door adds native gRPC support",
@@ -105,97 +210,6 @@
       "title": "[Launched] Generally Available: Azure Front Door edge actions",
       "link": "https://azure.microsoft.com/updates?id=579310",
       "published": "2026-11-10T18:55:09+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "Public Preview: Azure Route Server dual-stack IPv4/IPv6 support",
-      "link": "https://azure.microsoft.com/updates?id=579746",
-      "published": "2026-11-10T18:21:41+00:00"
-    },
-    {
-      "source": "HashiCorp Blog",
-      "category": "DevOps",
-      "title": "From insight to action: improving infrastructure risk posture with Terraform and Concert",
-      "link": "https://www.hashicorp.com/blog/from-insight-to-action-improving-infrastructure-risk-posture-with-terraform-and-c",
-      "published": "2026-11-10T17:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Inside the Gemini factory: Accelerating partner solutions",
-      "link": "https://cloud.google.com/blog/topics/partners/inside-the-gemini-factory-accelerating-partner-solutions/",
-      "published": "2026-11-10T17:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Don't just flag it, fix it: How to run CodeMender in your pull requests",
-      "link": "https://cloud.google.com/blog/products/identity-security/how-to-run-codemender-in-your-pull-requests/",
-      "published": "2026-11-10T17:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "BigQuery measures is now GA: Unifying BI metrics and knowledge graphs for AI accuracy",
-      "link": "https://cloud.google.com/blog/products/data-analytics/bigquery-measures-ga-unifying-bi-metrics-and-knowledge-graphs/",
-      "published": "2026-11-10T17:00:00+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Running additional checks after automated code review",
-      "link": "https://www.reddit.com/r/devops/comments/1xsr3pd/running_additional_checks_after_automated_code/",
-      "published": "2026-11-10T16:18:17+00:00"
-    },
-    {
-      "source": "CNCF Blog",
-      "category": "Cloud Native",
-      "title": "CNCF and SlashData Report Finds Platform Engineering Strategies Are Shaping AI Infrastructure Adoption",
-      "link": "https://www.cncf.io/announcements/2026/11/10/cncf-and-slashdata-report-finds-platform-engineering-strategies-are-shaping-ai-infrastructure-adoption/",
-      "published": "2026-11-10T16:00:00+00:00"
-    },
-    {
-      "source": "CNCF Blog",
-      "category": "Cloud Native",
-      "title": "Donating KubeRay to CNCF",
-      "link": "https://www.cncf.io/blog/2026/11/10/donating-kuberay-to-cncf/",
-      "published": "2026-11-10T16:00:00+00:00"
-    },
-    {
-      "source": "CNCF Blog",
-      "category": "Cloud Native",
-      "title": "CNCF Hits Major Milestones with Global Community Growth, Record Industry Investment and a New Generation of Projects to Build AI Systems in Production",
-      "link": "https://www.cncf.io/announcements/2026/11/10/cncf-hits-major-milestones-with-global-community-growth-record-industry-investment-and-a-new-generation-of-projects-to-build-ai-systems-in-production/",
-      "published": "2026-11-10T16:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Experimenting with ClusterNetworkPolicy in GKE",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/experimenting-with-clusternetworkpolicy-in-gke/",
-      "published": "2026-11-10T16:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Introducing Gemini for healthcare",
-      "link": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-healthcare/",
-      "published": "2026-11-10T12:00:00+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Do I need release branches in this workflow, or another long lived branch?",
-      "link": "https://www.reddit.com/r/devops/comments/1xsacej/do_i_need_release_branches_in_this_workflow_or/",
-      "published": "2026-11-10T01:44:57+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "Retirement: Support for .NET 8 and .NET 9 on Static Web Apps is ending November 10, 2026",
-      "link": "https://azure.microsoft.com/updates?id=575106",
-      "published": "2026-11-09T22:50:01+00:00"
     }
   ],
   "devsecops": [
@@ -288,12 +302,88 @@
       "date_only": true
     },
     {
-      "source": "CISA KEV",
-      "category": "Actively Exploited",
-      "title": "CVE-2024-27834 \u2014 Apple Multiple Products: Apple Multiple Products Improper Authentication Vulnerability",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2024-27834",
-      "published": "2026-11-04T12:00:00+00:00",
-      "date_only": true
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
+      "link": "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html",
+      "published": "2026-11-12T23:37:15+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "New SignDrop Zero-Day Exploit Turns Windows CLFS Security Feature Into SYSTEM Access",
+      "link": "https://thehackernews.com/2026/11/new-signdrop-zero-day-exploit-turns.html",
+      "published": "2026-11-12T23:20:27+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry",
+      "link": "https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html",
+      "published": "2026-11-12T21:57:01+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Citrix Patches 12 NetScaler and Secure Access Client Flaws, Including Authentication Bypass",
+      "link": "https://thehackernews.com/2026/11/citrix-patches-12-netscaler-and-secure.html",
+      "published": "2026-11-12T21:08:49+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "SCKit Malware Turns ScreenConnect Support Sessions Into Potential MSP Attack Paths",
+      "link": "https://thehackernews.com/2026/11/sckit-malware-targets-screenconnect.html",
+      "published": "2026-11-12T18:38:28+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs",
+      "link": "https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html",
+      "published": "2026-11-12T17:39:14+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Calendar Invites and Live Proxies: Inside a Google Session Hijacking Campaign",
+      "link": "https://thehackernews.com/2026/11/calendar-invites-and-live-proxies.html",
+      "published": "2026-11-12T17:21:31+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "PTC Patches Critical Windchill and FlexPLM Flaw That Could Enable Remote Code Execution",
+      "link": "https://thehackernews.com/2026/11/ptc-patches-critical-windchill-and.html",
+      "published": "2026-11-12T17:03:15+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Critical Pre-Auth MongoDB Flaw (CVE-2026-118383) Can Crash Lagging Servers on Failover",
+      "link": "https://thehackernews.com/2026/11/critical-pre-auth-mongodb-flaw-cve-2026.html",
+      "published": "2026-11-12T14:55:00+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Node.js Fixes 16 Flaws, Including HTTP/2 Bugs That Crash Servers and Leak Other Connections' Data",
+      "link": "https://thehackernews.com/2026/11/nodejs-fixes-16-flaws-including-http2.html",
+      "published": "2026-11-12T13:50:37+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Attacker Used 4,837 Hijacked GitHub Accounts to Run a CI Secret Stealer in 1,806+ Repositories",
+      "link": "https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html",
+      "published": "2026-11-12T12:12:47+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely",
+      "link": "https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html",
+      "published": "2026-11-12T10:42:26+05:30"
     },
     {
       "source": "The Hacker News",
@@ -322,69 +412,6 @@
       "title": "Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges",
       "link": "https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html",
       "published": "2026-11-11T13:19:04+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches",
-      "link": "https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html",
-      "published": "2026-11-11T11:34:02+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones",
-      "link": "https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html",
-      "published": "2026-11-11T00:53:10+05:30"
-    },
-    {
-      "source": "GitHub Security Blog",
-      "category": "Supply Chain",
-      "title": "Git security vulnerabilities announced",
-      "link": "https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/",
-      "published": "2026-11-10T18:00:00+00:00"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor",
-      "link": "https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html",
-      "published": "2026-11-10T21:30:55+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Fireworks AI Confirms Wider Breach Affecting Customer Datasets, Model Weights and Notion AI Chats",
-      "link": "https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html",
-      "published": "2026-11-10T21:03:59+05:30"
-    },
-    {
-      "source": "Aqua Security",
-      "category": "Cloud & Container",
-      "title": "Why Does AI Agent Security in Banking Require More Than Alerts?",
-      "link": "https://www.aquasec.com/blog/ai-agent-security-banking-runtime/",
-      "published": "2026-11-10T14:56:52+00:00"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys, No Fix Confirmed",
-      "link": "https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html",
-      "published": "2026-11-10T17:45:31+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities",
-      "link": "https://thehackernews.com/2026/11/apple-patches-imessage-group-chat.html",
-      "published": "2026-11-10T15:46:51+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "SAP Patches Four CVSS 10.0 Flaws, Including Two Enabling Remote Code Execution",
-      "link": "https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html",
-      "published": "2026-11-10T15:32:40+05:30"
     }
   ],
   "meetups": [],
