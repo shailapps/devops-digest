@@ -1,6 +1,76 @@
 {
-  "generated_at": "2026-11-12T18:40:44.563968+00:00",
+  "generated_at": "2026-11-13T18:21:31.062711+00:00",
   "devops": [
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "From OLAP to OLTP: How Copel Simplified Reverse ETL Using BigQuery's Native Export to AlloyDB",
+      "link": "https://cloud.google.com/blog/products/data-analytics/reverse-etl-bigquery-exports-to-alloydb/",
+      "published": "2026-11-13T17:00:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Where supercomputing meets agentic AI: What\u2019s new in Google Cloud HPC and AI at SC26",
+      "link": "https://cloud.google.com/blog/topics/hpc/whats-new-in-hpc-and-ai-at-sc26/",
+      "published": "2026-11-13T17:00:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "What\u2019s new with Google Cloud",
+      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "published": "2026-11-13T17:00:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "New AI agent observability and governance across BigQuery and Looker",
+      "link": "https://cloud.google.com/blog/products/data-analytics/enterprise-ai-agent-observability-with-bigquery-and-looker/",
+      "published": "2026-11-13T17:00:00+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Thoughts on plesk",
+      "link": "https://www.reddit.com/r/devops/comments/1xuyh5l/thoughts_on_plesk/",
+      "published": "2026-11-13T04:32:25+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "What Will Separate Great DevOps Engineers from Average Ones in 2027?",
+      "link": "https://www.reddit.com/r/devops/comments/1xuwffc/what_will_separate_great_devops_engineers_from/",
+      "published": "2026-11-13T02:47:59+00:00"
+    },
+    {
+      "source": "AWS DevOps Blog",
+      "category": "DevOps",
+      "title": "AWS Graviton support for Java in AWS Transform continuous modernization",
+      "link": "https://aws.amazon.com/blogs/devops/aws-graviton-support-for-java-in-aws-transform-continuous-modernization/",
+      "published": "2026-11-13T00:29:31+00:00"
+    },
+    {
+      "source": "Azure Updates",
+      "category": "Cloud",
+      "title": "[In preview] Public Preview: JWT validation with Azure Front Door Auth Policy",
+      "link": "https://azure.microsoft.com/updates?id=577673",
+      "published": "2026-11-12T22:36:37+00:00"
+    },
+    {
+      "source": "Azure Updates",
+      "category": "Cloud",
+      "title": "[Launched] Generally Available: Azure Front Door mutual TLS authentication",
+      "link": "https://azure.microsoft.com/updates?id=577678",
+      "published": "2026-11-12T22:27:35+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Trying to understand how security tooling fits into CI/CD, for a uni case study. Would love your take!",
+      "link": "https://www.reddit.com/r/devops/comments/1xumia4/trying_to_understand_how_security_tooling_fits/",
+      "published": "2026-11-12T19:40:26+00:00"
+    },
     {
       "source": "Google Cloud Blog",
       "category": "Cloud",
@@ -14,6 +84,13 @@
       "title": "A coordination framework for formal proof development with Kiro",
       "link": "https://aws.amazon.com/blogs/devops/a-coordination-framework-for-formal-proof-development-with-kiro/",
       "published": "2026-11-12T18:31:29+00:00"
+    },
+    {
+      "source": "Azure Updates",
+      "category": "Cloud",
+      "title": "[In preview] Public Preview: Auto scaling of ingestion limits in Azure Monitor workspace",
+      "link": "https://azure.microsoft.com/updates?id=578207",
+      "published": "2026-11-12T18:23:52+00:00"
     },
     {
       "source": "r/devops",
@@ -34,13 +111,6 @@
       "category": "Cloud",
       "title": "Powering agentic cloud governance: What's new in Organization Policy",
       "link": "https://cloud.google.com/blog/products/identity-security/ai-powered-cloud-governance-whats-new-in-organization-policy/",
-      "published": "2026-11-12T17:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Autonomous defense at cloud speed with SentinelOne and Google Security Operations",
-      "link": "https://cloud.google.com/blog/topics/partners/autonomous-defense-at-cloud-speed-with-sentinelone-and-google-security-operations/",
       "published": "2026-11-12T17:00:00+00:00"
     },
     {
@@ -79,13 +149,6 @@
       "published": "2026-11-12T16:00:00+00:00"
     },
     {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Google named the furthest in vision for the Gartner Magic Quadrant for Data Lakehouse Platforms",
-      "link": "https://cloud.google.com/blog/products/data-analytics/google-is-a-leader-in-the-gartner-magic-quadrant-for-data-lakehouse-platforms/",
-      "published": "2026-11-12T16:00:00+00:00"
-    },
-    {
       "source": "CNCF Blog",
       "category": "Cloud Native",
       "title": "Gang scheduling and topology-aware placement for AI training in Kubernetes",
@@ -100,119 +163,30 @@
       "published": "2026-11-12T08:44:19+00:00"
     },
     {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "my 2am rollback story and the GPUStack revision history that actually saved",
-      "link": "https://www.reddit.com/r/devops/comments/1xu4vdn/my_2am_rollback_story_and_the_gpustack_revision/",
-      "published": "2026-11-12T05:51:02+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Best approach to take for designing and implementing a hosting environment for an existing Claude Code generated product",
-      "link": "https://www.reddit.com/r/devops/comments/1xu4vck/best_approach_to_take_for_designing_and/",
-      "published": "2026-11-12T05:50:59+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Can't close Google Payments profile after deleting GCP projects",
-      "link": "https://www.reddit.com/r/devops/comments/1xu3lau/cant_close_google_payments_profile_after_deleting/",
-      "published": "2026-11-12T04:40:09+00:00"
-    },
-    {
       "source": "AWS Blog",
       "category": "Cloud",
       "title": "Test your applications against AWS locally with AWS Emulator",
       "link": "https://aws.amazon.com/blogs/aws/test-your-applications-against-aws-locally-with-aws-emulator/",
       "published": "2026-11-11T19:00:44+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "[In preview] Public Preview: Rate limit grouping for Azure Front Door Premium WAF",
-      "link": "https://azure.microsoft.com/updates?id=580155",
-      "published": "2026-11-11T18:18:27+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Introducing new AI functions for AlloyDB: ai.classify and ai.extract",
-      "link": "https://cloud.google.com/blog/products/databases/ai-classify-and-ai-extract-functions-in-alloydb-ai/",
-      "published": "2026-11-11T17:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Don\u2019t just prompt AI \u2014 architect it: Introducing the Professional Agentic Architect Certification",
-      "link": "https://cloud.google.com/blog/topics/training-certifications/google-cloud-agentic-architect-certification-dont-just-prompt-ai-design-it/",
-      "published": "2026-11-11T17:00:00+00:00"
-    },
-    {
-      "source": "CNCF Blog",
-      "category": "Cloud Native",
-      "title": "Introducing CNCF User Groups: Long-lived homes for End User collaboration",
-      "link": "https://www.cncf.io/blog/2026/11/11/introducing-cncf-user-groups-long-lived-homes-for-end-user-collaboration/",
-      "published": "2026-11-11T16:41:17+00:00"
-    },
-    {
-      "source": "CNCF Blog",
-      "category": "Cloud Native",
-      "title": "Meta Wins CNCF End User Case Study Contest for Accelerating AI Infrastructure Deployments From Hours to Minutes",
-      "link": "https://www.cncf.io/announcements/2026/11/11/meta-wins-cncf-end-user-case-study-contest-for-accelerating-ai-infrastructure-deployments-from-hours-to-minutes/",
-      "published": "2026-11-11T16:00:00+00:00"
-    },
-    {
-      "source": "CNCF Blog",
-      "category": "Cloud Native",
-      "title": "CNCF Welcomes Adyen as Platinum End User Member to Advance Open Source Financial Infrastructure",
-      "link": "https://www.cncf.io/announcements/2026/11/11/cncf-welcomes-adyen-as-platinum-end-user-member-to-advance-open-source-financial-infrastructure/",
-      "published": "2026-11-11T16:00:00+00:00"
-    },
-    {
-      "source": "CNCF Blog",
-      "category": "Cloud Native",
-      "title": "OpenShell on Kubernetes: A guide for platform engineers",
-      "link": "https://www.cncf.io/blog/2026/11/11/openshell-on-kubernetes-a-guide-for-platform-engineers/",
-      "published": "2026-11-11T15:50:30+00:00"
-    },
-    {
-      "source": "CNCF Blog",
-      "category": "Cloud Native",
-      "title": "Platform engineering needs to become more human\u2026and less",
-      "link": "https://www.cncf.io/blog/2026/11/11/platform-engineering-needs-to-become-more-humanand-less/",
-      "published": "2026-11-11T12:00:00+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "[In preview] Public Preview: Distributed accelerator for cloud storage on AKS",
-      "link": "https://azure.microsoft.com/updates?id=578454",
-      "published": "2026-11-10T20:08:32+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "[Launched] Generally Available: Azure Functions support for .NET 11",
-      "link": "https://azure.microsoft.com/updates?id=578773",
-      "published": "2026-11-10T20:07:45+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "[In preview] Public Preview: Azure Front Door adds native gRPC support",
-      "link": "https://azure.microsoft.com/updates?id=579383",
-      "published": "2026-11-10T18:55:53+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "[Launched] Generally Available: Azure Front Door edge actions",
-      "link": "https://azure.microsoft.com/updates?id=579310",
-      "published": "2026-11-10T18:55:09+00:00"
     }
   ],
   "devsecops": [
+    {
+      "source": "CISA KEV",
+      "category": "Actively Exploited",
+      "title": "CVE-2026-114713 \u2014 UnrealIRCd UnrealIRCd: UnrealIRCd Improper Neutralization of Delimiters Vulnerability",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-114713",
+      "published": "2026-11-13T12:00:00+00:00",
+      "date_only": true
+    },
+    {
+      "source": "CISA KEV",
+      "category": "Actively Exploited",
+      "title": "CVE-2026-123039 \u2014 Check Point Multiple Products: Check Point Multiple Products Incorrect Permission Assignment for Critical Resource Vulnerability",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-123039",
+      "published": "2026-11-13T12:00:00+00:00",
+      "date_only": true
+    },
     {
       "source": "CISA KEV",
       "category": "Actively Exploited",
@@ -304,6 +278,55 @@
     {
       "source": "The Hacker News",
       "category": "Threats",
+      "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
+      "link": "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html",
+      "published": "2026-11-13T22:23:08+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs",
+      "link": "https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html",
+      "published": "2026-11-13T20:57:05+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls",
+      "link": "https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html",
+      "published": "2026-11-13T19:58:58+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "When an AI Agent Goes Wrong, Can You Stop It?",
+      "link": "https://thehackernews.com/2026/11/when-ai-agent-goes-wrong-can-you-stop-it.html",
+      "published": "2026-11-13T17:22:31+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins",
+      "link": "https://thehackernews.com/2026/11/operation-endgame-takes-down-gootloader.html",
+      "published": "2026-11-13T16:25:03+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html",
+      "published": "2026-11-13T13:35:49+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Hackers Exploit N-central Flaws to Infect 21 Servers, Including 19 Running Hotfix 2",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html",
+      "published": "2026-11-13T11:13:28+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
       "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
       "link": "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html",
       "published": "2026-11-12T23:37:15+05:30"
@@ -384,34 +407,6 @@
       "title": "Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely",
       "link": "https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html",
       "published": "2026-11-12T10:42:26+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation",
-      "link": "https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html",
-      "published": "2026-11-11T21:42:46+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets",
-      "link": "https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html",
-      "published": "2026-11-11T21:04:27+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
-      "link": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
-      "published": "2026-11-11T13:47:53+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges",
-      "link": "https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html",
-      "published": "2026-11-11T13:19:04+05:30"
     }
   ],
   "meetups": [],
