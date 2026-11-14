@@ -1,11 +1,39 @@
 {
-  "generated_at": "2026-11-13T18:21:31.062711+00:00",
+  "generated_at": "2026-11-14T16:50:37.412897+00:00",
   "devops": [
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Do branch preview environments actually make your workflow better?",
+      "link": "https://www.reddit.com/r/devops/comments/1xw5vbq/do_branch_preview_environments_actually_make_your/",
+      "published": "2026-11-14T16:00:26+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "wfx-loot: what the stealer leaves behind after you rotate the GitHub secrets",
+      "link": "https://www.reddit.com/r/devops/comments/1xvx8t2/wfxloot_what_the_stealer_leaves_behind_after_you/",
+      "published": "2026-11-14T08:22:53+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Starting hands-on Linux Admin study group & Discord (No boring slides, just terminal & real-world troubleshooting)",
+      "link": "https://www.reddit.com/r/devops/comments/1xvjftu/starting_handson_linux_admin_study_group_discord/",
+      "published": "2026-11-13T20:54:30+00:00"
+    },
+    {
+      "source": "Azure Updates",
+      "category": "Cloud",
+      "title": "Retirement: Azure Data Share will be retired on November 12, 2029",
+      "link": "https://azure.microsoft.com/updates?id=578818",
+      "published": "2026-11-13T19:54:45+00:00"
+    },
     {
       "source": "Google Cloud Blog",
       "category": "Cloud",
-      "title": "From OLAP to OLTP: How Copel Simplified Reverse ETL Using BigQuery's Native Export to AlloyDB",
-      "link": "https://cloud.google.com/blog/products/data-analytics/reverse-etl-bigquery-exports-to-alloydb/",
+      "title": "New AI agent observability and governance across BigQuery and Looker",
+      "link": "https://cloud.google.com/blog/products/data-analytics/enterprise-ai-agent-observability-with-bigquery-and-looker/",
       "published": "2026-11-13T17:00:00+00:00"
     },
     {
@@ -18,15 +46,15 @@
     {
       "source": "Google Cloud Blog",
       "category": "Cloud",
-      "title": "What\u2019s new with Google Cloud",
-      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "title": "From OLAP to OLTP: How Copel Simplified Reverse ETL Using BigQuery's Native Export to AlloyDB",
+      "link": "https://cloud.google.com/blog/products/data-analytics/reverse-etl-bigquery-exports-to-alloydb/",
       "published": "2026-11-13T17:00:00+00:00"
     },
     {
       "source": "Google Cloud Blog",
       "category": "Cloud",
-      "title": "New AI agent observability and governance across BigQuery and Looker",
-      "link": "https://cloud.google.com/blog/products/data-analytics/enterprise-ai-agent-observability-with-bigquery-and-looker/",
+      "title": "What\u2019s new with Google Cloud",
+      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
       "published": "2026-11-13T17:00:00+00:00"
     },
     {
@@ -65,13 +93,6 @@
       "published": "2026-11-12T22:27:35+00:00"
     },
     {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Trying to understand how security tooling fits into CI/CD, for a uni case study. Would love your take!",
-      "link": "https://www.reddit.com/r/devops/comments/1xumia4/trying_to_understand_how_security_tooling_fits/",
-      "published": "2026-11-12T19:40:26+00:00"
-    },
-    {
       "source": "Google Cloud Blog",
       "category": "Cloud",
       "title": "Chrome Enterprise brings more protections to healthcare technologies",
@@ -100,24 +121,10 @@
       "published": "2026-11-12T18:16:51+00:00"
     },
     {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "User Analytics on an 'open' website?",
-      "link": "https://www.reddit.com/r/devops/comments/1xuimt9/user_analytics_on_an_open_website/",
-      "published": "2026-11-12T17:18:01+00:00"
-    },
-    {
       "source": "Google Cloud Blog",
       "category": "Cloud",
       "title": "Powering agentic cloud governance: What's new in Organization Policy",
       "link": "https://cloud.google.com/blog/products/identity-security/ai-powered-cloud-governance-whats-new-in-organization-policy/",
-      "published": "2026-11-12T17:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Simplifying last mile cloud connectivity with Lumen and partner Cross-Cloud Interconnect",
-      "link": "https://cloud.google.com/blog/products/networking/partner-cross-cloud-interconnect-for-last-mile-delivered-by-lumen/",
       "published": "2026-11-12T17:00:00+00:00"
     },
     {
@@ -128,46 +135,18 @@
       "published": "2026-11-12T17:00:00+00:00"
     },
     {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Autonomous defense at cloud speed with SentinelOne and Google Security Operations",
+      "link": "https://cloud.google.com/blog/topics/partners/autonomous-defense-at-cloud-speed-with-sentinelone-and-google-security-operations/",
+      "published": "2026-11-12T17:00:00+00:00"
+    },
+    {
       "source": "Azure Updates",
       "category": "Cloud",
       "title": "[In preview] Public Preview: SQL performance monitoring for Azure SQL Managed Instance",
       "link": "https://azure.microsoft.com/updates?id=574158",
       "published": "2026-11-12T16:59:40+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Cloud Tagging Strategy for Messy AWS and Azure Environments",
-      "link": "https://www.reddit.com/r/devops/comments/1xuhnf3/cloud_tagging_strategy_for_messy_aws_and_azure/",
-      "published": "2026-11-12T16:42:07+00:00"
-    },
-    {
-      "source": "CNCF Blog",
-      "category": "Cloud Native",
-      "title": "CNCF Recognizes Cloud Native Champions in 2026 Community Awards",
-      "link": "https://www.cncf.io/announcements/2026/11/12/cncf-recognizes-cloud-native-champions-in-2026-community-awards/",
-      "published": "2026-11-12T16:00:00+00:00"
-    },
-    {
-      "source": "CNCF Blog",
-      "category": "Cloud Native",
-      "title": "Gang scheduling and topology-aware placement for AI training in Kubernetes",
-      "link": "https://www.cncf.io/blog/2026/11/12/gang-scheduling-and-topology-aware-placement-for-ai-training-in-kubernetes/",
-      "published": "2026-11-12T12:00:00+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "what do you actually put behind /health?",
-      "link": "https://www.reddit.com/r/devops/comments/1xu7phc/what_do_you_actually_put_behind_health/",
-      "published": "2026-11-12T08:44:19+00:00"
-    },
-    {
-      "source": "AWS Blog",
-      "category": "Cloud",
-      "title": "Test your applications against AWS locally with AWS Emulator",
-      "link": "https://aws.amazon.com/blogs/aws/test-your-applications-against-aws-locally-with-aws-emulator/",
-      "published": "2026-11-11T19:00:44+00:00"
     }
   ],
   "devsecops": [
@@ -268,12 +247,11 @@
       "date_only": true
     },
     {
-      "source": "CISA KEV",
-      "category": "Actively Exploited",
-      "title": "CVE-2026-19868 \u2014 SonicWall SonicOS SSLVPN: SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-19868",
-      "published": "2026-11-06T12:00:00+00:00",
-      "date_only": true
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
+      "link": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
+      "published": "2026-11-14T18:08:35+05:30"
     },
     {
       "source": "The Hacker News",
@@ -325,6 +303,13 @@
       "published": "2026-11-13T11:13:28+05:30"
     },
     {
+      "source": "Sysdig",
+      "category": "Cloud & Container",
+      "title": "HTTPd (CVE-2026-119618): Detecting heap corruption and RCE in Apache HTTP Server mod_http2",
+      "link": "https://webflow.sysdig.com/blog/httpd-cve-2026-119618-detecting-heap-corruption-and-rce-in-apache-http-server-mod-http2",
+      "published": "2026-11-13T00:00:00+00:00"
+    },
+    {
       "source": "The Hacker News",
       "category": "Threats",
       "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
@@ -337,76 +322,6 @@
       "title": "New SignDrop Zero-Day Exploit Turns Windows CLFS Security Feature Into SYSTEM Access",
       "link": "https://thehackernews.com/2026/11/new-signdrop-zero-day-exploit-turns.html",
       "published": "2026-11-12T23:20:27+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry",
-      "link": "https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html",
-      "published": "2026-11-12T21:57:01+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Citrix Patches 12 NetScaler and Secure Access Client Flaws, Including Authentication Bypass",
-      "link": "https://thehackernews.com/2026/11/citrix-patches-12-netscaler-and-secure.html",
-      "published": "2026-11-12T21:08:49+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "SCKit Malware Turns ScreenConnect Support Sessions Into Potential MSP Attack Paths",
-      "link": "https://thehackernews.com/2026/11/sckit-malware-targets-screenconnect.html",
-      "published": "2026-11-12T18:38:28+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs",
-      "link": "https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html",
-      "published": "2026-11-12T17:39:14+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Calendar Invites and Live Proxies: Inside a Google Session Hijacking Campaign",
-      "link": "https://thehackernews.com/2026/11/calendar-invites-and-live-proxies.html",
-      "published": "2026-11-12T17:21:31+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "PTC Patches Critical Windchill and FlexPLM Flaw That Could Enable Remote Code Execution",
-      "link": "https://thehackernews.com/2026/11/ptc-patches-critical-windchill-and.html",
-      "published": "2026-11-12T17:03:15+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Critical Pre-Auth MongoDB Flaw (CVE-2026-118383) Can Crash Lagging Servers on Failover",
-      "link": "https://thehackernews.com/2026/11/critical-pre-auth-mongodb-flaw-cve-2026.html",
-      "published": "2026-11-12T14:55:00+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Node.js Fixes 16 Flaws, Including HTTP/2 Bugs That Crash Servers and Leak Other Connections' Data",
-      "link": "https://thehackernews.com/2026/11/nodejs-fixes-16-flaws-including-http2.html",
-      "published": "2026-11-12T13:50:37+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Attacker Used 4,837 Hijacked GitHub Accounts to Run a CI Secret Stealer in 1,806+ Repositories",
-      "link": "https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html",
-      "published": "2026-11-12T12:12:47+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely",
-      "link": "https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html",
-      "published": "2026-11-12T10:42:26+05:30"
     }
   ],
   "meetups": [],
