@@ -1,26 +1,124 @@
 {
-  "generated_at": "2026-11-15T17:32:52.995909+00:00",
+  "generated_at": "2026-11-16T20:47:35.163396+00:00",
   "devops": [
     {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "My zero-trust Ubuntu dev environment on Windows",
-      "link": "https://www.reddit.com/r/devops/comments/1xx0mu0/my_zerotrust_ubuntu_dev_environment_on_windows/",
-      "published": "2026-11-15T17:02:43+00:00"
+      "source": "AWS DevOps Blog",
+      "category": "DevOps",
+      "title": "How British Airways is accelerating the modernization of its Java services",
+      "link": "https://aws.amazon.com/blogs/devops/how-british-airways-is-accelerating-the-modernization-of-its-java-services/",
+      "published": "2026-11-16T20:16:41+00:00"
     },
     {
       "source": "r/devops",
       "category": "Community",
-      "title": "Metrics, logs and alerts for my 3-node Talos homelab",
-      "link": "https://www.reddit.com/r/devops/comments/1xwtif2/metrics_logs_and_alerts_for_my_3node_talos_homelab/",
-      "published": "2026-11-15T11:45:39+00:00"
+      "title": "What Github repository custom properties do you use?",
+      "link": "https://www.reddit.com/r/devops/comments/1xxyo5j/what_github_repository_custom_properties_do_you/",
+      "published": "2026-11-16T19:29:06+00:00"
+    },
+    {
+      "source": "AWS Blog",
+      "category": "Cloud",
+      "title": "AWS Weekly Roundup: AWS Nitro Sandboxes, AWS Emulator, and more (November 16, 2026)",
+      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-nitro-sandboxes-aws-emulator-and-more-november-16-2026/",
+      "published": "2026-11-16T17:55:46+00:00"
+    },
+    {
+      "source": "AWS DevOps Blog",
+      "category": "DevOps",
+      "title": "A governed AI-driven development lifecycle for financial services with Kiro and AWS Frontier Agents",
+      "link": "https://aws.amazon.com/blogs/devops/a-governed-ai-driven-development-lifecycle-for-financial-services-with-kiro-and-aws-frontier-agents/",
+      "published": "2026-11-16T17:33:13+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Beyond the compute bottleneck: Maximizing the ROI of AI accelerators with purpose-built storage",
+      "link": "https://cloud.google.com/blog/products/storage-data-transfer/maximizing-ai-accelerator-roi-with-purpose-built-storage/",
+      "published": "2026-11-16T17:00:00+00:00"
+    },
+    {
+      "source": "AWS DevOps Blog",
+      "category": "DevOps",
+      "title": "PHP2Shell: Using AWS Transform to move legacy PHP onto a patched runtime",
+      "link": "https://aws.amazon.com/blogs/devops/php2shell-using-aws-transform-to-move-legacy-php-onto-a-patched-runtime/",
+      "published": "2026-11-16T16:09:17+00:00"
+    },
+    {
+      "source": "Docker Blog",
+      "category": "Cloud Native",
+      "title": "Give sandboxed agents live web access with the Firecrawl kit for Docker Sandboxes",
+      "link": "https://www.docker.com/blog/docker-sandboxes-firecrawl-web-access/",
+      "published": "2026-11-16T14:00:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "GTIG AI Threat Tracker: Agentic Threat Activity Crosses a Significant Threshold",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/agentic-threat-activity-crosses-a-significant-threshold/",
+      "published": "2026-11-16T14:00:00+00:00"
     },
     {
       "source": "r/devops",
       "category": "Community",
-      "title": "Go is going I think",
-      "link": "https://www.reddit.com/r/devops/comments/1xwpzg7/go_is_going_i_think/",
-      "published": "2026-11-15T08:04:01+00:00"
+      "title": "Almost 3 years as a Cloud Engineer, is what I do typical?",
+      "link": "https://www.reddit.com/r/devops/comments/1xxley7/almost_3_years_as_a_cloud_engineer_is_what_i_do/",
+      "published": "2026-11-16T09:49:32+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "How do you tell a scheduled job from a real problem when a cost spike starts at night?",
+      "link": "https://www.reddit.com/r/devops/comments/1xxkwdz/how_do_you_tell_a_scheduled_job_from_a_real/",
+      "published": "2026-11-16T09:16:09+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Google is a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Cloud Operational Database Management Systems",
+      "link": "https://cloud.google.com/blog/products/databases/2026-gartner-mq-cloud-operational-databases-management-systems/",
+      "published": "2026-11-16T08:30:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "How ISVs are unlocking European workloads using Google Cloud Dedicated technology",
+      "link": "https://cloud.google.com/blog/products/identity-security/how-isvs-are-unlocking-european-workloads-on-google-cloud-dedicated/",
+      "published": "2026-11-16T08:05:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Inside the new Google Cloud Data Boundary experience",
+      "link": "https://cloud.google.com/blog/products/identity-security/inside-the-new-data-boundary-experience/",
+      "published": "2026-11-16T08:05:00+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Weekly Self Promotion Thread",
+      "link": "https://www.reddit.com/r/devops/comments/1xxj9dr/weekly_self_promotion_thread/",
+      "published": "2026-11-16T07:30:19+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "What tasks is AI bad at?",
+      "link": "https://www.reddit.com/r/devops/comments/1xxhvjc/what_tasks_is_ai_bad_at/",
+      "published": "2026-11-16T06:06:06+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "Platform engineering, DevEx, SRE, how freely can you move between them?",
+      "link": "https://www.reddit.com/r/devops/comments/1xx7dlu/platform_engineering_devex_sre_how_freely_can_you/",
+      "published": "2026-11-15T21:32:02+00:00"
+    },
+    {
+      "source": "r/devops",
+      "category": "Community",
+      "title": "When a vibe coded internal tool ends up with other teams depending on it, do you review it like prod code or let it stay disposable?",
+      "link": "https://www.reddit.com/r/devops/comments/1xx1rr7/when_a_vibe_coded_internal_tool_ends_up_with/",
+      "published": "2026-11-15T17:46:31+00:00"
     },
     {
       "source": "r/devops",
@@ -28,34 +126,6 @@
       "title": "Help me wrap my head around AI (agent?) hosting",
       "link": "https://www.reddit.com/r/devops/comments/1xwfeof/help_me_wrap_my_head_around_ai_agent_hosting/",
       "published": "2026-11-14T22:40:34+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Do branch preview environments actually make your workflow better?",
-      "link": "https://www.reddit.com/r/devops/comments/1xw5vbq/do_branch_preview_environments_actually_make_your/",
-      "published": "2026-11-14T16:00:26+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "wfx-loot: what the stealer leaves behind after you rotate the GitHub secrets",
-      "link": "https://www.reddit.com/r/devops/comments/1xvx8t2/wfxloot_what_the_stealer_leaves_behind_after_you/",
-      "published": "2026-11-14T08:22:53+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Starting hands-on Linux Admin study group & Discord (No boring slides, just terminal & real-world troubleshooting)",
-      "link": "https://www.reddit.com/r/devops/comments/1xvjftu/starting_handson_linux_admin_study_group_discord/",
-      "published": "2026-11-13T20:54:30+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "Retirement: Azure Data Share will be retired on November 12, 2029",
-      "link": "https://azure.microsoft.com/updates?id=578818",
-      "published": "2026-11-13T19:54:45+00:00"
     }
   ],
   "devsecops": [
@@ -156,11 +226,25 @@
       "date_only": true
     },
     {
+      "source": "OpenSSF",
+      "category": "Supply Chain",
+      "title": "Bridges of Prague: Open Source Summit Europe 2026 Recap",
+      "link": "https://openssf.org/blog/2026/11/16/bridges-of-prague-open-source-summit-europe-2026-recap/",
+      "published": "2026-11-16T19:52:21+00:00"
+    },
+    {
       "source": "The Hacker News",
       "category": "Threats",
-      "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
-      "link": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
-      "published": "2026-11-14T18:08:35+05:30"
+      "title": "\u26a1 Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days",
+      "link": "https://thehackernews.com/2026/11/weekly-recap-n-able-0-days-windows-0.html",
+      "published": "2026-11-16T18:57:20+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login",
+      "link": "https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html",
+      "published": "2026-11-16T18:04:21+05:30"
     }
   ],
   "meetups": [],
