@@ -1,6 +1,83 @@
 {
-  "generated_at": "2026-11-16T20:47:35.163396+00:00",
+  "generated_at": "2026-11-17T19:35:31.492313+00:00",
   "devops": [
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Simplifying multicloud networking to Azure with partner Cross-Cloud Interconnect",
+      "link": "https://cloud.google.com/blog/products/networking/cross-cloud-interconnect-for-microsoft-azure/",
+      "published": "2026-11-17T18:35:00+00:00"
+    },
+    {
+      "source": "AWS DevOps Blog",
+      "category": "DevOps",
+      "title": "Secure MCP integrations for AWS DevOps Agent with Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/blogs/devops/secure-mcp-integrations-for-aws-devops-agent-with-amazon-bedrock-agentcore/",
+      "published": "2026-11-17T18:24:37+00:00"
+    },
+    {
+      "source": "AWS DevOps Blog",
+      "category": "DevOps",
+      "title": "Building a gated review pipeline for AI coding agents on AWS",
+      "link": "https://aws.amazon.com/blogs/devops/building-a-gated-review-pipeline-for-ai-coding-agents-on-aws/",
+      "published": "2026-11-17T17:29:01+00:00"
+    },
+    {
+      "source": "AWS Blog",
+      "category": "Cloud",
+      "title": "Four Continents, Four New AWS Heroes: Closing Out 2026",
+      "link": "https://aws.amazon.com/blogs/aws/four-continents-four-new-aws-heroes-closing-out-2026/",
+      "published": "2026-11-17T17:06:43+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Google Cloud is a Leader in the 2026 Gartner Magic Quadrant for AI Application Development Platforms",
+      "link": "https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-is-a-leader-in-the-2026-gartner-magic-quadrant/",
+      "published": "2026-11-17T17:00:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Congratulations to our 2026 Google Cloud Partner All-stars",
+      "link": "https://cloud.google.com/blog/topics/partners/2026-google-cloud-partner-all-stars-winners/",
+      "published": "2026-11-17T17:00:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "The visual evolution of Looker: Modern design for enterprise data storytelling",
+      "link": "https://cloud.google.com/blog/products/business-intelligence/modern-data-visualizations-and-custom-charts-in-looker/",
+      "published": "2026-11-17T17:00:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "COLD RELIC: A Case Study in Impersonation and Compromise",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/cold-relic-a-case-study-in-impersonation-and-compromise/",
+      "published": "2026-11-17T14:00:00+00:00"
+    },
+    {
+      "source": "CNCF Blog",
+      "category": "Cloud Native",
+      "title": "Is your OpenTelemetry pipeline becoming a performance bottleneck?",
+      "link": "https://www.cncf.io/blog/2026/11/17/is-your-opentelemetry-pipeline-becoming-a-performance-bottleneck/",
+      "published": "2026-11-17T12:21:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Building Sovereign AI in Europe, With Europe: Our New Startup Accelerator",
+      "link": "https://cloud.google.com/blog/topics/startups/sovereign-ai-on-your-terms-our-new-startup-accelerator-is-open/",
+      "published": "2026-11-17T08:30:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Sovereign AI in Europe: New ways to control your AI stack",
+      "link": "https://cloud.google.com/blog/products/identity-security/sovereign-ai-on-your-terms-made-with-europe/",
+      "published": "2026-11-17T08:00:00+00:00"
+    },
     {
       "source": "AWS DevOps Blog",
       "category": "DevOps",
@@ -9,11 +86,11 @@
       "published": "2026-11-16T20:16:41+00:00"
     },
     {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "What Github repository custom properties do you use?",
-      "link": "https://www.reddit.com/r/devops/comments/1xxyo5j/what_github_repository_custom_properties_do_you/",
-      "published": "2026-11-16T19:29:06+00:00"
+      "source": "Kubernetes Blog",
+      "category": "Cloud Native",
+      "title": "Scheduling the removal of the kube-proxy IPVS backend",
+      "link": "https://kubernetes.io/blog/2026/11/16/ipvs-removal/",
+      "published": "2026-11-16T10:35:00-08:00"
     },
     {
       "source": "AWS Blog",
@@ -28,6 +105,13 @@
       "title": "A governed AI-driven development lifecycle for financial services with Kiro and AWS Frontier Agents",
       "link": "https://aws.amazon.com/blogs/devops/a-governed-ai-driven-development-lifecycle-for-financial-services-with-kiro-and-aws-frontier-agents/",
       "published": "2026-11-16T17:33:13+00:00"
+    },
+    {
+      "source": "HashiCorp Blog",
+      "category": "DevOps",
+      "title": "HCP introduces IBMid support and new enterprise governance capabilities",
+      "link": "https://www.hashicorp.com/blog/hcp-introduces-ibmid-support-and-new-enterprise-governance-capabilities",
+      "published": "2026-11-16T17:00:00+00:00"
     },
     {
       "source": "Google Cloud Blog",
@@ -49,86 +133,17 @@
       "title": "Give sandboxed agents live web access with the Firecrawl kit for Docker Sandboxes",
       "link": "https://www.docker.com/blog/docker-sandboxes-firecrawl-web-access/",
       "published": "2026-11-16T14:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "GTIG AI Threat Tracker: Agentic Threat Activity Crosses a Significant Threshold",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/agentic-threat-activity-crosses-a-significant-threshold/",
-      "published": "2026-11-16T14:00:00+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Almost 3 years as a Cloud Engineer, is what I do typical?",
-      "link": "https://www.reddit.com/r/devops/comments/1xxley7/almost_3_years_as_a_cloud_engineer_is_what_i_do/",
-      "published": "2026-11-16T09:49:32+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "How do you tell a scheduled job from a real problem when a cost spike starts at night?",
-      "link": "https://www.reddit.com/r/devops/comments/1xxkwdz/how_do_you_tell_a_scheduled_job_from_a_real/",
-      "published": "2026-11-16T09:16:09+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Google is a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Cloud Operational Database Management Systems",
-      "link": "https://cloud.google.com/blog/products/databases/2026-gartner-mq-cloud-operational-databases-management-systems/",
-      "published": "2026-11-16T08:30:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "How ISVs are unlocking European workloads using Google Cloud Dedicated technology",
-      "link": "https://cloud.google.com/blog/products/identity-security/how-isvs-are-unlocking-european-workloads-on-google-cloud-dedicated/",
-      "published": "2026-11-16T08:05:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Inside the new Google Cloud Data Boundary experience",
-      "link": "https://cloud.google.com/blog/products/identity-security/inside-the-new-data-boundary-experience/",
-      "published": "2026-11-16T08:05:00+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Weekly Self Promotion Thread",
-      "link": "https://www.reddit.com/r/devops/comments/1xxj9dr/weekly_self_promotion_thread/",
-      "published": "2026-11-16T07:30:19+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "What tasks is AI bad at?",
-      "link": "https://www.reddit.com/r/devops/comments/1xxhvjc/what_tasks_is_ai_bad_at/",
-      "published": "2026-11-16T06:06:06+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Platform engineering, DevEx, SRE, how freely can you move between them?",
-      "link": "https://www.reddit.com/r/devops/comments/1xx7dlu/platform_engineering_devex_sre_how_freely_can_you/",
-      "published": "2026-11-15T21:32:02+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "When a vibe coded internal tool ends up with other teams depending on it, do you review it like prod code or let it stay disposable?",
-      "link": "https://www.reddit.com/r/devops/comments/1xx1rr7/when_a_vibe_coded_internal_tool_ends_up_with/",
-      "published": "2026-11-15T17:46:31+00:00"
-    },
-    {
-      "source": "r/devops",
-      "category": "Community",
-      "title": "Help me wrap my head around AI (agent?) hosting",
-      "link": "https://www.reddit.com/r/devops/comments/1xwfeof/help_me_wrap_my_head_around_ai_agent_hosting/",
-      "published": "2026-11-14T22:40:34+00:00"
     }
   ],
   "devsecops": [
+    {
+      "source": "CISA KEV",
+      "category": "Actively Exploited",
+      "title": "CVE-2026-115731 \u2014 Perforce Puppet Enterprise: Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerability",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115731",
+      "published": "2026-11-17T12:00:00+00:00",
+      "date_only": true
+    },
     {
       "source": "CISA KEV",
       "category": "Actively Exploited",
@@ -194,36 +209,46 @@
       "date_only": true
     },
     {
-      "source": "CISA KEV",
-      "category": "Actively Exploited",
-      "title": "CVE-2026-102895 \u2014 GPUStack GPUStack: GPUStack Improper Authentication Vulnerability",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-102895",
-      "published": "2026-11-09T12:00:00+00:00",
-      "date_only": true
+      "source": "OpenSSF",
+      "category": "Supply Chain",
+      "title": "Clearer Security Signals: Making Attestations Comprehensible for PyPI Users",
+      "link": "https://openssf.org/blog/2026/11/17/clearer-security-signals-making-attestations-comprehensible-for-pypi-users/",
+      "published": "2026-11-17T19:12:02+00:00"
     },
     {
-      "source": "CISA KEV",
-      "category": "Actively Exploited",
-      "title": "CVE-2026-123158 \u2014 OpenBSD OpenSSH: OpenBSD OpenSSH Unexpected Status Code or Return Value Vulnerability",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-123158",
-      "published": "2026-11-09T12:00:00+00:00",
-      "date_only": true
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges",
+      "link": "https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html",
+      "published": "2026-11-17T20:47:36+05:30"
     },
     {
-      "source": "CISA KEV",
-      "category": "Actively Exploited",
-      "title": "CVE-2026-116779 \u2014 SignalWire FreeSwitch: SignalWire FreeSwitch Code Injection Vulnerability",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-116779",
-      "published": "2026-11-09T12:00:00+00:00",
-      "date_only": true
+      "source": "Aqua Security",
+      "category": "Cloud & Container",
+      "title": "Uncovering GhostMap: The Rootkit Behind Shai-Hulud\u2019s Rusty Cousin",
+      "link": "https://www.aquasec.com/blog/ironworm-ebpf-rootkit-ghostmap-linux/",
+      "published": "2026-11-17T13:40:31+00:00"
     },
     {
-      "source": "CISA KEV",
-      "category": "Actively Exploited",
-      "title": "CVE-2026-123218 \u2014 IBM Aspera Faspex: IBM Aspera Faspex Incorrect Authorization Vulnerability",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-123218",
-      "published": "2026-11-09T12:00:00+00:00",
-      "date_only": true
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
+      "link": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
+      "published": "2026-11-17T17:55:06+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels",
+      "link": "https://thehackernews.com/2026/11/new-gitdoor-and-graphdoor-backdoors.html",
+      "published": "2026-11-17T16:50:18+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy Crypto Miners",
+      "link": "https://thehackernews.com/2026/11/n-able-patches-17-n-central-flaws-as.html",
+      "published": "2026-11-17T10:30:34+05:30"
     },
     {
       "source": "OpenSSF",
@@ -248,5 +273,7 @@
     }
   ],
   "meetups": [],
-  "errors": []
+  "errors": [
+    "r/devops: 404 Client Error: Not Found for url: https://www.reddit.com/r/devops/.rss"
+  ]
 }
