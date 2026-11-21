@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-11-20T18:57:09.089467+00:00",
+  "generated_at": "2026-11-21T17:52:04.626219+00:00",
   "devops": [
+    {
+      "source": "Azure Updates",
+      "category": "Cloud",
+      "title": "[Launched] Generally Available: Governance policy guidance in Foundry Canvas and VS Code",
+      "link": "https://azure.microsoft.com/updates?id=581463",
+      "published": "2026-11-21T00:45:13+00:00"
+    },
+    {
+      "source": "Azure Updates",
+      "category": "Cloud",
+      "title": "[In preview] Public Preview: Microsoft Copilot harness support in Foundry Toolkit for VS Code",
+      "link": "https://azure.microsoft.com/updates?id=581468",
+      "published": "2026-11-21T00:43:13+00:00"
+    },
+    {
+      "source": "Azure Updates",
+      "category": "Cloud",
+      "title": "Retirement: Support for\u202fAzure Functions OpenAI Extension\u202fends on\u202fApril 20, 2027",
+      "link": "https://azure.microsoft.com/updates?id=579952",
+      "published": "2026-11-20T23:16:31+00:00"
+    },
+    {
+      "source": "Azure Updates",
+      "category": "Cloud",
+      "title": "[In preview] Public Preview: Programmed Training in Microsoft Foundry",
+      "link": "https://azure.microsoft.com/updates?id=581713",
+      "published": "2026-11-20T22:58:28+00:00"
+    },
+    {
+      "source": "Azure Updates",
+      "category": "Cloud",
+      "title": "[In preview] Public Preview: Multi-turn evaluation in Microsoft Foundry",
+      "link": "https://azure.microsoft.com/updates?id=581746",
+      "published": "2026-11-20T22:56:51+00:00"
+    },
+    {
+      "source": "Azure Updates",
+      "category": "Cloud",
+      "title": "[In preview] Public Preview: Azure Firewall for Containers",
+      "link": "https://azure.microsoft.com/updates?id=581963",
+      "published": "2026-11-20T20:05:17+00:00"
+    },
     {
       "source": "Google Cloud Blog",
       "category": "Cloud",
@@ -53,8 +95,8 @@
     {
       "source": "Google Cloud Blog",
       "category": "Cloud",
-      "title": "How to simplify cloud access with Unified Access Policies, now in preview",
-      "link": "https://cloud.google.com/blog/products/identity-security/how-to-simplify-cloud-access-with-unified-access-policies/",
+      "title": "Introducing ambient networking for GKE",
+      "link": "https://cloud.google.com/blog/products/networking/ambient-networking-for-gke-sidecarless-service-mesh/",
       "published": "2026-11-20T17:00:00+00:00"
     },
     {
@@ -86,67 +128,11 @@
       "published": "2026-11-20T00:00:14+00:00"
     },
     {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "[Launched] Generally Available: Soft delete in Azure Compute Gallery",
-      "link": "https://azure.microsoft.com/updates?id=581907",
-      "published": "2026-11-19T23:47:55+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "[In preview] Public Preview: PostgreSQL 19 on Azure Database for PostgreSQL",
-      "link": "https://azure.microsoft.com/updates?id=574587",
-      "published": "2026-11-19T23:25:49+00:00"
-    },
-    {
       "source": "AWS DevOps Blog",
       "category": "DevOps",
       "title": "What\u2019s new in AWS Transform \u2013 continuous modernization for re:Invent 2026",
       "link": "https://aws.amazon.com/blogs/devops/whats-new-in-aws-transform-continuous-modernization-for-reinvent-2026/",
       "published": "2026-11-19T23:01:00+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "[In preview] Public Preview: Zone resilience for Azure VMs",
-      "link": "https://azure.microsoft.com/updates?id=581254",
-      "published": "2026-11-19T20:34:19+00:00"
-    },
-    {
-      "source": "Docker Blog",
-      "category": "Cloud Native",
-      "title": "Docker patches Java4Shell and the NGINX HTTP/2 with Docker Hardened Images",
-      "link": "https://www.docker.com/blog/docker-patches-java4shell-and-the-nginx-http-2-with-docker-hardened-images/",
-      "published": "2026-11-19T17:38:08+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "[In preview] Public Preview: Database Agent for Azure Database for PostgreSQL",
-      "link": "https://azure.microsoft.com/updates?id=579579",
-      "published": "2026-11-19T17:25:28+00:00"
-    },
-    {
-      "source": "Docker Blog",
-      "category": "Cloud Native",
-      "title": "Meet the New Docker: Built to Run on Trust",
-      "link": "https://www.docker.com/blog/meet-the-new-docker-built-to-run-on-trust/",
-      "published": "2026-11-19T17:00:00+00:00"
-    },
-    {
-      "source": "AWS DevOps Blog",
-      "category": "DevOps",
-      "title": "Get more from your Kiro investment with credit pooling: A guide for admins",
-      "link": "https://aws.amazon.com/blogs/devops/get-more-from-your-kiro-investment-with-credit-pooling-a-guide-for-admins/",
-      "published": "2026-11-18T23:49:12+00:00"
-    },
-    {
-      "source": "AWS Blog",
-      "category": "Cloud",
-      "title": "AWS Lambda now supports GPU instances for Event Functions on Lambda Managed Instances",
-      "link": "https://aws.amazon.com/blogs/aws/aws-lambda-now-supports-gpu-instances-for-event-functions-on-lambda-managed-instances/",
-      "published": "2026-11-18T19:39:07+00:00"
     }
   ],
   "devsecops": [
@@ -223,20 +209,32 @@
       "date_only": true
     },
     {
-      "source": "CISA KEV",
-      "category": "Actively Exploited",
-      "title": "CVE-2026-114713 \u2014 UnrealIRCd UnrealIRCd: UnrealIRCd Improper Neutralization of Delimiters Vulnerability",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-114713",
-      "published": "2026-11-13T12:00:00+00:00",
-      "date_only": true
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys",
+      "link": "https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html",
+      "published": "2026-11-21T16:35:53+05:30"
     },
     {
-      "source": "CISA KEV",
-      "category": "Actively Exploited",
-      "title": "CVE-2026-123039 \u2014 Check Point Multiple Products: Check Point Multiple Products Incorrect Permission Assignment for Critical Resource Vulnerability",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-123039",
-      "published": "2026-11-13T12:00:00+00:00",
-      "date_only": true
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access",
+      "link": "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html",
+      "published": "2026-11-21T16:33:17+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html",
+      "published": "2026-11-21T14:19:13+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams",
+      "link": "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html",
+      "published": "2026-11-20T23:27:20+05:30"
     },
     {
       "source": "The Hacker News",
@@ -274,6 +272,20 @@
       "published": "2026-11-20T11:00:01+05:30"
     },
     {
+      "source": "Sysdig",
+      "category": "Cloud & Container",
+      "title": "ARTEX, and the offensive tool powered by LLMjacking five months earlier",
+      "link": "https://webflow.sysdig.com/blog/artex-and-the-offensive-tool-powered-by-llmjacking-five-months-earlier",
+      "published": "2026-11-20T00:00:00+00:00"
+    },
+    {
+      "source": "Sysdig",
+      "category": "Cloud & Container",
+      "title": "Who's accountable when the worker is an agent?",
+      "link": "https://webflow.sysdig.com/blog/whos-accountable-when-the-worker-is-an-agent",
+      "published": "2026-11-20T00:00:00+00:00"
+    },
+    {
       "source": "OpenSSF",
       "category": "Supply Chain",
       "title": "What Did The OpenSSF Global Cyber Policy Working Group Learn in Prague at Open Source Summit Europe?",
@@ -286,97 +298,6 @@
       "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
       "link": "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html",
       "published": "2026-11-20T00:17:58+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution",
-      "link": "https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html",
-      "published": "2026-11-19T22:29:56+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
-      "link": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
-      "published": "2026-11-19T20:48:07+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Critical VMware vCenter Zero-Day Flaw Lets Network Attackers Bypass Authentication",
-      "link": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
-      "published": "2026-11-19T20:41:06+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Everything Is a Web Application, Including Your Firewall",
-      "link": "https://thehackernews.com/2026/11/everything-is-web-application-including.html",
-      "published": "2026-11-19T17:22:23+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions",
-      "link": "https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html",
-      "published": "2026-11-19T15:01:26+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Ruby Ships Fixes for 7 Flaws, Including Critical Ruby2Shell, Said to Hit Default Rails Apps Pre-Auth",
-      "link": "https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html",
-      "published": "2026-11-19T14:12:11+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks",
-      "link": "https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html",
-      "published": "2026-11-19T13:30:00+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19",
-      "link": "https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html",
-      "published": "2026-11-19T10:03:46+05:30"
-    },
-    {
-      "source": "Snyk",
-      "category": "AppSec",
-      "title": "Why the Harness Matters: Early Lessons From the Evo Code Scanning Agent Preview",
-      "link": "https://snyk.io/blog/why-harness-matters-evo-code-scanning-agent/",
-      "published": "2026-11-19T04:00:00+00:00"
-    },
-    {
-      "source": "Sysdig",
-      "category": "Cloud & Container",
-      "title": "NGINX2Root: Five RCE bugs in NGINX, a Linux kernel path to root, and how to detect exploitation",
-      "link": "https://webflow.sysdig.com/blog/nginx2root",
-      "published": "2026-11-19T00:00:00+00:00"
-    },
-    {
-      "source": "Sysdig",
-      "category": "Cloud & Container",
-      "title": "Runtime security for Amazon EKS Auto Mode with Sysdig",
-      "link": "https://webflow.sysdig.com/blog/runtime-security-for-amazon-eks-auto-mode",
-      "published": "2026-11-19T00:00:00+00:00"
-    },
-    {
-      "source": "Aqua Security",
-      "category": "Cloud & Container",
-      "title": "NGINX HTTP/2 Vulnerabilities: How to Identify Affected Images and Apply Security Updates",
-      "link": "https://www.aquasec.com/blog/nginx-http2-vulnerabilities-affected-images/",
-      "published": "2026-11-18T23:43:24+00:00"
-    },
-    {
-      "source": "OpenSSF",
-      "category": "Supply Chain",
-      "title": "What\u2019s in the SOSS? Podcast #78 \u2013 S3E30 From Signal Processing to Open Source Security: Sal Kimmich on Linux Kernel Defense",
-      "link": "https://openssf.org/podcast/2026/11/18/whats-in-the-soss-podcast-78-s3e30-from-signal-processing-to-open-source-security-sal-kimmich-on-linux-kernel-defense/",
-      "published": "2026-11-18T19:17:12+00:00"
     }
   ],
   "meetups": [],
