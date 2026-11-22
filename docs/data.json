@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T17:52:04.626219+00:00",
+  "generated_at": "2026-11-22T18:12:14.483313+00:00",
   "devops": [
     {
       "source": "Azure Updates",
@@ -42,97 +42,6 @@
       "title": "[In preview] Public Preview: Azure Firewall for Containers",
       "link": "https://azure.microsoft.com/updates?id=581963",
       "published": "2026-11-20T20:05:17+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Ultimate guide for fixing your team\u2019s API keys",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/how-to-fix-your-teams-api-keys/",
-      "published": "2026-11-20T17:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Drowning in clicks: Scaling Black Friday pipelines with Managed Airflow agents",
-      "link": "https://cloud.google.com/blog/products/data-analytics/scaling-airflow-pipelines-with-ai-agents-on-managed-airflow/",
-      "published": "2026-11-20T17:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Frontier and Center: Why your data agents need a \u201cwind tunnel\u201d",
-      "link": "https://cloud.google.com/blog/products/data-analytics/a-data-simulator-to-test-agents/",
-      "published": "2026-11-20T17:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "DynaPORT modernization on Google Cloud with AlloyDB for PostgreSQL and GKE",
-      "link": "https://cloud.google.com/blog/products/databases/dynaport-modernizes-with-alloydb/",
-      "published": "2026-11-20T17:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "What\u2019s new in Managed Service for Apache Spark 4.0",
-      "link": "https://cloud.google.com/blog/products/data-analytics/whats-new-in-managed-service-for-apache-spark-4-0/",
-      "published": "2026-11-20T17:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "How Spanner Graph detects ads fraud and abuse at Google at multi-billion node scale",
-      "link": "https://cloud.google.com/blog/products/databases/how-spanner-graph-detects-google-ads-fraud-and-abuse/",
-      "published": "2026-11-20T17:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "How Vodafone is using the Data Engineering Agent to improve their data pipelines",
-      "link": "https://cloud.google.com/blog/products/data-analytics/vodafone-cuts-data-pipeline-costs-30-via-data-engineeringagent/",
-      "published": "2026-11-20T17:00:00+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Introducing ambient networking for GKE",
-      "link": "https://cloud.google.com/blog/products/networking/ambient-networking-for-gke-sidecarless-service-mesh/",
-      "published": "2026-11-20T17:00:00+00:00"
-    },
-    {
-      "source": "CNCF Blog",
-      "category": "Cloud Native",
-      "title": "When a sync window closes: How Argo CD self-heal skipped the migration hook",
-      "link": "https://www.cncf.io/blog/2026/11/20/when-a-sync-window-closes-how-argo-cd-self-heal-skipped-the-migration-hook/",
-      "published": "2026-11-20T12:30:00+00:00"
-    },
-    {
-      "source": "AWS DevOps Blog",
-      "category": "DevOps",
-      "title": "Announcing custom execution roles for AWS CloudFormation StackSets",
-      "link": "https://aws.amazon.com/blogs/devops/announcing-custom-execution-roles-for-aws-cloudformation-stacksets/",
-      "published": "2026-11-20T00:46:23+00:00"
-    },
-    {
-      "source": "AWS DevOps Blog",
-      "category": "DevOps",
-      "title": "Track AWS CloudFormation StackSets deployments with progress visibility",
-      "link": "https://aws.amazon.com/blogs/devops/track-aws-cloudformation-stacksets-deployments-with-progress-visibility/",
-      "published": "2026-11-20T00:40:44+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "Announcing: Multiparty private offers in Microsoft Marketplace expands to Malaysia and Saudi Arabia",
-      "link": "https://azure.microsoft.com/updates?id=580700",
-      "published": "2026-11-20T00:00:14+00:00"
-    },
-    {
-      "source": "AWS DevOps Blog",
-      "category": "DevOps",
-      "title": "What\u2019s new in AWS Transform \u2013 continuous modernization for re:Invent 2026",
-      "link": "https://aws.amazon.com/blogs/devops/whats-new-in-aws-transform-continuous-modernization-for-reinvent-2026/",
-      "published": "2026-11-19T23:01:00+00:00"
     }
   ],
   "devsecops": [
@@ -228,76 +137,6 @@
       "title": "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge",
       "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html",
       "published": "2026-11-21T14:19:13+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams",
-      "link": "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html",
-      "published": "2026-11-20T23:27:20+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts",
-      "link": "https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html",
-      "published": "2026-11-20T17:50:00+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "SonicWall Warns Gen 6 Firewalls Won't Get Security Patches, Even for Critical Flaws",
-      "link": "https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html",
-      "published": "2026-11-20T16:08:22+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network",
-      "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html",
-      "published": "2026-11-20T16:02:50+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
-      "link": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html",
-      "published": "2026-11-20T15:08:15+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It",
-      "link": "https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html",
-      "published": "2026-11-20T11:00:01+05:30"
-    },
-    {
-      "source": "Sysdig",
-      "category": "Cloud & Container",
-      "title": "ARTEX, and the offensive tool powered by LLMjacking five months earlier",
-      "link": "https://webflow.sysdig.com/blog/artex-and-the-offensive-tool-powered-by-llmjacking-five-months-earlier",
-      "published": "2026-11-20T00:00:00+00:00"
-    },
-    {
-      "source": "Sysdig",
-      "category": "Cloud & Container",
-      "title": "Who's accountable when the worker is an agent?",
-      "link": "https://webflow.sysdig.com/blog/whos-accountable-when-the-worker-is-an-agent",
-      "published": "2026-11-20T00:00:00+00:00"
-    },
-    {
-      "source": "OpenSSF",
-      "category": "Supply Chain",
-      "title": "What Did The OpenSSF Global Cyber Policy Working Group Learn in Prague at Open Source Summit Europe?",
-      "link": "https://openssf.org/blog/2026/11/19/what-did-the-openssf-global-cyber-policy-working-group-learn-in-prague-at-open-source-summit-europe/",
-      "published": "2026-11-19T21:22:20+00:00"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
-      "link": "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html",
-      "published": "2026-11-20T00:17:58+05:30"
     }
   ],
   "meetups": [],
