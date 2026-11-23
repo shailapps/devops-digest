@@ -1,50 +1,101 @@
 {
-  "generated_at": "2026-11-22T18:12:14.483313+00:00",
+  "generated_at": "2026-11-23T22:26:25.987042+00:00",
   "devops": [
     {
       "source": "Azure Updates",
       "category": "Cloud",
-      "title": "[Launched] Generally Available: Governance policy guidance in Foundry Canvas and VS Code",
-      "link": "https://azure.microsoft.com/updates?id=581463",
-      "published": "2026-11-21T00:45:13+00:00"
+      "title": "[In preview] Public Preview: Enterprise Knowledge Graph in Foundry IQ",
+      "link": "https://azure.microsoft.com/updates?id=581333",
+      "published": "2026-11-23T21:16:32+00:00"
     },
     {
       "source": "Azure Updates",
       "category": "Cloud",
-      "title": "[In preview] Public Preview: Microsoft Copilot harness support in Foundry Toolkit for VS Code",
-      "link": "https://azure.microsoft.com/updates?id=581468",
-      "published": "2026-11-21T00:43:13+00:00"
+      "title": "[In preview] Public Preview: Updated Guardrails experience in Microsoft Foundry",
+      "link": "https://azure.microsoft.com/updates?id=581338",
+      "published": "2026-11-23T21:15:04+00:00"
     },
     {
       "source": "Azure Updates",
       "category": "Cloud",
-      "title": "Retirement: Support for\u202fAzure Functions OpenAI Extension\u202fends on\u202fApril 20, 2027",
-      "link": "https://azure.microsoft.com/updates?id=579952",
-      "published": "2026-11-20T23:16:31+00:00"
+      "title": "[In preview] Public Preview: IQ Retriever Zero in Foundry IQ",
+      "link": "https://azure.microsoft.com/updates?id=581343",
+      "published": "2026-11-23T21:13:44+00:00"
     },
     {
       "source": "Azure Updates",
       "category": "Cloud",
-      "title": "[In preview] Public Preview: Programmed Training in Microsoft Foundry",
-      "link": "https://azure.microsoft.com/updates?id=581713",
-      "published": "2026-11-20T22:58:28+00:00"
+      "title": "[Launched] Public Preview: Style and instruction control for HD V3 voices in Azure Speech in Foundry Tools",
+      "link": "https://azure.microsoft.com/updates?id=581353",
+      "published": "2026-11-23T21:12:25+00:00"
     },
     {
       "source": "Azure Updates",
       "category": "Cloud",
-      "title": "[In preview] Public Preview: Multi-turn evaluation in Microsoft Foundry",
-      "link": "https://azure.microsoft.com/updates?id=581746",
-      "published": "2026-11-20T22:56:51+00:00"
+      "title": "[In preview] Public Preview: Human annotation for agent evaluations in Microsoft Foundry",
+      "link": "https://azure.microsoft.com/updates?id=581358",
+      "published": "2026-11-23T21:11:23+00:00"
     },
     {
       "source": "Azure Updates",
       "category": "Cloud",
-      "title": "[In preview] Public Preview: Azure Firewall for Containers",
-      "link": "https://azure.microsoft.com/updates?id=581963",
-      "published": "2026-11-20T20:05:17+00:00"
+      "title": "[Launched] Generally Available: Agent insights in Microsoft Foundry",
+      "link": "https://azure.microsoft.com/updates?id=581363",
+      "published": "2026-11-23T21:10:07+00:00"
+    },
+    {
+      "source": "Azure Updates",
+      "category": "Cloud",
+      "title": "[Launched] Generally Available: Files knowledge source for Foundry IQ",
+      "link": "https://azure.microsoft.com/updates?id=581368",
+      "published": "2026-11-23T21:08:46+00:00"
+    },
+    {
+      "source": "Azure Updates",
+      "category": "Cloud",
+      "title": "[In preview] Public Preview: Call model router without a deployment in Microsoft Foundry",
+      "link": "https://azure.microsoft.com/updates?id=581378",
+      "published": "2026-11-23T20:32:57+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Data + AI Anywhere: AlloyDB Omni integration with local models",
+      "link": "https://cloud.google.com/blog/products/databases/alloydb-omni-integration-with-local-models/",
+      "published": "2026-11-23T17:00:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "How Sinch modernized its enterprise data warehouse from Snowflake to BigQuery to power AI",
+      "link": "https://cloud.google.com/blog/products/data-analytics/how-sinch-migrated-from-snowflake-to-bigquery-to-power-ai/",
+      "published": "2026-11-23T17:00:00+00:00"
+    },
+    {
+      "source": "Kubernetes Blog",
+      "category": "Cloud Native",
+      "title": "Kubernetes v1.38 Sneak Peek",
+      "link": "https://kubernetes.io/blog/2026/11/23/kubernetes-v1-38-sneak-peek/",
+      "published": "2026-11-23T08:00:00-08:00"
     }
   ],
   "devsecops": [
+    {
+      "source": "CISA KEV",
+      "category": "Actively Exploited",
+      "title": "CVE-2026-133968 \u2014 Project MONAI MONAI Label: Project MONAI MONAI Label Path Traversal Vulnerability",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-133968",
+      "published": "2026-11-23T12:00:00+00:00",
+      "date_only": true
+    },
+    {
+      "source": "CISA KEV",
+      "category": "Actively Exploited",
+      "title": "CVE-2026-134624 \u2014 N-able MailAssure: N-able MailAssure (SpamExperts) Server-Side Request Forgery (SSRF) Vulnerability",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-134624",
+      "published": "2026-11-23T12:00:00+00:00",
+      "date_only": true
+    },
     {
       "source": "CISA KEV",
       "category": "Actively Exploited",
@@ -80,7 +131,7 @@
     {
       "source": "CISA KEV",
       "category": "Actively Exploited",
-      "title": "CVE-2024-10441 \u2014 Synology DiskStation Manager (DSM): Synology DiskStation Manager (DSM) Improper Encoding or Escaping of Output Vulnerability",
+      "title": "CVE-2024-10441 \u2014 Synology DiskStation Manager (DSM): Synology DiskStation Manager (DSM) Improper Encoding or Escaping of Output Vulnerability \u00b7 used in ransomware",
       "link": "https://nvd.nist.gov/vuln/detail/CVE-2024-10441",
       "published": "2026-11-18T12:00:00+00:00",
       "date_only": true
@@ -118,25 +169,46 @@
       "date_only": true
     },
     {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys",
-      "link": "https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html",
-      "published": "2026-11-21T16:35:53+05:30"
+      "source": "Aqua Security",
+      "category": "Cloud & Container",
+      "title": "AI Runtime Security in Kubernetes: How Do You Prove Enforcement Works?",
+      "link": "https://www.aquasec.com/blog/ai-runtime-security-in-kubernetes-how-do-you-prove-enforcement-works/",
+      "published": "2026-11-23T15:06:29+00:00"
     },
     {
       "source": "The Hacker News",
       "category": "Threats",
-      "title": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access",
-      "link": "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html",
-      "published": "2026-11-21T16:33:17+05:30"
+      "title": "Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions",
+      "link": "https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html",
+      "published": "2026-11-23T18:52:20+05:30"
     },
     {
       "source": "The Hacker News",
       "category": "Threats",
-      "title": "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge",
-      "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html",
-      "published": "2026-11-21T14:19:13+05:30"
+      "title": "Hackers Exploit Critical ScreenConnect Flaw to Hijack MSP Technician PCs Without Warning",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-screenconnect.html",
+      "published": "2026-11-23T18:11:04+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "N-able Discloses Critical Mail Assure Vulnerability Found During Breach Investigation",
+      "link": "https://thehackernews.com/2026/11/n-able-discloses-critical-mail-assure.html",
+      "published": "2026-11-23T17:58:09+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html",
+      "published": "2026-11-23T14:41:56+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Hackers Exploited GL.iNet Cloud Flaw to Install Malware on Routers and KVM Devices",
+      "link": "https://thehackernews.com/2026/11/hackers-exploited-glinet-cloud-flaw-to.html",
+      "published": "2026-11-23T14:34:08+05:30"
     }
   ],
   "meetups": [],
