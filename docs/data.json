@@ -1,67 +1,102 @@
 {
-  "generated_at": "2026-11-23T22:26:25.987042+00:00",
+  "generated_at": "2026-11-24T20:59:06.447711+00:00",
   "devops": [
     {
       "source": "Azure Updates",
       "category": "Cloud",
-      "title": "[In preview] Public Preview: Enterprise Knowledge Graph in Foundry IQ",
-      "link": "https://azure.microsoft.com/updates?id=581333",
-      "published": "2026-11-23T21:16:32+00:00"
+      "title": "[Launched] Generally Available: Azure Site Recovery support for zonal disaster recovery for Ultra disks",
+      "link": "https://azure.microsoft.com/updates?id=582171",
+      "published": "2026-11-24T17:48:22+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Built for trust and control: Powering the next wave of AI agents across Google Workspace and Google Cloud",
+      "link": "https://cloud.google.com/blog/products/identity-security/deploying-agents-safely-in-your-enterprise/",
+      "published": "2026-11-24T17:00:00+00:00"
     },
     {
       "source": "Azure Updates",
       "category": "Cloud",
-      "title": "[In preview] Public Preview: Updated Guardrails experience in Microsoft Foundry",
-      "link": "https://azure.microsoft.com/updates?id=581338",
-      "published": "2026-11-23T21:15:04+00:00"
+      "title": "[In preview] Public Preview: Optimize agents from insights in Foundry Agent Service",
+      "link": "https://azure.microsoft.com/updates?id=581483",
+      "published": "2026-11-24T16:52:07+00:00"
     },
     {
       "source": "Azure Updates",
       "category": "Cloud",
-      "title": "[In preview] Public Preview: IQ Retriever Zero in Foundry IQ",
-      "link": "https://azure.microsoft.com/updates?id=581343",
-      "published": "2026-11-23T21:13:44+00:00"
+      "title": "[In preview] Public Preview: Govern MCP tools with your own gateway in Microsoft Foundry Agent Service",
+      "link": "https://azure.microsoft.com/updates?id=581498",
+      "published": "2026-11-24T16:50:47+00:00"
     },
     {
       "source": "Azure Updates",
       "category": "Cloud",
-      "title": "[Launched] Public Preview: Style and instruction control for HD V3 voices in Azure Speech in Foundry Tools",
-      "link": "https://azure.microsoft.com/updates?id=581353",
-      "published": "2026-11-23T21:12:25+00:00"
+      "title": "[Launched] Generally Available: Use Azure Storage permissions in Azure AI Search and Foundry IQ",
+      "link": "https://azure.microsoft.com/updates?id=581303",
+      "published": "2026-11-24T16:49:39+00:00"
     },
     {
       "source": "Azure Updates",
       "category": "Cloud",
-      "title": "[In preview] Public Preview: Human annotation for agent evaluations in Microsoft Foundry",
-      "link": "https://azure.microsoft.com/updates?id=581358",
-      "published": "2026-11-23T21:11:23+00:00"
+      "title": "[In preview] Public Preview: Native A2A passthrough for hosted agents in Foundry Agent Service",
+      "link": "https://azure.microsoft.com/updates?id=581313",
+      "published": "2026-11-24T16:48:25+00:00"
     },
     {
       "source": "Azure Updates",
       "category": "Cloud",
-      "title": "[Launched] Generally Available: Agent insights in Microsoft Foundry",
-      "link": "https://azure.microsoft.com/updates?id=581363",
-      "published": "2026-11-23T21:10:07+00:00"
+      "title": "[In preview] Public Preview: Azure Developer CLI extension for Azure Document Intelligence and Content Understanding in Foundry Tools",
+      "link": "https://azure.microsoft.com/updates?id=581318",
+      "published": "2026-11-24T16:45:59+00:00"
     },
     {
       "source": "Azure Updates",
       "category": "Cloud",
-      "title": "[Launched] Generally Available: Files knowledge source for Foundry IQ",
-      "link": "https://azure.microsoft.com/updates?id=581368",
-      "published": "2026-11-23T21:08:46+00:00"
+      "title": "[In preview] Public Preview: Cost controls for model and agent spending in Microsoft Foundry",
+      "link": "https://azure.microsoft.com/updates?id=581323",
+      "published": "2026-11-24T16:43:40+00:00"
     },
     {
       "source": "Azure Updates",
       "category": "Cloud",
-      "title": "[In preview] Public Preview: Call model router without a deployment in Microsoft Foundry",
-      "link": "https://azure.microsoft.com/updates?id=581378",
-      "published": "2026-11-23T20:32:57+00:00"
+      "title": "[In preview] Public Preview: Central governance of hosted-agent outbound domains in Foundry Agent Service",
+      "link": "https://azure.microsoft.com/updates?id=581328",
+      "published": "2026-11-24T16:42:20+00:00"
+    },
+    {
+      "source": "AWS Blog",
+      "category": "Cloud",
+      "title": "AWS Weekly Roundup: Local Zone in Bogot\u00e1, 30-minute Lambda timeout, and more (November 24, 2026)",
+      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-local-zone-in-bogota-30-minute-lambda-timeout-and-more-november-24-2026/",
+      "published": "2026-11-24T15:39:59+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Enabling zero trust: ALLEN\u2019s move to Chrome Enterprise Premium",
+      "link": "https://cloud.google.com/blog/products/chrome-enterprise/enabling-zero-trust-allens-move-to-chrome-enterprise-premium/",
+      "published": "2026-11-24T15:02:00+00:00"
+    },
+    {
+      "source": "HashiCorp Blog",
+      "category": "DevOps",
+      "title": "Terraform introduces tfpolicy support for Stacks, SCIM support, and more",
+      "link": "https://www.hashicorp.com/blog/terraform-introduces-tfpolicy-support-for-stacks-scim-support-and-more",
+      "published": "2026-11-23T19:00:00+00:00"
     },
     {
       "source": "Google Cloud Blog",
       "category": "Cloud",
       "title": "Data + AI Anywhere: AlloyDB Omni integration with local models",
       "link": "https://cloud.google.com/blog/products/databases/alloydb-omni-integration-with-local-models/",
+      "published": "2026-11-23T17:00:00+00:00"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "category": "Cloud",
+      "title": "Google is named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for SIEM",
+      "link": "https://cloud.google.com/blog/products/identity-security/google-is-named-a-leader-in-the-2026-gartner-magic-quadrant-for-siem/",
       "published": "2026-11-23T17:00:00+00:00"
     },
     {
@@ -80,6 +115,30 @@
     }
   ],
   "devsecops": [
+    {
+      "source": "CISA KEV",
+      "category": "Actively Exploited",
+      "title": "CVE-2026-132224 \u2014 Optimizely Web Experimentation: Optimizely Web Experimentation External Control of Critical State Data Vulnerability",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132224",
+      "published": "2026-11-24T12:00:00+00:00",
+      "date_only": true
+    },
+    {
+      "source": "CISA KEV",
+      "category": "Actively Exploited",
+      "title": "CVE-2026-131914 \u2014 Idunno AntiCsrf: Idunno AntiCsrf Deserialization of Untrusted Data Vulnerability",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-131914",
+      "published": "2026-11-24T12:00:00+00:00",
+      "date_only": true
+    },
+    {
+      "source": "CISA KEV",
+      "category": "Actively Exploited",
+      "title": "CVE-2026-132165 \u2014 Drupal Core: Drupal Core Remote Code Execution Vulnerability",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132165",
+      "published": "2026-11-24T12:00:00+00:00",
+      "date_only": true
+    },
     {
       "source": "CISA KEV",
       "category": "Actively Exploited",
@@ -167,6 +226,69 @@
       "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115731",
       "published": "2026-11-17T12:00:00+00:00",
       "date_only": true
+    },
+    {
+      "source": "OpenSSF",
+      "category": "Supply Chain",
+      "title": "Establishing the OpenSSF Japan Working Group: Connecting Japan with the Global Community \u548c\u8a33\u65e5\u672c\u3068\u30b0\u30ed\u30fc\u30d0\u30eb\u3092\u3064\u306a\u3050OpenSSF Japan Working Group\u306e\u8a2d\u7acb",
+      "link": "https://openssf.org/blog/2026/11/24/establishing-the-openssf-japan-working-group-connecting-japan-with-the-global-community-%e5%92%8c%e8%a8%b3%e6%97%a5%e6%9c%ac%e3%81%a8%e3%82%b0%e3%83%ad%e3%83%bc%e3%83%90%e3%83%ab%e3%82%92%e3%81%a4/",
+      "published": "2026-11-24T19:38:09+00:00"
+    },
+    {
+      "source": "OpenSSF",
+      "category": "Supply Chain",
+      "title": "Just Launched: Finding and Fixing Vulnerabilities Using AI (LFD126)",
+      "link": "https://openssf.org/blog/2026/11/24/just-launched-finding-and-fixing-vulnerabilities-using-ai-lfd126/",
+      "published": "2026-11-24T16:30:54+00:00"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation",
+      "link": "https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html",
+      "published": "2026-11-24T18:58:26+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
+      "link": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
+      "published": "2026-11-24T18:12:09+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Google Researcher Shows How a Single Bit Change in .NET Files Bypassed Windows Code Integrity",
+      "link": "https://thehackernews.com/2026/11/google-researcher-shows-how-single-bit.html",
+      "published": "2026-11-24T17:32:00+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Microsoft Fixes Azure API Management Classic Flaw as Actor Targets Customer Secrets",
+      "link": "https://thehackernews.com/2026/11/microsoft-fixes-azure-api-management.html",
+      "published": "2026-11-24T16:14:49+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "WHMCS SQL Injection Could Expose Customer Data and Admin Password Hashes without Login",
+      "link": "https://thehackernews.com/2026/11/whmcs-sql-injection-flaw-could-expose.html",
+      "published": "2026-11-24T14:04:20+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Hackers Exploit N-able MailAssure Flaw While AI Agents Exploit MONAI Label Zero-Day",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-n-able-mailassure-flaw.html",
+      "published": "2026-11-24T11:32:45+05:30"
+    },
+    {
+      "source": "Snyk",
+      "category": "AppSec",
+      "title": "Evo Agentic Development Security and Evo Dependency Firewall Inside NVIDIA OpenShell",
+      "link": "https://snyk.io/blog/secure-ai-coding-agents-nvidia-openshell/",
+      "published": "2026-11-24T04:00:00+00:00"
     },
     {
       "source": "Aqua Security",
