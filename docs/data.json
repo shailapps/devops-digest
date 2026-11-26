@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-11-25T20:21:35.933347+00:00",
+  "generated_at": "2026-11-26T19:58:11.816907+00:00",
   "devops": [
+    {
+      "source": "Azure Updates",
+      "category": "Cloud",
+      "title": "[In preview] Public Preview: ECMP Nexthop",
+      "link": "https://azure.microsoft.com/updates?id=582326",
+      "published": "2026-11-25T23:14:20+00:00"
+    },
+    {
+      "source": "Azure Updates",
+      "category": "Cloud",
+      "title": "Retirement: Support for Java 8, 11 and 17 in Azure Functions ends on September 1, 2027",
+      "link": "https://azure.microsoft.com/updates?id=568586",
+      "published": "2026-11-25T21:53:30+00:00"
+    },
     {
       "source": "Docker Blog",
       "category": "Cloud Native",
@@ -14,83 +28,6 @@
       "title": "\ud83d\ude80 The story behind \u201cDrone 2\u201d: My KubeCon + CloudNativeCon North America 2026 keynote",
       "link": "https://www.cncf.io/blog/2026/11/25/%f0%9f%9a%80-the-story-behind-drone-2-my-kubecon-cloudnativecon-north-america-2026-keynote/",
       "published": "2026-11-25T12:30:00+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "[Launched] Generally Available: Azure Site Recovery support for zonal disaster recovery for Ultra disks",
-      "link": "https://azure.microsoft.com/updates?id=582171",
-      "published": "2026-11-24T17:48:22+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Built for trust and control: Powering the next wave of AI agents across Google Workspace and Google Cloud",
-      "link": "https://cloud.google.com/blog/products/identity-security/deploying-agents-safely-in-your-enterprise/",
-      "published": "2026-11-24T17:00:00+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "[In preview] Public Preview: Optimize agents from insights in Foundry Agent Service",
-      "link": "https://azure.microsoft.com/updates?id=581483",
-      "published": "2026-11-24T16:52:07+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "[In preview] Public Preview: Govern MCP tools with your own gateway in Microsoft Foundry Agent Service",
-      "link": "https://azure.microsoft.com/updates?id=581498",
-      "published": "2026-11-24T16:50:47+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "[Launched] Generally Available: Use Azure Storage permissions in Azure AI Search and Foundry IQ",
-      "link": "https://azure.microsoft.com/updates?id=581303",
-      "published": "2026-11-24T16:49:39+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "[In preview] Public Preview: Native A2A passthrough for hosted agents in Foundry Agent Service",
-      "link": "https://azure.microsoft.com/updates?id=581313",
-      "published": "2026-11-24T16:48:25+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "[In preview] Public Preview: Azure Developer CLI extension for Azure Document Intelligence and Content Understanding in Foundry Tools",
-      "link": "https://azure.microsoft.com/updates?id=581318",
-      "published": "2026-11-24T16:45:59+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "[In preview] Public Preview: Cost controls for model and agent spending in Microsoft Foundry",
-      "link": "https://azure.microsoft.com/updates?id=581323",
-      "published": "2026-11-24T16:43:40+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "[In preview] Public Preview: Central governance of hosted-agent outbound domains in Foundry Agent Service",
-      "link": "https://azure.microsoft.com/updates?id=581328",
-      "published": "2026-11-24T16:42:20+00:00"
-    },
-    {
-      "source": "AWS Blog",
-      "category": "Cloud",
-      "title": "AWS Weekly Roundup: Local Zone in Bogot\u00e1, 30-minute Lambda timeout, and more (November 24, 2026)",
-      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-local-zone-in-bogota-30-minute-lambda-timeout-and-more-november-24-2026/",
-      "published": "2026-11-24T15:39:59+00:00"
-    },
-    {
-      "source": "Google Cloud Blog",
-      "category": "Cloud",
-      "title": "Enabling zero trust: ALLEN\u2019s move to Chrome Enterprise Premium",
-      "link": "https://cloud.google.com/blog/products/chrome-enterprise/enabling-zero-trust-allens-move-to-chrome-enterprise-premium/",
-      "published": "2026-11-24T15:02:00+00:00"
     }
   ],
   "devsecops": [
@@ -247,36 +184,32 @@
       "date_only": true
     },
     {
-      "source": "CISA KEV",
-      "category": "Actively Exploited",
-      "title": "CVE-2024-10441 \u2014 Synology DiskStation Manager (DSM): Synology DiskStation Manager (DSM) Improper Encoding or Escaping of Output Vulnerability \u00b7 used in ransomware",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2024-10441",
-      "published": "2026-11-18T12:00:00+00:00",
-      "date_only": true
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware",
+      "link": "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html",
+      "published": "2026-11-26T20:43:41+05:30"
     },
     {
-      "source": "CISA KEV",
-      "category": "Actively Exploited",
-      "title": "CVE-2026-40217 \u2014 BerriAI LiteLLM: BerriAI LiteLLM Unprotected Alternate Channel Vulnerability",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-40217",
-      "published": "2026-11-18T12:00:00+00:00",
-      "date_only": true
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach",
+      "link": "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html",
+      "published": "2026-11-26T16:27:25+05:30"
     },
     {
-      "source": "CISA KEV",
-      "category": "Actively Exploited",
-      "title": "CVE-2026-90817 \u2014 Vanderbilt University Research Electronic Data Capture (REDCap): Vanderbilt University Research Electronic Data Capture (REDCap) Code Injection Vulnerability",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90817",
-      "published": "2026-11-18T12:00:00+00:00",
-      "date_only": true
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation",
+      "link": "https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html",
+      "published": "2026-11-26T12:32:34+05:30"
     },
     {
-      "source": "CISA KEV",
-      "category": "Actively Exploited",
-      "title": "CVE-2026-90436 \u2014 Apache Axis: Apache Axis Unsafe Reflection Vulnerability",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90436",
-      "published": "2026-11-18T12:00:00+00:00",
-      "date_only": true
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Hackers Exploit 10 Vulnerabilities Across Mitel, Juniper, Vates, and Danfoss Products",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html",
+      "published": "2026-11-26T12:14:46+05:30"
     },
     {
       "source": "The Hacker News",
@@ -312,69 +245,6 @@
       "title": "How \u201cdon\u2019t ask again\u201d in Claude Code leaks secrets on GitHub: The click that keeps on giving",
       "link": "https://webflow.sysdig.com/blog/how-dont-ask-again-in-claude-code-leaks-secrets-on-github-the-click-that-keeps-on-giving",
       "published": "2026-11-25T00:00:00+00:00"
-    },
-    {
-      "source": "OpenSSF",
-      "category": "Supply Chain",
-      "title": "Establishing the OpenSSF Japan Working Group: Connecting Japan with the Global Community",
-      "link": "https://openssf.org/blog/2026/11/24/establishing-the-openssf-japan-working-group-connecting-japan-with-the-global-community-%e5%92%8c%e8%a8%b3%e6%97%a5%e6%9c%ac%e3%81%a8%e3%82%b0%e3%83%ad%e3%83%bc%e3%83%90%e3%83%ab%e3%82%92%e3%81%a4/",
-      "published": "2026-11-24T19:38:09+00:00"
-    },
-    {
-      "source": "OpenSSF",
-      "category": "Supply Chain",
-      "title": "Just Launched: Finding and Fixing Vulnerabilities Using AI (LFD126)",
-      "link": "https://openssf.org/blog/2026/11/24/just-launched-finding-and-fixing-vulnerabilities-using-ai-lfd126/",
-      "published": "2026-11-24T16:30:54+00:00"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation",
-      "link": "https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html",
-      "published": "2026-11-24T18:58:26+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
-      "link": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
-      "published": "2026-11-24T18:12:09+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Google Researcher Shows How a Single Bit Change in .NET Files Bypassed Windows Code Integrity",
-      "link": "https://thehackernews.com/2026/11/google-researcher-shows-how-single-bit.html",
-      "published": "2026-11-24T17:32:00+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Microsoft Fixes Azure API Management Classic Flaw as Actor Targets Customer Secrets",
-      "link": "https://thehackernews.com/2026/11/microsoft-fixes-azure-api-management.html",
-      "published": "2026-11-24T16:14:49+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "WHMCS SQL Injection Could Expose Customer Data and Admin Password Hashes without Login",
-      "link": "https://thehackernews.com/2026/11/whmcs-sql-injection-flaw-could-expose.html",
-      "published": "2026-11-24T14:04:20+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Hackers Exploit N-able MailAssure Flaw While AI Agents Exploit MONAI Label Zero-Day",
-      "link": "https://thehackernews.com/2026/11/hackers-exploit-n-able-mailassure-flaw.html",
-      "published": "2026-11-24T11:32:45+05:30"
-    },
-    {
-      "source": "Snyk",
-      "category": "AppSec",
-      "title": "Evo Agentic Development Security and Evo Dependency Firewall Inside NVIDIA OpenShell",
-      "link": "https://snyk.io/blog/secure-ai-coding-agents-nvidia-openshell/",
-      "published": "2026-11-24T04:00:00+00:00"
     }
   ],
   "meetups": [],
