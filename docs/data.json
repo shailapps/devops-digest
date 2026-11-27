@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T19:58:11.816907+00:00",
+  "generated_at": "2026-11-27T19:47:11.850821+00:00",
   "devops": [
     {
       "source": "Azure Updates",
@@ -14,23 +14,33 @@
       "title": "Retirement: Support for Java 8, 11 and 17 in Azure Functions ends on September 1, 2027",
       "link": "https://azure.microsoft.com/updates?id=568586",
       "published": "2026-11-25T21:53:30+00:00"
-    },
-    {
-      "source": "Docker Blog",
-      "category": "Cloud Native",
-      "title": "Prove your AI agent guardrails work",
-      "link": "https://www.docker.com/blog/prove-your-ai-agent-guardrails-work/",
-      "published": "2026-11-25T16:57:00+00:00"
-    },
-    {
-      "source": "CNCF Blog",
-      "category": "Cloud Native",
-      "title": "\ud83d\ude80 The story behind \u201cDrone 2\u201d: My KubeCon + CloudNativeCon North America 2026 keynote",
-      "link": "https://www.cncf.io/blog/2026/11/25/%f0%9f%9a%80-the-story-behind-drone-2-my-kubecon-cloudnativecon-north-america-2026-keynote/",
-      "published": "2026-11-25T12:30:00+00:00"
     }
   ],
   "devsecops": [
+    {
+      "source": "CISA KEV",
+      "category": "Actively Exploited",
+      "title": "CVE-2026-120705 \u2014 OSGeo GeoServer: OSGeo GeoServer XML Injection Vulnerability",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-120705",
+      "published": "2026-11-27T12:00:00+00:00",
+      "date_only": true
+    },
+    {
+      "source": "CISA KEV",
+      "category": "Actively Exploited",
+      "title": "CVE-2026-129243 \u2014 OSGeo GeoServer: OSGeo GeoServer Incorrect Authorization Vulnerability",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-129243",
+      "published": "2026-11-27T12:00:00+00:00",
+      "date_only": true
+    },
+    {
+      "source": "CISA KEV",
+      "category": "Actively Exploited",
+      "title": "CVE-2026-136716 \u2014 Drupal Core: Drupal Core Improper Check for Unusual or Exceptional Conditions Vulnerability",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-136716",
+      "published": "2026-11-27T12:00:00+00:00",
+      "date_only": true
+    },
     {
       "source": "CISA KEV",
       "category": "Actively Exploited",
@@ -186,6 +196,20 @@
     {
       "source": "The Hacker News",
       "category": "Threats",
+      "title": "Hackers Trojanize Official Q-Dir and DesktopOK Downloads to Deliver Remote Access Malware",
+      "link": "https://thehackernews.com/2026/11/hackers-trojanize-official-q-dir-and.html",
+      "published": "2026-11-27T14:59:30+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "Unpatched Cacti Zero-Day Enables RCE in Just Four HTTP Requests via Guest Access",
+      "link": "https://thehackernews.com/2026/11/unpatched-cacti-zero-day-enables-rce-in.html",
+      "published": "2026-11-27T11:18:20+05:30"
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Threats",
       "title": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware",
       "link": "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html",
       "published": "2026-11-26T20:43:41+05:30"
@@ -210,41 +234,6 @@
       "title": "Hackers Exploit 10 Vulnerabilities Across Mitel, Juniper, Vates, and Danfoss Products",
       "link": "https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html",
       "published": "2026-11-26T12:14:46+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
-      "link": "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html",
-      "published": "2026-11-25T18:18:54+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Credential Remediation Is Slow When You Don\u2019t Know What Will Break",
-      "link": "https://thehackernews.com/2026/11/credential-remediation-is-slow-when-you.html",
-      "published": "2026-11-25T17:21:48+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Drupal Fail2Install Exploit Details Emerge as Critical RCE Flaw Faces Active Exploitation",
-      "link": "https://thehackernews.com/2026/11/drupal-fail2install-exploit-details.html",
-      "published": "2026-11-25T16:53:26+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Com-Affiliated Hackers Hijack Cloud Accounts via Vishing for Data Theft and Extortion",
-      "link": "https://thehackernews.com/2026/11/com-affiliated-hackers-hijack-cloud.html",
-      "published": "2026-11-25T12:07:06+05:30"
-    },
-    {
-      "source": "Sysdig",
-      "category": "Cloud & Container",
-      "title": "How \u201cdon\u2019t ask again\u201d in Claude Code leaks secrets on GitHub: The click that keeps on giving",
-      "link": "https://webflow.sysdig.com/blog/how-dont-ask-again-in-claude-code-leaks-secrets-on-github-the-click-that-keeps-on-giving",
-      "published": "2026-11-25T00:00:00+00:00"
     }
   ],
   "meetups": [],
