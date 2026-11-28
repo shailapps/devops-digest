@@ -1,21 +1,6 @@
 {
-  "generated_at": "2026-11-27T19:47:11.850821+00:00",
-  "devops": [
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "[In preview] Public Preview: ECMP Nexthop",
-      "link": "https://azure.microsoft.com/updates?id=582326",
-      "published": "2026-11-25T23:14:20+00:00"
-    },
-    {
-      "source": "Azure Updates",
-      "category": "Cloud",
-      "title": "Retirement: Support for Java 8, 11 and 17 in Azure Functions ends on September 1, 2027",
-      "link": "https://azure.microsoft.com/updates?id=568586",
-      "published": "2026-11-25T21:53:30+00:00"
-    }
-  ],
+  "generated_at": "2026-11-28T18:39:59.759940+00:00",
+  "devops": [],
   "devsecops": [
     {
       "source": "CISA KEV",
@@ -162,36 +147,11 @@
       "date_only": true
     },
     {
-      "source": "CISA KEV",
-      "category": "Actively Exploited",
-      "title": "CVE-2026-129448 \u2014 Apache Roller: Apache Roller Deserialization of Untrusted Data Vulnerability",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-129448",
-      "published": "2026-11-20T12:00:00+00:00",
-      "date_only": true
-    },
-    {
-      "source": "CISA KEV",
-      "category": "Actively Exploited",
-      "title": "CVE-2026-123890 \u2014 Broadcom VMware vCenter: VMWare vCenter Authentication Bypass Using an Alternate Path or Channel Vulnerability",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-123890",
-      "published": "2026-11-20T12:00:00+00:00",
-      "date_only": true
-    },
-    {
-      "source": "CISA KEV",
-      "category": "Actively Exploited",
-      "title": "CVE-2025-42884 \u2014 SAP NetWeaver: SAP NetWeaver Improper Neutralization of Special Elements in Data Query Logic Vulnerability",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2025-42884",
-      "published": "2026-11-20T12:00:00+00:00",
-      "date_only": true
-    },
-    {
-      "source": "CISA KEV",
-      "category": "Actively Exploited",
-      "title": "CVE-2026-76466 \u2014 Cisco Expressway Series: Cisco Expressway Series Use of Hard-coded Credentials Vulnerability",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-76466",
-      "published": "2026-11-20T12:00:00+00:00",
-      "date_only": true
+      "source": "The Hacker News",
+      "category": "Threats",
+      "title": "pCloud Password Manager Hit by Cyber Attack Involving Email Address Exposure and Login Attempts",
+      "link": "https://thehackernews.com/2026/11/pcloud-password-manager-hit-by-cyber.html",
+      "published": "2026-11-28T13:38:11+05:30"
     },
     {
       "source": "The Hacker News",
@@ -206,34 +166,6 @@
       "title": "Unpatched Cacti Zero-Day Enables RCE in Just Four HTTP Requests via Guest Access",
       "link": "https://thehackernews.com/2026/11/unpatched-cacti-zero-day-enables-rce-in.html",
       "published": "2026-11-27T11:18:20+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware",
-      "link": "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html",
-      "published": "2026-11-26T20:43:41+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach",
-      "link": "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html",
-      "published": "2026-11-26T16:27:25+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation",
-      "link": "https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html",
-      "published": "2026-11-26T12:32:34+05:30"
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Threats",
-      "title": "Hackers Exploit 10 Vulnerabilities Across Mitel, Juniper, Vates, and Danfoss Products",
-      "link": "https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html",
-      "published": "2026-11-26T12:14:46+05:30"
     }
   ],
   "meetups": [],
